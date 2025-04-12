@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="119-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n18579"><!--ntheol-l5c3-->
+            <head xml:id="nbnt23-n18579-Hd1e97">Caput 3</head>
+            <head xml:id="nbnt23-n18579-Hd1e99" type="question-title">
+      De variis in primo motore productionibus
+    </head>
+            <p xml:id="nbnt23-n18579-d1e102">
+               <lb ed="#V" n="91"/>¶ De variis in primo motore productionibus. Cap. III 
+    </p>
+            <p xml:id="nbnt23-n18579-d1e107">
+               <lb ed="#V" n="92"/>Ad pluralitatem autem productio 
+      <lb ed="#V" n="93"/>num: sicut etiam 
+      <lb ed="#V" n="94"/>suppositorum attendamus quot sunt: et an sint 
+      plu<lb ed="#V" n="95" break="no"/>res ibi productiones quam 2e actiue et 2oe pasiue: 
+      <lb ed="#V" n="96"/>et pliclia producta quam 2o et pica supposita quam tria. 
+    </p>
+            <p xml:id="nbnt23-n18579-d1e120">
+               <lb ed="#V" n="97"/>¶ prima ergo conlusio sit talis. primus motor vel intellectus primi 
+      mo<lb ed="#V" n="98" break="no"/>toris plura verba producit relligentia obiecti distincti. hec probat: 
+      <lb ed="#V" n="99"/>quonmam ista verba sunt distincta. quorum vnum potest manere 
+      <lb ed="#V" n="100"/>in intellectu primi motoris. vt hoc verbum quod homo est animal: et non 
+      <lb ed="#V" n="101"/>hoc quod homo existit in tali nuc: quoniam illud potest non 
+      existe<lb ed="#V" n="102" break="no"/>re. ergo hoc verbum et istud non sunt idem. 2o quia verbum productu 
+      <lb ed="#V" n="103"/>necessario et continus non sunt idem: sed intellectus primi motoris ne¬ o 
+      <lb ed="#V" n="104"/>cessario format et producit seu dicit verbum de termins 
+      <lb ed="#V" n="105"/>simbus vt de quiditate rose et floris: sed continitus format et 
+      <lb ed="#V" n="106"/>dicit verbum de complone continsenti. vae. quod nauale bellu erit 
+      <lb ed="#V" n="107"/>cras: quoniam continuitus erit. ergo etc.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e147">
+      ¶ Conbus sic. verba obiectorum 
+      suc<lb ed="#V" n="108" break="no"/>cessiue cognitorum necessario sunt distincta realiter: et etiam 
+      eius<lb ed="#V" n="109" break="no"/>dem obiecti suecesiue cogniti: sed intellectus primi motoris potest 
+      in<lb ed="#V" n="110" break="no"/>telligere succestiue plicltia vnum post aliud: et idem pluribus 
+      <lb ed="#V" n="111"/>actibus succesiue. vt patet de complectionibus contingularus: et de complectone 
+      <lb ed="#V" n="112"/>affirtia et negatia et de eisdem termins: vt quod nauale 
+      bellu<lb ed="#V" n="113" break="no"/>erit cras. et quod nauale bellum non erit cras: quoniam sicut 
+      <lb ed="#V" n="114"/>quilibet pars continitus potest euenire: ita continius pot cognosci: vel 
+      <lb ed="#V" n="115"/>erit opposito. et per consequens plica verba possunt formari. Dicamus 
+      <lb ed="#V" n="116"/>ergo quod intellectus permi motoris habet ples dictiones 
+      acti<lb ed="#V" n="117" break="no"/>uas inferentes plicales passiuas respectum plurium obiectorum 
+      di<lb ed="#V" n="118" break="no"/>stinctorum et per consequens potest formare plura verba.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e173">
+      ¶ 2a conlue 
+      <lb ed="#V" n="119"/>sit talis: quod est dare verbum verbi effectiue. hoc probis. quoniam 
+      <lb ed="#V" n="120"/>verbum productum a primo motore: cum sit foris intelligens 
+      <lb ed="#V" n="121"/>obiectum distinctum a se: S icut primum suppotum formare 
+      po<lb ed="#V" n="122" break="no"/>test verbum de rosa et de quacumque alio obiecto distincto: et si 
+      <lb ed="#V" n="123"/>sic erit verbum verbi effectiue.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e186">
+      ¶ Conis. quia actiones 
+      <lb ed="#V" n="124"/>reales ad extra sunt communes omnibus suppositis: in quibus 
+      <lb ed="#V" n="125"/>formiea existit na primi motoris. ergo productiones et 
+      intelle<lb ed="#V" n="126" break="no"/>ctiones: quemadmoitum sunt dicere et dici et formaio ver. 
+      <lb ed="#V" n="127"/>bi obiecti distincti. est eta verbum verbi priuatiue: 
+      immo<lb ed="#V" n="128" break="no"/>verbum verborum immo quasi infinitorum: quia omnium 
+      obiecto<lb ed="#V" n="129" break="no"/>rum distinctorum a se.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e202">
+      ¶ 2a conclusio est talis: quod est dare 
+      ver<lb ed="#V" n="130" break="no"/>bum verbi terminatiue. sic intellectndo quod de verbo 
+      <lb ed="#V" n="131"/>tamquam de obiecto potest formari verbum aliud: et sicut 
+      vnu<lb ed="#V" n="132" break="no"/>verbum est terminus alterius verbi: ficut obm eit
+      <pb ed="#V" n="120-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>terminus et terminat noum et verbum consequens illam notitiam. 
+      <lb ed="#V" n="2"/>hoc probatur: quoniam verbum cadit sub primo obiecto 
+      intelle<lb ed="#V" n="3" break="no"/>ctus scilicet sub ente. ergo intelligibile. et per consequens de ipso potest 
+      <lb ed="#V" n="4"/>formari verbum.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e224">
+      ¶ Habet autem dubitationem primo quid sit verbum 
+      <lb ed="#V" n="5"/>cum tot verba fiant de verbo. 2o de distinctione verborum specifica 
+      <lb ed="#V" n="6"/>numerali inter se. 3o de naturali notitia verbi.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e231">
+      ¶ Dissolutio primi 
+      <lb ed="#V" n="7"/>stat in hoc: quoniam per verbum non intelligo aliquod idolum. Nec 
+      <lb ed="#V" n="8"/>aliquam formam exemplarem productam per actum dicendi: quia 
+      <lb ed="#V" n="9"/>vt immediate supradictum fuit: talis forma specuctirie non est 
+      <lb ed="#V" n="10"/>ponenda. Et si poneretur non esset verbum: quoniam verbum videtur essen 
+      <lb ed="#V" n="11"/>tialiter et in primo modo includere relieitum ad verbantem. 
+      hec<lb ed="#V" n="12" break="no"/>autem forma specularis est quodam ens absolnatum: nec releationem 
+      <lb ed="#V" n="13"/>includit essentialiter: licet eam forte terminet vel 
+      fun<lb ed="#V" n="14" break="no"/>det.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e252">
+      ¶ Adhuc autem non intelligo esse istam noum absoilitaum 
+      ea<lb ed="#V" n="15" break="no"/>dem ratione. Nec intelligo verbum praecise actum dicendi. et ratio 
+      hu<lb ed="#V" n="16" break="no"/>ius dicti est ista: quoniam verbum non est praecise relentia: sed necessario 
+      <lb ed="#V" n="17"/>est aliquid excepta relatione.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e261">
+      ¶ Palam ergo quod verbum est 
+      ali<lb ed="#V" n="18" break="no"/>quid constitutum ex respectu ad verbantem et quodam 
+      alio<lb ed="#V" n="19" break="no"/>abluto. et per consequens ex dictione passiua et notitia producta per talem 
+      <lb ed="#V" n="20"/>productionem passiuam: ex quibus duobus consurgit et 
+      resul<lb ed="#V" n="21" break="no"/>tat ipsum verbum: quod non est vnum per se perseitate primi 
+      mo<lb ed="#V" n="22" break="no"/>di: cum includat reliectua diuersorum generum. Uel opte quod ver 
+      <lb ed="#V" n="23"/>bum sit aliquid constitutum ex dictione pasiua seu ex 
+      conce<lb ed="#V" n="24" break="no"/>ptimone passiua: et ex obiecto quod attingniceao: et sic ratio verbi resuli 
+      <lb ed="#V" n="25"/>tat ex istis duobus scilicet ex concipi et obiecto. hoc enim verbum 
+      vo<lb ed="#V" n="26" break="no"/>catur et proles mentis.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e283">
+      ¶ Sed si adhuc queras quid 
+      <lb ed="#V" n="27"/>sit verius dictum: vel quod verbum sit quid constitutum ex 
+      produ<lb ed="#V" n="28" break="no"/>ctione passiua et notitia ista absoluta: que est terminus eius 
+      <lb ed="#V" n="29"/>vel ex concipi et obiecto.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e292">
+      ¶ Respondeo tibi eligas quem 
+      vo<lb ed="#V" n="30" break="no"/>lueris de istis duobus modis. Et breviter si teneas 
+      se<lb ed="#V" n="31" break="no"/>cundam viam probandi emanationem in primo 
+      motore<lb ed="#V" n="32" break="no"/>tunc consequenter dicas quod verbum est aliquid constitutum ex 
+      produ<lb ed="#V" n="33" break="no"/>ctione passiua notitiae absolicte et ex ista notitia. si autem dicas et 
+      te<lb ed="#V" n="34" break="no"/>neas 3m viam. tunc habes consequenter dicere quod verbum constituitur 
+      <lb ed="#V" n="35"/>ex conceptione passiua et ex obiecto quod concipitur 3a autem via 
+      <lb ed="#V" n="36"/>videtrmagis eligibilis.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e310">
+      ¶ Dissolutio autem aliorum dubitato 
+      <lb ed="#V" n="37"/>rum de distinctione verbi et notitia naturali verbi sit talis. Pro 
+      dis<lb ed="#V" n="38" break="no"/>solutione primi scilicet distingitue verborum ponitur talis propositio. 
+      obie<lb ed="#V" n="39" break="no"/>ctorum solum numero distinctorum verba distincta sunt specie hoc 
+      pro<lb ed="#V" n="40" break="no"/>batur: quoniam consequenter verba eiusdem obiecti inter se et minus 
+      <lb ed="#V" n="41"/>distinguuntur quam verba obiectorum distinctorum numero sed ista 
+      <lb ed="#V" n="42"/>verba distinguuntur numero: vt verba que habeo 
+      succe<lb ed="#V" n="43" break="no"/>siue de eadem rosa hoc ego et tu formamus de eadem 
+      <lb ed="#V" n="44"/>rosa: necessario sunt distincta numero. ergo et verba que 
+      <lb ed="#V" n="45"/>habeo ex duabus rosis sunt distincta specie: quoniam plus 
+      <lb ed="#V" n="46"/>distinitus quam alia. alia autem distinguiter numero. ergo ista plus 
+      di<lb ed="#V" n="47" break="no"/>stinguuntur: et per consequens distinitus specie.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e336">
+      ¶ Conites. quoniam verba 
+      <lb ed="#V" n="48"/>eiusdem obiecti vel que formantur ab eodem obiecto 
+      depen<lb ed="#V" n="49" break="no"/>dent et mensurantur ab eodem. alia autem non: immo 
+      mensu<lb ed="#V" n="50" break="no"/>rantur a diuersis.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e346">
+      ¶ Propositio 2a sit talis. verba 
+      <lb ed="#V" n="51"/>obiectorum distinctorum genere non distinguitur genere: quia non 
+      <lb ed="#V" n="52"/>opte quod sit tanta disto in exemplaribus quanta est in exempla 
+      <lb ed="#V" n="53"/>tis: nec in notitis quanta est in obiectis: quia omnes 
+      noti<lb ed="#V" n="54" break="no"/>tie sunt de prima specie qualitatis: sed obiecta notitiae reperium 
+      <lb ed="#V" n="55"/>tur in omnibus praedicamentis.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e359">
+      ¶ Pro dissolutione autem 
+      <lb ed="#V" n="56"/>vltimi dubii scilicet de notitia natuali verbi respectum obiecti 
+      <lb ed="#V" n="57"/>distincti siue in primo motoresiue in aliis siue in 
+      no<lb ed="#V" n="58" break="no"/>bis ponende sunt alique propotiones.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e368">
+      ¶ Prima sit 
+      ta<lb ed="#V" n="59" break="no"/>lis. Ex puris naturalibus pot formari verbum verbi 
+      crea<lb ed="#V" n="60" break="no"/>ture et effectiue et obiectiue: sic quod illud verbum 
+      forma<lb ed="#V" n="61" break="no"/>tum de verbo habet creaturam pro producente et obiecto 
+      terminan<lb ed="#V" n="62" break="no"/>te. Uel vt melius dicatur quod verbum illud de quo 
+      for<lb ed="#V" n="63" break="no"/>matur aliud verbum sit formatum ab intellectum creato 
+      <lb ed="#V" n="64"/>et sit formatum ab obiecto creato vt verbum rose forma 
+      <lb ed="#V" n="65"/>tum in intellectum tuo. hec propositio sic intellecta. proba¬
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>tur sic: ex puris naualibus potest cognosci funamntuam ergo respe et 
+      <lb ed="#V" n="67"/>ctus scilicet ipsa verbatio: passiua: que est ipsum formale consti 
+      per<lb ed="#V" n="68" break="no"/>tutiuum verbi.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e394">
+      ¶ 2a propositio sit talis. ex puris natualibus 
+      po<lb ed="#V" n="69" break="no"/>test formari verbum verbi creature effectiue: et primit: i 
+      <lb ed="#V" n="70"/>motoris obiectiue: quoniam tale est vere ens limitatum et 
+      <lb ed="#V" n="71"/>creatum: et cadit sub per se obiecto intellectus nostri.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e403">
+      ¶ Et si 
+      <lb ed="#V" n="72"/>arguas quod cum tale verbum formatum de primo dicat relea 
+      <lb ed="#V" n="73"/>ad primum motorem vel per se includit primum motorem cum 
+      <lb ed="#V" n="74"/>constitutum ex conceptione passiua qua concipitur primus 
+      motor<lb ed="#V" n="75" break="no"/>et ex ipso primo motore. primus autem motor que est termi 
+      <lb ed="#V" n="76"/>nus istius respectus non potest ex puris naturalibus videri. et 
+      <lb ed="#V" n="77"/>nec de verbo eius poterit aliud verbum formari.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e419">
+      ¶ Respondetur 
+      <lb ed="#V" n="78"/>tibi quod non habeo pro inconuenienti quod productio passiua pos¬ 
+      pr<lb ed="#V" n="79" break="no"/>sit esse: et videri absque hoc quod eius terminus videatur. at 
+      <lb ed="#V" n="80"/>Et pono tibi exemplum de motione passiua: quoniam aliquod 
+      <lb ed="#V" n="81"/>mosie mouetur sine acquisitione cuiuscumque vbi. vt patet in 
+      <lb ed="#V" n="82"/>vacuo. illa autem est sine termino vt sine vbi ita potest 
+      <lb ed="#V" n="83"/>videri sine v. ergo similiter et conceptio ista passiua qua 
+      <lb ed="#V" n="84"/>primus motor concipitur poterit videri sine eo quod 
+      conci<lb ed="#V" n="85" break="no"/>piatur: et sic poterit formari verbum de ista conceptione 
+      <lb ed="#V" n="86"/>pasiua: et sic erit verbum verbi.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e442">
+      ¶ 3a propositio sit talis. ex puris 
+      <lb ed="#V" n="87"/>naturalibus potest fofrenari verbum verbi effecitiue et creature termina 
+      <lb ed="#V" n="88"/>tiue. hoc probatur: quoniam si potest naturaliter videri respectus 
+      <lb ed="#V" n="89"/>fine termino: sicut dicit 2a propositio. ergo et sine fundamento et 
+      <lb ed="#V" n="90"/>si conceptio passiua constitiua verbi potest videri sine termino 
+      <lb ed="#V" n="91"/>et sine eo quod concipitur: ergo et conceptio actiua poterit 
+      vide<lb ed="#V" n="92" break="no"/>ri: immo et passiua absque eo quod concipitur. non autem negatur 
+      <lb ed="#V" n="93"/>quod de verbo formato a primo motore: nisi videatur 
+      pri<lb ed="#V" n="94" break="no"/>mus motor quod non est necessarium. vt dictum est.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e462">
+      ¶ 4a propositio 
+      <lb ed="#V" n="95"/>sit talis. non potest ex puris naturalibus formari verbum 
+      <lb ed="#V" n="96"/>verbi primi motoris productione terminatiue. hoc 
+      pro<lb ed="#V" n="97" break="no"/>batur: quoniam conceptio passiua talis verbi increati et 
+      infi<lb ed="#V" n="98" break="no"/>niti non est naturaliter cognita seu visa. hec tamen propositio a 
+      no<lb ed="#V" n="99" break="no"/>stris progenitoribus negaretur: quoniam ponunt quod 2o 
+      intelli<lb ed="#V" n="100" break="no"/>gentia format verbum verbi de prima: et hoc naturaliter 
+      <lb ed="#V" n="101"/>cum prima moueat eam naturaliter vt amata et desidera 
+      <lb ed="#V" n="102"/>ta et intellecta: quicquid tamen sit de philosophis negatiuam tibi 
+      <lb ed="#V" n="103"/>trado.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e484">
+      ¶ Ad propositum ergo reuertentes perscrutemur: 
+      <lb ed="#V" n="104"/>an in primo motore sint plures motiones quam due 
+      acti<lb ed="#V" n="105" break="no"/>ue et due passiue et 2o producta et 3a supposita. hoc enim 
+      <lb ed="#V" n="106"/>erat specialiter inquirendum. sit prima conclusio talis: que inititur 
+      <lb ed="#V" n="107"/>prime vie de modo ponendi productionem aliquam esse in 
+      <lb ed="#V" n="108"/>primo motore ad intra: non habet ponere nisi vnicam 
+      pro<lb ed="#V" n="109" break="no"/>ductionem. vnica dico actiuam et passiuam. hoc probatur. 
+      <lb ed="#V" n="110"/>ibi namque dictum est quod idem fundamentaliter generat se: licet 
+      <lb ed="#V" n="111"/>non formite: et hoc etiam est reperibile in creaturis: quod 
+      iden<lb ed="#V" n="112" break="no"/>conseruat se et generat se. ergo et in intelligentis vt 
+      <lb ed="#V" n="113"/>habet intelligentia: sicut motor infert quandam 
+      productio<lb ed="#V" n="114" break="no"/>nem actiuam et illam productionem passiuam: que habet pro per 
+      se<lb ed="#V" n="115" break="no"/>termino quod habuit pro principio scilicet hanc eandem 
+      intelligen<lb ed="#V" n="116" break="no"/>tiam. Palam autem quod stante ista productione non inferium 
+      <lb ed="#V" n="117"/>alia respectu eiusdem termini: non infert nisi vnam 
+      produ<lb ed="#V" n="118" break="no"/>ctionem: et ista stante stat tam ista productio actiua quam 
+      <lb ed="#V" n="119"/>passiua: cum sit necessae esse simpliciter immutabile. ergo non erit 
+      <lb ed="#V" n="120"/>nisi vna productio ibi stando in ista via prima.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e523">
+      ¶ Et 
+      <lb ed="#V" n="121"/>pono tibi exemplum. quando ignis producit calorem in 
+      aqua<lb ed="#V" n="122" break="no"/>si ista producio: caloris semper staret numquam ignis respectum 
+      <lb ed="#V" n="123"/>eiusdem caloris aliam productionem eliceret: sicut illud 
+      <lb ed="#V" n="124"/>album respectu eiusdem termini numquam infert nisi vnam 
+      si<lb ed="#V" n="125" break="no"/>militudinem ista stante. sic in proposito. ergo qui inititur 
+      prie<lb ed="#V" n="126" break="no"/>me vie demonstrandi emanationem suppositorum in 
+      pri<lb ed="#V" n="127" break="no"/>ma intelligentia non habet ibi ponere nisi praecise 2o 
+      suppo<lb ed="#V" n="128" break="no"/>sita vnum producens et aliud productum.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e543">
+      ¶ 2a conclusio sit talis: 
+      <lb ed="#V" n="129"/>que innititur 2ae vie de modo ponendi emanationem 
+      perso<lb ed="#V" n="130" break="no"/>narum in prima intellius necessario habet ibi ponere productione
+      <pb ed="#V" n="120-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>buas actiuas et duas passiuas ad minus. hoc 
+      pro<lb ed="#V" n="2" break="no"/>batur. quoniam vbi sunt duo principia productiua et 
+      <lb ed="#V" n="3"/>duo termini producti essentiale ordinem habentes ibi 
+      ne<lb ed="#V" n="4" break="no"/>cessario sunt plures productiones scilicet 2e actiue et 2ae 
+      passi<lb ed="#V" n="5" break="no"/>ue. sic autem est in primo motore vt in alia 2a fuit dictum scilicet 
+      <lb ed="#V" n="6"/>intellectum et votas: quae sunt 2o prinuiua productiua: et notitiaet 
+      amor<lb ed="#V" n="7" break="no"/>quae sunt 2o termini producti. ergo necessario sunt ibi due 
+      produ<lb ed="#V" n="8" break="no"/>ctiones actiue et 2ae pasiue: et specialiter cum ista prinuitua producti 
+      <lb ed="#V" n="9"/>ua sint alterius rationis et ordins et termini alterius 
+      ratio<lb ed="#V" n="10" break="no"/>nis: quoniam vnus terminus est productus naturaliter et alius libere. 
+    </p>
+            <p xml:id="nbnt23-n18579-d1e576">
+               <lb ed="#V" n="11"/>¶ 3a conclusio sit talis: quae inititur huic vie 2ae de modo positi ema 
+      <lb ed="#V" n="12"/>nationem personarum in prima intelligentia necessario ponit duas 
+      produ<lb ed="#V" n="13" break="no"/>ctiones actiuas et 2s passiuas praecise tantum et non plures: 
+      <lb ed="#V" n="14"/>immo impossibile est quod possint esse pliles quam 2e. probai hoc propositio: 
+      <lb ed="#V" n="15"/>quoniam eiusdem termini producti ad eundem terminum siue 
+      <lb ed="#V" n="16"/>praexistentem siue non praeexistentem non possunt plures esse productiones 
+      si<lb ed="#V" n="17" break="no"/>mul quoniam si ibi est vna: quae semper stat: alia est sibi 
+      incompossi<lb ed="#V" n="18" break="no"/>bilis: sed in primo motore est idem prindictiv scilicet intellectus idem et idem 
+      ter<lb ed="#V" n="19" break="no"/>minus scilicet eadem notitia: quae semper manet. ergo non paesenst esse plisales 
+      pro<lb ed="#V" n="20" break="no"/>ductiones retlietia notitia in primo motore.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e601">
+      ¶ 4oconclusio sit talis: que 
+      <lb ed="#V" n="21"/>innititur 3e vie. de modo posintia emanationem personarum in 
+      pri<lb ed="#V" n="22" break="no"/>ma intelligentia necessario habet ponere duas productiones 
+      acti<lb ed="#V" n="23" break="no"/>uas et duas passiuas. hoc probatur: quoniam intellectus habet necessario 
+      <lb ed="#V" n="24"/>et naturaliter productionem sibi propositaum scilicet productionem obiecti in esse 
+      <lb ed="#V" n="25"/>cognito et voluntas in esse spirato: sed iste productiones 
+      <lb ed="#V" n="26"/>necessario sunt alie et alie. ergo necessarie sunt due ad minus. 
+    </p>
+            <p xml:id="nbnt23-n18579-d1e617">
+               <lb ed="#V" n="27"/>¶ a conclusio sit talis: que inititur 3e vie. necessario habet dicere quod 
+      <lb ed="#V" n="28"/>sunt ibi praecise 2e productiones actiue et 2ae passiue. hec 
+      <lb ed="#V" n="29"/>probatur. sicut prima et 3o: quia eiusdem principii et termini. erg 
+      <lb ed="#V" n="30"/>et productio eadem: supposito quod vna istarum semper 
+      stet<lb ed="#V" n="31" break="no"/>sic est in proposnuito. Manifectum est autem quod intellectus siue 
+      immo<lb ed="#V" n="32" break="no"/>bilis siue in quocumque produtens obiectum in esse cognito 
+      <lb ed="#V" n="33"/>alia productione non producit illud obiectum productione eius 
+      <lb ed="#V" n="34"/>dem modi concipiendi. semper enim videtur quod ide intellectus respectum 
+      <lb ed="#V" n="35"/>eiusdem obiecti eandem notitiam eadem productione producat. 
+    </p>
+            <p xml:id="nbnt23-n18579-d1e639">
+               <lb ed="#V" n="36"/>¶ Et si arguas quod non assignatur praecisa ratio: quia talis 
+      pro<lb ed="#V" n="37" break="no"/>ductio sit omnino implurilius nisi sub conditione: quia 
+      semp<lb ed="#V" n="38" break="no"/>stat. ergo si non semper staret: vt quod potentia posset in aliam: et per 
+      <lb ed="#V" n="39"/>consequens potentia quantum esset de se non est determinata ad ista: et 
+      <lb ed="#V" n="40"/>sic quantum est de se non repugnat quin possint esse pliles. Et 
+      <lb ed="#V" n="41"/>vltra. si paestent esse plures productiones quam 2e necessario sunt 
+      <lb ed="#V" n="42"/>ibi: quoniam quicquid potest inesse est ibi in actu: cum omnia sint 
+      neces<lb ed="#V" n="43" break="no"/>saria: quoniam in perpetuis non differunt esse et posse.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e659">
+      ¶ Respontio 
+      <lb ed="#V" n="44"/>tibi quod ratio est sufficienter assignata: quare no potest 
+      ta<lb ed="#V" n="45" break="no"/>lis productio pluritui: quoniam est eiusdem potentiae respectum 
+      eius<lb ed="#V" n="46" break="no"/>dem termini. Idem autem producens respectu eiusdem rermi 
+      <lb ed="#V" n="47"/>ni producti non potest habere nec simul nec successiue 
+      ni<lb ed="#V" n="48" break="no"/>si vnicam productionem numero.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e672">
+      ¶ Et ideo dicitur posito pir 
+      <lb ed="#V" n="49"/>impossibile quod ista productio non staret: sed magis raptum 
+      <lb ed="#V" n="50"/>transiret: impossibile esset quod potsentiaposset elicere aliam 
+      re<lb ed="#V" n="51" break="no"/>spectu istius eiusdem termini: quoniam absolta positia est simpliciter 
+      <lb ed="#V" n="52"/>determinata ad vnam productionem tantum retlientia vnius 
+      termi<lb ed="#V" n="53" break="no"/>ni.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e685">
+      ¶ Adhuc autem probatur quod non possint esse plures 
+      gene<lb ed="#V" n="54" break="no"/>rationes actiue: nec plures spirationes actiue per hoc quod 
+      <lb ed="#V" n="55"/>qualibet est infinita infinite proprie specie: quoniam gnotdio primi motoris 
+      <lb ed="#V" n="56"/>est infitua gnerodo. ergo non potest pluritumt. non intelligo autem quod sic 
+      <lb ed="#V" n="57"/>sit infinita quod includat infra se et claudat omnem aliam 
+      <lb ed="#V" n="58"/>gnonnem eiusdem speciei positam vel possibilem poni: et quod 
+      clau<lb ed="#V" n="59" break="no"/>dat infra se omnes gradus indiuiduales eiusdem rationis 
+      <lb ed="#V" n="60"/>cum illa: quoniam tunc in primo motore esset omnis generantio: nec 
+      <lb ed="#V" n="61"/>alibi esset reperibilis: quod falsum est. Sed dicitur 
+      infini<lb ed="#V" n="62" break="no"/>ta: quoniam eius prifferentia indiuilis: que est constitutiua 
+      <lb ed="#V" n="63"/>ipsius equipollet omnibus aliis et continet et claudit 
+      equi<lb ed="#V" n="64" break="no"/>pollenter omnes istas eiusdem rationis actu positas et possibiles. 
+    </p>
+            <p xml:id="nbnt23-n18579-d1e712">
+               <lb ed="#V" n="65"/>¶ Et de isto modo infinitatis fuit dictum supra. libro 2o
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>caplctio de infinitate primi motoris.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e721">
+      ¶ Sed forte dices
+      <lb ed="#V" n="67" break="no"/>quod generatio actiua et quecumque alia productio cum sit 
+      re<lb ed="#V" n="68" break="no"/>spectus non formaliter finitus: nec formaliter infinitus 
+      <lb ed="#V" n="69"/>cum non sit quantus quantitate perfectionis et virtute: quia 
+      respe<lb ed="#V" n="70" break="no"/>ctus non dicit aliquam perfectionem.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e732">
+      ¶ Dicitur quod licet non 
+      ha<lb ed="#V" n="71" break="no"/>beat gradus virtutis: nec finitum nec infinitum habet tamen 
+      <lb ed="#V" n="72"/>gradus entitatis finite vel infinite: hec tamen ratio licet sit 
+      <lb ed="#V" n="73"/>probabilis non demonstrat. 
+    </p>
+            <p xml:id="nbnt23-n18579-d1e741">
+               <lb ed="#V" n="74"/>Amplius autem magis in spaili de implurius 
+      <lb ed="#V" n="75"/>in primo motore 
+      perscrute<lb ed="#V" n="76" break="no"/>mur. Causa autem quare non ponit plures generantiones 
+      <lb ed="#V" n="77"/>actiuas: ab vno de magistris talis assignatur: quia secundum 
+      eun<lb ed="#V" n="78" break="no"/>dem generatio ista est omnis generatio eminenter 
+      <lb ed="#V" n="79"/>subsistens. ergo est omnino implurificabilis: quoniam sicut 
+      contum<lb ed="#V" n="80" break="no"/>specificus et vniversalis est omnino implurificabilis: sic et illud 
+      <lb ed="#V" n="81"/>quod correspondet tali conceptui pluritum non potest: sicut 
+      ho<lb ed="#V" n="82" break="no"/>mo simpliciter et rosa simpliciter non sunt pluriles in plures 
+      <lb ed="#V" n="83"/>homines: nec in plures rosas simpliciter: cum sit omnis homo emi 
+      <lb ed="#V" n="84"/>nenter. Dicere enim secundum eum est omne dicere 
+      eminen<lb ed="#V" n="85" break="no"/>ter.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e770">
+      ¶ At vero hoc ratio non concludit omnino 
+      impossi<lb ed="#V" n="86" break="no"/>bilitatem pluritatius pluritaius generationem: quoniam non 
+      <lb ed="#V" n="87"/>est aliqua repugnantia. si ponatur subsistere quin possit 
+      <lb ed="#V" n="88"/>plurificari: sicut supra dictum fuit: cum inquireretur 
+      de<lb ed="#V" n="89" break="no"/>implurite primi motoris. vide modum: quia nolo 
+      repete<lb ed="#V" n="90" break="no"/>re festinans ad alia.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e783">
+      ¶ Adhuc autem alia causa assignatur: 
+      <lb ed="#V" n="91"/>quare generatio non est plurificabilis: quoniam illud quod 
+      <lb ed="#V" n="92"/>de se est hoc vbicumque reperiatur semper est hoc. 
+      Palam<lb ed="#V" n="93" break="no"/>autem quod hec ratio non concludit propositum. nam cum dicis quod 
+      ge<lb ed="#V" n="94" break="no"/>neratio actiua de se est hec: quoniam cum accipis ibi 
+      gene<lb ed="#V" n="95" break="no"/>rationem vt est communis primo motori et aliis: et si sic patet quod 
+      <lb ed="#V" n="96"/>non est de se hec: immo plurificabilis pluribus: quo 
+      <lb ed="#V" n="97"/>niam omnibus generaribus singularibus contentis sub generatio 
+      <lb ed="#V" n="98"/>ne in communi.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e804">
+      ¶ At tum accipis generationem pro hac 
+      genera<lb ed="#V" n="99" break="no"/>tione generata: que est quoddam indiuiduum et 
+      singu<lb ed="#V" n="100" break="no"/>lare generationis in communi: et tunc bene verum est quod talis 
+      ge<lb ed="#V" n="101" break="no"/>neratio est de se hec. ratione differenie indiuidualis 
+      consti<lb ed="#V" n="102" break="no"/>tutiue ipsius: sed non valibet ad propositum: quoniam eodem 
+      mo<lb ed="#V" n="103" break="no"/>do quelibet generatio singularis in creaturis est 
+      <lb ed="#V" n="104"/>etiam de se hec. et est etiam omnino implurificabilis: quia non 
+      <lb ed="#V" n="105"/>potest fieri plures: potest tamen habere vnam eiusdem rationis: 
+      <lb ed="#V" n="106"/>immo compatitur plures secum: ita tibi diceretur quod ista: 
+      <lb ed="#V" n="107"/>que est in primo motore: licet de se sit hec: potest tamen 
+      compa<lb ed="#V" n="108" break="no"/>ti secum plures alias vel vnam.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e828">
+      ¶ Et si dicas: quod tu non 
+      <lb ed="#V" n="109"/>accipis generationem primo mo nec secundo modo prout est 
+      <lb ed="#V" n="110"/>indiuiduum generationis in communi ad omnem generationem: 
+      <lb ed="#V" n="111"/>sed accipis generationem pro quadam ratione formali et 
+      <lb ed="#V" n="112"/>quiditatiua: que est de se hec et est constitutiua 
+      perso<lb ed="#V" n="113" break="no"/>ne incommunilis: et ista ratio formalis generationis est 
+      pri<lb ed="#V" n="114" break="no"/>mo diuersa quantum ad primum modum a generatione in 
+      <lb ed="#V" n="115"/>communi: que est quodam singulare contentum sub generatione 
+      <lb ed="#V" n="116"/>in communi. Istud dictum videtur gratis dictum et sine magna 
+      necessar<lb ed="#V" n="117" break="no"/>tate multiplicare rationes formales generantis. Ab 
+      <lb ed="#V" n="118"/>eodem autem alia ratio assignatur. generatio primi 
+      moto<lb ed="#V" n="119" break="no"/>ris est simpliciter implurificabilis: que talis est. nulla 
+      <lb ed="#V" n="120"/>que ex se non determinatur ad certum numerum 
+      indiui<lb ed="#V" n="121" break="no"/>duorum eiusdem rationis quantum est ex se potest esse cum qua 
+      <lb ed="#V" n="122"/>cumque multitiue et plucte: immo eadem ratione qua in duobtus 
+      <lb ed="#V" n="123"/>vel tribus eadem ratione in infinitis. Sig natura et quiditaris 
+      <lb ed="#V" n="124"/>generationis actiua non determinaret se ad certum 
+      <lb ed="#V" n="125"/>numerum indiuiduorum generationis: sic quod posset in 
+      inf<lb ed="#V" n="126" break="no"/>nitis esse: et si posset iam esset: quoniam quicquid est ibi 
+      pos<lb ed="#V" n="127" break="no"/>sibile est necessarium: et quicquid potest esse ibi actum est ibi: 
+      <lb ed="#V" n="128"/>quia in perpetuis non differt esse et posse. ipsa autem si esset pluritltum 
+      <lb ed="#V" n="129"/>in plures eiusdem rationis non determinaret se ad certum 
+      nu<lb ed="#V" n="130" break="no"/>merum indiuirue. ergo esset in infinitis. hoc autem est falsum et impossibile
+      <pb ed="#V" n="121-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>ergo actiua gnerantio primi motoris nullo modo est 
+      plu<lb ed="#V" n="2" break="no"/>rificabilis: dicitur quod hoc ratio non concludit impossibilem simpliciter quin 
+      <lb ed="#V" n="3"/>possint esse plicales productiones primi motoris et pliles 
+      gnorio<lb ed="#V" n="4" break="no"/>nes actiue alterius tamen rationis. Lcet ratio concludat quod non 
+      <lb ed="#V" n="5"/>possint esse plures eiusdem rationis.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e893">
+      ¶ Ad rationem autem 
+      <lb ed="#V" n="6"/>adhpuc diceretur quod non sequitur si potest esse in duobus vel. 6 
+      <lb ed="#V" n="7"/>vel. io. quod propter hoc possit esse in infinitis: quoniam diceretur quod 
+      <lb ed="#V" n="8"/>sicut quiditas entis est determinata ad certum numerum 
+      <lb ed="#V" n="9"/>praedicamentorum et quodlibet genus ad certum numerum specierum 
+      <lb ed="#V" n="10"/>sic aliqua natura est determinata ad certum numerum indiui 
+      <lb ed="#V" n="11"/>duorum quoniam diffile videtur quod vnum posite possit vel successiue 
+      <lb ed="#V" n="12"/>actuari vel determinari per infinitus actus et infertur quod 
+      quidi<lb ed="#V" n="13" break="no"/>tas ipsius nunc et temporis est determinata praecise ad vnum 
+      <lb ed="#V" n="14"/>solum indiuiduum: quod tamen tibi non assero.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e915">
+      ¶ Et si adhuc 
+      <lb ed="#V" n="15"/>dicas: quod est aliqua natura specifica: que non determinatur ad 
+      cer<lb ed="#V" n="16" break="no"/>tum numerum indiuiduorum immo quantum est ex se potest esse in 
+      <lb ed="#V" n="17"/>infinitis. eg et omnis natura specifica sic est plurifilis quod ad nullum 
+      <lb ed="#V" n="18"/>certum numerum indiuiduorum se determinat: sed potest esse 
+      <lb ed="#V" n="19"/>in infinitsquantum est ex se.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e928">
+      ¶ Dicitur hic quod consequentia non valet: 
+      <lb ed="#V" n="20"/>quoniam sicut est aliqua natura gneris subalterni et plurificalies 
+      <lb ed="#V" n="21"/>que determinat ad plures species quam aliud: immo forte 
+      <lb ed="#V" n="22"/>aliud est quod non habet nisi duas species vel vnam vel aliquando 
+      <lb ed="#V" n="23"/>nullam. sic erit de natura specifica quod aliqua erit 
+      determina<lb ed="#V" n="24" break="no"/>ta ad certum numerum maiorem vel minorem. vet alia ad 
+      <lb ed="#V" n="25"/>vnum. alia ad duo. alia ad 3a vel ad. i0. vel ad. ioo. et 
+      <lb ed="#V" n="26"/>sic de aliis. vt magis appret de natura generis retlietia specierum quam 
+      <lb ed="#V" n="27"/>de natura speciei retalietia indiuiduorum. primus ergo modus assidi 
+      im<lb ed="#V" n="28" break="no"/>pluritateum in prius motore vietr probabilior inter omnes: eligas 
+      <lb ed="#V" n="29"/>tamen vnum de istis quem volueris.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e952">
+               <lb ed="#V" n="30"/>Restat autem adpuc perscrutari aliad de 
+      <lb ed="#V" n="31"/>quodam modo speciali pluritatiue 
+      pro<lb ed="#V" n="32" break="no"/>ductionum in primo motore que talis est. Fertur a 
+      quaedan<lb ed="#V" n="33" break="no"/>nouo philosopho et moderno theologo: quod in primo motore 
+      <lb ed="#V" n="34"/>sunt necessario 3s productiones actiue et tria supposita 
+      pro<lb ed="#V" n="35" break="no"/>ducta: et sic sunt ibi. 4. producta supposita in quibums 
+      <lb ed="#V" n="36"/>subsistit vna natura singularis. ratio autem talis assignatio 
+      <lb ed="#V" n="37"/>nis talis sit: quoniam quot sunt prinuitua productiua in primo 
+      mo<lb ed="#V" n="38" break="no"/>tore distincta ex natura rei et perfecta simpliciter necessario sunt 
+      <lb ed="#V" n="39"/>ibi productiones actiue: quoniam cuilibet productioni actiue 
+      <lb ed="#V" n="40"/>non correspondet nisi vnum principium productiuu: et cuilibet prinquitur 
+      <lb ed="#V" n="41"/>correspondet propria actiua productio. alias esset ibi 
+      frustra<lb ed="#V" n="42" break="no"/>et esset ociosum in natura: sed in primo motore sunt tria 
+      <lb ed="#V" n="43"/>prinstua simpliciter perfecta ex natura rei distincta scilicet essentia 
+      pri<lb ed="#V" n="44" break="no"/>mi motoris intellectus et voluntas. Cuilibet ergo princictr: 
+      cor<lb ed="#V" n="45" break="no"/>ramenebit propria productio: et sic sunt ibi 3a productiones 
+      <lb ed="#V" n="46"/>actiue et 3a producta et. 4. supposita. Modus autem 
+      sequi<lb ed="#V" n="47" break="no"/>tur talis: quoniam in primo motore est hoc essentia vel hoc 
+      mo<lb ed="#V" n="48" break="no"/>tor vel hec intelligentia: qne est quedam natura 
+      singula<lb ed="#V" n="49" break="no"/>ris et hoca et per consequens non repugnat sibi producere et 
+      produ<lb ed="#V" n="50" break="no"/>ctionem elicere tam actiuam quam passiuam et terminus istius 
+      <lb ed="#V" n="51"/>productionis est ipsamet natura singularis: eo modo quo 
+      <lb ed="#V" n="52"/>dictum fuit in prima via de modo ponendi emanationem 
+      <lb ed="#V" n="53"/>suppositorum in primo motore: ita quod hec productio erit 
+      <lb ed="#V" n="54"/>ad terminum praeexistentem: immo princiua et terminus essent 
+      <lb ed="#V" n="55"/>omnino idem identitate absoluta: quoniam hic motor 
+      prescin<lb ed="#V" n="56" break="no"/>dit ab omni perfectione posteriori: et per consequens ab intelle 
+      <lb ed="#V" n="57"/>ctum et voluntate et intellectione et volitione princitum et 
+      ter<lb ed="#V" n="58" break="no"/>minus istius primae productionis et productio 
+      propris<lb ed="#V" n="59" break="no"/>sime dicitur gnerantio: quia habet naturam hanc pro printuo habet hanc 
+      <lb ed="#V" n="60"/>eandem naturam pro termino.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e1023">
+      ¶ Secundum principium 
+      produ<lb ed="#V" n="61" break="no"/>ctiuum est ipse intellectus qui producit verbum scilicet 
+      noti<lb ed="#V" n="62" break="no"/>tiam genitam: et talis productio proprie vocatur dictio 
+      <lb ed="#V" n="63"/>vel dicere cum proprie pertineat ad ipsum intellectum. 
+      <lb ed="#V" n="64"/>Et illud dicere habet pro per se termio istam notitiam et 
+      pro<lb ed="#V" n="65" break="no"/>per se principio productiuo ipsum intellectum: et talis
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>productio est ad aliquid praeexistens et principium et 
+      ter<lb ed="#V" n="67" break="no"/>minus istius productionis non sunt simpliciter idem 
+      iden<lb ed="#V" n="68" break="no"/>titate absoluta: immo ex natura rei sunt distincta. 
+      <lb ed="#V" n="69"/>Et de isto modo productionis dictum fuit via 2a 
+      proban<lb ed="#V" n="70" break="no"/>di emanationes personarum in intelligentia prima.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e1049">
+      ¶ 
+      Prin<lb ed="#V" n="71" break="no"/>cipium 3m productiuum est ipsa notitia que spirat 
+      amo<lb ed="#V" n="72" break="no"/>rem: sic quod talis productio habet voluntatem pro principio 
+      <lb ed="#V" n="73"/>productiuo et amorem pro termino. Concludit ergo 
+      praedi<lb ed="#V" n="74" break="no"/>ctus philosophus: immo theologus quod per necessitatem sunt ibi 
+      <lb ed="#V" n="75"/>productiones actiue et 3a passiue constitutiue 3m 
+      perso<lb ed="#V" n="76" break="no"/>narum productarum et 4o persona est omnino 
+      impro<lb ed="#V" n="77" break="no"/>ducta ab alia persona: licet sit producta secundum eum ab hac 
+      <lb ed="#V" n="78"/>natura singulari: que elicit hanc productionem actiuam 
+      pri<lb ed="#V" n="79" break="no"/>mam sicut calor elicit calefactionem: que est actio 
+      ve<lb ed="#V" n="80" break="no"/>re elicita. Et si tamen maneat in agente: sicut fertur ab 
+      eo<lb ed="#V" n="81" break="no"/>dem. sequitur quod hic calor producit se calefaciens: 
+      si<lb ed="#V" n="82" break="no"/>cut aqua producit aquam frigidam: sic et hoc intelligentia 
+      sin<lb ed="#V" n="83" break="no"/>gularis eliciens primam productionem: que manet in 
+      ea<lb ed="#V" n="84" break="no"/>necessario producit se id est producit constitutum ex ipsa 
+      <lb ed="#V" n="85"/>natura singulari et ipsa productione actiua.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e1084">
+      ¶ At vero licet 
+      <lb ed="#V" n="86"/>ista via sit multum subtilis. Uidetur tamen 
+      impossibi<lb ed="#V" n="87" break="no"/>lis. quia impossibile videtur quod realitas capiens esse 
+      <lb ed="#V" n="88"/>realiter et realitas non capiens esse realiter sint idem 
+      rea<lb ed="#V" n="89" break="no"/>liter: et quod vna profluat ab alia: sed generantio actiua 
+      si<lb ed="#V" n="90" break="no"/>esset elicita caperet esse simpliciter ab hoc motore per 
+      <lb ed="#V" n="91"/>se. hic autem motor non capit esse realiter. ergo hoc realitas non 
+      <lb ed="#V" n="92"/>est ista: et sic cum in illa prima persona secundum te ponantur 
+      <lb ed="#V" n="93"/>due realitates: sequitur quod tunc facient vnum quod ibi erit 
+      <lb ed="#V" n="94"/>compositio rei et rei: quod est falsum.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e1106">
+      ¶ Et si dicas quod hec 
+      rea<lb ed="#V" n="95" break="no"/>litas: que dicitur gnerantio actiua: et hic motor soitum sunt 
+      idenm<lb ed="#V" n="96" break="no"/>ydentitate relatiua. non autem absoluta: que autem sunt sic 
+      iden<lb ed="#V" n="97" break="no"/>vna realitas potest capre esse simpliciter et alia non.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e1115">
+      ¶ 
+      For<lb ed="#V" n="98" break="no"/>te adhuc dices: quod prima propositio non sit vera: que dicit 
+      <lb ed="#V" n="99"/>quod realitas: que realiter capit esse: et ista quae non capit esse 
+      <lb ed="#V" n="100"/>non idem sunt realiter: quoniam persona producta realiter 
+      ca<lb ed="#V" n="101" break="no"/>pit esse et specialiter productio passiua realiter capit esse et 
+      tamen<lb ed="#V" n="102" break="no"/>est idem realiter cum essentia primi motoris: que non capit 
+      <lb ed="#V" n="103"/>esse simpliciter realiter: quia erat ante omnem productionem. Respons 
+      <lb ed="#V" n="104"/>tibi. solutionem quare.
+    </p>
+            <p xml:id="nbnt23-n18579-d1e1133">
+      ¶ Dicamus ergo propotionem negatiuam: quod 
+      <lb ed="#V" n="105"/>in primo motore non sunt tres productiones actiue: sed 
+      <lb ed="#V" n="106"/>simpliciter due: quoniam essentia primi motoris non est 3m princi 
+      <lb ed="#V" n="107"/>pium productiuum: nec distinguitur conclusia intellctum et 
+      volunta<lb ed="#V" n="108" break="no"/>tem vt videtur quod ex istis inferioribus posset hoc demonstrari 
+      <lb ed="#V" n="109"/>ita euidenter sicut demonstratur de intellectum et voluntate: 
+      <lb ed="#V" n="110"/>quod sint prinuitua productiua. sunt ergo tantum tria 
+      supposita<lb ed="#V" n="111" break="no"/>vnum improductum et 2o producta. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

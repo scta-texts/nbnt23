@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="93-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n01723"><!--ntheol-l1c5-->
+            <head xml:id="nbnt23-n01723-Hd1e97">Caput 5</head>
+            <head xml:id="nbnt23-n01723-Hd1e99" type="question-title">An talis habitus sit practicus vel speculativus</head>
+            <p xml:id="nbnt23-n01723-d1e102">
+               <lb ed="#V" n="46"/>¶ An talis habitus sit practicus vel speculatiuus. 
+      <lb ed="#V" n="47"/>Caput. V
+    </p>
+            <p xml:id="nbnt23-n01723-d1e109">
+               <lb ed="#V" n="48"/>Eisto itasu habitu theologico: an 
+      <lb ed="#V" n="49"/>sit practicus vel 
+      speculati<lb ed="#V" n="50" break="no"/>uus speculandum est. De speculatione 
+      <lb ed="#V" n="51"/>autem et praxi prolixior fuit sermo in 
+      no<lb ed="#V" n="52" break="no"/>A stra metaphysica. lib. secundo. capite quarto. 
+      <lb ed="#V" n="53"/>quod quid sit praxis et quid practicum: et de subiecto 
+      <lb ed="#V" n="54"/>praxis: et de obiecto quid speculaus quid 
+      speculati<lb ed="#V" n="55" break="no"/>uum de subiecto speculationis: et de obiecto a quo 
+      <lb ed="#V" n="56"/>dicitur habitus practicus et speculatiuus hec fuerunt 
+      <lb ed="#V" n="57"/>dicta in vniuersali secundum quod ars ista requirit: et habet 
+      <lb ed="#V" n="58"/>locum in omni scientia et arte: sit ergo intellectus 
+      tu<lb ed="#V" n="59" break="no"/>applicatiuus istorum principiorum ad tuum 
+      pro<lb ed="#V" n="60" break="no"/>positum. Ac vero quando queris: an huiusmodi 
+      ha<lb ed="#V" n="61" break="no"/>bitus theologicus sit practicus vel speculatiuus. 
+      <lb ed="#V" n="62"/>Respondetur tibi quod non est practicus sed speculatiuus: 
+      <lb ed="#V" n="63"/>quoniam primus motor immobilis non est obiectum 
+      <lb ed="#V" n="64"/>practicum sed speculatiuum. obiectum practicum non 
+      <lb ed="#V" n="65"/>est primus motor immobilis cum non sit per essentiam
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>praxis vel operatio: sed est vnum enis spirituale et 
+      i<lb ed="#V" n="67" break="no"/>limitatum. Obiectum autem habitus practici est 
+      <lb ed="#V" n="68"/>per se ipsa praxis per essentiam: vt in nostra 
+      meta<lb ed="#V" n="69" break="no"/>physica. libro. 2. capite. 4. fuit dictum: cum habit 
+      <lb ed="#V" n="70"/>practicus sit directiuus praxis: et exemplar et similitu 
+      <lb ed="#V" n="71"/>do illius: sicut notitia est similitudo obiecti.
+    </p>
+            <p xml:id="nbnt23-n01723-d1e166">
+      ¶ Et 
+      <lb ed="#V" n="72"/>si arguas quod primus motor: licet non sit per essentiam 
+      pra<lb ed="#V" n="73" break="no"/>xis. est tamen illud circa quod est vere praxis 
+      diri<lb ed="#V" n="74" break="no"/>gibilis amor et dilectio et volitio. Notitia enim primi 
+      <lb ed="#V" n="75"/>motoris est directiua volitionis conformis circa ip 
+      <lb ed="#V" n="76"/>sum motorem: quoniam mouet alios motores a se 
+      <lb ed="#V" n="77"/>sicut amatum et desideratum ipsum mouet amans. 
+      Respon<lb ed="#V" n="78" break="no"/>deo tibi sicut i metaphysica fuit dictum: quod ad hoc quod 
+      <lb ed="#V" n="79"/>aliquis habitus dicatur practicus non sufficit quod 
+      cir<lb ed="#V" n="80" break="no"/>ca obiectum proprium respectu istius habitus 
+      po<lb ed="#V" n="81" break="no"/>sit esse praxis dirigibilis: sed necessario requiritur 
+      <lb ed="#V" n="82"/>quod obiectum talis habitus potest esse praxis 
+      dirigi<lb ed="#V" n="83" break="no"/>bilis aliqua saltem volitio. Debes tamen aduerte 
+      <lb ed="#V" n="84"/>re: quod habitus ille qui habet volitionem respectu 
+      pri<lb ed="#V" n="85" break="no"/>mi motoris pro obiecto bene est practicus: quia illa 
+      <lb ed="#V" n="86"/>volitio vere est praxis dirigibilis: sed talis habit 
+      <lb ed="#V" n="87"/>non est habitus theologicus de quae nunc est secundmo cum non 
+      <lb ed="#V" n="88"/>habeat primum motorem pro obiecto: sed magis 
+      <lb ed="#V" n="89"/>ipsam praxim que terminatur ad ipsum. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

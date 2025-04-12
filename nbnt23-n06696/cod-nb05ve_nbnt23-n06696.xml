@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0"
+                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="101-r"/>
+         </div>
+      </front>
+      <body>
+         <div xmlns="" xml:id="nbnt23-n06696" alias="ntheol-l2c8">
+            <head>Caput 8</head>
+            <head type="question-title">De implurificabilitate primi motoris</head>
+            <p>
+               <lb ed="#V" n="74"/>¶ De implurificabilitate primi motoris. Caput. VIII.
+    </p>
+            <p>
+               <lb ed="#V" n="75"/>PErscrutemur ergo an primus 
+      <lb ed="#V" n="76"/>motor sit 
+      sim<lb ed="#V" n="77" break="no"/>pliciter implurificabilis: et vnus numero 
+      <lb ed="#V" n="78"/>tantum vel plurificari possint primi 
+      moto<lb ed="#V" n="79" break="no"/>res non subordinati adinuicem: sic quod sint 
+      <lb ed="#V" n="80"/>tales motores plures specie vel numero distincti. 
+      <lb ed="#V" n="81"/>Palam autem quod non inquirimus: an primus 
+      mo<lb ed="#V" n="82" break="no"/>tor sit vnus vnitate entis. Quoniam ista conclusio. 
+      <lb ed="#V" n="83"/>primus motor est vnus vnitate entis. non est 
+      conclu<lb ed="#V" n="84" break="no"/>sio theologica: sed magis metaphysicao. siliter nec illa. primiu 
+      <lb ed="#V" n="85"/>motor est vnus vnitate substantie autem spiritus. Intentia ergo 
+      <lb ed="#V" n="86"/>nostra est inquirere de vnitate numerali essentie 
+      pri<lb ed="#V" n="87" break="no"/>mi motoris vel de eius vnitate specifica. si est 
+      pos<lb ed="#V" n="88" break="no"/>sibilis. Manifestum est autem quod tam 
+      phylosophi<lb ed="#V" n="89" break="no"/>noui quam antiqui conueniunt in conclusione affireta. 
+      dicen<lb ed="#V" n="90" break="no"/>tes. quod primus motor est tantum vnus vnitate 
+      nume<lb ed="#V" n="91" break="no"/>rali: et quod est omnino implurificabilis. Disconueniunt 
+      au<lb ed="#V" n="92" break="no"/>tem phylosophi in probationibus conclusionis. quidam 
+      <lb ed="#V" n="93"/>enim probant primum motorem esse implurificabilem 
+      <lb ed="#V" n="94"/>per viam efficientie: alii per viam eminentie: alii per 
+      <lb ed="#V" n="95"/>rationem finis vltimi: alii per rationem cause 
+      exem<lb ed="#V" n="96" break="no"/>plaris et intellectionis et volitionis: alii per viam 
+      ne<lb ed="#V" n="97" break="no"/>cessitatis et infinitatis. Que autem via sit 
+      probabili<lb ed="#V" n="98" break="no"/>or est speculandum. Per viam autem efficientie 
+      im<lb ed="#V" n="99" break="no"/>pluritas primi motoris sic probatur. Nullum caunstum 
+      <lb ed="#V" n="100"/>potest produci a duabus causis totalibus. Tunc enim aliquid 
+      <lb ed="#V" n="101"/>potest poni in esse et produci circumscripta totali eius 
+      cau<lb ed="#V" n="102" break="no"/>sa: quod est impossibile: quia alia eius causa totalis pos 
+      en<lb ed="#V" n="103" break="no"/>set ponere effectum in esse. Tum quia si essent plures 3o 
+      <lb ed="#V" n="104"/>primi motores: vnus faceret alium nullipotentem 
+      <lb ed="#V" n="105"/>destruendo omnia que alius poneret in esse et 
+      econ<lb ed="#V" n="106" break="no"/>tra: et impedirent se mutuo in agendo. At vero hec via 
+      <lb ed="#V" n="107"/>efficientie calumniabil esse videtur. Tum primo: quia 
+      <lb ed="#V" n="108"/>supponit vnum quod a philosophis non est concessum scilicet quod primus 
+      <lb ed="#V" n="109"/>motor producit aliquid extra se: quia dicunt plures 
+      <lb ed="#V" n="110"/>quod non effectiue producit extra se immediate: nec in 
+      <lb ed="#V" n="111"/>eis est aliquis vigor. Tum 2o: quoniam concesso quod 
+      <lb ed="#V" n="112"/>aliquid producit extra se effectiue. Rationes 
+      ta<lb ed="#V" n="113" break="no"/>men sunt dissolubiles. Dissolutio namque prime 
+      ratio<lb ed="#V" n="114" break="no"/>nis stat in hoc: quod causa totalis dupliciter accipitur. vno 
+      mo<lb ed="#V" n="115" break="no"/>do inclusiue. alio modo exclusiue. Inclusiue scilicet 
+      inclu<lb ed="#V" n="116" break="no"/>dendo omnes causas possibiles talis effectus: et in 
+      <lb ed="#V" n="117"/>isto intellectu prima propositio rationis est vera. 
+      <lb ed="#V" n="118"/>sed minor est falsa. exclusiue tamen dicitur causa 
+      tota<lb ed="#V" n="119" break="no"/>lis alicuius effectus quando illa causa posita: et 
+      om<lb ed="#V" n="120" break="no"/>ni alia exclusa per possibile potest sequi effectus: et 
+      <lb ed="#V" n="121"/>in isto intellectu prima propositio est falsa: quoniam 
+      <lb ed="#V" n="122"/>idem potest esse a pluribus causis totalibus: sed 
+      mi<lb ed="#V" n="123" break="no"/>nor est vera: quoniam quodlibet illorum duorum 
+      <lb ed="#V" n="124"/>esset causa totalis exclusiue: non autem inclusiue 
+      <lb ed="#V" n="125"/>de ista duplici totali causa dictum est amplius 
+      in<lb ed="#V" n="126" break="no"/>philosophicis. quare ibi etc. Secunda non concludit: nam cum 
+      ar<lb ed="#V" n="127" break="no"/>guis quod vnus faceret alium nullipotentem: quia quicquid 
+      <lb ed="#V" n="128"/>vnus faceret alius destrueret: dicitur quod 
+      concorda<lb ed="#V" n="129" break="no"/>rent in omnibus: sed quia hoc est contingens: 
+      aliter<lb ed="#V" n="130" break="no"/>respondetur: quia vnus non posset impedire aliume
+      <pb ed="#V" n="101-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>quia poneret causatum in esse: nec iste destrueret 
+      po<lb ed="#V" n="2" break="no"/>situm: sed ille qui posuit ipsum in esse vellet ipsum 
+      <lb ed="#V" n="3"/>conseruare in esse dando sibi esse post esse. Exemplum 
+      <lb ed="#V" n="4"/>do tibi. applicentur duo motores equalis virtutis ad 
+      <lb ed="#V" n="5"/>ipsum mobile existens in aliquo vbi. vnus illorum 
+      <lb ed="#V" n="6"/>mouentium tota vi sua vult tenere illud mobile in suo 
+      <lb ed="#V" n="7"/>vbi. alius autem motor vult auferre similiter tota vt 
+      <lb ed="#V" n="8"/>sua illud vbi. quis illorum obtinebit: Palam quod 
+      prim<lb ed="#V" n="9" break="no"/>qui voluit tenere in vbi suo. Uerum est tamen quod si illi 
+      mo<lb ed="#V" n="10" break="no"/>tores vellent mouere illud mobile ad partes 
+      oppo<lb ed="#V" n="11" break="no"/>sitas non possent hoc facere: quia tunc non essent 
+      equa<lb ed="#V" n="12" break="no"/>lis virtutis. vnus ergo illorum motorum poterit 
+      po<lb ed="#V" n="13" break="no"/>nere tantum in esse: et istud conseruare velit nolit alius et 
+      <lb ed="#V" n="14"/>econuerso: et sic vnus non faceret alium nullipotentem. 
+    </p>
+            <p>
+               <lb ed="#V" n="15"/>¶ Et si arguas quod sint duo agentia equalis virtutis 
+      <lb ed="#V" n="16"/>approximata aque: que nec sit calida nec 
+      frigida<lb ed="#V" n="17" break="no"/>vnum vult aquam calefacere: aliud aquam frigefacere. quid 
+      <lb ed="#V" n="18"/>erit an calida an frigida: dicitur quod neutra: ergo a 
+      simili<lb ed="#V" n="19" break="no"/>in proposito. Respondetur quod nec est sic in nostro 
+      pro<lb ed="#V" n="20" break="no"/>posito: quoniam concedimus bene quod respectum effectuum 
+      op<lb ed="#V" n="21" break="no"/>positorum habentium repugnantiam contrariam ad 
+      <lb ed="#V" n="22"/>simul esse in eodem subiecto possunt se mutuo 
+      im<lb ed="#V" n="23" break="no"/>pedire: sed non respectu contradictoriorum. exemplum 
+      <lb ed="#V" n="24"/>sint duo agentia equalis vigoris. vnum vult aquam 
+      <lb ed="#V" n="25"/>in sua caliditate conseruare: aliud vult caliditatem 
+      <lb ed="#V" n="26"/>destruere. quid fiet: dicitur quod aqua remanebit in sua 
+      ca<lb ed="#V" n="27" break="no"/>liditate.
+    </p>
+            <p>
+      ¶ Et si dicas: ergo sequitur quod vnum vinus 
+      <lb ed="#V" n="28"/>cet aliud scilicet illud quod voluit aquam manere in sua 
+      cali<lb ed="#V" n="29" break="no"/>ditate. Respondeo tibi non est ibi propria victoria 
+      pro<lb ed="#V" n="30" break="no"/>prie loquendo: quoniam istud non facit aliud nisi 
+      conserua<lb ed="#V" n="31" break="no"/>re caliditatem in aqua omnino non autem de nouo producit 
+      <lb ed="#V" n="32"/>eam.
+    </p>
+            <p>
+      ¶ Et si adhuc queras si sint duo motores eiust 
+      <lb ed="#V" n="33"/>dem vigoris: quorum vnus voluit ponere caliditatem 
+      <lb ed="#V" n="34"/>in aquam. alius voluit aquam non esse calidam quid 
+      <lb ed="#V" n="35"/>fiet: Respondeo tibi quod oprtet quod affirmatiua autem 
+      nega<lb ed="#V" n="36" break="no"/>tiua ponatur in esse. si affirmatiua ponitur: videtur 
+      <lb ed="#V" n="37"/>quod ille qui vult ponere negatiuam vincatur. si 
+      nega<lb ed="#V" n="38" break="no"/>tiua ecouerso. Ex quo tamen oportet quod altera 
+      contradi<lb ed="#V" n="39" break="no"/>ctionisponatur: ista erit affirmatiua et non negatiua: 
+      <lb ed="#V" n="40"/>ergo ponet caliditatem in qua dato quod alius velit 
+      op<lb ed="#V" n="41" break="no"/>positum. Ad propositum ergo nostrum applicandum. dica 
+      <lb ed="#V" n="42"/>mus quod si essent duo primi motores immobiles: quod 
+      <lb ed="#V" n="43"/>vnus non faceret alium nullipotentem simpliciter: quoniam si 
+      <lb ed="#V" n="44"/>vnus vellet inferre rosam in esse post non esse: et alius 
+      <lb ed="#V" n="45"/>nollet quod inferretur in esse: adhuc rosa poneretur in 
+      <lb ed="#V" n="46"/>esse: et vlterius ipsa posita in esse: si vnus vellet eam 
+      <lb ed="#V" n="47"/>annihilare: et alius vellet eam conseruare: ille quie vel 
+      <lb ed="#V" n="48"/>let eam conseruare inferret eam in esse post esse: nec alius 
+      <lb ed="#V" n="49"/>posset inferre eam in esse post esse.
+    </p>
+            <p>
+      ¶ Et si arguas quod 
+      <lb ed="#V" n="50"/>semper remanet difficultas: cum sint equalis vigoris 
+      <lb ed="#V" n="51"/>isti motores: vnde hoc quod vnus complet voluntatem 
+      <lb ed="#V" n="52"/>suam et non alius: et quare magis ponitur affirmati 
+      <lb ed="#V" n="53"/>ua quam negatiua: Respondeo tibi inter contradictoria 
+      <lb ed="#V" n="54"/>per se non est medium: ergo oportet quod affirmatiua 
+      <lb ed="#V" n="55"/>ponatur autem negatiua. Rationabilius autem 
+      vide<lb ed="#V" n="56" break="no"/>tur quod affirmatiua ponatur quam negatiua. Aliter 
+      respon<lb ed="#V" n="57" break="no"/>deo. solutionem quere. 
+    </p>
+            <p>
+               <lb ed="#V" n="58"/>Amplius autem per viam eminentie 
+      <lb ed="#V" n="59"/>est perscrutandum an 
+      <lb ed="#V" n="60"/>primus motor sit omnino implurificabilis: et vnus 
+      <lb ed="#V" n="61"/>numero tantum. Fertur autem a quibusdam quod primus 
+      <lb ed="#V" n="62"/>motor immobilis seu substantia prima nobilissima: 
+      ne<lb ed="#V" n="63" break="no"/>cessario est vna secundum speciem: quod probatur. 
+      Im<lb ed="#V" n="64" break="no"/>possibile enim est dare duas species in equali 
+      gradu<lb ed="#V" n="65" break="no"/>perfectionis et nobilitatis: quoniam genus semper
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>diuiditur per duas differentias oppositas: quarumi 
+      <lb ed="#V" n="67"/>vna semper est perfectior alia: quoniam vna habet rationem 
+      <lb ed="#V" n="68"/>habitus: alia habet rationem priuationis: ergo nen 
+      <lb ed="#V" n="69"/>potest esse nisi vna species eminentissima.
+    </p>
+            <p>
+      ¶ Ad 
+      <lb ed="#V" n="70"/>huc autem manifestum est quod in vnoquoque genere 
+      <lb ed="#V" n="71"/>est dare vnum primum: quod est mensura aliorum itn 
+      perfe<lb ed="#V" n="72" break="no"/>ctione: istud autem vnum est vnum vnitate specifica: 
+      <lb ed="#V" n="73"/>cum ergo primus motor sit mensura omnium aliorum 
+      <lb ed="#V" n="74"/>non potest nisi esse vnitate specifica vnus.
+    </p>
+            <p>
+      ¶ 
+      Se<lb ed="#V" n="75" break="no"/>cunda propositio eorum est talis. substantia nobilissima 
+      <lb ed="#V" n="76"/>necessario est vna vnitate numerali: cuius ratio 
+      poni<lb ed="#V" n="77" break="no"/>tur talis: quoniam nulla forma substantialis simpliciter 
+      <lb ed="#V" n="78"/>abstracta ab omni materia potest plurificari 
+      nume<lb ed="#V" n="79" break="no"/>raliter. Primus autem motor est simpliciter libera 
+      <lb ed="#V" n="80"/>tus ab omni materia: ergo est vnus vnitate 
+      nume<lb ed="#V" n="81" break="no"/>rali.
+    </p>
+            <p>
+      ¶ Nunc de veritate istarum rationum 
+      videa<lb ed="#V" n="82" break="no"/>mus atque necessitate quicquid sit de conclusione. non 
+      <lb ed="#V" n="83"/>enim oportet quod via eminentie concludat 
+      substan<lb ed="#V" n="84" break="no"/>tiam esse vnam nobilissimam specie. diceretur nanque 
+      <lb ed="#V" n="85"/>quod essent due substantie distincte specie. equales nobi 
+      <lb ed="#V" n="86"/>litate: nec valet ratio probans oppositum: nam 
+      pro<lb ed="#V" n="87" break="no"/>positio quam accipit quod genus semper diuiditur per 
+      <lb ed="#V" n="88"/>duas differias inequales in perfectione non est 
+      pro<lb ed="#V" n="89" break="no"/>positio vniversalis: quoniam genus relationis diuiditur 
+      <lb ed="#V" n="90"/>per duas differias oppositas que nec sunt equales nec 
+      <lb ed="#V" n="91"/>inequales in perfectione: cum relatio non dicat per 
+      <lb ed="#V" n="92"/>fectionem: nec imperfectionem: nec habeat 
+      propri<lb ed="#V" n="93" break="no"/>am magnitudinem: non est ergo propositio vniversaliter vera. 
+    </p>
+            <p>
+               <lb ed="#V" n="94"/>¶ Sed quid dicendum in aliis generibus et 
+      speciali<lb ed="#V" n="95" break="no"/>ter in genere substantie nunquid est ibi diuisio per differentias 
+      <lb ed="#V" n="96"/>equales in perfectione: licet commentator dicat quod sic. 
+      <lb ed="#V" n="97"/>opportet tamen dicere negatiuam secundum nostra 
+      prin<lb ed="#V" n="98" break="no"/>cipia in nostra metaphysica posita: et etiam in hoc 
+      <lb ed="#V" n="99"/>libro. Et pono tibi exemplum substantia 
+      principa<lb ed="#V" n="100" break="no"/>liter diuiditur per corporeum et incorporeum: quod est 
+      <lb ed="#V" n="101"/>constitutiuum speciei in praedicamento substantiae: non 
+      di<lb ed="#V" n="102" break="no"/>cit aliquam perfectionem: nec propriam habet 
+      ma<lb ed="#V" n="103" break="no"/>gnitudinem: quoniam si haberet: finitam autem 
+      infi<lb ed="#V" n="104" break="no"/>nitam. non infinitam: quoniam tunc aliquid 
+      consti<lb ed="#V" n="105" break="no"/>tutum in genere et in creatura esset infinitum: quod est 
+      fali<lb ed="#V" n="106" break="no"/>sum: nec finitum: quoniam tunc vbicunque 
+      reperi<lb ed="#V" n="107" break="no"/>retur: illa differentia reperiretur finita. perfecte autem 
+      re<lb ed="#V" n="108" break="no"/>peritur in primo motore: ergo sequitur quod primus 
+      mo<lb ed="#V" n="109" break="no"/>tor esset formaliter finitus: vel quod aliquid 
+      formali<lb ed="#V" n="110" break="no"/>ter inclusum in isto formaliter esset finitum in 
+      perfe<lb ed="#V" n="111" break="no"/>ctione. Palam autem est quod idem potest 
+      concludi<lb ed="#V" n="112" break="no"/>de omnibus differentis cuiuscumque generis in 
+      qui<lb ed="#V" n="113" break="no"/>bus vniuocantur primus motor et ea que per se 
+      con<lb ed="#V" n="114" break="no"/>tinentur in genere: quoniam tales differentie 
+      com<lb ed="#V" n="115" break="no"/>parate adinuicem: nec sunt equales nec inequales 
+      <lb ed="#V" n="116"/>adinuicem. Ista enim propositio communiter 
+      con<lb ed="#V" n="117" break="no"/>cessa a phylosophis antiquis et nouis quod genus 
+      di<lb ed="#V" n="118" break="no"/>uiditur per duas differentias inequales in 
+      perfe<lb ed="#V" n="119" break="no"/>ctione non est vniuersalis: sed multas patitur 
+      ca<lb ed="#V" n="120" break="no"/>lumnias et instantias.
+    </p>
+            <p>
+      ¶ Et si queras saltem genus 
+      <lb ed="#V" n="121"/>quod diuiditur per differentias oppositas: quarum 
+      <lb ed="#V" n="122"/>quelibet dicit perfectionem aliquam nunquid 
+      sem<lb ed="#V" n="123" break="no"/>per sunt inequales in perfectione dicitur 
+      commu<lb ed="#V" n="124" break="no"/>niter quod sic: sed non video necessitatem: nec habeo 
+      <lb ed="#V" n="125"/>adhuc rationem euidentem nec concludentem 
+    </p>
+            <p>
+               <lb ed="#V" n="126"/>¶ Et si dicas immo est semper ordo essentialis in 
+      <lb ed="#V" n="127"/>speciebus vniuersi in perfectione. Iam ostendi 
+      ti<lb ed="#V" n="128" break="no"/>bi quod non est verum de speciebus relationis: nec 
+      de<lb ed="#V" n="129" break="no"/>speciebus absolutis transcendentibus vniuoce 
+      di<lb ed="#V" n="130" break="no"/>ctis de primo motore et aliis.
+    </p>
+            <p>
+      ¶ Adhuc autem fer¬
+      <pb ed="#V" n="102-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>tur quod sicut due species possunt esse equales in 
+      quan<lb ed="#V" n="2" break="no"/>titate molis. ita possunt esse equales in quantitate 
+      <lb ed="#V" n="3"/>virtutis et perfectionis. propositionem tamen illam 
+      <lb ed="#V" n="4"/>communiter concessam de diuisione generis per 
+      <lb ed="#V" n="5"/>differentias inequales in perfectione sub dubio 
+      ti<lb ed="#V" n="6" break="no"/>bi relinquo. At vero de propositione vulgata 
+      phy<lb ed="#V" n="7" break="no"/>losophorum: quod in quocunque genere est dare vnum 
+      <lb ed="#V" n="8"/>primum: quod est metrum et mensura perfectionis 
+      om<lb ed="#V" n="9" break="no"/>nium aliorum: et quod istud vnumi est vnum vnitate 
+      <lb ed="#V" n="10"/>specifica et non numerali nec generis: multas 
+      pati<lb ed="#V" n="11" break="no"/>tur calumnias. primo: quoniam in nullo genere 
+      respe<lb ed="#V" n="12" break="no"/>ctiuo est dare vnum tale primum quod sit 
+      mensura<lb ed="#V" n="13" break="no"/>perfectionis aliorum: cum nullam dicat 
+      perfectio<lb ed="#V" n="14" break="no"/>nem: vt superius fuit dictum. Idem dicitur de 
+      tran<lb ed="#V" n="15" break="no"/>scenqueribus.
+    </p>
+            <p>
+      ¶ Adhuc secundum dictum est magis dubium. 
+      <lb ed="#V" n="16"/>quando dicitur quod illud vnum est vnum precise 
+      vni<lb ed="#V" n="17" break="no"/>tate specifica et non numerali. Quoniam sicut. alias. 
+      <lb ed="#V" n="18"/>fuit dictum: non tantum differentia specifica 
+      ha<lb ed="#V" n="19" break="no"/>bet propriam magnitudinem perfectionis. Ex hoc 
+      <lb ed="#V" n="20"/>sequitur quod specifica quiditas albedinis: non 
+      tan<lb ed="#V" n="21" break="no"/>tum est mensura omnium specierum colorum: 
+      immo<lb ed="#V" n="22" break="no"/>sub specie albedinis est reperibile vnum 
+      indiui<lb ed="#V" n="23" break="no"/>duum perfectissimum: quod est mensura omnium 
+      in<lb ed="#V" n="24" break="no"/>diuiduorum aliorum contentorum sub quacunque 
+      <lb ed="#V" n="25"/>specie coloris. Ex hoc infertur: quod si essent plures 
+      <lb ed="#V" n="26"/>primi motores eiusdem rationis: adhuc vnus 
+      isto<lb ed="#V" n="27" break="no"/>tum esset mensura aliorum in perfectione. Ista eiu 
+      <lb ed="#V" n="28"/>go ratio de eminentia non probat primum 
+      moto<lb ed="#V" n="29" break="no"/>rem esse tantum vnum vnitate specifica: sed etiam 
+      <lb ed="#V" n="30"/>est vnus vnitate numerali: et hoc probabiliter. 
+      Se<lb ed="#V" n="31" break="no"/>cunda ratio ad probandam vnitatem numeralem 
+      <lb ed="#V" n="32"/>primi motoris que stat in hoc quod substantia nobilit 
+      <lb ed="#V" n="33"/>sima est absoluta ab omni materia: et per consequens 
+      <lb ed="#V" n="34"/>implurificabilis est dubia: sicut enim dictum est: non 
+      <lb ed="#V" n="35"/>hbemus demonstrationem ad probandum quod prima 
+      <lb ed="#V" n="36"/>substantia sit absoluta ab omni differentia 
+      indiui<lb ed="#V" n="37" break="no"/>duali: que a phylosophis materia est vocata. 
+      sta<lb ed="#V" n="38" break="no"/>tim enim conclusum est in prioribus quod ista stant si 
+      <lb ed="#V" n="39"/>mul quod primus motor sit vnus numero: et quod sint 
+      plu<lb ed="#V" n="40" break="no"/>res primi motores eiusdem rationis cum isto. si sic 
+      <lb ed="#V" n="41"/>oportet quod habeat materiam scilicet differentiam 
+      indi<lb ed="#V" n="42" break="no"/>uidualem ipsum constituentem et ab aliis 
+      diuiden<lb ed="#V" n="43" break="no"/>tem. ergo ista via eminentie non concludit 
+      demodo<lb ed="#V" n="44" break="no"/>stratiue nostrum propositum. scilicet quod primus 
+      mo<lb ed="#V" n="45" break="no"/>tor sit implurificabilis: licet hec via sit multum 
+      proba<lb ed="#V" n="46" break="no"/>bilis: quod non est nisi vnus vnitate specifica: ideo 
+      ni<lb ed="#V" n="47" break="no"/>si vnus vnitate numerali que sit mensura 
+      perfe<lb ed="#V" n="48" break="no"/>ctionis omnium aliorum etc.
+    </p>
+            <p>
+               <lb ed="#V" n="49"/>Perscruntandum est: an ratio finis 
+      vl<lb ed="#V" n="50" break="no"/>timi necessario 
+      con<lb ed="#V" n="51" break="no"/>cludat primum motorem implurificabilem: et vnum 
+      <lb ed="#V" n="52"/>numero. Palam autem est quod vnitas primi 
+      moto<lb ed="#V" n="53" break="no"/>ris a phylosophis concluditur sub ratione finis vel 
+      <lb ed="#V" n="54"/>timi. Est enim ordo essentialis et connexio 
+      necessa<lb ed="#V" n="55" break="no"/>ria entium in vniuerso: et ad vnum finem omnia 
+      in<lb ed="#V" n="56" break="no"/>clinantur: quod probant: quoniam sicut in domo 
+      pater<lb ed="#V" n="57" break="no"/>familias et rector: in exercitu vnus dux et princeps: 
+      <lb ed="#V" n="58"/>ad quem omnes de exercitu tanquam ad finem 
+      or<lb ed="#V" n="59" break="no"/>dinantur: sic in vniuerso etiam est dare vnum 
+      fi<lb ed="#V" n="60" break="no"/>nem numero et vnum principem: quoniam omnia 
+      <lb ed="#V" n="61"/>nolunt male disponi. concluditur ergo vnus 
+      princeps<lb ed="#V" n="62" break="no"/>quod non est bona pluralitas principum. Nam sicut
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="63"/>omnia grauia tendunt ad vnum finem. scilicet ad 
+      <lb ed="#V" n="64"/>centrum vnum. et omnia leuia ad vnum terminum 
+      <lb ed="#V" n="65"/>scilicet sursum. sic omnia entia tendunt ad vnum 
+      <lb ed="#V" n="66"/>finem et ad vnum principem. Nunc videamus 
+      an<lb ed="#V" n="67" break="no"/>vltimus finis et ordo vniuersi vnitatem primi 
+      prin<lb ed="#V" n="68" break="no"/>cipis claudat: quoniam fertur quod non simpliciter. 
+      <lb ed="#V" n="69"/>ordo enim vniuersi non concludit vnum finem et 
+      <lb ed="#V" n="70"/>vnum principem numero simpliciter: sed tantum 
+      <lb ed="#V" n="71"/>supposito quod non sit nisi vnus mundus numero: et 
+      <lb ed="#V" n="72"/>bene concedimus quod entia vnius mundi 
+      necessa<lb ed="#V" n="73" break="no"/>rio sunt connexa et ordinata inter se ad vnum 
+      finen<lb ed="#V" n="74" break="no"/>et principem: sed alia entia que essent alterius 
+      mun<lb ed="#V" n="75" break="no"/>di habent alium principem et rectorem. sicut si sint 
+      <lb ed="#V" n="76"/>plures exercitus habent plures principes. oportert 
+      <lb ed="#V" n="77"/>ergo primo probare quod non sint siue possint esse 
+      plu<lb ed="#V" n="78" break="no"/>res mundi: cuius oppositum probabilius 
+      videre<lb ed="#V" n="79" break="no"/>tur.
+    </p>
+            <p>
+      ¶ Et si arguas quod Aristo. primo celi et 
+      mundi<lb ed="#V" n="80" break="no"/>demonstrat quod non possunt esse plures mundi: sicut 
+      <lb ed="#V" n="81"/>nec nisi vna terra: nec nisi vnus ignis: et sic de aliis 
+      <lb ed="#V" n="82"/>elementis. Respondeo tibi quod rationes eius sunt 
+      <lb ed="#V" n="83"/>tantum probabiles et non demonstratiue. de 
+      qui<lb ed="#V" n="84" break="no"/>bus pro nunc discutere non est praesentis speculationis.
+    </p>
+            <p>
+               <lb ed="#V" n="85"/>Restat nunc perscrutandum: an vnitas 
+      <lb ed="#V" n="86"/>primi motoris possit demon 
+      <lb ed="#V" n="87"/>strari sub ratione cuiusdam forme exemplaris 
+      in<lb ed="#V" n="88" break="no"/>telligentis et nolentis omnia que continentur 
+      sub<lb ed="#V" n="89" break="no"/>esse. sunt enim quidam noui phylosophi dicentes 
+      <lb ed="#V" n="90"/>quod primus motor immobilis est quedam forma 
+      <lb ed="#V" n="91"/>exemplaris omnium entium eminenter subsistens: 
+      <lb ed="#V" n="92"/>et per consequens implurificabilis necessario: quod sic 
+      <lb ed="#V" n="93"/>probatur: quoniam sicut homo simpliciter est 
+      exem<lb ed="#V" n="94" break="no"/>plar et idea omnium hominum singularium: nec 
+      po<lb ed="#V" n="95" break="no"/>test plurificari in plures homines singulares: sicut 
+      <lb ed="#V" n="96"/>nec conceptus specificus: cui correspondet est 
+      plu<lb ed="#V" n="97" break="no"/>rificabilis. alias. esset processus in infinitum: et per 
+      <lb ed="#V" n="98"/>hanc rationem probat Auerroys. commentator 
+      <lb ed="#V" n="99"/>tertio de anima 8o quod intellectus erat simpliciter 
+      <lb ed="#V" n="100"/>implurificabilis: et quelibet intelligentia 
+      separa<lb ed="#V" n="101" break="no"/>ta: quia quelibet continet suam propriam 
+      speci<lb ed="#V" n="102" break="no"/>em: sic primus motor immobilis cum 
+      correspon<lb ed="#V" n="103" break="no"/>deat termino communi entis inquantum ens: et sit 
+      <lb ed="#V" n="104"/>quoddam exemplar et idea eminenter subsistens: 
+      <lb ed="#V" n="105"/>videtur esse omnino implurificabilis.
+    </p>
+            <p>
+      ¶ Adhuc 
+      <lb ed="#V" n="106"/>autem primus motor est cognoscens et intelligens 
+      <lb ed="#V" n="107"/>omnia distincte: ergo si essent plures motores et 
+      im<lb ed="#V" n="108" break="no"/>mobiles vnus intelligeret alium perfecte: autem 
+      er<lb ed="#V" n="109" break="no"/>go intelligeret eum per suam essentiam propriam: 
+      <lb ed="#V" n="110"/>autem per aliam speciem. secundum dari non potest: 
+      <lb ed="#V" n="111"/>quoniam tunc eius intellectio dependeret ab 
+      ali<lb ed="#V" n="112" break="no"/>quo extrinseco: et sic diceret aliquam 
+      imperfectio<lb ed="#V" n="113" break="no"/>nem: quod est impossibile. primum etiam dari non 
+      po<lb ed="#V" n="114" break="no"/>test: quoniam nihil causare potest intelligentiam 
+      <lb ed="#V" n="115"/>vel intellectionem alterius nisi contineat ipsum 
+      <lb ed="#V" n="116"/>virtualiter vel formaliter. vnus autem istorum 
+      mo<lb ed="#V" n="117" break="no"/>torum non continet alium nec virtualiter nec 
+      for<lb ed="#V" n="118" break="no"/>maliter. Confirmatur autem hec ratio: quoniam vna 
+      <lb ed="#V" n="119"/>intellectio numero non potest habere plura 
+      obie<lb ed="#V" n="120" break="no"/>cta adequata: sed si essent plures primi motores 
+      <lb ed="#V" n="121"/>immobiles quilibet illorum haberet propriam 
+      es<lb ed="#V" n="122" break="no"/>sentiam pro obiecto adequato: ergo non 
+      intellige<lb ed="#V" n="123" break="no"/>ret alterius essentiam: quoniam non potest aliquid 
+      <lb ed="#V" n="124"/>intelligere: quod non contineatur sub eius proprio obie¬
+      <pb ed="#V" n="102-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>cto adequato.
+    </p>
+            <p>
+      ¶ Adhuc autem tertio ex parte 
+      vo<lb ed="#V" n="2" break="no"/>luntatis demonstratur quod primus motor est 
+      omni<lb ed="#V" n="3" break="no"/>no implurificabilis: et hoc sic. voluntas primi 
+      mo<lb ed="#V" n="4" break="no"/>toris: cum sit infinita et recta: ergo diligit omnia pro 
+      <lb ed="#V" n="5"/>se diligibilia: ergo diligit alium motorem 
+      infini<lb ed="#V" n="6" break="no"/>tum cum sit in infinitum diligibilis: sed hoc est 
+      <lb ed="#V" n="7"/>falsum: quia cum voluntas regularis plus diligat 
+      <lb ed="#V" n="8"/>proprium bonum quam alienum. Uoluntas autem 
+      pri<lb ed="#V" n="9" break="no"/>mi motoris cum sit recta et conformis delectatio 
+      <lb ed="#V" n="10"/>ni naturali: ergo plus diligit se quam alium motorem: 
+      <lb ed="#V" n="11"/>ergo alium non diligit in infinitum: quia infinito 
+      <lb ed="#V" n="12"/>non est maius. Palam autem quid sit de veritate 
+      co<lb ed="#V" n="13" break="no"/>clusionis quod iste rationes non demonstrant primum 
+      <lb ed="#V" n="14"/>motorem omnino esse implurificabilem. Prima 
+      <lb ed="#V" n="15"/>enim de forma exemplari non concludit. possibile 
+      <lb ed="#V" n="16"/>enim est quod sint plura exemplaria: et idee plures 
+      <lb ed="#V" n="17"/>eiusdem rationis. Et ideo concesso quod primus 
+      mo<lb ed="#V" n="18" break="no"/>tor sit exemplar et idea omnium. Ex hoc non 
+      sequi<lb ed="#V" n="19" break="no"/>tur quod sit simpliciter implurificabilis. ac vero cum 
+      <lb ed="#V" n="20"/>arguis quod homo simpliciter est implurificabilis: eit 
+      <lb ed="#V" n="21"/>go et ens est simpliciter. concedo consequentiam: 
+      <lb ed="#V" n="22"/>sed nego antecedens. dico enim tibi quod homo 
+      po<lb ed="#V" n="23" break="no"/>test simpliciter plurificari: et possunt esse plures 
+      ho<lb ed="#V" n="24" break="no"/>mines simpliciter.
+    </p>
+            <p>
+      ¶ Et quum arguis quod conceptus 
+      spe<lb ed="#V" n="25" break="no"/>cificus obiectiuus est implurificabilis: ergo et 
+      ho<lb ed="#V" n="26" break="no"/>mo simpliciter: quia sibi correspondet. 
+      Respon<lb ed="#V" n="27" break="no"/>deo. concedo quod ratio obiectiualis conceptus 
+      speci<lb ed="#V" n="28" break="no"/>fici. est omnino implurificabilis: quia est idem cum 
+      <lb ed="#V" n="29"/>omnibus singularibus: ideo sicut omnia 
+      singula<lb ed="#V" n="30" break="no"/>ria non possunt plurificari: vt sicut sor. non est 
+      plu<lb ed="#V" n="31" break="no"/>res sor. sic nec decem homines sunt plures quam 
+      de<lb ed="#V" n="32" break="no"/>cem: nec omnes homines singulares sunt plures 
+      <lb ed="#V" n="33"/>homines singulares. Palam autem quod ex hoc non 
+      <lb ed="#V" n="34"/>sequitur quod homo sit simpliciter implurificabilis 
+      <lb ed="#V" n="35"/>omnino: quoniam conceptus obiectiuus 
+      specifi<lb ed="#V" n="36" break="no"/>cus claudens infra se formaliter omnes homines 
+      <lb ed="#V" n="37"/>et rationes omnium hominum singularium non 
+      <lb ed="#V" n="38"/>est idem cum illo homine simpliciter: nec per 
+      il<lb ed="#V" n="39" break="no"/>lum conceptum specificum obiectiuum homo 
+      sim<lb ed="#V" n="40" break="no"/>pliciter non intelligitur: scd si diceretur 
+      intelligi<lb ed="#V" n="41" break="no"/>iste homo platonicus separatus per aliud 
+      concipi<lb ed="#V" n="42" break="no"/>per aliud conciperetur. Ideo non sequitur. si 
+      con<lb ed="#V" n="43" break="no"/>ceptus obiectiuus specificus est implurificabilis: 
+      <lb ed="#V" n="44"/>quod ille homo platonicus sit implurificabilis.
+    </p>
+            <p>
+      ¶ Et 
+      <lb ed="#V" n="45"/>si arguas quod sint plures homines simpliciter: ab 
+      il<lb ed="#V" n="46" break="no"/>lis potest abstrahi conceptus communis: et tunc in 
+      <lb ed="#V" n="47"/>conceptibus erit processus in infinitum: vt alias 
+      <lb ed="#V" n="48"/>fuit dictum. Respondeo tibi quod ab illis pluribus 
+      <lb ed="#V" n="49"/>hominibus simpliciter posset abstrahi conceptus 
+      <lb ed="#V" n="50"/>communis sicut a primitate simpliciter: potest ab 
+      <lb ed="#V" n="51"/>strahi conceptus communis: et sic a primo 
+      motore<lb ed="#V" n="52" break="no"/>quem tu ponis ens simpliciter: et a rosa simpliciter 
+      po<lb ed="#V" n="53" break="no"/>test abstrahi conceptus communis: sic in 
+      proposi<lb ed="#V" n="54" break="no"/>to verum. Iste communis conceptus a duobus 
+      <lb ed="#V" n="55"/>hominibus simpliciter non est conceptus 
+      specifi<lb ed="#V" n="56" break="no"/>cus hominis in quo clauduntur formaliter 
+      om<lb ed="#V" n="57" break="no"/>nes realitates singularium hominum: ideo nec 
+      su<lb ed="#V" n="58" break="no"/>perior ad ipsum nec predicabilis de ipso: sed 
+      tan<lb ed="#V" n="59" break="no"/>tum predicabilis de illis duobus platonicis homi 
+      <lb ed="#V" n="60"/>nibus: et de omnibus aliis hominibus simpliciter. 
+    </p>
+            <p>
+               <lb ed="#V" n="61"/>¶ Dicamus ergo quod ratio ista non concludit: 
+      quo<lb ed="#V" n="62" break="no"/>niam dato quod primus motor esset omne ens emi¬
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="63"/>
+               <!-- line coord error -->
+               <lb ed="#V" n="64"/>nenter subsistens. Ex hoc nipn sequitur quod esset 
+      fim<lb ed="#V" n="65" break="no"/>pliciter implurificabilis. Secunda vero ratio non 
+      <lb ed="#V" n="66"/>concludit quando arguitu quod si intelligeret se: qut 
+      <lb ed="#V" n="67"/>hoc esset per essentiam propriam etc. Respondetur quod 
+      <lb ed="#V" n="68"/>intelligeret se per rationem propriam 
+      intelligen<lb ed="#V" n="69" break="no"/>di que est idem cum essentia propria: sed cum 
+      ad<lb ed="#V" n="70" break="no"/>ditur: ergo eminenter continet alium est 
+      negan<lb ed="#V" n="71" break="no"/>dum. Nam intelligere potest esse nobilius et igno 
+      <lb ed="#V" n="72"/>bilius obiecto intellecto: et eque nobile: ideo pot est 
+      <lb ed="#V" n="73"/>dici quod vnus potest esse intellectio alterius et 
+      econ<lb ed="#V" n="74" break="no"/>uerso: nec tamen nobilior vel ignobilior: sed eque 
+      <lb ed="#V" n="75"/>nobilis: nisi addas quod sint alterius rationis.
+    </p>
+            <p>
+      ¶ Ad 
+      <lb ed="#V" n="76"/>tertium cum tu dicis: quod quilibet eorum haberent 
+      duo<lb ed="#V" n="77" break="no"/>obiecta adequata: negatur: quoniam quilibet erit 
+      <lb ed="#V" n="78"/>intellectio sui et alterius: nec transiret in alium 
+      in<lb ed="#V" n="79" break="no"/>telligendo se: sed transiret supra se et supra alium 
+      <lb ed="#V" n="80"/>immediate. Ista igitur via de causa exemplari non 
+      <lb ed="#V" n="81"/>demonstrat primum motorem esse 
+      implurificabi<lb ed="#V" n="82" break="no"/>lem: sed sic equaliter probabilem.
+    </p>
+            <p>
+               <lb ed="#V" n="83"/>Amplius autem restat inquirere de 
+      <lb ed="#V" n="84"/>via necessitatis et 
+      in<lb ed="#V" n="85" break="no"/>finitatis: an necessario concludat primum 
+      moto<lb ed="#V" n="86" break="no"/>rem esse implurificabilem vel non. fertur autem a 
+      <lb ed="#V" n="87"/>quodam quod sic. et ratio est talis. omnis natura 
+      plu<lb ed="#V" n="88" break="no"/>rificabilis seu communicabilis pluribus eiusdem 
+      <lb ed="#V" n="89"/>rationis quantum est de se potest plurificari in in 
+      <lb ed="#V" n="90"/>finitum nisi determinaretur per aliquod prius. 
+      <lb ed="#V" n="91"/>ratio huius propositionis est ista: quoniam ex quo 
+      <lb ed="#V" n="92"/>natura non determinatur ad alium certum 
+      nume<lb ed="#V" n="93" break="no"/>rum indiuiduorum eadem ratione qua potest 
+      com<lb ed="#V" n="94" break="no"/>municari duobus vel tribus: et infinitis. ergo si 
+      na<lb ed="#V" n="95" break="no"/>tura specifica primi motoris est implurificabilis. 
+      <lb ed="#V" n="96"/>possibile est totum in actu: quia illa omnia sunt 
+      ne<lb ed="#V" n="97" break="no"/>cessaria: ergo fequitur quod ibi erunt actu infiniti 
+      pri<lb ed="#V" n="98" break="no"/>mi motores eiusdem rationis. Attamen ista ratio 
+      <lb ed="#V" n="99"/>dissolubilis est: nec proprie demonstrat: quia vt 
+      fer<lb ed="#V" n="100" break="no"/>tur: stelle celi sunt eiusdem rationis: et cum 
+      natura<lb ed="#V" n="101" break="no"/>specifica stellarum determinetur ad certum 
+      nu<lb ed="#V" n="102" break="no"/>merum indiuiduorum: sicut fertur a quibusdan 
+      dicem<lb ed="#V" n="103" break="no"/>tibus quod non est nisi vnum nunc in toto tempore. 
+    </p>
+            <p>
+               <lb ed="#V" n="104"/>¶ Adhuc autem dicitur quod sicut quiditas entium et x 
+      <lb ed="#V" n="105"/>se determinatur ad certum numerum 
+      predicamen<lb ed="#V" n="106" break="no"/>torum: et genus ad certum numerum specierum 
+      <lb ed="#V" n="107"/>et differentiarum: vt fertur: ergo et natura specifica 
+      <lb ed="#V" n="108"/>ex se determinabitur ad certum numerum 
+      diffe<lb ed="#V" n="109" break="no"/>rentiarum et indiuiduantium: et videtur dissimile 
+      <lb ed="#V" n="110"/>quod vnum possibile sit perfectibile infinitis 
+      differen<lb ed="#V" n="111" break="no"/>tiis: licet hoc communiter a philosophis sit concessum. additur 
+      au<lb ed="#V" n="112" break="no"/>tem ratio secunda talis: nullum necesse est esse 
+      plu<lb ed="#V" n="113" break="no"/>rificabile: quia non possunt esse plura necesse esse. 
+      <lb ed="#V" n="114"/>Primus autem motor est quoddam necesse esse. 
+      <lb ed="#V" n="115"/>ergo implurificabilis. At vero hec ratio non 
+      conclu<lb ed="#V" n="116" break="no"/>dit: quoniam prima propositio. quasi ab omnibus 
+      <lb ed="#V" n="117"/>phylosophis est negata. solo autem excepto 
+      Auicen<lb ed="#V" n="118" break="no"/>na. ponunt enim phylosophi omnes intelligentias 
+      <lb ed="#V" n="119"/>et orbes et motores orbium esse necessaria. difficilis 
+      <lb ed="#V" n="120"/>ergo inuenitur demonstratio ad propositum 
+      con<lb ed="#V" n="121" break="no"/>cludendum. Dicamus ergo vltimam 
+      demonstra<lb ed="#V" n="122" break="no"/>tionem magis apparentem: concludentem primum 
+      <lb ed="#V" n="123"/>motorem esse implurificabilem: que sit talis. 
+      Nul<lb ed="#V" n="124" break="no"/>lum infinitum simpliciter infinitate proprii 
+      gene<lb ed="#V" n="125" break="no"/>ris vel speciei est plurifificabie. primus motor est
+      <pb ed="#V" n="103-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>simpliciter infinitus infinitate proprii generis vel 
+      <lb ed="#V" n="2"/>speciei. ergo est simpliciter implurificabilis. vel 
+      <lb ed="#V" n="3"/>magis concludo negatiue. primus motor non est 
+      <lb ed="#V" n="4"/>plurificabilis. Secunda propositio huius ratio 
+      <lb ed="#V" n="5"/>nis est euidens ex prioribus dictis in capitulo de 
+      <lb ed="#V" n="6"/>infinitate primi motoris. Sed totum pondus stat 
+      <lb ed="#V" n="7"/>in declaratione primae propositionis. perscrutemut 
+      <lb ed="#V" n="8"/>igitur de veritate huius propositionis. nullum 
+      in<lb ed="#V" n="9" break="no"/>finitum simpliciter infinitate proprii generis et 
+      spe<lb ed="#V" n="10" break="no"/>ciei est plurificabile. Ad cuius euidentiam debes 
+      <lb ed="#V" n="11"/>aduertere: quod infinitum infinitate simpliciter 
+      po<lb ed="#V" n="12" break="no"/>test capi vel formaliter vel equipollenter: vel 
+      eui<lb ed="#V" n="13" break="no"/>denter vel perfectionabiliter. Exemplum. linea 
+      di<lb ed="#V" n="14" break="no"/>citur infinita formaliter infinitate proprie nature 
+      <lb ed="#V" n="15"/>et speciei. si clauderet infra se omnem lineam 
+      actu<lb ed="#V" n="16" break="no"/>positam et possibilem: acceptam et acceptabilem. 
+      <lb ed="#V" n="17"/>Exemplum de calore. tunc enim dicitur calor 
+      in<lb ed="#V" n="18" break="no"/>finitus formaliter: si claudat infra se omnes 
+      gra<lb ed="#V" n="19" break="no"/>dus caloris acceptos et acceptabiles: et sic potes 
+      po<lb ed="#V" n="20" break="no"/>nere exemplum de aliis. exemplum. si aliquid 
+      di<lb ed="#V" n="21" break="no"/>citur infinitum: infinitate sue nature et proprie 
+      spe<lb ed="#V" n="22" break="no"/>ciei eminenter perfectionabiliter et equipollenter: 
+      <lb ed="#V" n="23"/>non quia claudit infra se omnes gradus nature sue 
+      <lb ed="#V" n="24"/>et speciei acceptos et acceptabiles: sed quia claudit 
+      <lb ed="#V" n="25"/>omnes gradus sue proprie speciei eminenter et 
+      equ<lb ed="#V" n="26" break="no"/>pollenter: et sic intelligo quod differentia indiuidualis 
+      <lb ed="#V" n="27"/>formaliter constitutiua illius equipollenter 
+      omni<lb ed="#V" n="28" break="no"/>bus aliis differentis indiuiduantibus omnium 
+      <lb ed="#V" n="29"/>singularium proprie speciei. Palam autem quod 
+      in<lb ed="#V" n="30" break="no"/>finitum acceptum primo modo non est 
+      plurifica<lb ed="#V" n="31" break="no"/>bile. linea enim sic infinita: que claudit omnes 
+      li<lb ed="#V" n="32" break="no"/>neas acceptas et acceptabiles nullo modo 
+      plurifi<lb ed="#V" n="33" break="no"/>cari potest: quoniam iam non includeret omnes 
+      li<lb ed="#V" n="34" break="no"/>neas possibiles reperiri. Si ergo primus motor sit 
+      <lb ed="#V" n="35"/>includens omnes gradus sue nature et speciei 
+      for<lb ed="#V" n="36" break="no"/>maliter: necessario sequitur quod esset omnino 
+      implu<lb ed="#V" n="37" break="no"/>rificabilis. sed vt supra dictum fuit non includit sic 
+      <lb ed="#V" n="38"/>formaliter omnes gradus acceptos et 
+      acceptabi<lb ed="#V" n="39" break="no"/>les: sed tantum perfectionabiliter et equipollenter. 
+      <lb ed="#V" n="40"/>At vero perscrutemur an infinitum includens per 
+      <lb ed="#V" n="41"/>fectionaliter et equipollenter omnes gradus 
+      pro<lb ed="#V" n="42" break="no"/>prie nature et speciei sit formaliter 
+      implurificabi<lb ed="#V" n="43" break="no"/>le: quoniam si sic demonstratiue concluditur quod 
+      pri<lb ed="#V" n="44" break="no"/>mus motor ratione sue infinitatis sit simpliciter 
+      im<lb ed="#V" n="45" break="no"/>plurificabilis: et fertur quod sic: quoniam impossibile 
+      <lb ed="#V" n="46"/>est quod sub eadem specie contineantur plura indiuidua. 
+      <lb ed="#V" n="47"/>quorum differentie indiuiduales ipsorum constitutiue 
+      <lb ed="#V" n="48"/>contineant equipollenter omnes differentias 
+      indiui<lb ed="#V" n="49" break="no"/>duales omnium singularium istius specie: quoniam 
+      <lb ed="#V" n="50"/>tunc vna illarum contineret eminenter aliam: et 
+      <lb ed="#V" n="51"/>econuerso contineretur ab illa: quod impossibile. 
+      Con<lb ed="#V" n="52" break="no"/>formiter autem est dicendum de infinito 
+      infinita<lb ed="#V" n="53" break="no"/>te generis vel simpliciter: quod in se claudit omnem 
+      en<lb ed="#V" n="54" break="no"/>titatem possibilem reperiri in aliquo vno: quoniam 
+      <lb ed="#V" n="55"/>possibile non est tale infinitum plurificari: quoniam 
+      <lb ed="#V" n="56"/>si essent plura talia infinita eodem modo vnum 
+      con<lb ed="#V" n="57" break="no"/>tineret aliud eminenter et contineretur ab illo. 
+      Exem<lb ed="#V" n="58" break="no"/>plum. si differentia indiuidualis sort. contineret 
+      emi<lb ed="#V" n="59" break="no"/>nenter omnes alias differentias indiuiduales 
+      con<lb ed="#V" n="60" break="no"/>trahentes materiam humanam acceptas et 
+      accepta<lb ed="#V" n="61" break="no"/>biles. Similiter differentia indiuidualis platonis: 
+      <lb ed="#V" n="62"/>et econuerso contineretur ab ista: cum vtraque sit dif¬
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="63"/>ferentia contrahens naturam humanam. 
+      Conclu<lb ed="#V" n="64" break="no"/>damus ergo quod infinitas simpliciter primi motoris 
+      <lb ed="#V" n="65"/>magis eminenter concludit quod primus motor est 
+      im<lb ed="#V" n="66" break="no"/>plurificabilis quam quecumque alia via de praedictis. 
+      Qui<lb ed="#V" n="67" break="no"/>melius sciuerit demonstrare primum motorem 
+      <lb ed="#V" n="68"/>esse implurificabilem et numero vnum demonstret: 
+      <lb ed="#V" n="69"/>quoniam de hoc plus audire volo quam aliquid 
+      scri<lb ed="#V" n="70" break="no"/>bere. Hec autem iterum dicta sunt de proprietati 
+      <lb ed="#V" n="71"/>bus primi motoris nostri negatiuis autem priuatiuis. 
+      <lb ed="#V" n="72"/>Nunc autem ad proprietates affirmatiuas 
+      acce<lb ed="#V" n="73" break="no"/>damus. In hoc enim liber secundus nostre theologie 
+      ter<lb ed="#V" n="74" break="no"/>minatur. Et tertius subsequitur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

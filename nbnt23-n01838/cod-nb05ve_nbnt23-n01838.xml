@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="93-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n01838"><!--ntheol-l1c6-->
+            <head xml:id="nbnt23-n01838-Hd1e97">Caput 6</head>
+            <head xml:id="nbnt23-n01838-Hd1e99" type="question-title">An habitus theologicus sit intuitivus vel abstractivus</head>
+            <p xml:id="nbnt23-n01838-d1e102">
+               <lb ed="#V" n="90"/>¶ An habitus theologicus sit intuitiuus vel 
+      abstra<lb ed="#V" n="91" break="no"/>ctiuus. Caput VI.
+    </p>
+            <p xml:id="nbnt23-n01838-d1e109">
+               <lb ed="#V" n="92"/>PErsctrutandum est ero de 
+      actu<lb ed="#V" n="93" break="no"/>habitus 
+      theo<lb ed="#V" n="94" break="no"/>logici: an sit intuitiuus vel abstractiuus. 
+      <lb ed="#V" n="95"/>e notitia autem intuitiua et 
+      abstracti<lb ed="#V" n="96" break="no"/>ua prolixius fuit dictum in 
+      metaphysi<lb ed="#V" n="97" break="no"/>ca. libro. 2. capite 5 et quid sit intuitiua et abstractiua 
+      <lb ed="#V" n="98"/>et quomodo distinguuntur: et quomodo non: an etiam intuitiua 
+      <lb ed="#V" n="99"/>possit esse sine obiecto praesente vel non sit intellectus 
+      tu<lb ed="#V" n="100" break="no"/>semper applicatiuus istorum ad tuum propositum in 
+      <lb ed="#V" n="101"/>qualibet scientia. Attamen de hoc quod queris in speciali an 
+      <lb ed="#V" n="102"/>actus huius habitus et theologici respectu primi 
+      mo<lb ed="#V" n="103" break="no"/>toris sit intuitiuus vel abstractiuus sic quod talis 
+      habi<lb ed="#V" n="104" break="no"/>tus sit generatus ex actibus intuitiuis vel 
+      abstra<lb ed="#V" n="105" break="no"/>ctiuis. Respondeo tibi distinguendo de subiecto 
+      ha<lb ed="#V" n="106" break="no"/>bitus theologici vel vt habet esse in intellectum sui: vel 
+      <lb ed="#V" n="107"/>in intellectum secundi motoris vel in intellectum nostro 
+      communiun<lb ed="#V" n="108" break="no"/>cto corpori in primo intellectum est intuitiua: et in 2o sicut 
+      <lb ed="#V" n="109"/>fertur: sed in tertio abstractiua. Utrum autem de primo 
+      <lb ed="#V" n="110"/>motore viverla de aliquo formaliter incluso in ipso: possit 
+      ali<lb ed="#V" n="111" break="no"/>quis intellectus communiunctus vel separatus habere 
+      noti<lb ed="#V" n="112" break="no"/>tiam intuitiuam ex puris naturalibus: posterius erit 
+      <lb ed="#V" n="113"/>perscrutatio: cum de cognitione primi motoris erit 
+      ser<lb ed="#V" n="114" break="no"/>mo. libro tertio. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

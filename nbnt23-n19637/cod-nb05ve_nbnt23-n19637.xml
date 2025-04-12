@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="121-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n19637"><!--ntheol-l5c4-->
+            <head xml:id="nbnt23-n19637-Hd1e97">Caput 4</head>
+            <head xml:id="nbnt23-n19637-Hd1e99" type="question-title">De processu spiritus sancti a patere et filio</head>
+            <p xml:id="nbnt23-n19637-d1e102">
+               <lb ed="#V" n="112"/>¶ De processu spiritus sancti a patere et filio. Cap. IIII.
+    </p>
+            <p xml:id="nbnt23-n19637-d1e107">
+               <lb ed="#V" n="113"/>HAbet autem dubitationem non 
+      mo<lb ed="#V" n="114" break="no"/>dicam an primum 
+      suppo<lb ed="#V" n="115" break="no"/>situm per se productum duorum suppositorum 
+      <lb ed="#V" n="116"/>productorum vel tantum per se producat 2m 
+      <lb ed="#V" n="117"/>et primum et 2m producant 3m suppositis.
+    </p>
+            <p xml:id="nbnt23-n19637-d1e120">
+      ¶ 
+      Ori<lb ed="#V" n="118" break="no"/>tur etiam 2m ductum supposito quod 3m suppscitum non procedat 
+      <lb ed="#V" n="119"/>a 2o sed tantum a primo: an distingueretur a 2o.
+    </p>
+            <p xml:id="nbnt23-n19637-d1e128">
+      ¶ Pro 
+      dis<lb ed="#V" n="120" break="no"/>solutione primi dubii ponitur propositio affirmatiua a 
+      <lb ed="#V" n="121"/>pluribus scilicet quod primum et 2m suppscitum simul et equaliter et 
+      con<lb ed="#V" n="122" break="no"/>formiter producunt 3m suppositum: et ratio huius 
+      propo<lb ed="#V" n="123" break="no"/>sitionis est ista: quoniam omne suppositum perfectum habens in 
+      <lb ed="#V" n="124"/>se principium productiuum alicuius termini antequam 
+      i<lb ed="#V" n="125" break="no"/>lud principium hebeat terminum suum adequatum producit istum 
+      <lb ed="#V" n="126"/>terminum: sed voita que est prinicitum productiuum terti 
+      suppo<lb ed="#V" n="127" break="no"/>siti est in supposito 2o et in primo antequam hebeat terminum suum 
+      <lb ed="#V" n="128"/>adequatum. ergo primum et 2m suppositum silt producunt 3m suppositua. 
+    </p>
+            <p xml:id="nbnt23-n19637-d1e150">
+               <lb ed="#V" n="129"/>¶ Ex his autem infertur quod 2m suppositum non potest dicere seu 
+      <lb ed="#V" n="130"/>generare: licet in eo sit potentia productiua dicendi et ge¬
+      <pb ed="#V" n="121-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>nerandi: quoniam intellectus praehabet terminum suum 
+      ade<lb ed="#V" n="2" break="no"/>quatum antequam communicetur secundo supposito scilicet ipsummet ver 
+      <lb ed="#V" n="3"/>bum.
+    </p>
+            <p xml:id="nbnt23-n19637-d1e168">
+      ¶ Adhuc autem ex hoc sequitur quod ista tria 
+      supe<lb ed="#V" n="4" break="no"/>posita sunt vnum principium creature ad extra: quia 
+      prin<lb ed="#V" n="5" break="no"/>cipium productiuum est in tribus antequam creatura 
+      pro<lb ed="#V" n="6" break="no"/>ducatur. et per consequens producit ad extra et in esse 
+      rea<lb ed="#V" n="7" break="no"/>li et in esse intentionali producendo obiecta in esse 
+      co<lb ed="#V" n="8" break="no"/>gnito producendo verba de obiectis ditats.
+    </p>
+            <p xml:id="nbnt23-n19637-d1e181">
+      ¶ Et si 
+      <lb ed="#V" n="9"/>arguas: quod ad variationem suppositorum necessario: 
+      <lb ed="#V" n="10"/>sequitur variatio productionum. Dicitur quod non oportet 
+      vbi<lb ed="#V" n="11" break="no"/>ratio formalis qua. non variatur: licet ipsum quod. varietur. Est autem 
+      <lb ed="#V" n="12"/>vnum quo in tribus suppositis: licet sint plicta quod.
+    </p>
+            <p xml:id="nbnt23-n19637-d1e192">
+      ¶ Sed 
+      for<lb ed="#V" n="13" break="no"/>te adhuc argues: quod ista respoeno non sufficit: quoniam vbi est 
+      <lb ed="#V" n="14"/>vnum qua. si sint ibi plicta quod. necessario variatur actio et 
+      produ<lb ed="#V" n="15" break="no"/>ctio. hoc probatur. ex exemplo muliisi reparto in istis inferio 
+      <lb ed="#V" n="16"/>ribus.
+    </p>
+            <p xml:id="nbnt23-n19637-d1e203">
+      ¶ primum de anima intellectiua: quae est prinsicitum sensentia quo. in 
+      pe<lb ed="#V" n="17" break="no"/>de et in manu: et tamen manus potest sentire calorem et non pes. 
+      <lb ed="#V" n="18"/>Exemplum de anima celi: quae secundum quod viendetr innuere philosophi est 
+      fori<lb ed="#V" n="19" break="no"/>omnium orbium et principium quo. motus localis: et tamen omnes 
+      celi<lb ed="#V" n="20" break="no"/>habentes illam animam non mouentur eodem motu: immo 
+      mouen<lb ed="#V" n="21" break="no"/>tur motibus oppositis. Exemplum est de grauitate: quoniam 
+      <lb ed="#V" n="22"/>si esset in pluribus corporibus vna grauitas numero: adhuc 
+      <lb ed="#V" n="23"/>non oportet quod si vnum graue moueretur deorsum quod omnia alia 
+      <lb ed="#V" n="24"/>necessario mouerent deorsum. Idem dicitur de albedine. 
+      si<lb ed="#V" n="25" break="no"/>vna numero esset in pluribus albis subiectiue vnum album 
+      produ<lb ed="#V" n="26" break="no"/>ceret ex se sucesium aliis albis nihil cooparantibus in ratio 
+      <lb ed="#V" n="27"/>ne causae efficientis.
+    </p>
+            <p xml:id="nbnt23-n19637-d1e230">
+      ¶ Ratio autem istorum omnium assignatur 
+      <lb ed="#V" n="28"/>talis: quoniam actio nontantum dependet essentialiter a printus quo 
+      <lb ed="#V" n="29"/>immo etim dependet essentialiter a printeo quod. Ad propositum autem re 
+      <lb ed="#V" n="30"/>uertentes. Conformaliter dicunt: quod licet in duobus prmis 
+      supposi<lb ed="#V" n="31" break="no"/>tis sit principium qua producendi 3m suppositum: non sequitur ex hoc 
+      ne<lb ed="#V" n="32" break="no"/>cessario quod si vnum producit quod propter hoc aliud 
+      produ<lb ed="#V" n="33" break="no"/>cat necessario: et si produceret vt quod necessario alia productione 
+      <lb ed="#V" n="34"/>produceret. Adhuc autem 3m suppositum praecise procedit a primo et 
+      <lb ed="#V" n="35"/>nullotuo: a 2o quoniam si ab ambobus procederet necessario 
+      dua<lb ed="#V" n="36" break="no"/>bus productibus actiuis produceretur: cum prinitua productiua ponantur. 
+      <lb ed="#V" n="37"/>hoc autem videtur impossibile quod ad amorem spiratum sint 2e 
+      produ<lb ed="#V" n="38" break="no"/>ctiones actiue: quoniam iam dictum est quod gnrorio actiua et spiratio 
+      <lb ed="#V" n="39"/>actiua non sunt pluriles: et si essent a duobus essentpluritu 
+    </p>
+            <p xml:id="nbnt23-n19637-d1e259">
+               <lb ed="#V" n="40"/>¶ Dissolutio tamen omnium istorum licet sit difficilis: non tamen 
+      vi<lb ed="#V" n="41" break="no"/>impossibilis: quoniam licet praedicta tua exsa haberent locum 
+      vbi<lb ed="#V" n="42" break="no"/>vnum est quo. praecise et quod. in proposito tamen nostro locum non habent 
+      <lb ed="#V" n="43"/>quia productio notitia genite non est ab intellectu praecicute: sicut a printuo 
+      <lb ed="#V" n="44"/>quo. productiuo: immo est ipsum quo. et quod. proximum: licet 
+      <lb ed="#V" n="45"/>suppositum in quae est sit ipsum quo remotum: et quasi per accidens 
+      <lb ed="#V" n="46"/>siliter autem voluntas non est tantum principium quo retlietia amoris 
+      spi<lb ed="#V" n="47" break="no"/>rati: sed est princitum quod. proximum. Ista autem 2o supposita sunt 
+      <lb ed="#V" n="48"/>prinsictum quod. remotum et quasi per accidens.
+    </p>
+            <p xml:id="nbnt23-n19637-d1e281">
+      ¶ Et si vnum 
+      suppositum
+      <lb ed="#V" n="49"/>habens illud principium quo et quod producit necessario et aliud 
+      produ<lb ed="#V" n="50" break="no"/>cit.
+    </p>
+            <p xml:id="nbnt23-n19637-d1e288">
+      ¶ Dicamus ergo quod 3m suppositum producitur a duobus 
+      prim<lb ed="#V" n="51" break="no"/>mis et non ab vno tantum: qui vero aliter voluerit vel poterit 
+      <lb ed="#V" n="52"/>dissoluere dubitationem predictam dissoluat. si hec
+      <lb ed="#V" n="53"/>sibi non satistaciant:
+    </p>
+            <p xml:id="nbnt23-n19637-d1e297">
+               <lb ed="#V" n="54"/>Dissolutio: autem dubitationis 2e qua dubitatur: 
+      <lb ed="#V" n="55"/>an 3m suppositum distingueretur a 2o si non produceretur ab 
+      <lb ed="#V" n="56"/>eo facilis est. pro qua ponuntur itae propotiones.
+    </p>
+            <p xml:id="nbnt23-n19637-d1e306">
+      ¶ prima propositio sit 
+      ta<lb ed="#V" n="57" break="no"/>lis: quod 3m suppositium distingueret a 2o formaliter ex natura rei. 
+      <lb ed="#V" n="58"/>hec probatur: quoniam per se terminus spirationis actiue et 
+      passi<lb ed="#V" n="59" break="no"/>ue et quidictiue distinguitur a per se termino gnortionis actiue scilicet 
+      <lb ed="#V" n="60"/>amor et notitia. Tamen quia spiratio pasia et dictio passiua sunt 
+      fori<lb ed="#V" n="61" break="no"/>distincta. ergo et illa in quibus formaliter includitur. 2m autem 
+      <lb ed="#V" n="62"/>suppositum formaliter includit dictionem passiuam et 3m 
+      spira<lb ed="#V" n="63" break="no"/>tionem passiuam. ergo etc.
+    </p>
+            <p xml:id="nbnt23-n19637-d1e325">
+      ¶ 2a propositio sit talis. si 3m suppositum 
+      <lb ed="#V" n="64"/>non procederet a 2o adhuc distingueretur ab eo. hoc 
+      pro<lb ed="#V" n="65" break="no"/>batur. quoniam realitate: que est in isto et non alio distingue
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>retur.
+    </p>
+            <p xml:id="nbnt23-n19637-d1e336">
+      ¶ Est autem aliqua realitas in supposito vt 
+      <lb ed="#V" n="67"/>spiratio passiua: que non est in 2o supposito.
+    </p>
+            <p xml:id="nbnt23-n19637-d1e341">
+      ¶ 3a 
+      pro<lb ed="#V" n="68" break="no"/>positio sit talis. suppositum 2m plus distinguitur a 3o quamm 
+      <lb ed="#V" n="69"/>a 2o hoc probatur: quoniam plures realitates sunt in 2o quibus 
+      <lb ed="#V" n="70"/>distinguitur a 3 scilicet gnerantio passiua et spiratio actiua quam 
+      <lb ed="#V" n="71"/>in 3o vbi non nisi tantum vna realitas qua differt a 2o scilicet 
+      <lb ed="#V" n="72"/>spiratio passiua.
+    </p>
+            <p xml:id="nbnt23-n19637-d1e354">
+      ¶ Adhuc autem plus distinguitur 
+      pri<lb ed="#V" n="73" break="no"/>mum suppositum et 2m a 3o quam inter se: quoniam primum et 2m 
+      di<lb ed="#V" n="74" break="no"/>stinguuntur a3o in duobus. inter se autem in vno. simitues 
+      <lb ed="#V" n="75"/>in pluribus conueniunt inter se quam cum 3o quoniam 
+      in<lb ed="#V" n="76" break="no"/>ter se conueniunt in duobus: cum 3o autem 
+      conue<lb ed="#V" n="77" break="no"/>niunt precise in vno.
+    </p>
+            <p xml:id="nbnt23-n19637-d1e367">
+      ¶ Et si queras: an 2m et 3m 
+      di<lb ed="#V" n="78" break="no"/>stinguerentur suppositaliter. si vnum non procederet ab 
+      <lb ed="#V" n="79"/>alio.
+    </p>
+            <p xml:id="nbnt23-n19637-d1e374">
+      ¶ Fertur a quodam quod non: quia 2m suppositum tunc non 
+      <lb ed="#V" n="80"/>esset suppositum: quia non tantum generatio passiua est 
+      consti<lb ed="#V" n="81" break="no"/>tutiua suppositi secundi: immo spiratio actiua. Sed 
+      <lb ed="#V" n="82"/>hoc illud est dubium an spiratio actiua sit partiale 
+      <lb ed="#V" n="83"/>constitutiuum suppositi incommunicabilis: cum ipsa non 
+      <lb ed="#V" n="84"/>sit incommunicabilis: immo duobus suppositis communica 
+      <lb ed="#V" n="85"/>bilis. ideo dicitur quod ipsa nullo modo est constitutiua: quoniam 
+      <lb ed="#V" n="86"/>si primum suppositum et 2m conuenirent in vna ratione 
+      for<lb ed="#V" n="87" break="no"/>mali constitutiua. videtur quod conuenirent in constituto: 
+      <lb ed="#V" n="88"/>sicut que conueniunt in vna differentia indiuiduali 
+      <lb ed="#V" n="89"/>sunt vnum indiuiduum. Sed forte dices quod verum est 
+      si<lb ed="#V" n="90" break="no"/>conuenirent in vna ratione formali constitutiua 
+      tota<lb ed="#V" n="91" break="no"/>li: non autem partiali. Spiratio autem actiua non ponitur 
+      to<lb ed="#V" n="92" break="no"/>talis ratio formalis constitutiua suppositi: sed 
+      par<lb ed="#V" n="93" break="no"/>tialis et alia partialis est generare in primo supposito et 
+      <lb ed="#V" n="94"/>generari in 2o responsionem quere.
+    </p>
+            <p xml:id="nbnt23-n19637-d1e410">
+      ¶ Amplius 
+      <lb ed="#V" n="95"/>autem restat dubitatio de istis produaribus supposito quod 
+      <lb ed="#V" n="96"/>fecunditas voluntatis esset prior quam fecunditas 
+      intel<lb ed="#V" n="97" break="no"/>lectus.
+    </p>
+            <p xml:id="nbnt23-n19637-d1e419">
+      ¶ Fertur a quodam quod esset modo opposito quam 
+      <lb ed="#V" n="98"/>modo: quoniam persona que nuc est 3a esset 2a: et que 
+      num<lb ed="#V" n="99" break="no"/>est 2a esset 3: et que nune producitur ab vna produceretur 
+      <lb ed="#V" n="100"/>a duabus: et que produs a duabus nunc: no producere 
+      <lb ed="#V" n="101"/>tur nisi ab vna: nam spritus spiratus tunc esset perma 
+      perso<lb ed="#V" n="102" break="no"/>na producta et esset producta precise a prima persona. Et 
+      <lb ed="#V" n="103"/>verbum nullo modo haberet causalitatem respectu 
+      spi<lb ed="#V" n="104" break="no"/>rati: quoniam prius non potest produci a posteriori. spiritus autem 
+      spi<lb ed="#V" n="105" break="no"/>ratus esset prius productus quam verbum. ideo ab ipso non 
+      <lb ed="#V" n="106"/>produceretur.
+    </p>
+            <p xml:id="nbnt23-n19637-d1e441">
+      ¶ At vero illud dictum est multum dubium: 
+      <lb ed="#V" n="107"/>quoniam hoc supposito si esset possibile esset ibi de facto: 
+      <lb ed="#V" n="108"/>quoniam quicquid est ibi possibile est de facto: cum in per 
+      <lb ed="#V" n="109"/>petuis et necessaruis non differant esse et posse.
+    </p>
+            <p xml:id="nbnt23-n19637-d1e450">
+      ¶ 
+      Pa<lb ed="#V" n="110" break="no"/>lam ergo quod omnino esset eodem modo: sicut nunc sunt: nisi 
+      <lb ed="#V" n="111"/>illud impossibile mutaret naturam: quod non videtur: 
+      im<lb ed="#V" n="112" break="no"/>mo quod plus est si primum suppositum prius pervnum annum 
+      <lb ed="#V" n="113"/>produxisset spiritum spiratum quam verbum: deinde produxissed 
+      <lb ed="#V" n="114"/>verbum: adhuc verbum nunc produceret spitum 
+      spira<lb ed="#V" n="115" break="no"/>tum: quia primum suppositum producendo verbum communicasset 
+      <lb ed="#V" n="116"/>sibi spirationem actiuam. si natura ista spiraret: sicut nunc 
+      <lb ed="#V" n="117"/>spirat.
+    </p>
+            <p xml:id="nbnt23-n19637-d1e470">
+      ¶ Exemplum pono tibi si paternitas 
+      aui<lb ed="#V" n="118" break="no"/>mei separaretur ab eo et mihi communicaretur. ego tunc esse. 
+      <lb ed="#V" n="119"/>pater patris mei.
+    </p>
+            <p xml:id="nbnt23-n19637-d1e477">
+      ¶ Et si adhuc queras. quare 
+      ge<lb ed="#V" n="120" break="no"/>neratio actiua non comunicatur 3o supposito cum 
+      si<lb ed="#V" n="121" break="no"/>bi non repugnet: et primum suppositum sibi communicet quicquid 
+      <lb ed="#V" n="122"/>sibi non repugnat. Dicitur quod ideo est: quia tunc spiritus 
+      spi<lb ed="#V" n="123" break="no"/>ratus scilicet 3a persona produceret verbum: et cum hoc 
+      produ<lb ed="#V" n="124" break="no"/>ceretur a verbo. Talis autem circulatio in produribus et 
+      pro<lb ed="#V" n="125" break="no"/>ductis est simpliciter impossibilis: quoniam circa 
+      idem<lb ed="#V" n="126" break="no"/>produceret se. si enim a. producitur a. .b. et b. ab a. ergo a. 
+      pro<lb ed="#V" n="127" break="no"/>ducitur ab a. et idem a seipso: quod nec mens: nec ratio capit scilicet 
+      <lb ed="#V" n="128"/>quod idem producat se. Attamen hoc non videtur impossibile. vt 
+      su<lb ed="#V" n="129" break="no"/>pra iam diximus: quoniam spiritus spiratus prius iam 
+      produ<lb ed="#V" n="130" break="no"/>ceretur quam verbum. Deinde verbo communicaretur
+      <pb ed="#V" n="122-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>spiratio et produceret spiritum et produceretur ab ipso. Nec 
+      <lb ed="#V" n="2"/>ex hoc sequitur quod idem produceret seipsum: quoniam productio 
+      <lb ed="#V" n="3"/>eorum non esset ex eis elicita: sed eis a suo producente 
+      <lb ed="#V" n="4"/>communicata.
+    </p>
+            <p xml:id="nbnt23-n19637-d1e517">
+      ¶ Dicamus ergo aliam rationem: quod gnodo actiua non 
+      <lb ed="#V" n="5"/>potest communicari 3o supposito: et est ista: quoniam gnodo actiua de 
+      <lb ed="#V" n="6"/>se est hoc et per consequens est incommunicabilis.
+    </p>
+            <p xml:id="nbnt23-n19637-d1e524">
+      ¶ Et si arguas: quod 
+      <lb ed="#V" n="7"/>spiratio: actiua est communicabieo. ergo et gnodo actiua: nego consequentiam. 
+      <lb ed="#V" n="8"/>Et si dicas: quod ita est essentia primi motoris de se hoc: et 
+      <lb ed="#V" n="9"/>tamen ipsa est communicaliusa tribus suppositis. siliter spiratio 
+      acti<lb ed="#V" n="10" break="no"/>ua est de se hoc: et tamen ipsa est communicabilis duobus. ergo 
+      <lb ed="#V" n="11"/>siliter non obstante quod gnrordio sit de se hec: poterit tamen 
+      communica<lb ed="#V" n="12" break="no"/>ri pluribus suppositis.
+    </p>
+            <p xml:id="nbnt23-n19637-d1e540">
+      ¶ Potest dici quod non est alia ratio: 
+      <lb ed="#V" n="13"/>nisi quia hoc est hoc: quoniam gno actiua est hoce ideo est 
+      incommunica<lb ed="#V" n="14" break="no"/>bilis. siliter quia spiratio actiua est hoc spiratio: Ideo 
+      communicabi<lb ed="#V" n="15" break="no"/>lis pluribus suppositis: nec est alia causa quarenda. In isto 
+      <lb ed="#V" n="16"/>ergo libro dictum est de emanationibus personarum in vna natum 
+      <lb ed="#V" n="17"/>primi motoris et trinitate suppositorum et distinctio 
+      <lb ed="#V" n="18"/>nem ipsorum: nec non et numero productionum: que et quot sunt 
+      <lb ed="#V" n="19"/>et in hoc terminatur quintus liber. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

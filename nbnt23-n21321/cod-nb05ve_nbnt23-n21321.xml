@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="123-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n21321"><!--ntheol-l6c3-->
+            <head xml:id="nbnt23-n21321-Hd1e97">Caput 3</head>
+            <head xml:id="nbnt23-n21321-Hd1e99" type="question-title">
+      Manifestat unum suppositum esse in alio ab eodemque distingui
+    </head>
+            <p xml:id="nbnt23-n21321-d1e102">
+               <lb ed="#V" n="118"/>¶ Manifestat vnum suppositum esse in alio: ab 
+      eodem<lb ed="#V" n="119" break="no"/>que distingui. Caput. III.
+    </p>
+            <p xml:id="nbnt23-n21321-d1e109">
+               <lb ed="#V" n="120"/>Nunc autem de proprietatibus suppositorum  
+      constituto<lb ed="#V" n="121"/>rum perscrutemur: et inquiramus in 
+      <lb ed="#V" n="122"/>quo vndum supcitum sit in alio et esonclsi: et quomodo 
+      distin<lb ed="#V" n="123" break="no"/>guitur ab illo. Sit ergo ista prima propositio in qua conuemniunt 
+      <lb ed="#V" n="124"/>Abens progenitores nostri. Oem quod est in alio: loquan 
+      <lb ed="#V" n="125"/>do de esse improprie: habet aliquam vnitatem cum eo: habet etiam 
+      ali<lb ed="#V" n="126" break="no"/>quam distinctionem ab illo. ratio primi est: quoniam omne illud quod est 
+      <lb ed="#V" n="127"/>in alio per necessitatem: oprtet quod habeat aliquam vnitatem cum 
+      <lb ed="#V" n="128"/>eo. pramo secundi: quoniam nihil proprie est in seipso: sic quod sit omnibus 
+      <lb ed="#V" n="129"/>modis idem: ideo oprtet quod aliqualiter distinguantur ab illo 
+      <lb ed="#V" n="130"/>et si est in alio realiter otet quod distinguatur realiter ab eo. si secundum 
+      <lb ed="#V" n="131"/>rationem quod distinguatur secundum rationem. At vero vnitas quae aliqua
+      <pb ed="#V" n="124-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>sunt vnum est in duplici genere. quidam est vnitas absoluta scilicet quae 
+      ali<lb ed="#V" n="2" break="no"/>quid est in se indiuisum. alia evnitas relatiua seu indiuisio relatiua 
+      <lb ed="#V" n="3"/>que aliquid est indiuisum ab alio sicut ma a forma et accidens a 
+      sbo<lb ed="#V" n="4" break="no"/>Similiter autem duplex est distintv scilicet vna opbietua vnitai absolite vt est 
+      distin<lb ed="#V" n="5" break="no"/>in sor. et plectione. alia est distinus rliua: qua scilicet oppotenitia vnitati 
+      <lb ed="#V" n="6"/>relatiue. Palam autem quod isti sunt duo modi primi generales 
+      es<lb ed="#V" n="7" break="no"/>sendi in. ad quos alii reducuntur. Est enim vnus modus essendi 
+      in<lb ed="#V" n="8" break="no"/>quae illud quod est in alio distinitur ab illo in quo est distinguitur absoluta: et est 
+      <lb ed="#V" n="9"/>vnum cum illo vnitate relatiua: sicut forma cum materia. accidens cum obiecto 
+      <lb ed="#V" n="10"/>locus cum locato: et sic de aliis. Alius modus essendi in est quae 
+      <lb ed="#V" n="11"/>aliquid est vnum cum illo in quo est vnitate absolita et distinctum ab 
+      <lb ed="#V" n="12"/>illo distingitiue relatiua: sicut totum cum partibus: licet non sit identitas 
+      <lb ed="#V" n="13"/>adequata. patet ergo quod omnes conueniunt. vnus ergo de progeniarus nostris 
+      <lb ed="#V" n="14"/>dicit quod vnum supicitum est cum alio conuertibiliter: quia vnum supcitum est 
+      <lb ed="#V" n="15"/>idem identitate absoluta simpliciter cum alio ratione existentie: et distinguiter ab 
+      <lb ed="#V" n="16"/>alio relatiue et esoclmi. Alius dicit quod tres proprietates sunt 
+      idem<lb ed="#V" n="17" break="no"/>indistinguiu: et re et ratione ab essentia indistinguitue relatiua: 
+      immo<lb ed="#V" n="18" break="no"/>ipsemet persone sunt idem indifferenter cum essentia indistingulituer 
+      <lb ed="#V" n="19"/>relatiua: tunc arguunt sic. vbicumque aliqua 3a sunt idem indistinutus 
+      <lb ed="#V" n="20"/>cum alia vna re: vbicumque reperitur illa res: et in quocumque 
+      inexi<lb ed="#V" n="21" break="no"/>stit: et ista 3o: sed tres persone in quobus supitusr et inexistit natura 
+      pri<lb ed="#V" n="22" break="no"/>mi motoris sunt idem indistinuitur ab illa natura et existentia: ergo in 
+      quocum<lb ed="#V" n="23" break="no"/>que existit essentia existit persontia: sed natura existit in tribus sut 
+      <lb ed="#V" n="24"/>positis: ergo et quodlibet supecitum existit in quolibet suptio: et sic vnum est in 
+      <lb ed="#V" n="25"/>alio conuertibiliter. At vero fertur a quodam quod ille modus esser 
+      <lb ed="#V" n="26"/>di in. qua vna persona est in alia reducitur ad modum quo mior est 
+      <lb ed="#V" n="27"/>in maiore et maior in conclusione: quia maior et minor est in mectia: et 
+      <lb ed="#V" n="28"/>conclusio in primissis: sicut in demonstratione potinua: quoniam maior et minor 
+      <lb ed="#V" n="29"/>identitus cum medetia 3o identitur inter se: et sicut vnum est in alio vel 
+      <lb ed="#V" n="30"/>in mectia sic vnum vel maior est in minore.
+    </p>
+            <p xml:id="nbnt23-n21321-d1e207">
+      ¶ Et si arectias quod 
+      <lb ed="#V" n="31"/>omnes isti modi essendi in. quos posuisti: quae vna persona esset 
+      in<lb ed="#V" n="32" break="no"/>alia sunt modi essendi in. ratione partis vel quasi partis: quoniam ratione 
+      <lb ed="#V" n="33"/>essentie quae est eadem: et vna vnitate absoilita in illis tribus supieaties. 
+      <lb ed="#V" n="34"/>non autem assignat quae vna persona secundum se totam est in alia et 
+      esonclui<lb ed="#V" n="35" break="no"/>propter istan diffinteum est vnus de magistris que alium modum essendi 
+      <lb ed="#V" n="36"/>in assignat quae vna persona secundum se totam est in alia et eonclusio. Et iste 
+      <lb ed="#V" n="37"/>modus est per intimam praesentialitatem: quoniam vna est praesens alteri: et 
+      <lb ed="#V" n="38"/>econcli: immo intimius quam locatum sit praesens loco: sicut si essent 2m 
+      <lb ed="#V" n="39"/>intellectus separati omnino indistantes adiuicem: diceretur quod vnitem 
+      <lb ed="#V" n="40"/>est in alio per praesentiam intimam: quoniam vnus haberet et fundaret relta 
+      <lb ed="#V" n="41"/>praesentie ad alium: et esonclusio sic potentia ab eodem quod vna persona est 
+      <lb ed="#V" n="42"/>praesens alteri praesentia intima. Et si non vis vti hoc nomine 
+      paesen<lb ed="#V" n="43" break="no"/>tia: dicatur quod vna est omnino indistans ab alia: sicut prima intelligentia et 
+      <lb ed="#V" n="44"/>indistans a quolicet postus limitato: et ideo dicitur esse in omnibus: sic vna 
+      <lb ed="#V" n="45"/>persona est indistas ab alia: et ideo vna dicitur esse in alia per intimam 
+      <lb ed="#V" n="46"/>indistantiam. Nam sicut anima intellectiua separata a corpotre per possibile 
+      <lb ed="#V" n="47"/>vel impossibile esset praesens et indistans ab alia: licet alia 
+      distingua<lb ed="#V" n="48" break="no"/>tur realiter ab ea. Exemplum vt intelligas tibi pono. ponamu 
+      <lb ed="#V" n="49"/>per possibile vel impossibile quod vna anima informet 3a cora: et essent 
+      <lb ed="#V" n="50"/>homines resultantes ex ista anima vna in istis tribus 
+      corpori<lb ed="#V" n="51" break="no"/>bus: tunc isti homines possunt esse praesentes vnus alteri praesentia 
+      lo<lb ed="#V" n="52" break="no"/>cali vel indistantes: sic suo modo iste tres persone: in quibus est 
+      <lb ed="#V" n="53"/>vna essentia numero possunt esse praesentes praesentia intima: vel saltem 
+      <lb ed="#V" n="54"/>fundamenter indistantes. Et vna est in alia negatiue vel 
+      priuati<lb ed="#V" n="55" break="no"/>ue per negationem vel priuationem distantie. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

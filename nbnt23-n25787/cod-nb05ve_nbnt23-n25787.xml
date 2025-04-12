@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="131-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n25787"><!--ntheol-l7c3-->
+            <head xml:id="nbnt23-n25787-Hd1e97">Caput 3</head>
+            <head xml:id="nbnt23-n25787-Hd1e99" type="question-title">
+      De concursu primi motoris cum causis sub celestibus
+    </head>
+            <p xml:id="nbnt23-n25787-d1e102">
+               <lb ed="#V" n="2"/>¶ De concursu primi motoris cum causis sub 
+      cele<lb ed="#V" n="3" break="no"/>stibus. Caput: III
+    </p>
+            <p xml:id="nbnt23-n25787-d1e109">
+               <lb ed="#V" n="4"/>Praedictis autem adiiciendum 
+      <lb ed="#V" n="5"/>de 
+      concur<lb ed="#V" n="6" break="no"/>su primi motoris cum omni causa 
+      infe<lb ed="#V" n="7" break="no"/>riori an concurrat cum omni causa 2a vel 
+      <lb ed="#V" n="8"/>non. hoc enim includit diffitum magnam: et de 
+      <lb ed="#V" n="9"/>hoc varie loquuntur etiam sapientes. Et hoc specialiter siue 
+      <lb ed="#V" n="10"/>causa 2a sit nalis: siue causa continguitur et libere agens: quia 
+      <lb ed="#V" n="11"/>quodlibet istorum habet difficultatem specialem. At vero 
+      cum<lb ed="#V" n="12" break="no"/>ca istam maximam sunt 3a dicta disperata. Primum 
+      po<lb ed="#V" n="13" break="no"/>nit impossibilitatem primi motoris concursus et causarum 
+      <lb ed="#V" n="14"/>secundarum. Secundum dictum ponit necessitatem. Tertium dictum 
+      <lb ed="#V" n="15"/>ponit possibilitatem. nullam tamen ponit impossibilitatem 
+      <lb ed="#V" n="16"/>nec aliquam necessitatem.
+    </p>
+            <p xml:id="nbnt23-n25787-d1e140">
+      ¶ Primum autem dictum 
+      <lb ed="#V" n="17"/>funtus super hoc primo quod si vositiua primi motoris 
+      concur<lb ed="#V" n="18" break="no"/>reret cum omni causa 2o. Tunc sequitur cum prima causa 
+      <lb ed="#V" n="19"/>agat continuitus ad extra: quod omnis effectus cause 2e esset 
+      con<lb ed="#V" n="20" break="no"/>tingens: et tunc scientia non esset de necessaruis: et de 
+      impossi<lb ed="#V" n="21" break="no"/>bilibus aliter se habere. Secundo sequitur quod intellectiua possed 
+      ha<lb ed="#V" n="22" break="no"/>bere actum intelligendi vtramque premissarum absque hoc 
+      <lb ed="#V" n="23"/>quod haberet actum intelligendi conclusionem que necessario sequitur 
+      <lb ed="#V" n="24"/>ex primissis: quoniam ex quo causa prima libere agit poterit 
+      <lb ed="#V" n="25"/>coagere ad actum intelligendi primissas et non ad actum 
+      in<lb ed="#V" n="26" break="no"/>telligendi conclationem: quod est omnino inconueniens.
+    </p>
+            <p xml:id="nbnt23-n25787-d1e165">
+      ¶ Ampli¬s 
+      <lb ed="#V" n="27"/>autem de agente libero conformliter arguunt: quoniam si prima 
+      cau<lb ed="#V" n="28" break="no"/>sa determinat voluntatem nostram ad agendum autem 
+      deter<lb ed="#V" n="29" break="no"/>minat ipsam precise ad vnum oppositorum autem ad 
+      neu<lb ed="#V" n="30" break="no"/>trum. Si ad vnu: et voluntas creata non potest nisi in illud 
+      <lb ed="#V" n="31"/>ad quod determinatur a prima causa: per consequens 
+      sequi<lb ed="#V" n="32" break="no"/>tur quod voluntas ipsa non est libera: cum non possit nisi in 
+      <lb ed="#V" n="33"/>alterum oppositorum: quod est falsum.
+    </p>
+            <p xml:id="nbnt23-n25787-d1e183">
+      ¶ Adhuc autem si 
+      vo<lb ed="#V" n="34" break="no"/>luntas determinatur ad actum suum a prima causa: vel potest 
+      <lb ed="#V" n="35"/>non sequi illam determinationem: vel necessario sequitur eam: nec 
+      <lb ed="#V" n="36"/>potest determinationi prime cause resistere: tuc sequitur quod 
+      <lb ed="#V" n="37"/>non sit libera. Si autem potest non sequi: sequitur quod non erit 
+      <lb ed="#V" n="38"/>sufficienter determinata. Ex quo enim potest non sequi: videtur quod 
+      <lb ed="#V" n="39"/>adhuc maneet indeterminata. At vero licet rationes 
+      iste<lb ed="#V" n="40" break="no"/>sint multum apparentes: sunt tamen dissolubilens. Prima enim 
+      <lb ed="#V" n="41"/>que accitur quod scientia est de necessaruis et impossibilibus 
+      ali<lb ed="#V" n="42" break="no"/>ter se habere. conceditur: sed cum addit si prima causa concurre 
+      <lb ed="#V" n="43"/>ret cum causa 2a: possed concurrere ad subiectum et nden ad passionem: 
+      <lb ed="#V" n="44"/>et sic passio non est necessario in subiecto: hec neganda est: 
+      <lb ed="#V" n="45"/>quoniam passio demonstralius de subiecto dicit non actum sed 
+      apti<lb ed="#V" n="46" break="no"/>tudinem: que quidem aptitudo est idem realiter cum subiecto: licet 
+      noen<lb ed="#V" n="47" break="no"/>sit cum eo formis. Secunda namque que accitur quod prima causa praest 
+      <lb ed="#V" n="48"/>concurrere ad causandum actum circa primissas non 
+      concuru<lb ed="#V" n="49" break="no"/>ad actum conclusionois conce: et cum dicis quod conclusionecessario sequitur ex 
+      <lb ed="#V" n="50"/>primissis: dicitur quod verum est negatiue: non autem positiue: sic 
+      <lb ed="#V" n="51"/>intelligendo quod intellectus existens actum sub maiore et mino 
+      <lb ed="#V" n="52"/>re vtrique assentiens nullo modo potest dissentire conclusioni: hoc 
+      <lb ed="#V" n="53"/>est habere actum contrarium circa ipsam. non tamen habet necessario 
+      <lb ed="#V" n="54"/>necessitue absoluta: et simitur actum positiuum scilicet actum assensus: 
+      <lb ed="#V" n="55"/>cum prima causa possit suspendere ipset. nec sequitur. potest 
+      assen<lb ed="#V" n="56" break="no"/>tire conclusionoi: ergo necessario assentiet conclusioni.
+    </p>
+            <p xml:id="nbnt23-n25787-d1e235">
+      ¶ At vero cume 
+      <lb ed="#V" n="57"/>dicit quod voluntas determinatur a prima causa ad 
+      vtrum<lb ed="#V" n="58" break="no"/>que oppositorum vel ad vnum. dicitur quod ad vnum determinatur 
+      <lb ed="#V" n="59"/>determinatione de inesse: et ad vtrumque 
+      determina<lb ed="#V" n="60" break="no"/>tione de possibili: immo in determinatione de 
+      possi<lb ed="#V" n="61" break="no"/>bili voluntas semper manet indeterminata ad vtrumque 
+      <lb ed="#V" n="62"/>oppositorum quantumncumque determinatione de inesse ad 
+      al<lb ed="#V" n="63" break="no"/>terum oppositorum sit determinata. Et cum aprplitaus quod tunc 
+      <lb ed="#V" n="64"/>voluntas non esset libera: cum non possit nisi in illud ad 
+      <lb ed="#V" n="65"/>quod est determinata de inesse potest velle aliquid aliud
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>ad quod non est determinata: quanuis nunquam velit: et ideo quand 
+      <lb ed="#V" n="67"/>dicis quod non potest nisi in illud ad quod est determinata: 
+      ne<lb ed="#V" n="68" break="no"/>gatur: immo potest in aliud: licet de inesse nunquam velit: 
+    </p>
+            <p xml:id="nbnt23-n25787-d1e266">
+               <lb ed="#V" n="69"/>¶ Adhuc autem cum 3 et 4o dicit quod voluntas sic 
+      deter<lb ed="#V" n="70" break="no"/>minata a prima causa ad alterum oppositorum vel potest 
+      <lb ed="#V" n="71"/>non sequi determinationem prime cause vel neceffario 
+      <lb ed="#V" n="72"/>sequitur. Responditer quod potest non sequi: quia alias non esset 
+      li<lb ed="#V" n="73" break="no"/>bera. semper tamen sequitur illam 
+      determinatio<lb ed="#V" n="74" break="no"/>nem de inesse. Et cum dicis: ergo non est sufficienter 
+      deter<lb ed="#V" n="75" break="no"/>minata. dicitur: quod immo est sufficienter 
+      determina<lb ed="#V" n="76" break="no"/>ta determinatione de inesse: non tamen 
+      determina<lb ed="#V" n="77" break="no"/>tione de possibili: immo in determinatione est 
+      indeter<lb ed="#V" n="78" break="no"/>minata. Nec enim huiusmodi determinatio de 
+      possi<lb ed="#V" n="79" break="no"/>bili potest poni in volumiete quin eius voinitiua necessario 
+      <lb ed="#V" n="80"/>tollatur. Palam ergo quod ista via non concludit simpliciter 
+      impossibili<lb ed="#V" n="81" break="no"/>tatem: quin prima causa possit concurrere cum 2a: licet etiam prima 
+      cau<lb ed="#V" n="82" break="no"/>sa concurrat contingitur et libere.
+    </p>
+            <p xml:id="nbnt23-n25787-d1e299">
+               <lb ed="#V" n="83"/>Perscrutemur ergo de dictorum quo 
+      po<lb ed="#V" n="84" break="no"/>nit necessitatem 
+      concur<lb ed="#V" n="85" break="no"/>sus prime cause cum omni causa 2a. Istud autem dictum 
+      <lb ed="#V" n="86"/>pluribus rationibus sustentatur: quarum prima sit talis. 
+      Om<lb ed="#V" n="87" break="no"/>ne agens naturale continens plures effectus eiusdem rationis 
+      <lb ed="#V" n="88"/>est in potentia ad illos absque aliquo ordine. His 
+      pre<lb ed="#V" n="89" break="no"/>missis arguitur sic. Agens naturale continens plures 
+      ef<lb ed="#V" n="90" break="no"/>fectus eiusdem rationis respectu passi naturaliter 
+      existen<lb ed="#V" n="91" break="no"/>tis in potentia ad illos sine aliquo ordine: non potest per 
+      <lb ed="#V" n="92"/>se determinari magis ad illud quam ad aliud: nec 
+      eti<lb ed="#V" n="93" break="no"/>am ex parte passi: quia ipsum agens continet plures 
+      <lb ed="#V" n="94"/>effectus absque aliquo ordine: et ipsum passum etiam 
+      <lb ed="#V" n="95"/>est in potentia ad ipsos absque aliquo ordine: 
+      quoni<lb ed="#V" n="96" break="no"/>am inter indiuidua eiusdem rationis non est ordo: 
+      <lb ed="#V" n="97"/>ergo quod tale agens determinetur ad aliquem 
+      isto<lb ed="#V" n="98" break="no"/>rum effectuum magis quam ad aliud. home est 
+      necessa<lb ed="#V" n="99" break="no"/>rio ab aliquo alio agente superiori ipsum 
+      determi<lb ed="#V" n="100" break="no"/>nante: quia ex se non potest plus determinari ad vnum 
+      <lb ed="#V" n="101"/>quam ad aliud. Amplius autem de causa est 
+      perscrutan<lb ed="#V" n="102" break="no"/>dum ad eandem conclusionem: et hoc sic. causa 
+      pri<lb ed="#V" n="103" break="no"/>ma habet certam et infallibilem cognitionem de 
+      fu<lb ed="#V" n="104" break="no"/>turis contingentibus: ergo causa prima coagit effectiue ad 
+      <lb ed="#V" n="105"/>actum vositias. probat consequentia: quoniam primus motor 
+      cogi<lb ed="#V" n="106" break="no"/>certitudinaliter futura continuientua per 
+      determinatio<lb ed="#V" n="107" break="no"/>nem sue voluntatis: sed si voluntas creata esset 
+      cau<lb ed="#V" n="108" break="no"/>sa actuum suorum. primus motor non posset esse 
+      cer<lb ed="#V" n="109" break="no"/>tus de euentu eorum: quoniam tunc primo 
+      moto<lb ed="#V" n="110" break="no"/>re non cogite posset ponere vel non ponere istos in 
+      <lb ed="#V" n="111"/>actu. At vero iste modus ponendi necessitatem 
+      con<lb ed="#V" n="112" break="no"/>cursus prime cause cum secundis non videtur 
+      suf<lb ed="#V" n="113" break="no"/>ficiens nec demonstratiuus: nam cum primo arituer quod 
+      <lb ed="#V" n="114"/>agens continens effectus eiusdem rationis non 
+      de<lb ed="#V" n="115" break="no"/>terminatur ex se ad vnum plusquam ad aliud: et ideo ad 
+      <lb ed="#V" n="116"/>hoc quod istum effectum determinate producat 
+      neces<lb ed="#V" n="117" break="no"/>sario. oprtet quod a prima causa determinetur. conceditur. 
+      <lb ed="#V" n="118"/>non quod a prima causa determinetur non effectiue 
+      ali<lb ed="#V" n="119" break="no"/>quid agendo 2e cause: sed tantum praeuiuncs ab eterno primo istum 
+      <lb ed="#V" n="120"/>effectum esse producendum: et istum 2o: et eo modo quo priuidit 
+      <lb ed="#V" n="121"/>eo modo 2e cause istius effectus producunt ordinate. 
+      <lb ed="#V" n="122"/>Aliter fertur et dicitur ad areatum quod determius ista ad istum 
+      ef<lb ed="#V" n="123" break="no"/>fectum numero priusquam ad alium partim est a 
+      par<lb ed="#V" n="124" break="no"/>te agentis: et partim a parte passi: nam licet hoc agens: 
+      <lb ed="#V" n="125"/>vt hic ignis contineat infinitos ignes eiusdem ratio 
+      <lb ed="#V" n="126"/>nis. Similiter autem et alius ignis contineat etiam 
+      infi<lb ed="#V" n="127" break="no"/>nitos alios ignes numero distinctos ab aliis 
+      contin<lb ed="#V" n="128" break="no"/>net alius ignis: et sic eodem modo realiter passi et iure. Sed 
+      <lb ed="#V" n="129"/>ista sunt valde dubia. Ideo aliter dicitur quod licet agens 
+      natura<lb ed="#V" n="130" break="no"/>le non contineat effectus eiusdem rationis quodan¬
+      <pb ed="#V" n="131-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>ordine essentiali. continet tamen eos quodam ordine 
+      <lb ed="#V" n="2"/>accidentali: quod patet: quoniam iste ignis genitus ab alio igne 
+      <lb ed="#V" n="3"/>impossibile est quod possit generare istum eundem ignem 
+      <lb ed="#V" n="4"/>a quo genitus est etiam facta interruptione: licet 
+      pos<lb ed="#V" n="5" break="no"/>set generare alium ignem eiusdem speciei: ex quo 
+      vi<lb ed="#V" n="6" break="no"/>detur quod inter indiuidua eiusdem speciei sit aliquis 
+      or<lb ed="#V" n="7" break="no"/>do. Attamen quia illa non stant cum dictis in physicis de 
+      <lb ed="#V" n="8"/>circulatione in causis et effectibus hanc solutionem 
+      <lb ed="#V" n="9"/>tibi non assero nec teneo eam esse veram. Ideo 
+      ali<lb ed="#V" n="10" break="no"/>ter est dicendum cum de possite concursus prime cause 
+      <lb ed="#V" n="11"/>et 2ae fiet sermo. Ad rationem istam de causa libera 
+      <lb ed="#V" n="12"/>cum dicis prima causa habet certam notitiam et 
+      in<lb ed="#V" n="13" break="no"/>fallibilem de futuris contingentibus: et de his que 
+      de<lb ed="#V" n="14" break="no"/>pendent a vosinte nostra conceitus totum: et quod potest 
+      suspen<lb ed="#V" n="15" break="no"/>dere actum causarum secundarum totum concecitra: sed cum 
+      di<lb ed="#V" n="16" break="no"/>cis vltra: ergo est causa effectiua omnium. non 
+      opor<lb ed="#V" n="17" break="no"/>tet quod sit causa immediata: sed sufficit quod sit 
+      me<lb ed="#V" n="18" break="no"/>dando etiam entitatem illis causis secundis. Attamen 
+      <lb ed="#V" n="19"/>illa solutio dutia est: et magis apparebit infra.
+    </p>
+            <p xml:id="nbnt23-n25787-d1e451">
+               <lb ed="#V" n="20"/>Dicamus quod nulla videtur impossibilitas: 
+      <lb ed="#V" n="21"/>Nec apparet necessitas 
+      ponendi<lb ed="#V" n="22" break="no"/>primam causam agere effectum proprie ad 
+      producen<lb ed="#V" n="23" break="no"/>dum quemlibet effectum secundarum causarum: ergo sequitur quod 
+      <lb ed="#V" n="24"/>possibile est quod concurrat: et possibile est estim quod non concurrat: 
+      <lb ed="#V" n="25"/>et hoc secundum beneplacitum voluntatis sue. Cause enim 2e ex 
+      se<lb ed="#V" n="26" break="no"/>sunt in pluribus sufficientes ad producendum effectus 
+      <lb ed="#V" n="27"/>suos. Attamen si prima causa vult cum eis agere ad 
+      pro<lb ed="#V" n="28" break="no"/>ducendum effectus: nullum apparet impossibile: nec 
+      ma<lb ed="#V" n="29" break="no"/>nifestum inconueniens.
+    </p>
+            <p xml:id="nbnt23-n25787-d1e476">
+      ¶ Et si dicas quod non: quoniam impossibile 
+      vi<lb ed="#V" n="30" break="no"/>detur quod idem effectus possit simul depedere a 
+      plu<lb ed="#V" n="31" break="no"/>ribus causis totalibus. Respondeo iam tibi et hic et 
+      <lb ed="#V" n="32"/>alibi dictum est: quomodo hoc debet intelligi: et in quo 
+      sen<lb ed="#V" n="33" break="no"/>su est verum et in quo non.
+    </p>
+            <p xml:id="nbnt23-n25787-d1e487">
+      ¶ Et si queras que 
+      propo<lb ed="#V" n="34" break="no"/>positio sit magis probabilis: vel quod prima causa 
+      con<lb ed="#V" n="35" break="no"/>currat vel quod non. Responsio negatiua potest probaus 
+      te<lb ed="#V" n="36" break="no"/>neri.
+    </p>
+            <p xml:id="nbnt23-n25787-d1e496">
+      ¶ Ad cuius euidentiam debes diligenter 
+      aduer<lb ed="#V" n="37" break="no"/>tere quod sicut in nobis voitua nostra determinat 
+      poten<lb ed="#V" n="38" break="no"/>tias inferiores ad suos actus: nec tamen concurrit cum eis 
+      <lb ed="#V" n="39"/>ad causandum effectum earum. Sed propter 
+      ordi<lb ed="#V" n="40" break="no"/>nem potentiarum mota prima consecuctiue mouentur et 
+      <lb ed="#V" n="41"/>alie: licet non moueantur effectiue a prima scilicet ab ipsa 
+      <lb ed="#V" n="42"/>vosise: sed tantum vositua determinat: et hoc mediante 
+      <lb ed="#V" n="43"/>precise determinant: et nullo alio producto in ipsis 
+      <lb ed="#V" n="44"/>vel producendo obiectum in esse volito. Et quam statim 
+      <lb ed="#V" n="45"/>vositiua producit obiectum in esse volito alie potentie 
+      <lb ed="#V" n="46"/>inferiores producunt actus suos in esse reali. Nec 
+      po<lb ed="#V" n="47" break="no"/>test causa secunda pretermittere istum ordinem. 
+      Di<lb ed="#V" n="48" break="no"/>camus ergo causam: quia ignis continens infinitc s ignes 
+      <lb ed="#V" n="49"/>eiusdem rationis absque aliquo ordine quodam 
+      or<lb ed="#V" n="50" break="no"/>dine producit istos ignes in esse reali: certa causa est: 
+      <lb ed="#V" n="51"/>quia primus motor sic producit eos in esse volito: 
+      <lb ed="#V" n="52"/>et vult istum ignem prius produci quam istum: et 
+      ordi<lb ed="#V" n="53" break="no"/>ne quo vult producit causa naturalis vel libera. caus 
+      <lb ed="#V" n="54"/>dico secunda conformiter producit. non oportet ergo 
+      <lb ed="#V" n="55"/>quod causa 2a determinatum effectum eiusdem rationis 
+      <lb ed="#V" n="56"/>producat: quod causa prima effectiua concurrat cum ista: 
+      <lb ed="#V" n="57"/>sed sufficit quod istam causam secundam determinet: vel 
+      <lb ed="#V" n="58"/>quod istum effectum ponat in esse volito in isto ordine 
+      <lb ed="#V" n="59"/>produceret.
+    </p>
+            <p xml:id="nbnt23-n25787-d1e548">
+      ¶ Adhuc autem concluditur quod primus 
+      <lb ed="#V" n="60"/>motor est prescius omnium futurorum contingentium cum 
+      <lb ed="#V" n="61"/>omnia ista futura continitua sint ab eterno a primo 
+      moto<lb ed="#V" n="62" break="no"/>re producta in esse cognito et volito: et sicut sunt 
+      posi<lb ed="#V" n="63" break="no"/>ta ita euenient sine aliquo defectum. licet possent non eue 
+      <lb ed="#V" n="64"/>nire: pro tanto: quia sicut sunt continitusr in tali esse 
+      cogni<lb ed="#V" n="65" break="no"/>to et volito producta ita continitusr in tali esse conseruan¬
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>tur. Palam etiam ex his quod primus motor potest 
+      su<lb ed="#V" n="67" break="no"/>speciedere actum cuiuscumque 2e cause siue naturalis 
+      si<lb ed="#V" n="68" break="no"/>ue libere. sicut vositiua nostra potest suspendere actum 
+      <lb ed="#V" n="69"/>aliarum potentiarum inferiorum. Presente enim igne et 
+      <lb ed="#V" n="70"/>presente conbustibili. primis motor potest 
+      determina<lb ed="#V" n="71" break="no"/>re causam secundam ad non agendum vel potest ponere istum 
+      <lb ed="#V" n="72"/>effectum in esse volito vel in esse nolito.
+    </p>
+            <p xml:id="nbnt23-n25787-d1e581">
+      ¶ At vero 
+      <lb ed="#V" n="73"/>si queras si prima causa sit productiua effectus 
+      diffor<lb ed="#V" n="74" break="no"/>mis et moraliter viciosi. dicendum est consequenter ad 
+      predi<lb ed="#V" n="75" break="no"/>cta: nam illi qui ponunt necessitatem concursus prime 
+      cau<lb ed="#V" n="76" break="no"/>se cum secundis: difficile possunt euadere: quin sit causa 
+      <lb ed="#V" n="77"/>cuiuscumque effectus moralis: cum sit causa substrati et 
+      <lb ed="#V" n="78"/>entitatis positiue ipsius actus defectuosi: ad quem 
+      <lb ed="#V" n="79"/>sequitur necessario difformitas actus moralis: 
+      quo<lb ed="#V" n="80" break="no"/>niam quicquid est causa antecedentis est causa 
+      consequen<lb ed="#V" n="81" break="no"/>tis: ista autem difformitas est consequens ad substantiam actus. 
+      Pa<lb ed="#V" n="82" break="no"/>lam etiam quod illi qui ponunt motorem primum esse 
+      cau<lb ed="#V" n="83" break="no"/>sam non effectiuam: sed tantum determinatiuam ad 
+      <lb ed="#V" n="84"/>talem effectum pro tali tempore: et pro tali modo incidunt 
+      <lb ed="#V" n="85"/>in idem: quoniam secundum istum modum causa prima determinat 
+      <lb ed="#V" n="86"/>primo causam secundam ad producendum: et sic 
+      producen<lb ed="#V" n="87" break="no"/>dum: quam causa 2a producat: et cum causa 2a producit 
+      sem<lb ed="#V" n="88" break="no"/>per sequitur determinationem prime cause: et per 
+      con<lb ed="#V" n="89" break="no"/>sequens talis effectus non videtur imputalius vositia ex 
+      quo<lb ed="#V" n="90" break="no"/>conformat se determinationi prime cause: nisi dicas 
+      <lb ed="#V" n="91"/>quod culpabilis est: quia potest non sequi: cum non sit 
+      a<lb ed="#V" n="92" break="no"/>prima causa determinata de possibili: sed tantum de 
+      <lb ed="#V" n="93"/>inesse. Sed istud non valet: quoniam ex quo 
+      deter<lb ed="#V" n="94" break="no"/>minata est determinatione de inesse a prima 
+      cau<lb ed="#V" n="95" break="no"/>sa ad istum effectum producendum: si producit: non 
+      vi<lb ed="#V" n="96" break="no"/>detur sibi imputabile esse. Aliter ergo est 
+      dicen<lb ed="#V" n="97" break="no"/>dum. Solutionem quere. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

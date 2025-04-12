@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="115-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n15982"><!--ntheol-l4c5-->
+            <head xml:id="nbnt23-n15982-Hd1e97">Caput 5</head>
+            <head xml:id="nbnt23-n15982-Hd1e99" type="question-title">Tradit modum quomodo voluntas alias moueat potentias</head>
+            <p xml:id="nbnt23-n15982-d1e102">
+               <lb ed="#V" n="61"/>¶ Tradit modum quomodo voluntas alias moueat 
+      <lb ed="#V" n="62"/>potentias. Caput. <sic>IIII</sic>. 
+    </p>
+            <p xml:id="nbnt23-n15982-d1e111">
+               <lb ed="#V" n="63"/>QUoniam autem de comparatione vo¬ 
+      <lb ed="#V" n="64"/>luntatis nostre ad alias 
+      <lb ed="#V" n="65"/>potentias restat speculatio primo inqui¬
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>ramus: an voluntas sit motiua aliarum potentia 
+      <lb ed="#V" n="67"/>rum et quomodo: de inde si mouendo eas aliquid 
+      impri<lb ed="#V" n="68" break="no"/>matur in eis vel non: et quid sit illud quod imprimitur in 
+      <lb ed="#V" n="69"/>illis.
+    </p>
+            <p xml:id="nbnt23-n15982-d1e131">
+      ¶ Prima ergo conclusio sit talis. voluntas est motiua alia 
+      <lb ed="#V" n="70"/>rum potentiarum. hoc probatur: quoniam in ordine essentiali 
+      <lb ed="#V" n="71"/>mouentium et moto: um. primum est motiuum omnium 
+      alio<lb ed="#V" n="72" break="no"/>rum. potentie autem sunt ordinate in moueri et mouere: 
+      <lb ed="#V" n="73"/>et voluntas est omnino primum mouens. Alias. nulla esset 
+      <lb ed="#V" n="74"/>continus in actibus aliarum potentiarum. Tum etiam 
+      <lb ed="#V" n="75"/>2o: quia non minus dominium habet voitiua in mouendo alias 
+      <lb ed="#V" n="76"/>potentias quam earum organa. Est autem motiua organorum. 
+    </p>
+            <p xml:id="nbnt23-n15982-d1e150">
+               <lb ed="#V" n="77"/>¶ Secunda conclusio sit talis. voluntas est motiua aliarum 
+      <lb ed="#V" n="78"/>potentiarum quantum ad actus intensionem et remissionem. 
+      <lb ed="#V" n="79"/>Hec patet ex prima conclusione: quoniam voluntas mouet alias 
+      <lb ed="#V" n="80"/>potentias ad potentiam actus: ergo ad intensionem.
+    </p>
+            <p xml:id="nbnt23-n15982-d1e161">
+      ¶ Tertia 
+      <lb ed="#V" n="81"/>cnclusio voluntas non mouet alias potentias eliciendo actum 
+      <lb ed="#V" n="82"/>earum: vt causando visionem in visum et intellectionem in 
+      in<lb ed="#V" n="83" break="no"/>tellectu. hoc probatur: quoniam tunc omnes potentie sensitiue 
+      <lb ed="#V" n="84"/>essent pure passiue: quod non videtur verum. Tum 2o: quia actus 
+      <lb ed="#V" n="85"/>proprius est a potentia propria et obiecto. Tum etiam 
+      <lb ed="#V" n="86"/>quia actus sentiendi in nobis precedit actum 
+      intelligen<lb ed="#V" n="87" break="no"/>di.
+    </p>
+            <p xml:id="nbnt23-n15982-d1e179">
+      ¶ Quarta conclusio sit talis. quod voluntas non presentat 
+      <lb ed="#V" n="88"/>obiecta eis. hoc probatur: quoniam tale obiectum non est per 
+      volunta<lb ed="#V" n="89" break="no"/>tem presentatum cum non sit actu volitum: quoniam nihil 
+      <lb ed="#V" n="90"/>est volitum quod non sit precognitum.
+    </p>
+            <p xml:id="nbnt23-n15982-d1e188">
+      ¶ Quinta conclusio sit 
+      ta<lb ed="#V" n="91" break="no"/>lis. voluntas mouet alias positus determinando eas 
+      <lb ed="#V" n="92"/>actualiter ad eliciendum actus suos. hoc probatur per 
+      <lb ed="#V" n="93"/>locum a sufficienti diuisione: quoniam exquo mouet eas: vt 
+      <lb ed="#V" n="94"/>dicit prima conclusiao et non presentando: vt dicit 4o 
+      conclu<lb ed="#V" n="95" break="no"/>sio: nec causando actum: vt dicit 3a conclusio ergo 
+      determinan<lb ed="#V" n="96" break="no"/>do ipsos ad actus proprios et ad intensionem actus. 
+      De<lb ed="#V" n="97" break="no"/>bes enim scire quod voluntas ista triplici motione mouet 
+      <lb ed="#V" n="98"/>se scilicet causando in ea actum: et per consequens presentando 
+      si<lb ed="#V" n="99" break="no"/>bi obiectum: quoniam determinat intellectum ad praesent andum 
+      si<lb ed="#V" n="100" break="no"/>bi obiectum: et primo modo determinando se ad actum 
+      <lb ed="#V" n="101"/>eliciendum. At vero restat achilles inconuincibilis contra 
+      il<lb ed="#V" n="102" break="no"/>lam quantam conclusionem eodem modo sicut contra quartam: quod sic 
+      <lb ed="#V" n="103"/>ostenditur: quoniam si voluntas mouet intellectum 
+      determinan<lb ed="#V" n="104" break="no"/>do ipsum ad intelligendum aliquod obiectum vel ipsum 
+      de<lb ed="#V" n="105" break="no"/>terminat ad obiectum precognitum vel incognitum. 
+      si<lb ed="#V" n="106" break="no"/>precognitum: immo actu cognitum. Iam patet quod 
+      frustra<lb ed="#V" n="107" break="no"/>ponitur ipsum intellectum mouere ad talem actum: cum 
+      <lb ed="#V" n="108"/>iam hebeat actum ante illam motionem. si incognitum hoc est 
+      <lb ed="#V" n="109"/>impossibile: quoniam voluntas non determinat intellectum 
+      <lb ed="#V" n="110"/>nisi mediante actu volendi. actus autem volendi necessa 
+      <lb ed="#V" n="111"/>rio praesupponit actum intelligendi respectu eiusdem 
+      <lb ed="#V" n="112"/>obiecti. Alias. aliquid esset volitum quod non esset cognitum. 
+      <lb ed="#V" n="113"/>igitur a primo ad vltimum voluntas non mouet 
+      intelle<lb ed="#V" n="114" break="no"/>ctum ad intelligendum obiectum ignotum: nec etiam cognitum: 
+      <lb ed="#V" n="115"/>vt dictum est: ergo nullo modo determinat ipsum: nec 
+      <lb ed="#V" n="116"/>mouet determinando ipsum .
+    </p>
+            <p xml:id="nbnt23-n15982-d1e247">
+      ¶ Dissoluitur autem 
+      <lb ed="#V" n="117"/>achilles ab aliquibus sic dicentibus: quod illud obiectum ad 
+      <lb ed="#V" n="118"/>quod mouet volutas intellectum est prius cognitum 
+      in<lb ed="#V" n="119" break="no"/>vniversali et indistincte. non autem in particulari distincte. 
+    </p>
+            <p xml:id="nbnt23-n15982-d1e256">
+               <lb ed="#V" n="120"/>¶ Manifestum est autem quod ista dissolutio non 
+      suffi<lb ed="#V" n="121" break="no"/>cit: quoniam voluntas non mouet intellectum ad aliquod 
+      <lb ed="#V" n="122"/>nisi voienia illud primo: sed non potest aliquid velle 
+      ni<lb ed="#V" n="123" break="no"/>si primo intelligatur: ergo non potest mouere intellectum ad 
+      <lb ed="#V" n="124"/>aliquod obiectum in particulari cognitum in habitum et non 
+      <lb ed="#V" n="125"/>cognitum in actu. Dices quod ad obiectum cognitum in 
+      ha<lb ed="#V" n="126" break="no"/>bitum mouet ad cognitum in actu. At vero illud non 
+      <lb ed="#V" n="127"/>sufficit: quoniam voluntas non mouet nisi mediante 
+      <lb ed="#V" n="128"/>actu intelligendi: sed non potest velle actu nisi cognitum 
+      <lb ed="#V" n="129"/>actum et habitum tantum. Aliter dicitur quod mouet ad 
+      cognoscen<lb ed="#V" n="130" break="no"/>dum distincte quod confuse cognitum est et indistincte
+      <pb ed="#V" n="116-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>sed contra homc sicut prius non mouet ad 
+      cognoscen<lb ed="#V" n="2" break="no"/>dum distincte nisi mediysate actu volendi distincte. Talis 
+      <lb ed="#V" n="3"/>autem actus praesupponit actum intelligendi distincte. ergo etc. 
+      <lb ed="#V" n="4"/>Aliter ergo respondetur et apparentius. et dicitur quod voluntas non 
+      <lb ed="#V" n="5"/>potest mouere intellectum nisi aliud obiectum sit primo cognitum: 
+      <lb ed="#V" n="6"/>dicitur tamen quod aliquid potest esse cognitum vel tantum in vniversali vel tantum in 
+      <lb ed="#V" n="7"/>perticulari vel partim in vniversali et partim in particulari. 
+      <lb ed="#V" n="8"/>Et eo modo quo apprehensum est eo modo 
+      mo<lb ed="#V" n="9" break="no"/>uet voluntas ad ipsum. Tunc igitur dicitur quod intellectus 
+      consi<lb ed="#V" n="10" break="no"/>derat aliquid in vniversali. puta quod aliquid est scibile sub illo 
+      vnverlsali<lb ed="#V" n="11" break="no"/>continentur multa scibilia particularia: tunc dicitur quod intelle 
+      <lb ed="#V" n="12"/>ctus considerans scibile in vniversali voluntas mouet ipsum ad 
+      <lb ed="#V" n="13"/>considerandum non hoc vel illud in vniversali determinate: quoniam 
+      <lb ed="#V" n="14"/>hoc non potest facere voluntas cum determinate nullum 
+      <lb ed="#V" n="15"/>sit cognitum actu: sed mouet ad considerandum quodcumque 
+      <lb ed="#V" n="16"/>scibile sibi occurrat: quo facto quod intellectus magis 
+      <lb ed="#V" n="17"/>consideret hoc quam illud aliud: hoc non est ex 
+      intentio<lb ed="#V" n="18" break="no"/>ne voluntatis mouentis: quia non mouet intellectum ad 
+      <lb ed="#V" n="19"/>considerandum magis hoc quam illud. sed hoc est ex 
+      or<lb ed="#V" n="20" break="no"/>dine vniversalis per cogniti ad aliquod particulare primo sub 
+      eo<lb ed="#V" n="21" break="no"/>contentum. puta: quia habet maiorem conexionem ad vnum 
+      <lb ed="#V" n="22"/>quam ad aliud. Et igitur illud primo occurrit 
+      intelle<lb ed="#V" n="23" break="no"/>ctui vel hoc est ex dispositione ipsius mobilis scilicet 
+      ip<lb ed="#V" n="24" break="no"/>sius intellectus a volupcite moti. puta propter maiorem eiutum 
+      <lb ed="#V" n="25"/>inclinationem ad considerandum vel intelligendum aliquod 
+      <lb ed="#V" n="26"/>contentorum sub isto vniuersali quam ad illud ad quod magis 
+      <lb ed="#V" n="27"/>inclinatur illud sibi primo occurrit.
+    </p>
+            <p xml:id="nbnt23-n15982-d1e346">
+      ¶ Adhuc autem potest 
+      <lb ed="#V" n="28"/>tibi poni exemplum. aliquos considerans triangulum quod habet 
+      <lb ed="#V" n="29"/>tres angulos. Nec considerans cum huius. Et medium 
+      <lb ed="#V" n="30"/>in particulari: licet consideret cum aliquam in vniversali. 
+      volun<lb ed="#V" n="31" break="no"/>tas mouet intellectum ad considerandum medium non 
+      deter<lb ed="#V" n="32" break="no"/>minate hoc vel illud: sed quodcunque sibi occurrat: 
+      <lb ed="#V" n="33"/>quod autem hoc medium primo occurrat intellectui quam 
+      ali<lb ed="#V" n="34" break="no"/>ud hoc non est ex vosiente magis mouente ad illud quam ad 
+      <lb ed="#V" n="35"/>aliud: sed vel hoc est ex ordine mediorum ad conclusio 
+      <lb ed="#V" n="36"/>nem: puta quod vnum est magis conclusioni annexum quam 
+      ali<lb ed="#V" n="37" break="no"/>ud et magis immediatum. vel hoc est ex dispone 
+      intel<lb ed="#V" n="38" break="no"/>lectus moti magis inclinati ad illud medium quam ad 
+      <lb ed="#V" n="39"/>aliud: vel forte: quia magis ipsum intellectum debilitat 
+      <lb ed="#V" n="40"/>illud medium quam aliud. Attamen licet ista dissolutio sit 
+      <lb ed="#V" n="41"/>multum apparens: non tamen videtur necessaria: nec etiam in 
+      <lb ed="#V" n="42"/>pluribus continere veritateum Cum enim dicit quod voitiua non potest 
+      <lb ed="#V" n="43"/>mouere intellectum ad cognoscendum aliquid distincte nisi 
+      <lb ed="#V" n="44"/>sit actu cognitum et medhysitae actum vointi: nec determinare in 
+      <lb ed="#V" n="45"/>tellectum ad aliquid nisi illud sit actu precognitum non 
+      <lb ed="#V" n="46"/>verum videtur: quoniam sicut voluntas potest determinare seip 
+      <lb ed="#V" n="47"/>sam ad actum volendi absque hoc quod iste actus volendi 
+      <lb ed="#V" n="48"/>sit praecognitus: quia alias esset processus in infinitum: 
+      <lb ed="#V" n="49"/>sic videtur quod pott determinare intellectum ad aliquid 
+      <lb ed="#V" n="50"/>considerandum in vniversali et in particulari nullo actu volendi 
+      <lb ed="#V" n="51"/>metaphystae: sed imediate determinabit ipsum intellectum 
+      <lb ed="#V" n="52"/>circa obiectum illud vel aliud: nec opte quod sit cognitum 
+      <lb ed="#V" n="53"/>iu particlarari.
+    </p>
+            <p xml:id="nbnt23-n15982-d1e405">
+      ¶ Et si dicas quod hoc fiet a casu. dico quod 
+      <lb ed="#V" n="54"/>non. Dices quomodo potest fieri: vel est hoc cum non sit 
+      praecogni<lb ed="#V" n="55" break="no"/>tum. Dicitur quod non est alia causa querenda: nisi quia hoc est hoc. 
+      <lb ed="#V" n="56"/>Et si dicas quod voluntas non se potest determinare ad 
+      ali<lb ed="#V" n="57" break="no"/>quem actu volendi eliciendum nisi circa obiectum precognitum: 
+      <lb ed="#V" n="58"/>quia nihil volitum nisi precognitum: ergo nec poterit 
+      <lb ed="#V" n="59"/>intellectum determinare ad eliciendum aliquem actum 
+      <lb ed="#V" n="60"/>intelligendi nisi circa obiectum precognitum: raspondeo tibi 
+      con<lb ed="#V" n="61" break="no"/>cedo antecens: et nego consequentiam: et ratio huius est: quoniam voitausm 
+      deter<lb ed="#V" n="62" break="no"/>minat se actiue ad connexionem contingentem: et 
+      determi<lb ed="#V" n="63" break="no"/>nat intellectum ad illam considerandam absque hoc quod sit 
+      <lb ed="#V" n="64"/>praecognitum: immo antequam sit ab intellectum cognita nec 
+      <lb ed="#V" n="65"/>volita a vosieicte ipsa volitas se determinat ad illam par¬
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>tem connexionis contingentis: et determinat 
+      intel<lb ed="#V" n="67" break="no"/>lectum ad intelligendum istam. Cui non placet ista 
+      <lb ed="#V" n="68"/>solutio capiat precedentem. 
+    </p>
+            <p xml:id="nbnt23-n15982-d1e442">
+               <lb ed="#V" n="69"/>¶ Nunc autem vltimo in hoc lib restat 
+      spe<lb ed="#V" n="70" break="no"/>culandum: quomodo voluntas 
+      mo<lb ed="#V" n="71" break="no"/>uet alias potentias: an scilicet exprimendo et causando in 
+      <lb ed="#V" n="72"/>eis vel non. De hoc autem varie opinantur est sapientes. 
+      <lb ed="#V" n="73"/>Est ergo propositio negatiua quorundam quod voluntas in 
+      mouen<lb ed="#V" n="74" break="no"/>do alias potentias inferiores nihil omnino imprimit in 
+      <lb ed="#V" n="75"/>eis: sed propter ordinem ipsarum potentiarum ipsa vosiente 
+      mouen<lb ed="#V" n="76" break="no"/>te alie inferiores sibi subdite mouentur non effectiue 
+      <lb ed="#V" n="77"/>ab ipsa voluntate: sed tantum consecuntiue: sicut rota trahit 
+      <lb ed="#V" n="78"/>rotam: et spera superior trahit inferiorem. hec autem pro positio 
+      <lb ed="#V" n="79"/>sic probatur: quoniam per actum praecise immanentem non pott 
+      ali<lb ed="#V" n="80" break="no"/>quid extra produci. Actus autem volendi est actus 
+      im<lb ed="#V" n="81" break="no"/>manens: ergo per illud non potest voluntas extra se 
+      produce<lb ed="#V" n="82" break="no"/>re: et per consequens nec in aliis potentis: tum etiam 2o: quoniam illud 
+      <lb ed="#V" n="83"/>impressum non potest esse relectio: quoniam non acquiritur nisi aliquo 
+      <lb ed="#V" n="84"/>absoluto per acquiesito: nec aliquod absolutum: quoniam non 
+      speci<lb ed="#V" n="85" break="no"/>es: cum ipsa sit ab obiecto: nec actus cum ipse sit a propria 
+      <lb ed="#V" n="86"/>potentia: nec habitus cum sit generatus ex actibus. 
+      Palam<lb ed="#V" n="87" break="no"/>autem quod ista propositio non est necessaria: licet sit probabilis: in 
+      <lb ed="#V" n="88"/>sua tamen probabilitate est calumniabilis.
+    </p>
+            <p xml:id="nbnt23-n15982-d1e488">
+      ¶ Prima namque 
+      ratio<lb ed="#V" n="89" break="no"/>falsum supponit scilicet quod metdphysitae actu volendi qui est actus 
+      <lb ed="#V" n="90"/>praecise immanens volutas non produceret aliquid in aliis 
+      <lb ed="#V" n="91"/>potenti: squod non est verum: sed medphysate alio actum: quia meta 
+      <lb ed="#V" n="92"/>actione de genere actionis: et ista actio non est 
+      transi<lb ed="#V" n="93" break="no"/>ens.
+    </p>
+            <p xml:id="nbnt23-n15982-d1e501">
+      ¶ Secunda est ratio falsum supponit: cum dicit quod 
+      respe<lb ed="#V" n="94" break="no"/>ctus vel relatio non potest acquiri nisi medisate abluto acquisito. primo hoc 
+      <lb ed="#V" n="95"/>non est verum de respectibus extrinsecis aduenientibus. 
+      <lb ed="#V" n="96"/>cum est additur quod non potest esse aliquod absolutum: quoniam nec specie 
+      <lb ed="#V" n="97"/>nec actus: nec habitus: diceretur quod illud absolutum 
+      <lb ed="#V" n="98"/>cantum est aliquid primum omnibus istis: sicut inferius 
+      di<lb ed="#V" n="99" break="no"/>cetur.
+    </p>
+            <p xml:id="nbnt23-n15982-d1e517">
+      ¶ Secunda propositio affirmatiua opposita priori sit 
+      <lb ed="#V" n="100"/>talis. voluntas mouendo alias positiua necessario 
+      ali<lb ed="#V" n="101" break="no"/>quid imprimit in eis. hoc probatur. Omne quod mouetur ad 
+      ali<lb ed="#V" n="102" break="no"/>quid contria suam inclinationem nalem mouetur ad illud ab alio 
+      <lb ed="#V" n="103"/>prna extrinseco. hoc probatur. nullum eni principium naturale 
+      inclina<lb ed="#V" n="104" break="no"/>tiuum et determinatiuum ad vnum oppositum potest 
+      effe<lb ed="#V" n="105" break="no"/>ctiue mouere se ad aliud oppositum nisi ab aliquo 
+      <lb ed="#V" n="106"/>exteriori printuso vel ab aliqua forma sibi impressa ab 
+      exe<lb ed="#V" n="107" break="no"/>quente et continente motum inceptum. Sed appetitus 
+      sen<lb ed="#V" n="108" break="no"/>sitiuus in homine virtuose moitia a voluntate ad oppositum eius 
+      <lb ed="#V" n="109"/>ad quod est determinatum secundum eius nalem inclinationem: 
+      <lb ed="#V" n="110"/>ergo mouetur ab ipsa vosinte non consecutiue sed effectiue 
+      ip<lb ed="#V" n="111" break="no"/>sa vosiete aliquid causante in eo sicut proiiciens graue sur 
+      <lb ed="#V" n="112"/>sum causat aliquid in eo.
+    </p>
+            <p xml:id="nbnt23-n15982-d1e549">
+      ¶ Adhuc autem manifestum 
+      <lb ed="#V" n="113"/>est quod appetitus sensitiuus non suspedit actum suum 
+      pre<lb ed="#V" n="114" break="no"/>sente obiecto delectabili: sicut voluntas: ergo non 
+      moue<lb ed="#V" n="115" break="no"/>tur extra se ad obiectum contristabile: sicut volutas: et hoc 
+      ali<lb ed="#V" n="116" break="no"/>quid causando in eo. Confirmatur: quoniam in lapide 
+      violen<lb ed="#V" n="117" break="no"/>ter moto imprimitur aliqua forma a mosite ipsum 
+      motum<lb ed="#V" n="118" break="no"/>continente: ergo multo magis potest imprimi in potentis in 
+      <lb ed="#V" n="119"/>ferioribus ab ipsa voluntate manente aliqua forma 
+      <lb ed="#V" n="120"/>reali. Palam autem quod sicut spera inferior duplici 
+      mo<lb ed="#V" n="121" break="no"/>tu mouetur: proprio: et motu spere superioris opposito 
+      <lb ed="#V" n="122"/>motui proprio: sic appetitus sensitiuus duplici motu 
+      mo<lb ed="#V" n="123" break="no"/>uetur oppnio. vno quide motu scilicet proprio et naturali mouetur. et poc 
+      <lb ed="#V" n="124"/>ad obiectum delectabile ad quod naturaliter inclinatur et etiam mouetur 
+      <lb ed="#V" n="125"/>a vosiete ad obiectum contristabile spreto obiecto delectabli et vietu 
+      <lb ed="#V" n="126"/>quod iste motus sit effectiue ab ipso appetitum sensitiuo. 
+    </p>
+            <p xml:id="nbnt23-n15982-d1e582">
+               <lb ed="#V" n="127"/>Habet autem dubitationem ponendo sic 
+      <lb ed="#V" n="128"/>formam impressam in appetitu 
+      <lb ed="#V" n="129"/>sensitiuo ab ipsa vosiente ipsum mosite in quo praedicamento 
+      repo<lb ed="#V" n="130" break="no"/>natur. Fertur autem quod in praedicamento qualitatis: et ina eius
+      <pb ed="#V" n="116-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>specie: non sicut sensibilis qualitas: quia non omnis talius 
+      <lb ed="#V" n="2"/>f orma impressa est qualitas sensibilis: sicut ista quae 
+      im<lb ed="#V" n="3" break="no"/>primitur in intellectum. Ideo dicitur quod est quedam passio 
+      abso<lb ed="#V" n="4" break="no"/>luta illius generis de tertia specie que quidem 
+      fori<lb ed="#V" n="5" break="no"/>sic impressa est qualitas sensibilis: sicut ista que 
+      impri<lb ed="#V" n="6" break="no"/>mitur: licet non sit raptim transiens: nec in continuo fieri: est 
+      <lb ed="#V" n="7"/>tamen non diu permanens: et tandium durat motus quam diu ista 
+      <lb ed="#V" n="8"/>forma manet. At vero licet istud sit probabiliter dictum quod 
+      <lb ed="#V" n="9"/>aliquid imprimatur in ipso appetitu sensitiuo ab ipsa 
+      <lb ed="#V" n="10"/>voluntate mosiote: non tamen videtur necessarium: quoniam videtur quod solus 
+      or<lb ed="#V" n="11" break="no"/>do potentiarum sufficiat in mouendo: vt mota spera 
+      supe<lb ed="#V" n="12" break="no"/>riori ad illud statim mouetur inferior: sicut rota 
+      tra<lb ed="#V" n="13" break="no"/>hit rotam: nec valet quod dicitur quod in motu graui sursum 
+      in<lb ed="#V" n="14" break="no"/>primitur aliqua forma: licet forte hoc ponere non sit 
+      <lb ed="#V" n="15"/>necessarium: de quo alias fiet sermo. hoc tamen posito non 
+      <lb ed="#V" n="16"/>est simile de motu violento graui sursum: et de 
+      motu<lb ed="#V" n="17" break="no"/>appetitus sensitini ab ipsa voluntate: quoniam hic mouens 
+      <lb ed="#V" n="18"/>et motum sunt idem subiecto et supposito: immo sunt idem realiter: 
+      <lb ed="#V" n="19"/>Iodeo est hic multo maior connexio quam in mosite et 
+      moto<lb ed="#V" n="20" break="no"/>in motu violento. ibi enim mouens extrinsecum: et ipsum 
+      mo<lb ed="#V" n="21" break="no"/>tum sunt distincta loco et subiecto realiter: sicut proinciens 
+      <lb ed="#V" n="22"/>et proiectum. Ex quo sequitur quod non sit simile hic et ibi. 
+    </p>
+            <p xml:id="nbnt23-n15982-d1e645">
+               <lb ed="#V" n="23"/>Amplius autem dato quod voitas aliquid imprimat in appetitu 
+      <lb ed="#V" n="24"/>sensitiuo ipsum mouendo: non tamen videtur necessarium quod 
+      il<lb ed="#V" n="25" break="no"/>lud impressum sit aliquid absolutum: sed sufficit: quod sit 
+      <lb ed="#V" n="26"/>aliquod relatiuum pertinens ad genus actionis et 
+      pas<lb ed="#V" n="27" break="no"/>sionis. sufficit enim determinatio actiua qua voluntas 
+      <lb ed="#V" n="28"/>actiue determinat appetitum sensitiuum: et 
+      determina<lb ed="#V" n="29" break="no"/>tio passiua qua apperitus determinatur ad talem 
+      <lb ed="#V" n="30"/>motum: sicut communiter conceditur quod voluntas per solam determi 
+      <lb ed="#V" n="31"/>nationem actiuam determinat intellectum ad considerandum 
+      <lb ed="#V" n="32"/>aliquod obiectum nullam formam absolutam imprimendo in eo: sed 
+      <lb ed="#V" n="33"/>determinatione passiua intellectus est sufficienter 
+      de<lb ed="#V" n="34" break="no"/>terminatus ad considerandum de tali obiecto in particulari. 
+      <lb ed="#V" n="35"/>determinatio vero actiua et deteritilito passiua pertinent ad 
+      <lb ed="#V" n="36"/>genera actionis et passionis. Et pono tibi exectum in primo 
+      mo<lb ed="#V" n="37" break="no"/>tore cum voluntas determinat intellectum ad 
+      cognoscen<lb ed="#V" n="38" break="no"/>dum complexionem contingentem: et hoc per solam 
+      determinatio<lb ed="#V" n="39" break="no"/>nem actiuam et passiuam: sic in proposito voluntas per solam de 
+      <lb ed="#V" n="40"/>terminationem actiuam determinat appetitum et actum 
+      <lb ed="#V" n="41"/>et motum oppositum fue inclinationi nauali: et etiam ad actum 
+      <lb ed="#V" n="42"/>et motum nalem ipset mouet et determinat. Uoluntas enim 
+      <lb ed="#V" n="43"/>non solum mouet appetitum sensitiuum ad motum et actum 
+      <lb ed="#V" n="44"/>nalem: immo ad motum et actum proprium et nalem: sicut 
+      proiici<lb ed="#V" n="45" break="no"/>ens lapidem potest ipsum propicere sursum contra motum proprium et 
+      <lb ed="#V" n="46"/>nalem: vel potest eum proiicere deorsum secundum motum proprium 
+      <lb ed="#V" n="47"/>et nalem.
+    </p>
+            <p xml:id="nbnt23-n15982-d1e702">
+      ¶ Et si arguas quod voluntas nullam formam abso 
+      <lb ed="#V" n="48"/>lutam imprimit in appetitum sensitiuo: sed tantum ipsum 
+      deter<lb ed="#V" n="49" break="no"/>minat ad talem motum vel talem: cum ipsa determinatio 
+      <lb ed="#V" n="50"/>actiua sit quedam actio de genere actionis: et actionem 
+      <lb ed="#V" n="51"/>poneret sine termino: cum ipsa sit semper ad terminum: 
+      <lb ed="#V" n="52"/>et actio noua ad terminum nouum: non videtur quod ista possint 
+      <lb ed="#V" n="53"/>simul stare. Responsio tibi. aliam actionem de nouo esse sine 
+      <lb ed="#V" n="54"/>termino non est impossibile: immo aliquando necessarium: vt patet 
+      de<lb ed="#V" n="55" break="no"/>actione vnitiua et translatiua et motiua: vt manitum est 
+      <lb ed="#V" n="56"/>in motu facto in vacuo: et motu 8e spere: cum non sit 
+      ter<lb ed="#V" n="57" break="no"/>minatus ad vbi et de hoc satis fuit dictum in praedicamen 
+      <lb ed="#V" n="58"/>tis. caplctio de actione vnitiua et translatiua: sic in 
+      propo<lb ed="#V" n="59" break="no"/>sito non oportet quod determinatio actiua habeat alium terminum 
+      <lb ed="#V" n="60"/>quam determinationem passiuam quam infert: sic nec motio 
+      <lb ed="#V" n="61"/>actiua aliquando non habet alium terminum nisi motionem 
+      pas<lb ed="#V" n="62" break="no"/>siuam quam infert: et nihil plus.
+    </p>
+            <p xml:id="nbnt23-n15982-d1e737">
+      ¶ Amplius autem 
+      ha<lb ed="#V" n="63" break="no"/>bet dubitationem: an alie potentiem infertiores mouendo 
+      <lb ed="#V" n="64"/>voluntatem aliquid imprimant in ea: fertur quod mouent 
+      volun<lb ed="#V" n="65" break="no"/>tatem presentando sibi obiectum delectabile proprium: et si¬
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>alliciunt eam. et sic allicita per obiectum appetitus 
+      sensici<lb ed="#V" n="67" break="no"/>ui sibi presentati conformatur et condelectatur 
+      appe<lb ed="#V" n="68" break="no"/>titui sensitiuo: sic autem presentando sibi obiectum nihil 
+      in<lb ed="#V" n="69" break="no"/>primit in voluntate. Attamen posset concedi quod sicut voitasm 
+      <lb ed="#V" n="70"/>mouet appetitum sensitiuum et ipset trahit: et hoc medhysite 
+      acti<lb ed="#V" n="71" break="no"/>one de genere actionis scilicet meditae determinatione 
+      acti<lb ed="#V" n="72" break="no"/>ua et passiua: sic et appetitus sensitiuus trahit 
+      volun<lb ed="#V" n="73" break="no"/>tatem metaphysictae quadam determinatione actiua et passiua. 
+      <lb ed="#V" n="74"/>Partem quam volueris eligas. Dictum est ergo de primo 
+      mo<lb ed="#V" n="75" break="no"/>tore quantum ad intellectum eius et voluntatem: quoniam ipse est 
+      <lb ed="#V" n="76"/>intellectiuus et volitiuus: sicut est ibi euidenter 
+      osten<lb ed="#V" n="77" break="no"/>sum. De potentia ergo productiua primi motoris: an 
+      <lb ed="#V" n="78"/>primus motor sit productiuus: et quid et quantum: et ad 
+      <lb ed="#V" n="79"/>intra et extra inferius perscrutemur. Et hic 
+      fini<lb ed="#V" n="80" break="no"/>tur liber quartus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

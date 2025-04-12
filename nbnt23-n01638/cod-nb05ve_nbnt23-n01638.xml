@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="93-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n01638"><!--ntheol-l1c4-->
+            <head xml:id="nbnt23-n01638-Hd1e97">Caput 4</head>
+            <head xml:id="nbnt23-n01638-Hd1e99" type="question-title">An habitus theologicus sit scientia vel opinio vel intellectus</head>
+            <p xml:id="nbnt23-n01638-d1e102">
+               <lb ed="#V" n="14"/>¶ An habitus theologicus sit scientia vel opinio vel 
+      <lb ed="#V" n="15"/>intellectus. Caput IIII.
+    </p>
+            <p xml:id="nbnt23-n01638-d1e109">
+               <lb ed="#V" n="16"/>PErscrutandum est ergo de 
+      <lb ed="#V" n="17"/>qualitate 
+      <lb ed="#V" n="18"/>habitus theologici: an sit scientificus vel 
+      <lb ed="#V" n="19"/>opinatiuus: seu habitus qui dicitur 
+      intel<lb ed="#V" n="20" break="no"/>lectus: an est sit practicus vel speculatiuum 
+      <lb ed="#V" n="21"/>de ordine huius habitus ad alios habitus 
+      scientif<lb ed="#V" n="22" break="no"/>cos.
+    </p>
+            <p xml:id="nbnt23-n01638-d1e127">
+      ¶ Adhuc autem an habitus theous sit 
+      intuiti<lb ed="#V" n="23" break="no"/>uus vel abstractiuus. Postremo autem inquiramu 
+      <lb ed="#V" n="24"/>de vnitate habitus theologici qua vnitate sit vnus 
+      <lb ed="#V" n="25"/>De habitum autem theologico: an sit scientificus vel 
+      <lb ed="#V" n="26"/>non. Ex dictis in primo metaphysice nostre. 
+      capite<lb ed="#V" n="27" break="no"/>sexto. manifestum est quod ille habitus est proprie 
+      sci<lb ed="#V" n="28" break="no"/>entificus qui est de subiecto scibili et definibili: sic 
+      <lb ed="#V" n="29"/>quod per se passio demostratur de subiecto scibili per 
+      <lb ed="#V" n="30"/>definitionem subiecti scibilis: et quod propositio 
+      for<lb ed="#V" n="31" break="no"/>mata de subiecto et passione non sit propositio 
+      im<lb ed="#V" n="32" break="no"/>mediata. propter hoc enim tantum diximus 
+      subie<lb ed="#V" n="33" break="no"/>ctum metaphysicum non esse scientificum: 
+      quoni<lb ed="#V" n="34" break="no"/>am omnes propositiones formate in metaphysica 
+      <lb ed="#V" n="35"/>sunt immediysiate: vt iste: ens est vnum: ens est bonum: 
+      <lb ed="#V" n="36"/>et sic de aliis: cum non possint a priori subiecto et 
+      prae<lb ed="#V" n="37" break="no"/>dicato demonstrari: hec ergo theologia naturalis 
+      <lb ed="#V" n="38"/>est proprie scientia: non autem opinio que est de 
+      pos<lb ed="#V" n="39" break="no"/>sibilibus aliter se habere: quoniam per se passiones 
+      <lb ed="#V" n="40"/>primi motoris necessario sibi insunt: nec est habitus 
+      <lb ed="#V" n="41"/>qui dicitur intellectus: quoniam talis habitus est 
+      <lb ed="#V" n="42"/>respectu propositionis immmediate: in hac autem 
+      theo<lb ed="#V" n="43" break="no"/>logia: nulla est propositio immediata formata de 
+      <lb ed="#V" n="44"/>primo motore et suis passionibus: cum omnes sint 
+      <lb ed="#V" n="45"/>demonstrabiles a priori. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

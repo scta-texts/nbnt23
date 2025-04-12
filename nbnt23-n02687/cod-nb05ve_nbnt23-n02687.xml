@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="95-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n02687"><!--ntheol-l2c1-->
+            <head xml:id="nbnt23-n02687-Hd1e97">Caput 1</head>
+            <head xml:id="nbnt23-n02687-Hd1e99" type="question-title">De infinitate primi motoris</head>
+            <p xml:id="nbnt23-n02687-d1e102">
+               <lb ed="#V" n="44"/>¶ Subsequitur secundus liber. 
+    </p>
+            <p xml:id="nbnt23-n02687-d1e107">
+               <lb ed="#V" n="45"/>¶ De infinitate primi motoris. Cap. I.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e112">
+               <lb ed="#V" n="46"/>QUoniam autem passiones 
+      <lb ed="#V" n="47"/>per se primi 
+      moto<lb ed="#V" n="48" break="no"/>ris in hac theologia querimus: per 
+      <lb ed="#V" n="49"/>scrutandum est singilatim de ipsis. 
+      <lb ed="#V" n="50"/>Palam autem: quod quedam sunt 
+      passio<lb ed="#V" n="51" break="no"/>nes primi motoris negatiue siue 
+      pri<lb ed="#V" n="52" break="no"/>uatiue. alie autem sunt positiue et 
+      <lb ed="#V" n="53"/>affirmatiue. de passionibus autem negatiuis siue 
+      <lb ed="#V" n="54"/>priuatiuis prior est perscrutatio. de affirmatiuis 
+      autem<lb ed="#V" n="55" break="no"/>posterior atque prolixior erit sermo.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e137">
+      ¶ Sunt autem 
+      <lb ed="#V" n="56"/>passiones negatiue siue priuatiue primi motoris 
+      <lb ed="#V" n="57"/>iste que sequuntur. primus enim motor dicitur 
+      in<lb ed="#V" n="58" break="no"/>finitus: immobilis: impartibilis: incomponibi 
+      <lb ed="#V" n="59"/>lis: implurificabilis: immortalis: inuisibilis: in lo 
+      <lb ed="#V" n="60"/>cabilis: siue incircumscriptibilis.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e150">
+      ¶ De his autem 
+      <lb ed="#V" n="61"/>passionibus per ordinem inquiremus: et primo de 
+      <lb ed="#V" n="62"/>infinitate fiet sermo. Quid sit infinitas. secundo
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="63"/>an primus motor sit infinitus. Finitas namque et 
+      infi<lb ed="#V" n="64" break="no"/>nitas per se insunt quantitati et magnitudini. 
+      Ma<lb ed="#V" n="65" break="no"/>gnitudo est duplex: scilicet molis et virtutis. De 
+      fi<lb ed="#V" n="66" break="no"/>nitate autem siue infinitate quantitatis molis non 
+      <lb ed="#V" n="67"/>est speculatio presens: sed tantum de finitate et 
+      in<lb ed="#V" n="68" break="no"/>finitate magnitudinis spiritualiter et virtualiter. 
+      <lb ed="#V" n="69"/>Differunt autem finitas et infinitas quantitatis 
+      <lb ed="#V" n="70"/>molis et virtutis sic: quoniam infinitas 
+      quantita<lb ed="#V" n="71" break="no"/>tis molis est aliquid quasi distinctum ab ista 
+      quan<lb ed="#V" n="72" break="no"/>titate: sicut punctus dicitur infinitus negatiue vt 
+      <lb ed="#V" n="73"/>fertur. in magnitudine autem virtutis finitas vel 
+      <lb ed="#V" n="74"/>infinitas non dicunt aliquid aliud distinctum a 
+      ma<lb ed="#V" n="75" break="no"/>gnitudine virtutis. cuiusmodi sunt gradus. De 
+      fi<lb ed="#V" n="76" break="no"/>nitate seu infinitate ergo virtutis inquiramus. 
+      Di<lb ed="#V" n="77" break="no"/>camus autem quod infinitum multipliciter dictum 
+      <lb ed="#V" n="78"/>est seu infinitum virtutis: siue infinitum 
+      quantita<lb ed="#V" n="79" break="no"/>tis molis. primum dicitur infinitum in potentia: 
+      <lb ed="#V" n="80"/>et est illud: cuius illud quod acceptum est semper 
+      <lb ed="#V" n="81"/>finitum est. Restat tamen semper aliquid 
+      accipien<lb ed="#V" n="82" break="no"/>dum: de quo infinito loquutus est Aristote. tertio 
+      <lb ed="#V" n="83"/>physicorum 63. sic dicens: infinitum in potentia est: 
+      <lb ed="#V" n="84"/>cuius quantitatem accipientibus semper est 
+      ali<lb ed="#V" n="85" break="no"/>quid accipiendum: et hoc in infinitum accipiendo 
+      <lb ed="#V" n="86"/>vnum post aliud: istud tamen quod est acceptum 
+      sem<lb ed="#V" n="87" break="no"/>per finitum: et pars quedam totius potentialis 
+      <lb ed="#V" n="88"/>infiniti.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e215">
+      ¶ Palam autem quod infinitum sic 
+      acce<lb ed="#V" n="89" break="no"/>ptum non habet rationem totius: quoniam totum 
+      <lb ed="#V" n="90"/>est: cuius nihil est extra: sed extra illud infinitum: 
+      <lb ed="#V" n="91"/>hoc est extra illud quod habet esse de isto semper 
+      <lb ed="#V" n="92"/>est aliquid extra.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e226">
+      ¶ Adhuc autem infinitum in 
+      poten<lb ed="#V" n="93" break="no"/>tia sic acceptum non habet rationem perfecti: 
+      quo<lb ed="#V" n="94" break="no"/>niam perfectum est illud cui nihil deest. primo 
+      ce<lb ed="#V" n="95" break="no"/>li. quarto. Quoniam est semper aliquid accipiendum. 
+    </p>
+            <p xml:id="nbnt23-n02687-d1e235">
+               <lb ed="#V" n="96"/>¶ Secundo modo dicitur aliquid infinitum in 
+      <lb ed="#V" n="97"/>actu: sed quod est tale infinitum: quod illud quod est 
+      de<lb ed="#V" n="98" break="no"/>illo acceptum non est finitum: sed infinitum. Re 
+      <lb ed="#V" n="99"/>stat tamen aliquid accipiendum ipsius. ideo non 
+      <lb ed="#V" n="100"/>est infinitum in actu simpliciter.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e248">
+      ¶ Exemplum. 
+      <lb ed="#V" n="101"/>ymaginemur lineam rectam infinitam: que ex omni 
+      <lb ed="#V" n="102"/>parte diuidatur in puncto. Manifestum est autem 
+      <lb ed="#V" n="103"/>quod quodlibet est infinitum in actu: quod probatur: 
+      <lb ed="#V" n="104"/>quoniam illud est infinitum in actum: quod per 
+      abla<lb ed="#V" n="105" break="no"/>tionem partis finite post partem non posset 
+      con<lb ed="#V" n="106" break="no"/>summi. sic autem est de qualibet parte diuisa linee 
+      <lb ed="#V" n="107"/>infinite: quoniam per ablationem partis post 
+      par<lb ed="#V" n="108" break="no"/>tem non posset consumi. Tum etiam: quoniam 
+      <lb ed="#V" n="109"/>si ambe partes diuise essent actu finite iam 
+      linea<lb ed="#V" n="110" break="no"/>constituta ex illis partibus non fuisset infinita: 
+      ve<lb ed="#V" n="111" break="no"/>rum est ergo quod tale infinitum est infinitum 
+      secun<lb ed="#V" n="112" break="no"/>dum quid: quoniam licet istud quod est acceptum sit 
+      <lb ed="#V" n="113"/>actu infinitum: Restat tamen aliquid 
+      accipien<lb ed="#V" n="114" break="no"/>dum: et potest sibi fieri additio: quoniam vna pars 
+      <lb ed="#V" n="115"/>linee sic diuise posset addi alteri.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e284">
+      ¶ Tertium 
+      ge<lb ed="#V" n="116" break="no"/>nus infinitatis sit istud. Aliquid dicitur esse 
+      infi<lb ed="#V" n="117" break="no"/>nitum in actu secundum gradus proprie speciei cum 
+      <lb ed="#V" n="118"/>eo: quoniam tale infinitum claudit in se omnes 
+      <lb ed="#V" n="119"/>gradus possibiles poni in actu. Exemplum. 
+      yma<lb ed="#V" n="120" break="no"/>ginemur quod sit linea infinita actum ex omni parte 
+      <lb ed="#V" n="121"/>constituta ex omnibus lineis possibilibus poni in 
+      <lb ed="#V" n="122"/>actu: ita quod omnes linee possibiles poni sint 
+      acce<lb ed="#V" n="123" break="no"/>pte: et clause infra illam lineam infinitam. Talis 
+      <lb ed="#V" n="124"/>inquam linea sic esset infinita: quod nulla alia linea sibi 
+      <lb ed="#V" n="125"/>posset addi. cum infra se claudat omnes.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e308">
+      ¶ Aliud 
+      <lb ed="#V" n="126"/>exemplum tibi pono de infinito secundum numerum. si
+      <pb ed="#V" n="95-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>omnes colores qui possent poni in actum essent 
+      posi<lb ed="#V" n="2" break="no"/>ti et accepti: illi colores essent actu infiniti secundum 
+      nume<lb ed="#V" n="3" break="no"/>tum: nec illis posset fieri additio alicuius coloris: 
+      <lb ed="#V" n="4"/>cum omnes sint in isto numero infinito inclusi: et 
+      <lb ed="#V" n="5"/>tales dicuntur sic infiniti: quod tot sunt quot plures 
+      <lb ed="#V" n="6"/>non sunt possibiles poni in actu: et ideo nihil 
+      eius<lb ed="#V" n="7" break="no"/>dem nature et speciei potest eis addi.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e332">
+      ¶ Palam 
+      au<lb ed="#V" n="8" break="no"/>tem quod istud genus infinitatis differt a 2o quoniam 
+      <lb ed="#V" n="9"/>in secundo genere infinitatis non erant tot quinus 
+      <lb ed="#V" n="10"/>plura possent poni in actu: et per consequens quinus 
+      <lb ed="#V" n="11"/>aliquid eiusdem nature sibi posset addi in actu. 
+    </p>
+            <p xml:id="nbnt23-n02687-d1e343">
+               <lb ed="#V" n="12"/>¶ Huic autem infinito nihil addi potest. Ex hoc 
+      <lb ed="#V" n="13"/>concluditur: quod istud tertium genus habet 
+      ratio<lb ed="#V" n="14" break="no"/>nem totius: quoniam nihil eius est extra: et habet 
+      <lb ed="#V" n="15"/>rationem perfecti: quoniam nihil sibi deest. de 
+      gra<lb ed="#V" n="16" break="no"/>dibus proprie nature et speciei: nec nego quin 
+      ali<lb ed="#V" n="17" break="no"/>quid alterius generis et speciei sibi posset addi vt 
+      <lb ed="#V" n="18"/>linee predicte sic infinite in actum ex omni parte: 
+      <lb ed="#V" n="19"/>licet non posset addi sibi alia linea: quoniam infra 
+      se<lb ed="#V" n="20" break="no"/>claudit omnem lineam: posset tamen addi aliquid 
+      ali<lb ed="#V" n="21" break="no"/>terius generis. vt corpus vel superficies: similiter 
+      <lb ed="#V" n="22"/>colori actu infinito qui claudit infra se omnes 
+      co<lb ed="#V" n="23" break="no"/>lores possibiles: licet nullus gradus coloris posset 
+      si<lb ed="#V" n="24" break="no"/>bi addi: aliquis tam en geradus alterius nature sibi 
+      <lb ed="#V" n="25"/>posset addi. vt gradus caloris vel albedins vel 
+      plu<lb ed="#V" n="26" break="no"/>rium aliorum: sicut licet infinitis hominibus in 
+      actu<lb ed="#V" n="27" break="no"/>existentibus: sic quod talis infinitus numerus homi 
+      <lb ed="#V" n="28"/>num infra se claudat omnes homines possibiles 
+      <lb ed="#V" n="29"/>huic infinito in actu: non posset addi aliquis homo: 
+      <lb ed="#V" n="30"/>sibi tamen posset addi aliquis asinus vel bos qui 
+      <lb ed="#V" n="31"/>non sunt eiusdem nature etc.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e389">
+      ¶ Amplius autem 
+      quar<lb ed="#V" n="32" break="no"/>to modo dicitur infinitum in actu: quod claudit in se 
+      <lb ed="#V" n="33"/>omnes gradus possibiles sui generis: et cui nihil sui 
+      ge<lb ed="#V" n="34" break="no"/>neris deest: et cui nihil sui generis potest deesse: licet 
+      <lb ed="#V" n="35"/>aliquid alterius generis sibi posset addi.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e400">
+      ¶ 
+      Exem<lb ed="#V" n="36" break="no"/>plum. sit corpus aliquod actu infinitum sic quod 
+      clau<lb ed="#V" n="37" break="no"/>dat infra se lineam actu infinitam: et claudat 
+      infra<lb ed="#V" n="38" break="no"/>se omnes lineas possibiles poni in actu. similiter 
+      <lb ed="#V" n="39"/>claudat infra se superficiem actu infinitam claudem 
+      <lb ed="#V" n="40"/>tem infra se omnes superficies possibiles poni in 
+      <lb ed="#V" n="41"/>actu. similiter includat omnia corpora possibilia 
+      po<lb ed="#V" n="42" break="no"/>ni in actum: sic quod omnia sui generis acceptabilia sint 
+      <lb ed="#V" n="43"/>accepta tale corpus infinitum esset infinitum in 
+      <lb ed="#V" n="44"/>actu. Ciaudens infra se omnes realitates sui 
+      gene<lb ed="#V" n="45" break="no"/>ris: cui nulla potest fieri additio sui generis: licet 
+      ali<lb ed="#V" n="46" break="no"/>quid alterius generis vt substantie vel qualitatis 
+      <lb ed="#V" n="47"/>posset addi: et tale infinitum in actu habet rationem 
+      <lb ed="#V" n="48"/>totius et perfecti in suo genere.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e432">
+      ¶ Palam autem quod 
+      <lb ed="#V" n="49"/>istud quartum genus differt a tertio. 3m genus non 
+      <lb ed="#V" n="50"/>claudit infra se nisi tantum omnes gradus sue nature 
+      <lb ed="#V" n="51"/>et speciei. sicut linea omnes lineas: et superficies omnes 
+      <lb ed="#V" n="52"/>superficies. hoc autem quartum genus claudit 
+      in<lb ed="#V" n="53" break="no"/>fra se omnes realitates sui generis.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e445">
+      ¶ Quintum 
+      <lb ed="#V" n="54"/>autem genus infinitatis in actum est id idem: quod est 
+      <lb ed="#V" n="55"/>infinitum transcendens: et est illud infinitum 
+      tran<lb ed="#V" n="56" break="no"/>scendens: quod claudit infra se omnes realitates: sic 
+      <lb ed="#V" n="57"/>quod non tantum claudit omnes realitates vnius generis: 
+      <lb ed="#V" n="58"/>sed plurium: et tali infinito in actu nulla potest 
+      fi<lb ed="#V" n="59" break="no"/>ri additio: nec per aliud sui generis: nec per aliquid 
+      <lb ed="#V" n="60"/>aliud: cum: vt dictum est: claudat in se omnes 
+      rea<lb ed="#V" n="61" break="no"/>litates possibiles reperiri formaliter in aliquo vno: 
+      <lb ed="#V" n="62"/>quoniam omnes realitates totius vniuersi non sunt 
+      <lb ed="#V" n="63"/>possibiles reperiri formaliter in aliquo vno: cum 
+      <lb ed="#V" n="64"/>alique earum sint opposite vel multipliciter dispe¬
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="65"/>rate et incompossibiles reperiri in eodem.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e476">
+      ¶ 
+      Sex<lb ed="#V" n="66" break="no"/>tum genus infinitatis in actu ponitur ab aliquibus: 
+      <lb ed="#V" n="67"/>sic. quod est illud quod claudit infra se omnem 
+      reali<lb ed="#V" n="68" break="no"/>tatem possibilem poni in actu: siue sit compossibi 
+      <lb ed="#V" n="69"/>le siue incompossibile: et sic vniuersum dicitur 
+      infi<lb ed="#V" n="70" break="no"/>nitum si omnes realitates: que fuerunt sunt et erunt: 
+      <lb ed="#V" n="71"/>et que sunt possibiles poni in actum essent posite in 
+      <lb ed="#V" n="72"/>actu: illud diceretur infinitum transcendens. 
+      simili<lb ed="#V" n="73" break="no"/>ter et haberet rationem totius et perfecti: nec aliquid 
+      <lb ed="#V" n="74"/>posset sibi addi. Cum omnem realitatem infra se 
+      clau<lb ed="#V" n="75" break="no"/>dat in actu. Palam autem ex his quod vniuersum: quod 
+      <lb ed="#V" n="76"/>nunc est non est sic infinitum simpliciter: quoniam 
+      <lb ed="#V" n="77"/>multe realitates possibiles possunt poni in actu: 
+      <lb ed="#V" n="78"/>que adhuc non sunt posite.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e507">
+      ¶ Perscrutandum est 
+      <lb ed="#V" n="79"/>ergo quod genus infinitatis posset attribui primo 
+      mo<lb ed="#V" n="80" break="no"/>tori. Palam autem quod primum genus infinitatis 
+      <lb ed="#V" n="81"/>omnino sibi repugnat: Cum illud infinitum sit 
+      infi<lb ed="#V" n="82" break="no"/>nitum in potentia: et illud quod de eo est acceptum 
+      <lb ed="#V" n="83"/>sit finitum: et habeat rationem partis que omnia 
+      <lb ed="#V" n="84"/>imperfectionem includunt.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e523">
+      ¶ Secundum genus 
+      <lb ed="#V" n="85"/>infinitatis eadem ratione sibi repugnat: licet enim 
+      il<lb ed="#V" n="86" break="no"/>lud quod est de eo acceptum sit actu infinitum: 
+      si<lb ed="#V" n="87" break="no"/>bi tamen aliquid restat accipiendum. Ideo non 
+      ha<lb ed="#V" n="88" break="no"/>bet rationem totius et perfecti: quoniam aliquid 
+      <lb ed="#V" n="89"/>sibi deest: quod sibi possibile est habere. Hec autem 
+      <lb ed="#V" n="90"/>omnia primo motori repugnant.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e539">
+      ¶ Tertium genus 
+      <lb ed="#V" n="91"/>infinitatis non repugnat primo motori quantum 
+      <lb ed="#V" n="92"/>ad rationem propriam sui: licet hoc sibi repugnet: 
+      quan<lb ed="#V" n="93" break="no"/>tum ad rationem communem sibi et aliis. patet: 
+      quo<lb ed="#V" n="94" break="no"/>niam indiuiduum siue singulare primi motoris. in 
+      <lb ed="#V" n="95"/>quo distinguitur specie ab omni alio claudit in 
+      se<lb ed="#V" n="96" break="no"/>omnes gradus possibiles et infinitas entitates sibi 
+      <lb ed="#V" n="97"/>proprias: nec aliquis gradus sue speciei et nature 
+      si<lb ed="#V" n="98" break="no"/>bi potest addi: cum omnes possibiles sibi claudas 
+      <lb ed="#V" n="99"/>in actu. vnde essentia primi motoris est de se 
+      hee<lb ed="#V" n="100" break="no"/>claudens infra se infinitos gradus entitatis 
+      pro<lb ed="#V" n="101" break="no"/>prie nature et speciei: et de hoc inferius. capite octauo. 
+      <lb ed="#V" n="102"/>prolixior erit sermo: quum inquiremus: an 
+      pri<lb ed="#V" n="103" break="no"/>mus motor sit omnino implurificabilis: et contineat 
+      <lb ed="#V" n="104"/>totam suam speciem.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e573">
+      ¶ Palam autem de 
+      secun<lb ed="#V" n="105" break="no"/>do: quod quantum ad rationem communem sibi et aliis 
+      <lb ed="#V" n="106"/>non est infinitus: tali infinitate: et pono tibi 
+      exem<lb ed="#V" n="107" break="no"/>plum. accipio aliquod predicatum vniuocum. 
+      pri<lb ed="#V" n="108" break="no"/>mo motori et aliis: videlicet entitatem siue 
+      substan<lb ed="#V" n="109" break="no"/>tiam. Manifestum est autem quod quiditas 
+      substan<lb ed="#V" n="110" break="no"/>tie existens in primo motore non est infinita tali 
+      <lb ed="#V" n="111"/>infinitate tertii generis: sic quod claudat infra se in 
+      <lb ed="#V" n="112"/>primo motore omnia singularia substantie 
+      possi<lb ed="#V" n="113" break="no"/>bilia poni in actu: immo non claudit nisi vnum 
+      sin<lb ed="#V" n="114" break="no"/>gulare substantie et vnum indiuiduum entis: quo 
+      <lb ed="#V" n="115"/>rum quodlibet non continet totam suam speciem. 
+    </p>
+            <p xml:id="nbnt23-n02687-d1e599">
+               <lb ed="#V" n="116"/>¶ Sed tantum singulare vnum istius vniuersalis. Et 
+      <lb ed="#V" n="117"/>conformiter est dicendum de omni quiditate 
+      com<lb ed="#V" n="118" break="no"/>muni primo motori et aliis: quoniam talis non est 
+      <lb ed="#V" n="119"/>infinita infinitate tertii generis.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e610">
+      ¶ Et si arguas 
+      sub<lb ed="#V" n="120" break="no"/>stantia et ens vel saltem quodlibet singulare abse 
+      <lb ed="#V" n="121"/>lutum in primo motore est formaliter infinitum 
+      <lb ed="#V" n="122"/>intensiue.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e619">
+      ¶ Respondeo tibi: quod quodlibet abso 
+      <lb ed="#V" n="123"/>lutum est formaliter infinitum no ratione 
+      quidi<lb ed="#V" n="124" break="no"/>tatis per se incluse in illo: sed ratione differentie 
+      in<lb ed="#V" n="125" break="no"/>diuidualis constitutiue ipsius: quam consequitur 
+      ma<lb ed="#V" n="126" break="no"/>gnitudo infinita. sub quiditate ergo reperitur vnum 
+      <lb ed="#V" n="127"/>indiuiduum formaliter infinitum claudens in se omnes 
+      gra<lb ed="#V" n="128" break="no"/>dus possibiles reperiri perfectionaliter in aliquo vno indiuiduo:
+      <pb ed="#V" n="96-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>quod quidem infinitum indiuiduum equipollet et 
+      <lb ed="#V" n="2"/>equiualet infinitis indiuiduis istius speciei: et talis 
+      <lb ed="#V" n="3"/>infinitas huiusmodi singularis potest reduci ad 
+      ter<lb ed="#V" n="4" break="no"/>tium genus infinitatis. Quoniam licet non sit sic 
+      infi<lb ed="#V" n="5" break="no"/>nitum formaliter quod contineat omnes gradus omnium 
+      <lb ed="#V" n="6"/>singularium acceptorum et acceptibilium 
+      conten<lb ed="#V" n="7" break="no"/>torum sub specie. Continet tamen perfectionaliter 
+      <lb ed="#V" n="8"/>et equipollenter omnes gradus acceptos et 
+      accepti<lb ed="#V" n="9" break="no"/>biles possibiles reperiri in aliquo vno singulari: 
+      <lb ed="#V" n="10"/>et excedit vltra omnem proportionem omnia 
+      sin<lb ed="#V" n="11" break="no"/>gularia eiusdem rationis cum isto: et equipollet in 
+      <lb ed="#V" n="12"/>perfectione: immo plusquam equipollet omnibus aliis 
+      <lb ed="#V" n="13"/>indiuiduis entis. Similiter indiuiduis substantie 
+      indi<lb ed="#V" n="14" break="no"/>uiduis bonitatis indiuiduis veritatis: et sic de aliis 
+      <lb ed="#V" n="15"/>repertis formaliter in primo motore etc.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e671">
+      ¶ Restat 
+      <lb ed="#V" n="16"/>autem inquirere de aliis tribus generibus infinitatis an 
+      <lb ed="#V" n="17"/>primo motori conueniant vel repugnent. Palam 
+      <lb ed="#V" n="18"/>autem quod sextum genus infinitatis omnino sibi 
+      re<lb ed="#V" n="19" break="no"/>pugnat: quoniam primus motor in se formaliter 
+      <lb ed="#V" n="20"/>non continet omnes realitates vniuersi acceptas 
+      <lb ed="#V" n="21"/>et acceptibiles et componibiles adinuicem et 
+      impo<lb ed="#V" n="22" break="no"/>sibiles: quoniam talis modus continendi non 
+      po<lb ed="#V" n="23" break="no"/>test esse in aliquo vno per se: nec tales realitates 
+      pos<lb ed="#V" n="24" break="no"/>sunt per se facere vnum nisi per modum cumuli et 
+      <lb ed="#V" n="25"/>acerui.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e695">
+      ¶ Quartum genus infinitatis non videtur 
+      <lb ed="#V" n="26"/>repugnare primo motori. Quoniam primus 
+      motor<lb ed="#V" n="27" break="no"/>non tantum est infinitus infinitate includente omnes 
+      <lb ed="#V" n="28"/>gradus acceptos et acceptibiles nature specifice: sed 
+      <lb ed="#V" n="29"/>et includentes omnes possibiles sui generis: vel 
+      <lb ed="#V" n="30"/>saltem plurium specierum et generum subalternorum 
+      <lb ed="#V" n="31"/>eiusdem generis. Supposito quod primus motor sit in 
+      <lb ed="#V" n="32"/>genere: et si non sit in genere saltem per modum 
+      ge<lb ed="#V" n="33" break="no"/>neris reductiue. est enim primus motor infinitus 
+      <lb ed="#V" n="34"/>spiritus. infinita substantia. infinitum ens: et sic de 
+      <lb ed="#V" n="35"/>aliis: que reductiue habent esse in genere 
+      substan<lb ed="#V" n="36" break="no"/>tie.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e722">
+      ¶ Quintum genus infinitatis maxime sibi 
+      <lb ed="#V" n="37"/>conuenit: quoniam primus motor claudit in se omnes 
+      <lb ed="#V" n="38"/>realitates possibiles reperiri in aliquo vno: ita quod 
+      <lb ed="#V" n="39"/>impossibile est quod sibi fieri possit aliqua additio. 
+      <lb ed="#V" n="40"/>vt sibi aliquid deesset: immo habet in se omnem 
+      en<lb ed="#V" n="41" break="no"/>titatem non vnius generis tantum: sed plurium 
+      redu<lb ed="#V" n="42" break="no"/>ctiue: possibiles reperiri in aliquo vno: quod pro 
+      tan<lb ed="#V" n="43" break="no"/>to dicitur: quoniam impossibile est quod omnes 
+      rea<lb ed="#V" n="44" break="no"/>litates formaliter reperiantur in aliquo vno: sed 
+      <lb ed="#V" n="45"/>virtualiter et eminenter possunt in aliquo vno 
+      repe<lb ed="#V" n="46" break="no"/>riri.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e746">
+      ¶ Ac vero quod tale genus infinitatis primo 
+      mo<lb ed="#V" n="47" break="no"/>tori conueniat. probatur: quia in vniuerso eminenter 
+      <lb ed="#V" n="48"/>et concluditur: quod est dare vnum perfectissimum ens 
+      <lb ed="#V" n="49"/>quo maius rationabilitar cogitari non potest: et 
+      <lb ed="#V" n="50"/>per consequens cui nihil deest. Et vlterius cui 
+      nul<lb ed="#V" n="51" break="no"/>la potest fieri additio. ergo claudit in se omnes 
+      <lb ed="#V" n="52"/>realitates possibiles reperiri in aliquo vno. Tale 
+      <lb ed="#V" n="53"/>autem ens est primus motor simpliciter immobilis 
+      <lb ed="#V" n="54"/>secundum omnem sectam: ergo primus motor est 
+      infi<lb ed="#V" n="55" break="no"/>nitus simpliciter. hec ergo sunt genera infinitatis: 
+      <lb ed="#V" n="56"/>que primo motori conueniunt. vt patet discurrendo 
+      <lb ed="#V" n="57"/>inductiue in quolibet genere infinitatis. sunt enim 
+      <lb ed="#V" n="58"/>alia que sibi conuenire non possunt.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e775">
+      ¶ Habet autem 
+      <lb ed="#V" n="59"/>dubitationem ex dictis trahentem originem: et 
+      pri<lb ed="#V" n="60" break="no"/>ma sit talis: an infinitas sit ratio ydentificandi 
+      si<lb ed="#V" n="61" break="no"/>bi omnia realiter: que sunt in primo motore: sic quod 
+      <lb ed="#V" n="62"/>omne illud quod est infinitum formaliter: 
+      yden<lb ed="#V" n="63" break="no"/>tificet sibi realiter omne compossibile sibi 
+      reali<lb ed="#V" n="64" break="no"/>ter.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e791">
+      ¶ Dubitatio secunda est talis: an omnia que 
+      <lb ed="#V" n="65"/>formaliter sunt in primo motore sint infinita vni¬
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>ca infinitate: vel quodlibet existens formaliter in 
+      <lb ed="#V" n="67"/>primo motore sit infinitum propria infinitatem.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e802">
+      ¶ 
+      Pri<lb ed="#V" n="68" break="no"/>ma autem dubitatio difficilis est. Manifestum est 
+      <lb ed="#V" n="69"/>enim omnibus quod quodlibet infinitum ydentificat 
+      <lb ed="#V" n="70"/>sibi omne id quod continet infra se: et quod claudit. hoc 
+      <lb ed="#V" n="71"/>enim commune est omni enti quod ydentificat sibi 
+      <lb ed="#V" n="72"/>omnes partes quas claudit: vel per modum acerui 
+      <lb ed="#V" n="73"/>sicut partes sunt vnum per modum acerui vel 
+      cu<lb ed="#V" n="74" break="no"/>muli. Uel quod partes sint vnum per accidens: vel vnum 
+      <lb ed="#V" n="75"/>per se perseitate generis: verum est tamen quod totum 
+      <lb ed="#V" n="76"/>semper ydentificat sibi partes suas.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e824">
+      ¶ Palam autem 
+      <lb ed="#V" n="77"/>quod nos non inquirimus de tali ydentificatione 
+      par<lb ed="#V" n="78" break="no"/>tium infiniti ad totum infinitum: sed de 
+      ydentifica<lb ed="#V" n="79" break="no"/>tione partium adinuicem. Sic quod vna pars infinita: 
+      <lb ed="#V" n="80"/>que est infinita formaliter ydentificet sibi omnes 
+      <lb ed="#V" n="81"/>alias partes sibi compossibiles. Dicimus ergo in 
+      pri<lb ed="#V" n="82" break="no"/>mis quod partes infiniti extensiue non ydentificant se adinus 
+      <lb ed="#V" n="83"/>uicem. Et pono tibi exemplum. si esset linea 
+      actu<lb ed="#V" n="84" break="no"/>infinita: licet ipsa ydentificaret sibi et includeret omnes 
+      <lb ed="#V" n="85"/>partes linee actum acceptabiles et possibiles fieri: vna 
+      <lb ed="#V" n="86"/>tamen pars esset extra aliam: et non ydentificaret sibi 
+      <lb ed="#V" n="87"/>aliam. Similiter linea infinita non ydentificaret sibi 
+      <lb ed="#V" n="88"/>superficiem infinitam: immo distinguerentur inter se: 
+      <lb ed="#V" n="89"/>ac si esset finita. infinitas ergo in talibus non est 
+      ra<lb ed="#V" n="90" break="no"/>tio: quod aliquid ydentificet sibi omne compossibile 
+      in<lb ed="#V" n="91" break="no"/>eodem.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e860">
+      ¶ Secundum dictum negatiuum sit istud: pri 
+      <lb ed="#V" n="92"/>quod partes infiniti intensiue non vydentificant seinuicem: et 
+      <lb ed="#V" n="93"/>sed vna est extra aliam. Et pono tibi exemplum. pi 
+      <lb ed="#V" n="94"/>si calor esset infinitus intensiue: et color eius scilicet 
+      rube<lb ed="#V" n="95" break="no"/>do infinitus intensiuee siccitas eius infinita: non 
+      pro<lb ed="#V" n="96" break="no"/>pter hoc calor ydentificaret sibi siccitatem realiter: 
+      <lb ed="#V" n="97"/>nec colorem: nec econuerso. ergo non videtur quod 
+      infi<lb ed="#V" n="98" break="no"/>nitas sit ratio: quare aliqua ydentificantur adinui 
+      <lb ed="#V" n="99"/>cem realiter.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e880">
+      ¶ Nunc autem restat: an essentia cum 
+      <lb ed="#V" n="100"/>sit infinita formaliter: ratione sue infinitatis 
+      ydenti<lb ed="#V" n="101" break="no"/>ficet sibi omne compossibile.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e887">
+      ¶ Fertur autem a quo 
+      <lb ed="#V" n="102"/>dam quod essentia primi motoris ydentificat sibi 
+      ra<lb ed="#V" n="103" break="no"/>tione sue infinitatis omne sibi compossibile realiter: 
+      <lb ed="#V" n="104"/>non tamen formaliter. Istud autem dictum sic potest 
+      <lb ed="#V" n="105"/>habere apparentiam: quoniam aliter est in 
+      quantita<lb ed="#V" n="106" break="no"/>te virtutis: et aliter in quantitate molis: quoniam 
+      ali<lb ed="#V" n="107" break="no"/>quod totum quantitatiue virtutis potest esse omnino 
+      <lb ed="#V" n="108"/>simplex et indiuisibile in plures res: sicut 
+      communi<lb ed="#V" n="109" break="no"/>ter fertur. hoc ergo concesso apparet quod essentia 
+      pri<lb ed="#V" n="110" break="no"/>mi motoris ydentificat sibi realiter omnem 
+      reali<lb ed="#V" n="111" break="no"/>tatem sibi compossibilem: sic quod nulla est distinctio 
+      <lb ed="#V" n="112"/>inter realitatem essentie et realitatem omnium 
+      alio<lb ed="#V" n="113" break="no"/>tum. Qnam vna realitas tamquam modus sibi 
+      intrinse<lb ed="#V" n="114" break="no"/>cus correspondet essentie et omnibus aliis. Nam si 
+      rea<lb ed="#V" n="115" break="no"/>litas essentie caloris est infinita formaliter: 
+      neces<lb ed="#V" n="116" break="no"/>sario claudit infra se omnes gradus caloris: sic 
+      rea<lb ed="#V" n="117" break="no"/>litas essentie primi motoris formaliter infinita 
+      clau<lb ed="#V" n="118" break="no"/>dit infra se eminenter omnes realitates et 
+      ydenti<lb ed="#V" n="119" break="no"/>ficat sibi eas.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e929">
+      ¶ Et si arguas quod realitates linee 
+      infi<lb ed="#V" n="120" break="no"/>nite non ydentificant sibi realitatem superficiei 
+      <lb ed="#V" n="121"/>infinite: et tamen vtraque realitas est infinita.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e936">
+      ¶ 
+      Re<lb ed="#V" n="122" break="no"/>spondeo tibi quod realitas linee infinite non est 
+      infi<lb ed="#V" n="123" break="no"/>nita simpliciter: sed tantum secundum quid. ideo non 
+      clau<lb ed="#V" n="124" break="no"/>dit infra se omnem realitatem simpliciter: nec 
+      yden<lb ed="#V" n="125" break="no"/>tificat sibi omnem aliam sibi compossibilem: sed 
+      <lb ed="#V" n="126"/>tantum claudit et ydentificat sibi omnem realitatem sue 
+      <lb ed="#V" n="127"/>specie scilicet omnium linearum.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e952">
+      ¶ Realitas autem essentie 
+      <lb ed="#V" n="128"/>primi motoris est infinita simpliciter. ideo 
+      yden<lb ed="#V" n="129" break="no"/>tificat sibi omnes gradus realitatis essentie: 
+      immo<lb ed="#V" n="130" break="no"/>omnes gradus realitatum sibi componibilium in¬
+      <pb ed="#V" n="96-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>eodem.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e969">
+      ¶ Et si queras: an quiditas essentie primi 
+      <lb ed="#V" n="2"/>motoris ydentificet sibi omnes alias quiditates 
+      exi<lb ed="#V" n="3" break="no"/>i. stentes formaliter in eo. videtur quibusdam quod sic: 
+      quo<lb ed="#V" n="4" break="no"/>niam ipsa quiditas essentie est formaliter infinita. ergo 
+      <lb ed="#V" n="5"/>propter infinitatem vydentificat sibi omnem aliam 
+      <lb ed="#V" n="6"/>realitatem sibi compossibilem in eodem: sicut 
+      pro<lb ed="#V" n="7" break="no"/>pter infinitatem realitas essentie ydentificat sibi 
+      <lb ed="#V" n="8"/>omnem aliam realitatem compossibilem sibi. Sed 
+      <lb ed="#V" n="9"/>ista consequentia non videtur necessaria. vnde non 
+      sequi<lb ed="#V" n="10" break="no"/>tur si realitas essentie propter infinitatem identificat sibi 
+      <lb ed="#V" n="11"/>omnem aliam realitatem componibilem sibi. ergo 
+      quidita<lb ed="#V" n="12" break="no"/>tas essentie propter infinitatem ydentificat sibi 
+      for<lb ed="#V" n="13" break="no"/>maliter omnem quiditatem sibi composile: sicut non 
+      sequ<lb ed="#V" n="14" break="no"/>tur. linea propter infinitatem identificat omnem lineam sibi 
+      <lb ed="#V" n="15"/>composileus. ergo identigsicaem sibi omnem superficiem. Ratio autem huius 
+      <lb ed="#V" n="16"/>dicti est ista: quoniam ipsa infinitas bene esset ratio 
+      identificandi<lb ed="#V" n="17" break="no"/>ista: que sunt eiusdem naturae et speciei: non autem illa que sunt 
+      <lb ed="#V" n="18"/>alterius rationis et speciei. ideo realitas essentie propter 
+      infini<lb ed="#V" n="19" break="no"/>tatem si: npliciter identificat sibi omnes gradus sue naturae et 
+      <lb ed="#V" n="20"/>specie secundum omnes gradus realitatis sibi composiles. non autem propter 
+      <lb ed="#V" n="21"/>infinitatem identificat sibi ista: que non sunt sue naturae: nec 
+      <lb ed="#V" n="22"/>speciei vt quiditatem essentie et intellectus et voluntatis et aliorum 
+      <lb ed="#V" n="23"/>attributorum.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e1019">
+      ¶ Palam autem quod conformiter est dicendum quod 
+      quidi<lb ed="#V" n="24" break="no"/>tas essentie primi motoris propter infinitatem simpliciter 
+      identifi<lb ed="#V" n="25" break="no"/>cat sibi omnes gradus sue naturae et specie scilicet omnes gdus 
+      essen<lb ed="#V" n="26" break="no"/>tie: nec aliquid sibi deest: sed omnes infra se claudit. Tamen 
+      <lb ed="#V" n="27"/>non identificat sibi propter infinitatem ista: que sunt 
+      alte<lb ed="#V" n="28" break="no"/>rius naturae et speciei. vt quiditatem intellectus et voluntatis et 
+      <lb ed="#V" n="29"/>et aliorum attributorum et esoci. Manifenctum est ergo quod illa que 
+      <lb ed="#V" n="30"/>ine dicta sunt supponunt quod res seu realitas primi 
+      moto<lb ed="#V" n="31" break="no"/>ris sit quidam modus intrinsecus essentie primi 
+      moto<lb ed="#V" n="32" break="no"/>ris et omnium quiditatum distinctus ab illis: sicut 
+      mo<lb ed="#V" n="33" break="no"/>dus intrinsecus ab eo cuius est modus. Et illo 
+      mo<lb ed="#V" n="34" break="no"/>do potest sustineri quomo omnia que sunt in primo 
+      mo<lb ed="#V" n="35" break="no"/>tore in eodem supposito propter infinitatem idenitum adiuicem 
+      <lb ed="#V" n="36"/>realiter: non tamen formaliter: sed cum identitate reali 
+      ma<lb ed="#V" n="37" break="no"/>net distinctio formalis. 
+    </p>
+            <p xml:id="nbnt23-n02687-d1e1052">
+               <lb ed="#V" n="38"/>Amplius autem accipiendo realitatem non per 
+      <lb ed="#V" n="39"/>modum substracti. et modi 
+      <lb ed="#V" n="40"/>intrinseci. vt distinguitur aliquo modo ex natura rei a 
+      <lb ed="#V" n="41"/>quaditate cuius est: sed magis accianuo rem per modum 
+      <lb ed="#V" n="42"/>resultantis: vel per modum praedicat: sequitur quod omne 
+      pa<lb ed="#V" n="43" break="no"/>sitiuum dicatur esse realitas quedam: sicut fuit in 
+      no<lb ed="#V" n="44" break="no"/>stre metaphilosophice. capite primo. declaratum. Restat 
+      inqu<lb ed="#V" n="45" break="no"/>rere: an infinitas sit ratio idenenti realiter ista: que sunt in 
+      <lb ed="#V" n="46"/>primo motore: et etiam formaliter. De hoc autem videntur esse 
+      <lb ed="#V" n="47"/>2o dicta contradictoria. Primum autem dictum est 
+      affirma<lb ed="#V" n="48" break="no"/>tiuum quod sic. nama infinitas essentie in primio motore est 
+      infi<lb ed="#V" n="49" break="no"/>nita simpliciter: et transcendens. ergo non tantum identificat sibi 
+      <lb ed="#V" n="50"/>ista: que sunt eiusdem nature et specie: sed etiam 
+      identifi<lb ed="#V" n="51" break="no"/>cat sibi omne positiuum composite cum ea: ita quod sibi nihil 
+      <lb ed="#V" n="52"/>deest: nec est aliquid extra accipere quod sit positiuum: 
+      <lb ed="#V" n="53"/>alias. non diceret positiuum: infinitum simpliciter et omnia 
+      po<lb ed="#V" n="54" break="no"/>sitiua sibi identificat realiter et formaliter. Qniam 
+      reali<lb ed="#V" n="55" break="no"/>tas et formalitas sunt omnino idem secundum sic 
+      ponenten<lb ed="#V" n="56" break="no"/>Unde videtur sibi esse imaginatio talis quod essentia 
+      <lb ed="#V" n="57"/>primi motoris est indiuisibilis et simplex 
+      infinita<lb ed="#V" n="58" break="no"/>simpliciter vnitiue continens et identificans sibi 
+      intelle<lb ed="#V" n="59" break="no"/>ctum et voluntatem et aliam perfectionem simpliciter siue sit 
+      <lb ed="#V" n="60"/>eiusdem rationis cum ea: siue sit alterius rationis prout 
+      <lb ed="#V" n="61"/>tales reperiuntur proprietates in istis inferioribus. Et in 
+      <lb ed="#V" n="62"/>hoc modo postia conueniunt plures antiqu et moderni 
+      dicen<lb ed="#V" n="63" break="no"/>tes primum motorem esse vnum suppositum: actu infinitum: 
+      <lb ed="#V" n="64"/>continens in se vnitiue et identice omnia: que sunt in 
+      <lb ed="#V" n="65"/>ipso absque omni distinctione et identitate ex natura¬
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>rei: nec reali: nec formali: cui nihil deest sibi composie: 
+      <lb ed="#V" n="67"/>nec aliquod positiuum est in eo accipere extra. alias. 
+      <lb ed="#V" n="68"/>non esset ens infinitum et transcendens.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e1124">
+      ¶ Alii autem 
+      mo<lb ed="#V" n="69" break="no"/>tores secundum eos non sunt sic infiniti simpliciter: quoniam 
+      <lb ed="#V" n="70"/>non identificant sibi omne illud quod est eis composie: 
+      im<lb ed="#V" n="71" break="no"/>mo est in eis aliquod positiuum formaliter extra eorum 
+      <lb ed="#V" n="72"/>quiditatem et essentiam: sicut multa accidentia eis. Ideo non 
+      <lb ed="#V" n="73"/>sunt infiniti simpliciter. Manifestum est autem quod iste 
+      <lb ed="#V" n="74"/>modus ponendi: licet sit communis pluribus: non tamen ipsum 
+      re<lb ed="#V" n="75" break="no"/>cipimus: quoniam contrarius est principiis nostris posite 
+      <lb ed="#V" n="76"/>in nostra metaphysica: et etiam in hac theologia. 
+      Di<lb ed="#V" n="77" break="no"/>ctum est enim supra in nostra metaphysica: quod 
+      qui<lb ed="#V" n="78" break="no"/>ditas entis est vniuoca primtio motori et aliis: et quod ipsa 
+      <lb ed="#V" n="79"/>est contrahibilis per differentiam. Similiter substantia et 
+      <lb ed="#V" n="80"/>intellectus et voluntas: et sic de aliis pluribus 
+      vni<lb ed="#V" n="81" break="no"/>uocis dicuntur vniuocatione reali de primo motore et 
+      <lb ed="#V" n="82"/>aliis. Palam autem quod istis principiis positis 
+      consequen<lb ed="#V" n="83" break="no"/>ter est dicendum quod essentia primi motoris propter suam 
+      infi<lb ed="#V" n="84" break="no"/>nitatem non identificat sibi omne composile cum ea: quo 
+      <lb ed="#V" n="85"/>niam non identificat sibi quiditatem entis omnino absque 
+      <lb ed="#V" n="86"/>omni non identitate: nec quiditatem substantia: nec aliquod 
+      <lb ed="#V" n="87"/>praedicatum commune sibi et aliis: quoniam cum omnia 
+      predi<lb ed="#V" n="88" break="no"/>cata vniuoca: que sunt in primo motore non essent 
+      <lb ed="#V" n="89"/>ita actualiter secundum suas rationes formales: sed tantum 
+      <lb ed="#V" n="90"/>essent ibi eminenter seu equipollenter: quia ibi esset 
+      <lb ed="#V" n="91"/>vna quiditas: que supereminenter et 
+      superequipol<lb ed="#V" n="92" break="no"/>lenter esset intellectus et voluntas veritas et 
+      boni<lb ed="#V" n="93" break="no"/>tas: et sic de aliis attributis. Et bene vides quod ista sunt 
+      <lb ed="#V" n="94"/>multum dissona nostris primcipiis metaphisicalibus: quo 
+      <lb ed="#V" n="95"/>niam tunc periret omnis vniuocatio cuiuscumque 
+      predica<lb ed="#V" n="96" break="no"/>ti ad primum motorem: et ad ista inferiora. 
+      <lb ed="#V" n="97"/>Dicamus ergo sequendo nostta printusm melia 
+      <lb ed="#V" n="98"/>quod essentia primi motoris propter 
+      <lb ed="#V" n="99"/>eius infinitatem simpliciter non identificat sibi alia: 
+      <lb ed="#V" n="100"/>que sunt alterius rationis ab ista. videlicet 
+      intelle<lb ed="#V" n="101" break="no"/>ctum et voluntatem et cetera attributa: nec 
+      predica<lb ed="#V" n="102" break="no"/>ta primi motoris dicta de ipso: cum vnum sit 
+      con<lb ed="#V" n="103" break="no"/>trahibile et aliud contrahens: et per consequens 
+      ali<lb ed="#V" n="104" break="no"/>qualiter non idem: etenim nihil contrahit seipsum: 
+      <lb ed="#V" n="105"/>nec attributa propter infinitatem seipsa 
+      ydentifi<lb ed="#V" n="106" break="no"/>cant. alias. non remanerent ibi secundum suas rationes 
+      for<lb ed="#V" n="107" break="no"/>males. Attamen debent omnes diligenter aduerte 
+      <lb ed="#V" n="108"/>re: quod aliquid ydentificare sibi aliud habet 
+      dupli<lb ed="#V" n="109" break="no"/>cem intellectum. vnum quod ydentificet sibi aliud 
+      yden<lb ed="#V" n="110" break="no"/>titate absoluta: que excludit omnem distinctionem 
+      <lb ed="#V" n="111"/>seu ydentitatem aliquorum. Alium autem habere potest 
+      <lb ed="#V" n="112"/>intellectum quod ydentificaret sibi aliud ydentitate 
+      <lb ed="#V" n="113"/>relatiua qua ydentitum aliqua duo inter se vel in 
+      ter<lb ed="#V" n="114" break="no"/>tio: et hec non excludit omnem distinctionem seu non 
+      <lb ed="#V" n="115"/>ydentitatem ex natura rei. Palam autem quod nostra 
+      <lb ed="#V" n="116"/>intentio est hic loqui de ydentitate absoluta. Cum 
+      <lb ed="#V" n="117"/>dicimus quod infinitas non est ratio identificandi 
+      essen<lb ed="#V" n="118" break="no"/>tiam primi motoris: et alia attributa: quoniam 
+      essen<lb ed="#V" n="119" break="no"/>tia primi motoris propter eius infinitatem. 
+      simpli<lb ed="#V" n="120" break="no"/>citer non identificat sibi identitate absoluta omne 
+      <lb ed="#V" n="121"/>sibi compossibile. non autem negamus quin propter 
+      <lb ed="#V" n="122"/>eius infinitatem ydentificantem omne sibi 
+      compossi<lb ed="#V" n="123" break="no"/>bile indistinctione relatiua: quoniam omnia que sunt 
+      <lb ed="#V" n="124"/>in primo motore sunt idem per omnimodam 
+      indi<lb ed="#V" n="125" break="no"/>stinctionem relatiuam.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e1250">
+      ¶ Et si queras. si essentia 
+      pri<lb ed="#V" n="126" break="no"/>mi motoris ydentificet sibi omne sibi 
+      compe<lb ed="#V" n="127" break="no"/>le et realiter et formaliter.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e1257">
+      ¶ Respondeo tibi  
+      acci<lb ed="#V" n="128" break="no"/>piendo rem pro modo intrinseco quiditate 
+      distin<lb ed="#V" n="129" break="no"/>cto ex natura rei a quiditate: sicut supra dictum est 
+      <lb ed="#V" n="130"/>diceretur: quod essentia primi motoris propter eius
+      <pb ed="#V" n="97-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>infinitatem identificat sibi omne compossibile formaliter identitate 
+      rela<lb ed="#V" n="2" break="no"/>latiua: ita quod intellectus et voluntas et essentia primi 
+      moto<lb ed="#V" n="3" break="no"/>ris: et breuiter omnia sunt idem formis et vna formalitas 
+      idenm<lb ed="#V" n="4" break="no"/>relatiua quod per indiuisionem et indistintionem vnius formtia ab 
+      <lb ed="#V" n="5"/>alia: quiditas ergo entis quae contrahitur et differentia contraens sunt vnum 
+      for<lb ed="#V" n="6" break="no"/>maliter per indiuisionem. igitur non sunt adiuicem distincta. 
+      <lb ed="#V" n="7"/>Cum hoc stat semper quod non sunt idem formaliter identitate 
+      <lb ed="#V" n="8"/>absoluta: licet sint idem identitate relatiua. Et si sic intellexit 
+      <lb ed="#V" n="9"/>positor formalitatum quod cum identilite reali stat non 
+      identi<lb ed="#V" n="10" break="no"/>tas formalis. Et infinitas essentie primi motoris est 
+      ratio<lb ed="#V" n="11" break="no"/>ideni sibi omnia alia reisa identiate relatiua. Et est ratio idens: 
+      si<lb ed="#V" n="12" break="no"/>bi omnia alia foris identilate relatiua vel indiuisione: cum qua 
+      <lb ed="#V" n="13"/>stat identitas formalis ille intellectus fuit probabil acciunde 
+      <lb ed="#V" n="14"/>rem pro modo intrinsecto quiditatis.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e1302">
+      ¶ Attamen acciendo rem in 2o 
+      in<lb ed="#V" n="15" break="no"/>tellectum per modum resultantis: et accipiendo quod quiditas et 
+      reali<lb ed="#V" n="16" break="no"/>tas sunt penitus idem identitate absluta. tuc est dicendum quod 
+      <lb ed="#V" n="17"/>esse primi motoris propter eam infinitatem non identipgysicaemr sibi alia: 
+      <lb ed="#V" n="18"/>que sunt in ea foris identilie absoluta: nec formaliter: nec 
+      rea<lb ed="#V" n="19" break="no"/>liter: sed tantuen idenseicam sibi ista per indiuisionem relatiuam. 
+      <lb ed="#V" n="20"/>Unde nec realitas essentie idensecaeme sibi realitatem in 
+      <lb ed="#V" n="21"/>tellectus et voluntatis relitia: sic quod extremum sit extremum: 
+      <lb ed="#V" n="22"/>et quod hoc sit hoc: et hoc realitas sit illa idensite absoluta: sed quod 
+      <lb ed="#V" n="23"/>est indicata relatiue ab illa: nec siliter idempsicasm sibi illa formlite 
+      <lb ed="#V" n="24"/>sic quod hoc formalitas sit illa identilute absoluta: sed tantum quod sit 
+      <lb ed="#V" n="25"/>inua per indiuisionem relatiuam.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e1328">
+      ¶ Et si arguas quod esse primi 
+      <lb ed="#V" n="26"/>motoris non idenpysicasm propter infiniten intellentua et voinatum: nisi tantum 
+      re<lb ed="#V" n="27" break="no"/>latiue: et per indiuisione relatiuam: sicut differentia cum genere 
+      <lb ed="#V" n="28"/>est idem relatiue. ergo sequitur quod est poterit habere rationem partis 
+      <lb ed="#V" n="29"/>quantuncumque sit infinita et quod sit extra ipsam aliquid aliud 
+      acci<lb ed="#V" n="30" break="no"/>pere. Et vlterius quod infinito sit aliquid maius: et adhuc 
+      se<lb ed="#V" n="31" break="no"/>quitur quod poterit componere: et quod primus motor est 
+      composi<lb ed="#V" n="32" break="no"/>tus.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e1346">
+      ¶ Respondstio tibi: quando de compoione primi motoris 
+      inquiri<lb ed="#V" n="33" break="no"/>mus. tunc dissoluemus ieuam difficultatem. ideo vsque ad 
+      lo<lb ed="#V" n="34" break="no"/>cum illum differamus. palam autem est ex praehabitis quid ad 
+      <lb ed="#V" n="35"/>primam et 2m dubitationem est dicendum.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e1355">
+               <lb ed="#V" n="36"/>De dubitatione autem 2a nunc restat 
+      perscru<lb ed="#V" n="37" break="no"/>tandum. Est namque 
+      dubita<lb ed="#V" n="38" break="no"/>tio 2a: an omnia quae sunt in primo motore sint infinita: vel quodlibet 
+      <lb ed="#V" n="39"/>ibi existens foris sit infinitum propria infinitate: et de hoc sunt duo 
+      <lb ed="#V" n="40"/>dicta opposita. primumdictum est affirmatiuum quod omnia in primes 
+      <lb ed="#V" n="41"/>motore vnica infinite sunt infinita: quoniam non sunt 
+      ponen<lb ed="#V" n="42" break="no"/>da plura sine necessaritate: nulla autem necessaritas est ponere 
+      <lb ed="#V" n="43"/>plies infililes: quia vna sufficit: quoniam sicut in primo motore 
+      suf<lb ed="#V" n="44" break="no"/>ficit vna res a qua omnia: que sunt in eo dicunetur reari: et sicut 
+      <lb ed="#V" n="45"/>vnica est natura a qua omnia dicunetur existere: et vna eternitas a 
+      <lb ed="#V" n="46"/>qua omnia dicuntr eterna: sic sufficut vna infinitas essentie primi 
+      <lb ed="#V" n="47"/>motoris: a qua omnia dicuner infinita. Et sicut in quantitate 
+      moi<lb ed="#V" n="48" break="no"/>materia et forma et compositum et omnia accidentia dicunr quanta vnica quantitate 
+      <lb ed="#V" n="49"/>sic vnica infinitate omnia dicuntr infinita.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e1388">
+      ¶ At vero dicendum 
+      <lb ed="#V" n="50"/>est oppositum ab absoirets quod non est praecise vna infinitas in pries 
+      <lb ed="#V" n="51"/>motore: sed plures et tot quot sunt ibi rationes formales 
+      <lb ed="#V" n="52"/>quiditiue absolte ditate ex natura rei. Ratio huius dicti talis est: quoniam 
+      <lb ed="#V" n="53"/>sicut in istis inferioribus in quibus sunt rationes formales 
+      <lb ed="#V" n="54"/>quiditatiue distincte formaliter necessario sunt diuerse 
+      ma<lb ed="#V" n="55" break="no"/>gnitudines virtute et diuerse finitates quae consequuntur 
+      <lb ed="#V" n="56"/>rationes istas formales. non enim eadem magnitudo 
+      perfe<lb ed="#V" n="57" break="no"/>ctionis et virtutis consequitur essentiam anime et intellctum et 
+      vo<lb ed="#V" n="58" break="no"/>luntatem. similiter subiectum et propriam passionem. Sic in 
+      <lb ed="#V" n="59"/>primo motore in quo reperiuntur tales rationes formales 
+      <lb ed="#V" n="60"/>ex natura rei distincte alia et alia magnitudo perfectionis 
+      <lb ed="#V" n="61"/>et virtutis consequitur essentiam primi motoris et intelligentia eius et 
+      <lb ed="#V" n="62"/>alia voluntatem. et sic de aliis proprietatibus primi 
+      moto<lb ed="#V" n="63" break="no"/>ris.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e1421">
+      ¶ Adhuc autem manifestum est quod si infinitas sit 
+      quida<lb ed="#V" n="64" break="no"/>motus intrineus essentie primi motoris per se pertinens ad 
+      <lb ed="#V" n="65"/>ipsam et eiusdem generis cum ipsa sit: ipsa esset in genere eiusdem
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>subae: Sequitur necessario quod quott erunt rationes formales 
+      <lb ed="#V" n="67"/>genere distincte tot sunt tales modi intrinseci scilicet 
+      infini<lb ed="#V" n="68" break="no"/>tates. quocumque ergo modo accituer infinitas vel pro modo 
+      intrinse<lb ed="#V" n="69" break="no"/>co immetdpihysicae perfectiois vel quiditatis vel pro modo intrinseco 
+      <lb ed="#V" n="70"/>magnitudins: et consequenter cuiuslibet quiditatis absolate semper secundum 
+      <lb ed="#V" n="71"/>numerum rationum formalium erit nuerus infinitatum.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e1444">
+      ¶ Et 
+      <lb ed="#V" n="72"/>si dicas quod infinitas est ratio aliquorum in absolecto vt essentiale 
+      <lb ed="#V" n="73"/>proprietatum suarum. ergo oportet quod sit vna in se: quoniam ratione 
+      infinitan<lb ed="#V" n="74" break="no"/>te in qua conueniunt et a qua non abstrahunt: sed licet praescindatur ab 
+      <lb ed="#V" n="75"/>aliis est vna propositio absili de abluto.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e1455">
+      ¶ Responsio tibi siue sit tantum 
+      <lb ed="#V" n="76"/>vna infinitas siue pliles semper remanet propositio vera 
+      abstra<lb ed="#V" n="77" break="no"/>cti de abbliecto quandium non fit abstractio ab infinitate. si 
+      tamen<lb ed="#V" n="78" break="no"/>possent tantum abstrahi ex mam quod fieret abstractio est 
+      <lb ed="#V" n="79"/>ab infinitate. tunc non maneret propositio vera: quoniam extremum 
+      <lb ed="#V" n="80"/>non est extremum: nisi ratione medii.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e1468">
+      ¶ At vero cum arguis 
+      <lb ed="#V" n="81"/>quod vna infinitas sufficit: nec plures sunt pose sine 
+      necessari<lb ed="#V" n="82" break="no"/>tate: dicitur quod ibi est necessaritas: quia rationem forealem cuiuslibet 
+      quidi<lb ed="#V" n="83" break="no"/>tatis in per motore sequitur infinitas: nec vt quod omnes formales 
+      <lb ed="#V" n="84"/>rationes determinent sibi vnam infinitatem: sicut nec vnam 
+      <lb ed="#V" n="85"/>perfectionem: sicut in creaturis rationes formales 
+      disparate<lb ed="#V" n="86" break="no"/>non determinant sibi vnam perfectionem finitam: sed aliam et 
+      <lb ed="#V" n="87"/>aliam. Tum quia infinitas ista si esset vna tantum vel esset per 
+      se<lb ed="#V" n="88" break="no"/>modus intrinseus entis et primo et per accidens aliorum vel esset esque 
+      <lb ed="#V" n="89"/>primo modus intrinseus omnium perfectionum attributarum et essen 
+      <lb ed="#V" n="90"/>tie. vtrumque est inconueniens. ergo etc.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e1492">
+      ¶ Et si adhuc quaras: 
+      <lb ed="#V" n="91"/>an primus motor cum sit infinitus sit omnia quae habet: ita quod sit 
+      <lb ed="#V" n="92"/>omnino idem habens: et illud quod habetur.
+    </p>
+            <p xml:id="nbnt23-n02687-d1e1499">
+      ¶ Responsio tibi. ex 
+      priori<lb ed="#V" n="93" break="no"/>bus patet quid sit dicendum dictum est enim quod primus motor est idem 
+      <lb ed="#V" n="94"/>cum omnibus qua habet identitate relatiua. non autem identilite abi 
+      <lb ed="#V" n="95"/>Dictum est ergo de infinitate entitatiua intensiua primi motoris. 
+      <lb ed="#V" n="96"/>Restat perscrutatio de infitue durationis et vigoris. 
+      De<lb ed="#V" n="97" break="no"/>infinitate autem durationis primi motoris: satis dictum est 
+      <lb ed="#V" n="98"/>in physicis: sicut ars iua raqurit: nec opte hoc repetere. 
+      De<lb ed="#V" n="99" break="no"/>infinitate autem primi motoris in vigore inferius erit secundo: 
+      <lb ed="#V" n="100"/>cum de potentia productiua primi motoris esita perscrutatio etc. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

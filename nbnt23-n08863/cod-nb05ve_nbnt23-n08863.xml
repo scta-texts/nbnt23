@@ -1,0 +1,1354 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="104-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n08863"><!--ntheol-l3c2-->
+            <head xml:id="nbnt23-n08863-Hd1e97">Caput 2</head>
+            <head xml:id="nbnt23-n08863-Hd1e99" type="question-title">Ostendit primam causam quiditates rerum omnium distincte cognoscere</head>
+            <p xml:id="nbnt23-n08863-d1e102">
+               <lb ed="#V" n="61"/>¶ Ostendit primam causam quiditates rerum omnium 
+      di<lb ed="#V" n="62" break="no"/>stincte cognoscere. Cap. II
+    </p>
+            <p xml:id="nbnt23-n08863-d1e109">
+               <lb ed="#V" n="63"/>PErscruntemur vlterius de 
+      quo<lb ed="#V" n="64" break="no"/>libet perfectio 
+      <lb ed="#V" n="65"/>ne simpliciter in speciali: que in primo
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>motore formaliter inuenitur. Et primo pe primi motoris 
+      <lb ed="#V" n="67"/>cognitione. Secundo. de eius volitione. Tertio. de eius 
+      <lb ed="#V" n="68"/>potentia.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e127">
+      ¶ Quantum ad primum erit prima 
+      specula<lb ed="#V" n="69" break="no"/>tio an primus motor sit intelligens: et congitans: an 
+      <lb ed="#V" n="70"/>semper cogitet. si tantum de se cogitat. si cagitat 
+      ali<lb ed="#V" n="71" break="no"/>quid extra se formaliter: an producat aliquid a se 
+      <lb ed="#V" n="72"/>in esse cognito: an sit idem quod sua intellectio: an sit 
+      <lb ed="#V" n="73"/>idem quod esse cognitum: an habeat scientiam 
+      infali<lb ed="#V" n="74" break="no"/>libilem de quacumque conclusione: an cum 
+      infallibili<lb ed="#V" n="75" break="no"/>tate scientie eius stet contingentia in rebus. Amplius autem 
+      <lb ed="#V" n="76"/>erit perscrutatio secundi motoris: an intelligat ipsum 
+      <lb ed="#V" n="77"/>naturalem: an aliquid quod sit in primo motore 
+      for<lb ed="#V" n="78" break="no"/>maliter intuitibile: an essentia primi motoris sit 
+      na<lb ed="#V" n="79" break="no"/>turaliter intuitibilis ab intellectum distincto. De in 
+      <lb ed="#V" n="80"/>tellectione secundi motoris non tantum respectu 
+      pri<lb ed="#V" n="81" break="no"/>mi: sed respectu sui et aliorum distinctorum a se et a 
+      <lb ed="#V" n="82"/>primo motore erit speculatio.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e161">
+      ¶ Dicamus ergo in 
+      <lb ed="#V" n="83"/>primis: quod primus motor est intelligens et cognoscens. 
+      <lb ed="#V" n="84"/>Et sit prima conclusio talis. primus motor est 
+      intel<lb ed="#V" n="85" break="no"/>lectiuus: et in ipso est intellectio formaliter.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e170">
+      ¶ Ad 
+      <lb ed="#V" n="86"/>probandum autem hanc conclusionem et sequentes 
+      neces<lb ed="#V" n="87" break="no"/>se fuit ponere tractatum de perfectionibus: quoniam 
+      <lb ed="#V" n="88"/>per diffinitionem perfectionis simpliciter in 
+      vniuer<lb ed="#V" n="89" break="no"/>sali probabuntur omnes ille passiones necessario in 
+      <lb ed="#V" n="90"/>esse primo motori. hec igitur conclusio sic probatur: 
+      intel<lb ed="#V" n="91" break="no"/>lectiuum dicit perfectionem simpliciter: quoniam in 
+      <lb ed="#V" n="92"/>quolibet est melius ipsum quam non ipsum. natuma melius 
+      <lb ed="#V" n="93"/>est suppositum intellectiuum quam non intellectiuum: 
+      <lb ed="#V" n="94"/>accipiendo non intellectiuum pro quocumque sibi 
+      incom<lb ed="#V" n="95" break="no"/>possibili. consequentia probat: quia omnis perfectio 
+      <lb ed="#V" n="96"/>simpliciter est in primo motore. alias. non esset 
+      simpli<lb ed="#V" n="97" break="no"/>citer perfectus: vt supra probatum est.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e199">
+      ¶ Et si que 
+      <lb ed="#V" n="98"/>ras: an in primo motore sit intellectus agens vel 
+      <lb ed="#V" n="99"/>possibilis: vel vterque. Respondeo quod in eo est 
+      intel<lb ed="#V" n="100" break="no"/>lectus agens formaliter: cum intellectus agens dicat 
+      <lb ed="#V" n="101"/>perfectionem simpliciter non accipiendo intellectum 
+      agen<lb ed="#V" n="102" break="no"/>tem vt habet actiuitatem supra fantasma: sed vt 
+      ha<lb ed="#V" n="103" break="no"/>bet actiuitatem respectu intellectionis: vel magis 
+      re<lb ed="#V" n="104" break="no"/>spectu productionis obiecti in esse cognito.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e217">
+      ¶ 
+      Adhuc<lb ed="#V" n="105" break="no"/>autem in primo motore est intellectus possibilis non 
+      <lb ed="#V" n="106"/>vt de potentia eius aliquid educatur: sed quod 
+      intelle<lb ed="#V" n="107" break="no"/>ctus natus est fundare vel esse cognitum recipere 
+      <lb ed="#V" n="108"/>vel vt magis proprie loquar eius dependentiam 
+      ter<lb ed="#V" n="109" break="no"/>minare.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e230">
+      ¶ Secuda conclusio. sit talis: quod primus 
+      mo<lb ed="#V" n="110" break="no"/>tor est actu intelligens. hoc probatur: quia intelligere 
+      <lb ed="#V" n="111"/>dicit perfectionem simpliciter. Tum secundo: quia 
+      <lb ed="#V" n="112"/>per intelligere honole inest primi motori secundum snias 
+      pro<lb ed="#V" n="113" break="no"/>genitorum nostrorum. Unde risto. 2o metaphy. sue. 
+      <lb ed="#V" n="114"/>sic ait de primo motore. Si non intelligit non vtique erit 
+      <lb ed="#V" n="115"/>aliquid insigne. per intelligere enim honorabile 
+      in<lb ed="#V" n="116" break="no"/>est ei. melius enim est vt sit intelligens quam non 
+      intel<lb ed="#V" n="117" break="no"/>ligens.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e250">
+      ¶ Tertia conclusio sit talis. primus 
+      motor<lb ed="#V" n="118" break="no"/>semper est actu cogitans: nec quandoque cogitat et quando 
+      <lb ed="#V" n="119"/>que non cogitat: sed semper actu cogitat. hoc probatur: 
+      <lb ed="#V" n="120"/>quoniam semper est perfectus simpliciter. ergo semper 
+      actu<lb ed="#V" n="121" break="no"/>habet omnem perfectionem simpliciter. Tum 2o quia si non esset 
+      actu<lb ed="#V" n="122" break="no"/>semper cogitans: sed in potentia: cum actus sit perfectior 
+      <lb ed="#V" n="123"/>potetia. tunc erit perfectior quando actu cogitat quam quando 
+      <lb ed="#V" n="124"/>actu non cogitat: quia esse in potentia dicit quandam 
+      im<lb ed="#V" n="125" break="no"/>perfectionem respectu huius quod est esse in actu.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e271">
+      ¶ Et 
+      <lb ed="#V" n="126"/>si arguas: quod non semper actu omnia cogitat: quoniam de 
+      <lb ed="#V" n="127"/>vtraque parte contradictionis potest cogitare. vtramque 
+      <lb ed="#V" n="128"/>autem simul actu non cogitat.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e280">
+      ¶ Respondeo tibi. instantia 
+      <lb ed="#V" n="129"/>non impedit propositum: quia non concludit quin semper 
+      actu<lb ed="#V" n="130" break="no"/>aliquid cogitet. vtrum autem vtramque partem contradictio¬
+      <pb ed="#V" n="105-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>nis possit successiue cogitare: autem non: de hoc erit 
+      <lb ed="#V" n="2"/>inferius sermo.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e296">
+      ¶ Quarta conclusio. quod primus 
+      mo<lb ed="#V" n="3" break="no"/>tor semper cogitat de se. hec probatur: quoniam omnis 
+      <lb ed="#V" n="4"/>intellectus habens apud se obiectum actu intelligibile 
+      natu<lb ed="#V" n="5" break="no"/>raliter et necessario agens: et non impeditum: necessario 
+      <lb ed="#V" n="6"/>attingit obiectum et de ipso cogitat. Et ratio huius 
+      <lb ed="#V" n="7"/>dicti est ista: et stat in hoc: quoniam causa naturalis 
+      <lb ed="#V" n="8"/>necessario agens necessario infert causatum si potest: 
+      <lb ed="#V" n="9"/>sed intellectus primi motoris est hoentim qui semper actu 
+      ha<lb ed="#V" n="10" break="no"/>bet seipsum praesens in ratione obiecti actu intelligit. ergo 
+      <lb ed="#V" n="11"/>necessario de seipso cogitat semper.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e318">
+      ¶ Adhuc autem est 
+      <lb ed="#V" n="12"/>manifestum: quod si semper seipsum non intelligit: et de ipso 
+      <lb ed="#V" n="13"/>cogitat est semper per rationem primi obiecti. ergo de seipso 
+      <lb ed="#V" n="14"/>actu non cogitat: sequitur quod non femper actu cogitat: 
+      <lb ed="#V" n="15"/>sed se habebit sicut dormiens: nec erit optima 
+      sub<lb ed="#V" n="16" break="no"/>stantia. Tum 3o quia si non semper de se actu cogitat. sed 
+      <lb ed="#V" n="17"/>quandoque de se actu cogitat: et quandoque non: ergo nec 
+      se<lb ed="#V" n="18" break="no"/>diligit: ergo nec est quid delectabilissimum: nec 
+      sem<lb ed="#V" n="19" break="no"/>per felix: quod omnino absurdum est: quoniam primus 
+      mo<lb ed="#V" n="20" break="no"/>tor est in vltima et perfectissima delectatione: cum sit 
+      <lb ed="#V" n="21"/>totus voluptuosus. hoc enim manifestum est ex dictis 
+      <lb ed="#V" n="22"/>ristot. 12. metaphysice sue. Dilectio autem 
+      qua<lb ed="#V" n="23" break="no"/>lis optima paruo tempore vobis. sic enim semper illud 
+      <lb ed="#V" n="24"/>vobis quod impossibile. sic ergo si videtur primus motor 
+      <lb ed="#V" n="25"/>habet vt vos primus motor semper mirabile est. si autem 
+      <lb ed="#V" n="26"/>magis adhuc mirabilius est habet autem sic. Cum igitur 
+      <lb ed="#V" n="27"/>primus motor de seipso sit totus voluptuosus et 
+      inf<lb ed="#V" n="28" break="no"/>nita dilectione in seipso dilectus: et sit felix: sequitur 
+      <lb ed="#V" n="29"/>necessario quod semper cogitat: quoniam dilectio et 
+      vo<lb ed="#V" n="30" break="no"/>luntas talis admirabilis praesupponit dilectionem. 
+      <lb ed="#V" n="31"/>Dilectio autem praesupponit cogitationem et eam infert. 
+    </p>
+            <p xml:id="nbnt23-n08863-d1e364">
+               <lb ed="#V" n="32"/>¶ Et si queras. qua cogitatione cogitet se: an 
+      intui<lb ed="#V" n="33" break="no"/>tiua: an abstractiua. patet faciliter quid sit dicendum: 
+      <lb ed="#V" n="34"/>quoniam intuitiua. nam ad ipsam sequitur maior 
+      dile<lb ed="#V" n="35" break="no"/>ctio et voluptas: quoniam per ipsum perfectius attin¬. 
+      <lb ed="#V" n="36"/>gitur obiectum: et sic maior actuatio et communiunctio ponetur cum 
+      <lb ed="#V" n="37"/>obiecto: et per consequens maior voluptas et dilectio 
+      <lb ed="#V" n="38"/>optima qua maior cogitari non potest: in acie ergo 
+      in<lb ed="#V" n="39" break="no"/>telligentie intuitiue et non abstractiue respectum 
+      obiecti<lb ed="#V" n="40" break="no"/>proprii indistincti consistit felicitas primi motoris: et in 
+      <lb ed="#V" n="41"/>dilectione et delectatione seu voluptate consequenter 
+      <lb ed="#V" n="42"/>mirabili.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e390">
+      ¶ Quinta conclusio. primus motor 
+      intel<lb ed="#V" n="43" break="no"/>ligit se intelligere. patet hec conclusio: quoniam intellectum 
+      <lb ed="#V" n="44"/>primi motoris: cum sit simpliciter immaterialis 
+      conuer<lb ed="#V" n="45" break="no"/>siuus est supra se et supra actum suum: in hoc enim 
+      dif<lb ed="#V" n="46" break="no"/>fert potentia intellectiua et immaterialis a potentia 
+      ma<lb ed="#V" n="47" break="no"/>teriali et sensitiua: que nec habet actum proprium 
+      pro<lb ed="#V" n="48" break="no"/>obiecto: nec est conuersiua supra se et supra actum suum: 
+      <lb ed="#V" n="49"/>nec redit supra seipsum reditione completa: quia 
+      vi<lb ed="#V" n="50" break="no"/>sus non videt visionem suam propriam: sed intellectus 
+      <lb ed="#V" n="51"/>intelligit intellectionem suam: quoniam habet actum 
+      pro<lb ed="#V" n="52" break="no"/>prium pro obiecto: est etiam supra se conuersiuus et 
+      supra<lb ed="#V" n="53" break="no"/>actum suum et redit supra seipsum reditue completa: et 
+      <lb ed="#V" n="54"/>hoc est quod dicit Arist. 12. metaphysi. et est 
+      intelligen<lb ed="#V" n="55" break="no"/>tia intelligentie intellectus. concludamus ergo in hoc 
+      <lb ed="#V" n="56"/>caplecto: quod primus motor immobilis est intellectiuus 
+      in<lb ed="#V" n="57" break="no"/>telligens semper actu cogitans de se et intelligens 
+      <lb ed="#V" n="58"/>de se cogitare. 
+    </p>
+            <p xml:id="nbnt23-n08863-d1e428">
+               <lb ed="#V" n="59"/>Amplius autem de intellectione primi motor 
+      <lb ed="#V" n="60"/>ris inquirendo perscrutandum est: an primus motor qui 
+      <lb ed="#V" n="61"/>semper de se cogitat sit sua cogitatio an non: et hoc 
+      <lb ed="#V" n="62"/>respectum sui: quia de cogitatione respectum obiecti 
+      di<lb ed="#V" n="63" break="no"/>stincti non est sermo modo. dicamus autem in primis 
+      <lb ed="#V" n="64"/>propositionem affirmatiuam: et sit talis. primus motor est 
+      <lb ed="#V" n="65"/>sua cogitatio realiter. hoc probatur: quoniam realitas
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>primi motoris est infinita simpliciter: sicut supra fuit 
+      <lb ed="#V" n="67"/>dictum. ergo ydentificat sibi omnem realitatem possibilem 
+      <lb ed="#V" n="68"/>existere et reperibilem in primo motore. primus enim 
+      mo<lb ed="#V" n="69" break="no"/>tor est realiter quicquid est in eo formaliter.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e457">
+      ¶ At 
+      <lb ed="#V" n="70"/>vero Aristo. 12. metaphysi. sue. sic probat hanc 
+      propo<lb ed="#V" n="71" break="no"/>sitionem. primum inquit si non est intelligentia: sed potentia 
+      <lb ed="#V" n="72"/>rationabile vtique est laboriosum esse continuatiuum 
+      <lb ed="#V" n="73"/>intelligibile. At ratio huius assignatur a quodam: quod 
+      <lb ed="#V" n="74"/>continuatio actus est laboriosa: cum non sit ei ex 
+      natu<lb ed="#V" n="75" break="no"/>ra sua: sed potius continuatio actus inest sibi ab 
+      ex<lb ed="#V" n="76" break="no"/>trinseco: sed hec ratio non concludit vt fertur: quoniam et 
+      <lb ed="#V" n="77"/>quicquid est in substantis abstractis difficile est 
+      <lb ed="#V" n="78"/>eis impossibile. ergo si actus intelligendi distinctus 
+      <lb ed="#V" n="79"/>a substantiis abstractis est eis laboriosus et difficilis. 
+      <lb ed="#V" n="80"/>ergo et impossibilis: quod est falsum. Dicit enim commentorem 
+      <lb ed="#V" n="81"/>quod si vna stella adderetur celo: quod intelligentia moue 
+      <lb ed="#V" n="82"/>ret eum cum labore: cum tamen mosiate esset 
+      impossibi<lb ed="#V" n="83" break="no"/>le. prima ergo ratio magis fuit probabilis quam fuit 
+      se<lb ed="#V" n="84" break="no"/>cunda. Propositio secunda ponatur negatiua: que 
+      ta<lb ed="#V" n="85" break="no"/>lis est. primus motor non est sua intellectio 
+      formali<lb ed="#V" n="86" break="no"/>ter vel sua cogitatio. hoc probatur: quoniam primus 
+      mo<lb ed="#V" n="87" break="no"/>tor vniuocatur cum aliis in sua cogitatione. Est enim 
+      <lb ed="#V" n="88"/>cogitatio primi motoris et cogitatio aliorum 
+      eiusden<lb ed="#V" n="89" break="no"/>rationis. vt patet per vniuocationem de ente. Essentia 
+      <lb ed="#V" n="90"/>autem primi motoris non. ergo etc. Tum 2o quia si primus 
+      mo<lb ed="#V" n="91" break="no"/>tor diffiniretur: sua cogitatio non esset sua diffinitio: 
+      <lb ed="#V" n="92"/>nec pars diffinitionis: cum sit posterior ipso. Habet 
+      <lb ed="#V" n="93"/>autem dubitationem de secundis motoribus: an 
+      confor<lb ed="#V" n="94" break="no"/>miter sit dicendum: sicut est dicendum de primo motore¬ 
+    </p>
+            <p xml:id="nbnt23-n08863-d1e514">
+               <lb ed="#V" n="95"/>¶ At vero secundi motores conueniunt cum primo in 
+      <lb ed="#V" n="96"/>prima conclusione: quoniam sunt vere nature intelle 
+      <lb ed="#V" n="97"/>ctuales et spirituales: cum sint substantie abstracte ab 
+      <lb ed="#V" n="98"/>omni materia quanta. immo vt videntur dicere 
+      phylo<lb ed="#V" n="99" break="no"/>sophi: ab omni materia signata indiuiduali: quia non 
+      <lb ed="#V" n="100"/>sunt hae nature vel iste: sed nature simptr et 
+      vniuer<lb ed="#V" n="101" break="no"/>sales: et per consequens intellectuales. Manifestum 
+      <lb ed="#V" n="102"/>est autem quod in secunda conclusione conueniunt: quia sunt 
+      <lb ed="#V" n="103"/>actu intelligbgles: cum primum moueat eas vt amatum et 
+      <lb ed="#V" n="104"/>desideratum et intellectum: cum etiam agant ex 
+      apprehen<lb ed="#V" n="105" break="no"/>sione finis. Adhuc autem in 3a conclusione conueniunt: 
+      <lb ed="#V" n="106"/>quia semper sunt actu intelligentes cum semper 
+      actu<lb ed="#V" n="107" break="no"/>moueant: immo necessario mouent: sicut dicunt 
+      no<lb ed="#V" n="108" break="no"/>stri progenitores. Palam autem quod in quinta 
+      conclu<lb ed="#V" n="109" break="no"/>sione non differunt a primo motore: cum sint substantie 
+      ab<lb ed="#V" n="110" break="no"/>stracte: et sunt supra se conuersiue: et intelligunt se 
+      in<lb ed="#V" n="111" break="no"/>telligere. In prima vero conclusione: an scilicet semper 
+      cogi<lb ed="#V" n="112" break="no"/>tando de se conueniunt cum primo motore: non est ita 
+      cla<lb ed="#V" n="113" break="no"/>tum: probabiliter tamen est tenendum quod sic: quoniam 
+      <lb ed="#V" n="114"/>cum ipsi secundi motores in ratione obiecti sint seipsis 
+      <lb ed="#V" n="115"/>praesentes: nec impediuntur: et sint actu intelligibiles: 
+      <lb ed="#V" n="116"/>concluditur quod semper sit actualis cogitatio.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e564">
+      ¶ Et si 
+      <lb ed="#V" n="117"/>quaras: an secundi motores sint idem quod intellectio sua 
+      vel<lb ed="#V" n="118" break="no"/>non: dicunt antiqui philosophi et aliqui noui quod sic: quoniam 
+      <lb ed="#V" n="119"/>intellectus agens vt asserunt est quedam actualis 
+      in<lb ed="#V" n="120" break="no"/>tellectio: et est substantia actum ens. ergo in secundis 
+      <lb ed="#V" n="121"/>intelligentis erunt secunde intelligentie sua actio: et 
+      <lb ed="#V" n="122"/>per consequens sua intellectio. Attamen fertur a quo 
+      <lb ed="#V" n="123"/>dam: quod a verbis Aristo. et phylosophorum non habetur 
+      <lb ed="#V" n="124"/>quod secunda intelligentia sit idem respectum realiter quod sua actio 
+      <lb ed="#V" n="125"/>seu sua intellectio: sed tantum habetur quod intelligentia 
+      se<lb ed="#V" n="126" break="no"/>cunda semper actu intelligit: et quod est in acie 
+      intelligen<lb ed="#V" n="127" break="no"/>tie: sicut dicit Aristo. 3o de anima: quod intellectus agens 
+      <lb ed="#V" n="128"/>non quandoque intelligit et quandoque non: sed semper actu 
+      intelli<lb ed="#V" n="129" break="no"/>git. Unde de homine quie est semper in actu suo vel quasi: et de 
+      <lb ed="#V" n="130"/>domificatore qui quasi continue actu domifcat: dicitur
+      <pb ed="#V" n="105-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>quod talis domificator est sua actio et sua domificatio. 
+      <lb ed="#V" n="2"/>Idem dicitur de scriptore et pictore: sicut de homine quie fatue 
+      <lb ed="#V" n="3"/>loquitur vel agit continue: dicitur quod talis est 
+      pura<lb ed="#V" n="4" break="no"/>fatuitas in abstracto: et non in concreto fatuus. sic 
+      <lb ed="#V" n="5"/>et motores: quia continue sunt in actione sua 
+      mo<lb ed="#V" n="6" break="no"/>uendi orbes dicuntur esse sua actio: quod est 
+      intelligen<lb ed="#V" n="7" break="no"/>dum non essentialiter: sed tantum secundum modum 
+      <lb ed="#V" n="8"/>loquendi. Similiter: quia secundi motores semper 
+      actu<lb ed="#V" n="9" break="no"/>intelligunt dicuntur esse sua intellectio: quod non dabet 
+      intelli<lb ed="#V" n="10" break="no"/>gi essentialiter: sed eo modo quo dictum est ex vsum modi 
+      <lb ed="#V" n="11"/>loquendi.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e625">
+      ¶ Et si adhuc arguas quod in separatis a 
+      <lb ed="#V" n="12"/>materia idem est scientia et res scita et intellectus et 
+      in<lb ed="#V" n="13" break="no"/>tellectio et res intellecta. Respondetur quod hoc non est 
+      <lb ed="#V" n="14"/>intelligendum essentialiter: sed tam representatiue: 
+      si<lb ed="#V" n="15" break="no"/>cut domus in anima est domus extra: non essentialiter: 
+      <lb ed="#V" n="16"/>sed representatiue tantum. sic intellectio intelligentie 
+      respe<lb ed="#V" n="17" break="no"/>in ctu sui est sua essentia repsnentatiue non autem 
+      essentia<lb ed="#V" n="18" break="no"/>liter. Attamen licet ista glosa sit multum apparens et 
+      pos<lb ed="#V" n="19" break="no"/>set probabiliciter sustineri: non tamen videtur posse stare cum 
+      <lb ed="#V" n="20"/>dictis philosophorum. Dicit enim Uristo. quod si intelligentia non 
+      <lb ed="#V" n="21"/>sit sua actio et actus: sed tantum sit in potentia ad actum: 
+      <lb ed="#V" n="22"/>sequitur quod continget non agere: et poterit non mouere 
+      <lb ed="#V" n="23"/>quod repugnat. ergo impossibile concludit quod sua substantia 
+      <lb ed="#V" n="24"/>est suus actus et sua actio: quod debet necessario 
+      intel<lb ed="#V" n="25" break="no"/>ligi essentialiter. Slosa etiam secuda non valet cum dicit quod 
+      <lb ed="#V" n="26"/>sua intellectio est sua essentia representatiue: sed non 
+      <lb ed="#V" n="27"/>essentialiter. Palam autem omni intelligenti quod illud 
+      <lb ed="#V" n="28"/>non est proprium substantiis separatis quod earum 
+      intelle<lb ed="#V" n="29" break="no"/>ctio sit idem quod intelligere representatiue: immo hoc 
+      <lb ed="#V" n="30"/>conuenit omni sensanium: quod est suum obiectum represenitiue. vnde 
+      <lb ed="#V" n="31"/>visio in oculo est color representatiue: et fantasia 
+      <lb ed="#V" n="32"/>fantasiatum representatiue. 
+    </p>
+            <p xml:id="nbnt23-n08863-d1e673">
+               <lb ed="#V" n="33"/>¶ Nunc autem quidam noui philosophi adherentes 
+      <lb ed="#V" n="34"/>antiquis in hac conclusione: 
+      <lb ed="#V" n="35"/>immo magis particulariter sunt asserentes primum motorem 
+      <lb ed="#V" n="36"/>nihil penitus extra se intelligere formaliter et credunt 
+      <lb ed="#V" n="37"/>hoc simpliciter demonstrare. quorum prima demonstratio est 
+      ta<lb ed="#V" n="38" break="no"/>lis. si intellectus primi motoris intelligit aliquid extra 
+      <lb ed="#V" n="39"/>se: sequitur quod intelligeret omnes partes continui: autem 
+      <lb ed="#V" n="40"/>ergo intelligit omnes illas partes omnino indiui 
+      <lb ed="#V" n="41"/>sibiles: vel adhuc in alias partes diuisibiles. si adhuc 
+      <lb ed="#V" n="42"/>diuisibiles. tunc sequitur quod actu non intelligeret omnes 
+      <lb ed="#V" n="43"/>illas partes continui: sed tantum intelligeret eas in 
+      po<lb ed="#V" n="44" break="no"/>tentia: quod est falsum. si autem intelligeret eas simpliciter 
+      <lb ed="#V" n="45"/>indiuiblto. ergo contius est compositum ex partibus indiuibus 
+      <lb ed="#V" n="46"/>vel ex puctis: quod est contura demonstrationem Aristo. 6 
+      phy<lb ed="#V" n="47" break="no"/>sicorum.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e709">
+      ¶ Adhuc autem videtur quod si continuum vel 
+      di<lb ed="#V" n="48" break="no"/>uisio continui potest variari in esse cognito: ita videtur quod 
+      <lb ed="#V" n="49"/>possit euacuari in esse reali: sicut artifex potest ponere 
+      <lb ed="#V" n="50"/>formam ymaginatam in effectum: sicut eam habet in 
+      men<lb ed="#V" n="51" break="no"/>te.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e720">
+      ¶ Tertio sic demonstrant: quoniam sicut asserunt: 
+      <lb ed="#V" n="52"/>in perfectionibus specificis potest fieri processus in 
+      infi<lb ed="#V" n="53" break="no"/>nitum: et infra eandem speciem potest fieri additio in 
+      infi<lb ed="#V" n="54" break="no"/>nitum: sicut in calore vel scientia. ergo ista 
+      multitu<lb ed="#V" n="55" break="no"/>do specierum vel indiuiture vel est in prospectu primi 
+      mo<lb ed="#V" n="56" break="no"/>toris actualiter et tunc habebit creaturam aliquam 
+      in<lb ed="#V" n="57" break="no"/>suo prospectu distantem in infinitum a prima specie 
+      si<lb ed="#V" n="58" break="no"/>ue a primo indiuiduo: et sic non erit processus in 
+      infini<lb ed="#V" n="59" break="no"/>tum in ipsis: quod tamen dicunt. si aliqua erit in infinitum 
+      <lb ed="#V" n="60"/>nobilior: quod est impossibile. Si vero tota ista 
+      multi<lb ed="#V" n="61" break="no"/>tudo sit in prospectu primi motoris. si successiue. tunc 
+      <lb ed="#V" n="62"/>erit processus in infinitum successiuus potentialis 
+      pri<lb ed="#V" n="63" break="no"/>mi motoris.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e749">
+      ¶ Amplius autem dicunt quod entia 
+      limita<lb ed="#V" n="64" break="no"/>ta non sunt obiecta secundaria terminantia intuitum 
+      <lb ed="#V" n="65"/>primi motoris relucendo tamquam in speculo seu in essen¬
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>tia primi motoris: sicut dicit communis ymaginatio: quod quando 
+      <lb ed="#V" n="67"/>aliquod videtur in speculo alius actus videndi est: et 
+      <lb ed="#V" n="68"/>alia ratio speculi quod videtur: et eius quod in illo videtur: 
+      <lb ed="#V" n="69"/>substantia enim speculi videtur per propriam speciem. videntur et 
+      spe<lb ed="#V" n="70" break="no"/>cies in illo per reflexionem quando simul concurrunt 
+      <lb ed="#V" n="71"/>in eodem oculo iste species: sed non per aliam 
+      specien<lb ed="#V" n="72" break="no"/>videt primus motor eentiam suam: et alia a se. ergo non 
+      <lb ed="#V" n="73"/>videt in essentia sua alia a se: sicut in speculo 
+      relucen<lb ed="#V" n="74" break="no"/>tia.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e778">
+      ¶ Dicunt ergo isti noui phylosophi concordantes 
+      <lb ed="#V" n="75"/>cum antiquis quod primus motor nihil extra se 
+      intelli<lb ed="#V" n="76" break="no"/>git formaliter. Dicut secundo: quod primus motor videns suam 
+      e<lb ed="#V" n="77" break="no"/>essentiam non videt in illa alia a se: sicut in speculo 
+      relu<lb ed="#V" n="78" break="no"/>centia: nec per aliquid aliud a se potest terminare 
+      in<lb ed="#V" n="79" break="no"/>tuitum suum: quoniam tunc vilesceret intelligere. 
+      Pa<lb ed="#V" n="80" break="no"/>lam quidem quod isti noui philosophi et antiqui sustenuiter sunt in 
+      <lb ed="#V" n="81"/>istis duabus propositonibus. prima. quod primus 
+      motor<lb ed="#V" n="82" break="no"/>intelligit alia a se eminenter et equipollenter. secunda. quod 
+      <lb ed="#V" n="83"/>primus motor omnino intelligit alia a se 
+      formali<lb ed="#V" n="84" break="no"/>ter. Primam propositionem intelligunt sic: quoniam 
+      <lb ed="#V" n="85"/>essentia primi motoris continet alia a se eminenter: et est 
+      <lb ed="#V" n="86"/>similitudo eminens omnium. ergo intellectio 
+      terminata<lb ed="#V" n="87" break="no"/>ad ipsam dicitur ex consequenti terminari ad ipsa. quorum 
+      <lb ed="#V" n="88"/>est representatiua. et ideo omnia dicuntur esse 
+      intelle<lb ed="#V" n="89" break="no"/>cta a primo motore denominatiue: et hoc pro tantom: 
+      <lb ed="#V" n="90"/>quia eius similitudo est cognita: sicut est in 
+      propo<lb ed="#V" n="91" break="no"/>sito: quoniam essentia primi motoris: que est exemplum 
+      <lb ed="#V" n="92"/>et similitudo omnium aliorum a se: tamen eius intellectio 
+      <lb ed="#V" n="93"/>terminatur ad ipsum formaliter: dicuntur omnia 
+      exem<lb ed="#V" n="94" break="no"/>plata ab ipsa essentia cognita denominatiue.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e824">
+      ¶ 
+      Se<lb ed="#V" n="95" break="no"/>cundam propositionem sic intelligunt: quod creature non 
+      <lb ed="#V" n="96"/>terminant intuitum primi motoris formaliter in se et in 
+      <lb ed="#V" n="97"/>proprio genere: nec tamquam obiectum primarium: nec tanquam 
+      <lb ed="#V" n="98"/>obiectum secundarium vt proponitur in prospectum menosm 
+      <lb ed="#V" n="99"/>tis formaliter. Unde non est ymaginandum quod sicut 
+      ro<lb ed="#V" n="100" break="no"/>sa capit esse cognitum in intellectu tuo: sic species et 
+      simi<lb ed="#V" n="101" break="no"/>litudo rose capiat esse cognitum in intellectu primi 
+      <lb ed="#V" n="102"/>motoris: species et similitudo rose non diminuta: sed 
+      <lb ed="#V" n="103"/>eminens: que non est aliud quam essentia primi motoris 
+      ca<lb ed="#V" n="104" break="no"/>pit formaliter esse cognitum et non ipsa rosa formaliter. 
+    </p>
+            <p xml:id="nbnt23-n08863-d1e848">
+               <lb ed="#V" n="105"/>¶ Et si arguas: quod tunc primus motor nihil agere 
+      po<lb ed="#V" n="106" break="no"/>terit extra se. ex quo nihil extra intelligit: quia non 
+      <lb ed="#V" n="107"/>agit nisi cognosces: cum sit agens a proposito non aget 
+      <lb ed="#V" n="108"/>libere: quoniam nihil est libere volitum: nisi 
+      preco<lb ed="#V" n="109" break="no"/>gnitum. Respondent antiqui philosophi qui dicunt: quod primus 
+      mo<lb ed="#V" n="110" break="no"/>tor nihil agit extra se: nec producit: sicut nec 
+      intel<lb ed="#V" n="111" break="no"/>ligit: sed tamen est finis omnium. non autem efficiens. 
+      Atta<lb ed="#V" n="112" break="no"/>men noui philosophi dicunt ista 2o quod primus motor nhil 
+      <lb ed="#V" n="113"/>intelligit extra se formaliter: et quod agit et producit 
+      ali<lb ed="#V" n="114" break="no"/>quid extra se: immo et omnia extra se producit: 
+      ita<lb ed="#V" n="115" break="no"/>perfecte ac si omnia extra se intelligeret formaliter: quia omnia 
+      <lb ed="#V" n="116"/>intelligit equipollenter: immo plusquam equipollenter. 
+    </p>
+            <p xml:id="nbnt23-n08863-d1e878">
+               <lb ed="#V" n="117"/>¶ Nunc autem perscrutemur quid verita 
+      <lb ed="#V" n="118"/>tis illa dicta contineant. 
+      Di<lb ed="#V" n="119" break="no"/>camus ergo in primis: quod primus motor non intelligit 
+      <lb ed="#V" n="120"/>omnia extra se eminenter. ratio huius dicti sit ista: 
+      <lb ed="#V" n="121"/>quoniam omnia extra se non continet eminenter: quia non 
+      <lb ed="#V" n="122"/>complexiones contingentes: sicut in primo libro fuit 
+      <lb ed="#V" n="123"/>dictum. Amplius autem dicamus consequenter: quod primus 
+      <lb ed="#V" n="124"/>motor omnia intelligit extra se formaliter quia ipse 
+      <lb ed="#V" n="125"/>et omnia alia a se ponunt in eius prospectu formaliter: 
+      <lb ed="#V" n="126"/>et omnia producit in esse cognito tam eius essentia quam 
+      <lb ed="#V" n="127"/>alia a se distincta. Attamen primum obiectum prioritate 
+      <lb ed="#V" n="128"/>originis et perfectionis est eius essentia: alia autem sunt 
+      <lb ed="#V" n="129"/>obiecta secundaria et posteriora origine et perfectione. Hec 
+      <lb ed="#V" n="130"/>autem conclusio: quod primus motor intelligit aliquid extra se¬
+      <pb ed="#V" n="106-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>sic probatur. omnis intellectus intelligens exemplar 
+      <lb ed="#V" n="2"/>perfectissimum representatiuum alicuius obiecti potest 
+      il<lb ed="#V" n="3" break="no"/>lud formaliter intelligere. sic autem est de primo motore 
+      <lb ed="#V" n="4"/>quoniam habet propriam essentiam pro primario obiecto: que 
+      <lb ed="#V" n="5"/>eit perfectissime repstentatiua omnium: que sunt extra se. ergo per 
+      <lb ed="#V" n="6"/>fectissime omnia quae sunt extra se cogie. Adhuc autem omnis 
+      in<lb ed="#V" n="7" break="no"/>tellectus perfectissime apprehendens cum totalem virtualiter 
+      <lb ed="#V" n="8"/>continentem aliquem effectum potest intelligere illum effectum. 
+      <lb ed="#V" n="9"/>intellectus primi motoris est habenti. ergo etc. Adhuc autem additur 
+      <lb ed="#V" n="10"/>3o quod intellectus perfecte intelligens subiectum potest intellige 
+      <lb ed="#V" n="11"/>re quicad est demonstrabile de illo. demonstrabile autem est 
+      de<lb ed="#V" n="12" break="no"/>primo no motore quod est perfectior omni alio extra se: sed non 
+      <lb ed="#V" n="13"/>potest intelligere se esse perfectiorem omnibus nisi intelligat 
+      <lb ed="#V" n="14"/>omnia alia a se: quoniam habitudo non cognoscitur nisi 
+      extre<lb ed="#V" n="15" break="no"/>ma cognoscantur consequenter: quoniam primus motor intelligit se 
+      <lb ed="#V" n="16"/>non esse asinum. ergo intelligit se et asinum: et sic formando 
+      propo<lb ed="#V" n="17" break="no"/>sitiones negatiuas de ipso et de omni alio ab ipso: quoniam 
+      <lb ed="#V" n="18"/>intelligit se non esse bouem non esse asinum: et sic de aliis ert 
+      <lb ed="#V" n="19"/>omnia extra se intelligit. consequentia probatur: quoniam propositio non 
+      po<lb ed="#V" n="20" break="no"/>test intelligi nisi cognitis termis ex quibus formatur: 
+      <lb ed="#V" n="21"/>quoniam prinitua cognoscimus inquantum terminos 
+      cognosci<lb ed="#V" n="22" break="no"/>mus.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e963">
+      ¶ Amplius autem dicamus 2o quod primus motor 
+      <lb ed="#V" n="23"/>sic formaliter intelligit alia: que sunt extra se: quod illa 
+      <lb ed="#V" n="24"/>producit in esse cognito: que quidem productio est aliquid 
+      <lb ed="#V" n="25"/>positiuum distinctum ab actu intellectendi primi motoris: de 
+      <lb ed="#V" n="26"/>quo quidem esse cognito plura diximus in libro de 
+      <lb ed="#V" n="27"/>actione et passione. caplectio de actione et passione 
+      imme<lb ed="#V" n="28" break="no"/>diate. Necessaritas autem ponendi illud esse cognitum in 
+      in<lb ed="#V" n="29" break="no"/>tellectu primi motoris distinctum ab eius intellectu 
+      <lb ed="#V" n="30"/>et eius intellectione abstracta absoluta: sic 
+      euiden<lb ed="#V" n="31" break="no"/>ter demostratur. Quandocumque ad verificandum aliquam 
+      <lb ed="#V" n="32"/>propositionem affirmatiuam: non sufficiunt due res 
+      <lb ed="#V" n="33"/>opte dare tertiam: et si non sufficiunt tres oprtet addere 
+      <lb ed="#V" n="34"/>quartam: et sic semper ascendendo et addendo donec 
+      pro<lb ed="#V" n="35" break="no"/>positio verificet. ex quo propositio verificatur per 
+      re<lb ed="#V" n="36" break="no"/>spectus: sed posito intellectu primi motoris et eius 
+      <lb ed="#V" n="37"/>intellectione absoluta: non sufficiunt ille due res ad 
+      ve<lb ed="#V" n="38" break="no"/>rificandum hanc propositionem. nauale bellum erit cras: 
+      <lb ed="#V" n="39"/>quod non erit: et per consequens ipsum esse cras non 
+      intelli<lb ed="#V" n="40" break="no"/>get: possibile autem est ipsum esse cras. ergo possibile 
+      <lb ed="#V" n="41"/>est quod ipsum esse cras intelligat. ponatur autem in esse 
+      ex<lb ed="#V" n="42" break="no"/>quo est possibile: sequitur quod propositio erit vera 
+      qua<lb ed="#V" n="43" break="no"/>intelligit nauale bellum esse cras. oprtet ergo quod 
+      ali<lb ed="#V" n="44" break="no"/>qua res sit addita preter eius intellectum et 
+      intelle<lb ed="#V" n="45" break="no"/>ctionem absolutam. nulla autem res est addita ex 
+      par<lb ed="#V" n="46" break="no"/>te obiecti: quoniam obiectum adhuc nihil est. ergo 
+      <lb ed="#V" n="47"/>oportet quod ista res se teneat ex parte intelligentis 
+      il<lb ed="#V" n="48" break="no"/>lam: quam voco esse cognitum. Et consequenter: quoniam numquam 
+      <lb ed="#V" n="49"/>de non esse cognito ad esse cognitum fit transitus 
+      ni<lb ed="#V" n="50" break="no"/>si aliquid acquiratur vel abiiciatur. nihil autem ibi 
+      abi<lb ed="#V" n="51" break="no"/>citur. ergo aliquid acquiritur quod se tenet ex parte 
+      co<lb ed="#V" n="52" break="no"/>gnitionis: et illud dicitur esse cognitum.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1031">
+               <lb ed="#V" n="53"/>habet autem dubitationem magnam: an 
+      <lb ed="#V" n="54"/>primus motor producat alia 
+      <lb ed="#V" n="55"/>a se in esse cognito vnica productione vel pluribus: 
+      <lb ed="#V" n="56"/>et si pluribus: an quodlibet obiectum in intellectum 
+      pri<lb ed="#V" n="57" break="no"/>mi motoris habeat suum proprium esse cognitum 
+      di<lb ed="#V" n="58" break="no"/>stinctum ab esse cognito alterius: vt sic sint tot esse 
+      <lb ed="#V" n="59"/>cognita quot sunt obiecta.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1049">
+      ¶ Dubitatio 
+      secunda<lb ed="#V" n="60" break="no"/>sit talis: an illud esse cognitum sit obiectiue in 
+      intel<lb ed="#V" n="61" break="no"/>ectum primi motoris an non: et si non: it quo est 
+      subiecti<lb ed="#V" n="62" break="no"/>ue. istud dubium est de respectibus rationis qui sunt 
+      <lb ed="#V" n="63"/>in intellectu primi motoris: in quo sunt subiectiue. 
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1060">
+               <lb ed="#V" n="64"/>¶ Dubitatio tertia sit talis: an intellectus primi 
+      mo<lb ed="#V" n="65" break="no"/>toris intelligat praecise vniuersale vel particulare vel vtrun¬
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>que.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1071">
+      ¶ Quarta dubitatio sit talis: an intellectus 
+      pri<lb ed="#V" n="67" break="no"/>mi motoris intelligat futurum contingens sub ratione 
+      <lb ed="#V" n="68"/>futuri: et preteritum sub ratione preteriti.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1079">
+      ¶ 
+      Quinta
+      <lb ed="#V" n="69"/>dubitatio sit talis: an motores secundi aliquid 
+      ex<lb ed="#V" n="70" break="no"/>tra se intelligant: et quid sit illud et si primo intelligant 
+      <lb ed="#V" n="71"/>primam intelligentiam quam se.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1088">
+      ¶ Dissolutio autem prime 
+      <lb ed="#V" n="72"/>dubitationis stat in hoc: quoniam intellectio 
+      termina<lb ed="#V" n="73" break="no"/>tur primi motoris ad terminos simplices: et ad 
+      com<lb ed="#V" n="74" break="no"/>plexiones necessarias: et etiam ad complexiones 
+      con<lb ed="#V" n="75" break="no"/>tingentes. Est ergo specialis difficultas: an esse 
+      cogni<lb ed="#V" n="76" break="no"/>tum respectu terminorum simplicium sit vnum 
+      nume<lb ed="#V" n="77" break="no"/>ro vel plura. similiter an esse cognitum respectu omnium 
+      <lb ed="#V" n="78"/>complexionum necessariarum affirmatiuarum et negatiua 
+      <lb ed="#V" n="79"/>rum sit vnum numero vel plura. Adhuc autem an esse 
+      <lb ed="#V" n="80"/>cognitum respectu omnium complexionum contingentium 
+      <lb ed="#V" n="81"/>affirmatiuarum et negatiuarum sit vnum vel plura: et 
+      <lb ed="#V" n="82"/>de his omnibus perscrutemur. Sit igitur primum dictum 
+      <lb ed="#V" n="83"/>tale: quod respectum talium terminorum simplicium et 
+      com<lb ed="#V" n="84" break="no"/>plexionum necessariarum et contingentium est precise 
+      <lb ed="#V" n="85"/>vnum intelligere in primo motore. Et ratio huius 
+      di<lb ed="#V" n="86" break="no"/>cti est ista: quoniam no sunt plura ponenda sine 
+      neces<lb ed="#V" n="87" break="no"/>sitate. hic autem nulla necessitas est: quoniam vnam 
+      intel<lb ed="#V" n="88" break="no"/>lectio numero sufficit: quia sicut essentia primi 
+      moto<lb ed="#V" n="89" break="no"/>ris vna numero existens est exemplar et idea illo 
+      <lb ed="#V" n="90"/>tum propter eius illimitationem et infinitatem: sic et 
+      <lb ed="#V" n="91"/>eius intellectio.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1134">
+      ¶ Et si arguas: quod in secundis 
+      moto<lb ed="#V" n="92" break="no"/>ribus. Et in intellectum communiuncto corpori non potest esse 
+      <lb ed="#V" n="93"/>vnum intelligere absolutum respectu omnium predicto. 
+      <lb ed="#V" n="94"/>tum. ergo nec in intellectum primi motoris.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1143">
+      ¶ 
+      Respon<lb ed="#V" n="95" break="no"/>deo tibi non est simile de intellectione intellectus 
+      l<lb ed="#V" n="96" break="no"/>mitati: et de intellectione intellectus illimitati et 
+      in<lb ed="#V" n="97" break="no"/>finiti.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1152">
+      ¶ Adhuc autem respondetur aliter a quodam: quod 
+      in<lb ed="#V" n="98" break="no"/>telligere absolutum secundi motoris et intellectus 
+      no<lb ed="#V" n="99" break="no"/>stri est vnum intelligere numero respectu sui et respectu 
+      <lb ed="#V" n="100"/>omnium aliorum. hoc probatur: quoniam intellectio est idem 
+      <lb ed="#V" n="101"/>quod sua substantia. iuxta dictum A risto. quod intellectus agens 
+      <lb ed="#V" n="102"/>est substantia actuans. et Commentator dicit: quod intellectus 
+      <lb ed="#V" n="103"/>est idem: quod sua intellectio respectu sui: et 
+      respectu<lb ed="#V" n="104" break="no"/>omnium distinctorum seu obiecti distincti: quod sic 
+      dedu<lb ed="#V" n="105" break="no"/>citur: intellectiones obiectorum eiusdem rationis 
+      vi<lb ed="#V" n="106" break="no"/>dentur esse eiusdem rationis: sed intellectio qua 
+      intel<lb ed="#V" n="107" break="no"/>lectus intelligit se et qua intelligit alium intellectum 
+      <lb ed="#V" n="108"/>erit substantia: sed in eodem intellectum non sunt due substantia: 
+      <lb ed="#V" n="109"/>sed vna tantum. ergo et vna intellectio. et eadem ratione 
+      <lb ed="#V" n="110"/>qua intelligit se et alia eiusdem rationis vna 
+      intelle<lb ed="#V" n="111" break="no"/>ctio numero: ita eadem ratione intelligeret se: et omnia 
+      <lb ed="#V" n="112"/>alia vnica intellectione. Unde ista est ymaginatio quod 
+      <lb ed="#V" n="113"/>intellectus limitatus est quedam intellectio: que est substantia 
+      <lb ed="#V" n="114"/>actuans: que est vna respectu sui et omnium aliorum: et 
+      <lb ed="#V" n="115"/>quando intellectus de nouo intelligit rosam: vel aliud 
+      <lb ed="#V" n="116"/>non producit nouam intellectionem absolutam: sed 
+      tantum<lb ed="#V" n="117" break="no"/>producit obiectum in esse cognito: et hoc virttute 
+      <lb ed="#V" n="118"/>ipsius intellectionis: que exprimit obiectum: nec ipsum 
+      <lb ed="#V" n="119"/>obiectum ibi coagit aliquid ad talem expressionem 
+      sub<lb ed="#V" n="120" break="no"/>iecti: quoniam exprassio obiecti est actus vitalis et 
+      ma<lb ed="#V" n="121" break="no"/>nens.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1207">
+      ¶ Et si queras. ad quid requiritur ergo 
+      obie<lb ed="#V" n="122" break="no"/>ctum vel species supplens vicem obiecti. ex quo 
+      ni<lb ed="#V" n="123" break="no"/>hil facit ad productionem absolutam intellectionis: cum 
+      <lb ed="#V" n="124"/>sit improducta et inelicita: quia idem est cum eo: cuius 
+      <lb ed="#V" n="125"/>est: nec facit aliquid ad expressionem obiecti. vt 
+      tu<lb ed="#V" n="126" break="no"/>dicis. ergo frustra requiritur obiectum vel species 
+      <lb ed="#V" n="127"/>supplens vicem obiecti.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1224">
+      ¶ Respondeo: quod necessario 
+      <lb ed="#V" n="128"/>est ad determinandum illam intellectionem absolutam vt 
+      <lb ed="#V" n="129"/>determinans esse cognitum exprimat in acie 
+      intelligen<lb ed="#V" n="130" break="no"/>tie. vnde rosa praestente in se vel in sua specie: eius intellectia
+      <pb ed="#V" n="106-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>exprimit esse cognitum rose: quod non potest facere 
+      ni<lb ed="#V" n="2" break="no"/>si rosa praesente in se vel in sua specie siliter est de aliis obiectis: 
+      <lb ed="#V" n="3"/>quoniam ad praesentiam obiectorum in se vel in suis similibus: 
+      intel<lb ed="#V" n="4" break="no"/>ligere absolutum potest producere et exprimere talia 
+      ob<lb ed="#V" n="5" break="no"/>iecta in esse cognito: quod facere no potest: nisi talia obiecta 
+      <lb ed="#V" n="6"/>essent sibi praesentia vel in se vel in sua similitudine. 
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1250">
+               <lb ed="#V" n="7"/>¶ Exemplum huius. albedo actum existens per se non potest 
+      <lb ed="#V" n="8"/>proucere similitudinem nisi posita alia albedine 
+      ter<lb ed="#V" n="9" break="no"/>minante: et posito termino eiusdem rationis 
+      determina<lb ed="#V" n="10" break="no"/>tur fundamentum ad producendum similitudinem: vnde terminus 
+      <lb ed="#V" n="11"/>non se habet ibi effectiue sed praecise in ratione terminantis et 
+      <lb ed="#V" n="12"/>determinantis: quoniam ipso posito oritur releato. ipso non 
+      po<lb ed="#V" n="13" break="no"/>sito non oritur.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1268">
+      ¶ Sic conformiter est dicendum de obiecto: quod 
+      <lb ed="#V" n="14"/>ipsso praesente intellectui in se vel in sua specie exprimit 
+      ob<lb ed="#V" n="15" break="no"/>iectum in esse cognito et ipso non praesente non exprimit. 
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1275">
+               <lb ed="#V" n="16"/>¶ Palam autem quod ista sunt vera: et non oprtet tantum 
+      labora<lb ed="#V" n="17" break="no"/>re an intellectio sit producta ab intellectum vel ab obiecto 
+      <lb ed="#V" n="18"/>vela ab vtroque pertialiter: quoniam a nullo est producta productione 
+      <lb ed="#V" n="19"/>quae fuit producta substantia intelligentis. Consequeter est dicendum 
+      <lb ed="#V" n="20"/>de volitione: sicut fuit dictum de intellectione quantum ad 
+      ab<lb ed="#V" n="21" break="no"/>solutum: quod importat.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1291">
+      ¶ Et si contra hec arguas: quoniam 
+      <lb ed="#V" n="22"/>tunc intellectio in nobis absoluta erit equalis 
+      intel<lb ed="#V" n="23" break="no"/>lectioni primi motoris. Dico quod non est verum: quoniam alia 
+      <lb ed="#V" n="24"/>est infinita intensiue hoc autem non.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1300">
+      ¶ Et si adhuc arguas 
+      <lb ed="#V" n="25"/>quod non videtur quod intellectio cum sit finita sit similitudo 
+      <lb ed="#V" n="26"/>omnium obiectorum cum omnia obiecta sint infinita.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1308">
+      ¶ Respondeiu 
+      <lb ed="#V" n="27"/>quod est siltitudo equiuoca eminens respectum aliquorum et 
+      <lb ed="#V" n="28"/>diminuta relietia aliorum.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1315">
+      ¶ Et si adhuc arguas quod 
+      nul<lb ed="#V" n="29" break="no"/>la intellectio possibilis inuestigatur per viam recepnitur: et 
+      <lb ed="#V" n="30"/>per hoc probatur: quoniam intellectum denudari a vacuis omnium: 
+      <lb ed="#V" n="31"/>sic quod sufficienter inuestigatur per receptionem specierum et 
+      <lb ed="#V" n="32"/>habituum.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1326">
+      ¶ Et si queras quomo generabunt: non ex 
+      <lb ed="#V" n="33"/>actibus frequenter elicitis: quia dicis quod ibi nullus 
+      <lb ed="#V" n="34"/>est elicitus. Uidetur quod ipsa intellectio metdphysitae apprentia 
+      ob<lb ed="#V" n="35" break="no"/>iectali causat habitum. At vero adhuc remanet 
+      achil<lb ed="#V" n="36" break="no"/>les loquentium in lege nostra de actu quo intuitiue 
+      vide<lb ed="#V" n="37" break="no"/>tur primus motor ab intellectum separato finito: in quo 
+      <lb ed="#V" n="38"/>actu consistit felicitas secundum philosophos nouos et antiquos: 
+      <lb ed="#V" n="39"/>quoniam si iste actus est malis intellectui finito: est idem 
+      <lb ed="#V" n="40"/>cum eius substantia: sequitur quod felicitas inerit intellectui a 
+      <lb ed="#V" n="41"/>natura vniversa erit non supernalis. Hic dicitur a quodam filio 
+      cuiui<lb ed="#V" n="42" break="no"/>dam quod felicitas formaliter consistit in expressione 
+      ob<lb ed="#V" n="43" break="no"/>etiecti: et in acie intelligentie et in praesentia intuitiua primi 
+      <lb ed="#V" n="44"/>motoris. non autem in isto absoluto tantum fundante: licet 
+      tame<lb ed="#V" n="45" break="no"/>hec positio sit probabilis: et posset forte sustineri 
+      han<lb ed="#V" n="46" break="no"/>non assero: nec teneo: et ea tibi sub ductio: relinquo.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1359">
+               <lb ed="#V" n="47"/>Ad propositum ergo reuerentes 
+      pona<lb ed="#V" n="48" break="no"/>mus proportiones de 
+      yder<lb ed="#V" n="49" break="no"/>titate seu pluctiuesse cogniti.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1368">
+      ¶ Et sit propositio talis: 
+      apprinu<lb ed="#V" n="50" break="no"/>tia obiectalis respectu omnium terminorum simplicium in 
+      <lb ed="#V" n="51"/>intellectu primi motoris potest esse vna numero. hoc 
+      pro<lb ed="#V" n="52" break="no"/>batur: quoniam vnico conceptum potest totus ambitus entis 
+      <lb ed="#V" n="53"/>concipi et distincte: quoniam sicut multis quibusdam 
+      distin<lb ed="#V" n="54" break="no"/>ctis ex natura rei potest correspondere vnica realis existentia et sic 
+      <lb ed="#V" n="55"/>pluribus: immo omnibus terminis simplicibus pott 
+      corre<lb ed="#V" n="56" break="no"/>spondere vnica existentia intentionalis: et per consequens vnum esse 
+      <lb ed="#V" n="57"/>cognitum.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1388">
+      ¶ Et si quoras. si vna expressio passiua 
+      cor<lb ed="#V" n="58" break="no"/>respondet esentie primi motoris et aliis termis simbus 
+      <lb ed="#V" n="59"/>et hoc in intellectum primi motoris.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1396">
+      ¶ Dicitur quod non: quia 
+      <lb ed="#V" n="60"/>productio essentie primi motoris in tali esse cognito 
+      es<lb ed="#V" n="61" break="no"/>productio realis. Sed productio aliorum terminorum est 
+      <lb ed="#V" n="62"/>productio diminutiua secundum quid. de hoc tamen erit 
+      perscruta<lb ed="#V" n="63" break="no"/>tio specialis in libero de productione ad intra primi 
+      moto<lb ed="#V" n="64" break="no"/>ris. et ideo vsque ad illud differatur.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1409">
+      ¶ At vero si 
+      am<lb ed="#V" n="65" break="no"/>plius queras. si productio essentie primi motoris et alio¬
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>rum terminorum simplicium in intellectu communiuncto 
+      cor<lb ed="#V" n="67" break="no"/>pori corruptibili vel incorruptibili necessario sit alia 
+      <lb ed="#V" n="68"/>et alia: vel possit esse vna.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1422">
+      ¶ Respondeo tibi. non video 
+      <lb ed="#V" n="69"/>necessitatem ponendi aliam et aliam: sed potest esse vna 
+      respe<lb ed="#V" n="70" break="no"/>ctu omnium terminorum et ista est semper diminuta. 
+      Pa<lb ed="#V" n="71" break="no"/>lam autem ex dictis quod productio obiecti omnium terminorum 
+      <lb ed="#V" n="72"/>simplicium in intellectum primi motoris necessario 
+      distin<lb ed="#V" n="73" break="no"/>guitur ab essentia primi motoris: quoniam ens secundum quid et ens 
+      <lb ed="#V" n="74"/>reale distinguuntur. Essentia autem primi motoris est 
+      <lb ed="#V" n="75"/>ens simpliciter: sed productio aliorum in esse cognito est ens 
+      <lb ed="#V" n="76"/>secundum quid. ergo distinguuntur.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1442">
+      ¶ 2a propositio sit talis: 
+      <lb ed="#V" n="77"/>quoniam nulla appaeret necessaritas quod dicat quod producitio: omnium 
+      ter<lb ed="#V" n="78" break="no"/>minorum simplicium necessario sit vna in intellectum primi 
+      <lb ed="#V" n="79"/>motoris: quoniam sicut in nobis aliud verbum formatur de 
+      <lb ed="#V" n="80"/>rosa: et aliud de viola: et sic de aliis: sic intellectus 
+      pri<lb ed="#V" n="81" break="no"/>mi motoris format aliud verbum de rosa et aliud de 
+      <lb ed="#V" n="82"/>viola: et sic de aliis. Et sic tot sunt verba distincta 
+      <lb ed="#V" n="83"/>in intellectu primi motoris quot sunt obiecta.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1460">
+      ¶ 
+      Ter<lb ed="#V" n="84" break="no"/>tia propositio sit talis. productio passiua in esse cognito 
+      <lb ed="#V" n="85"/>omnium termiorum simplicium et omnium complexionum 
+      necessa<lb ed="#V" n="86" break="no"/>riarum affirmatiuarum et negatiuarum pot esse vna 
+      nu<lb ed="#V" n="87" break="no"/>mero: quoniam omnia praedicata per vnum conceptum numero praesent 
+      <lb ed="#V" n="88"/>poni in acie intelligentie. Licet autem hec propositio sit 
+      pro<lb ed="#V" n="89" break="no"/>babilis: veruntamen quod sint productiones passiue 
+      nu<lb ed="#V" n="90" break="no"/>mero plures est probabilius: et specialiter quod productis 
+      <lb ed="#V" n="91"/>passiua complexiois affirmatiue et negatiue sint 
+      nu<lb ed="#V" n="92" break="no"/>mero plures.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1482">
+      ¶ Et si arguas quod in nostro 
+      intelle<lb ed="#V" n="93" break="no"/>ctum propositio affirmatiua et negatiua sibi oppoituea contrarie 
+      ne<lb ed="#V" n="94" break="no"/>cessario sunt plures: cum vna non possit simul stare 
+      <lb ed="#V" n="95"/>cum alia: vt iste 2ae proportiones contrarie. omnis rosa est flos. 
+      <lb ed="#V" n="96"/>Nulla rosa est flos. ergo in intellectum primi motoris 
+      ne<lb ed="#V" n="97" break="no"/>cessario erunt plures.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1496">
+      ¶ Respondeo tibit. ales 
+      proposi<lb ed="#V" n="98" break="no"/>tiones. sic oppobiecte contrarie. quarum vna est vera et alia falsa 
+      <lb ed="#V" n="99"/>non sunt in intellectum primi motoris: quoniam in eius intelle 
+      <lb ed="#V" n="100"/>ctum non est aliqua propositio falsa: sed omnes propositiones 
+      <lb ed="#V" n="101"/>sunt vere.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1507">
+      ¶ Affirmatiua vero et negatiua disparate. 
+      <lb ed="#V" n="102"/>quarum vtraque est vera: vt quod rosa est flos: et quod rosa 
+      <lb ed="#V" n="103"/>non sit proposita parisiengularibus: tales inquam propositiones 
+      di<lb ed="#V" n="104" break="no"/>sperate affirmatiue et negatiue bene stant in 
+      intelle<lb ed="#V" n="105" break="no"/>ctu primi motoris. Palam autem quod licet ista propositio si 
+      <lb ed="#V" n="106"/>probabilis scilicet quod respectu omnium terminorum simplicium: et 
+      <lb ed="#V" n="107"/>omnium complctonum necessariarum de aliis: que sunt extra 
+      <lb ed="#V" n="108"/>se non necessario sint plures productiones passiue in 
+      eo<lb ed="#V" n="109" break="no"/>cum esse cognito: probabilius tamen videtur quod sint plures: 
+      si<lb ed="#V" n="110" break="no"/>cut in nobis: quoniam sicut verba simplicia sunt alia et alia 
+      <lb ed="#V" n="111"/>de termis simulbus. sic et verba de complexionibus 
+      necessa<lb ed="#V" n="112" break="no"/>ruis: et specialiter de complexione affirmatiuam et negatiua. 
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1533">
+               <lb ed="#V" n="113"/>¶ Quarta propositio sit ista. non apparet necessaritas quin 
+      <lb ed="#V" n="114"/>productio passiua in esse cognito de omnibus complexionibus 
+      <lb ed="#V" n="115"/>contingentibus affirmatiuis possit esse vna numero: quoniam 
+      <lb ed="#V" n="116"/>sicut omnes complctiones necessarie affirmatiue vnico 
+      conce<lb ed="#V" n="117" break="no"/>ptu pastent concipi: sic et contingentes: dum tamen omnes simli 
+      conciperen<lb ed="#V" n="118" break="no"/>tur: quoniam si successiue conciperentur tales complexiones 
+      ne<lb ed="#V" n="119" break="no"/>cessarie essent plures.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1551">
+      ¶ Quinta propriositio sit talis: 
+      <lb ed="#V" n="120"/>quoniam omnes propositiones de complexionibus 
+      contingen<lb ed="#V" n="121" break="no"/>tibus affirmatiua et negatiua disperatis: et que sunt 
+      <lb ed="#V" n="122"/>simul in eodem: vt quod nauale bellum sit cras: et quod non 
+      di<lb ed="#V" n="123" break="no"/>sputet aliquos de magistris cras: quoniam iste proportiones 
+      nul<lb ed="#V" n="124" break="no"/>lam habent repugnantiam: probabilius tamen est quod 
+      produ<lb ed="#V" n="125" break="no"/>ctiones passiue in esse cognito talium sint plures. ¶e 
+      <lb ed="#V" n="126"/>proposito sit ista. productiones passiue in esse cognito d 
+      <lb ed="#V" n="127"/>complexionibus contingularibus affirmatiuis et negatiuis 
+      <lb ed="#V" n="128"/>contrarie opsiecties. quarum vtraque potest esse vera successiue 
+      ne<lb ed="#V" n="129" break="no"/>cessario sunt plures in omni intellectu. possibile est enim 
+      <lb ed="#V" n="130"/>quod bellum causmpale sit cuas. et possibile est quod bellum causapale
+      <pb ed="#V" n="107-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>sit cras: et possibile est quod bellum campale non sit 
+      <lb ed="#V" n="2"/>cras: ergo possibile est quod primus motor non in elligat 
+      <lb ed="#V" n="3"/>bellum causmpale esse cras: et deinde possibile est quod 
+      <lb ed="#V" n="4"/>intelligat bellum campale non esse cras: sed hoc non 
+      <lb ed="#V" n="5"/>potest esse per idem concipi: cum vtraque pars contradictionis 
+      <lb ed="#V" n="6"/>successiue producatur: ergo necessario tales productio 
+      <lb ed="#V" n="7"/>nes in esse coginito sunt plures et non vna.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1597">
+               <lb ed="#V" n="8"/>Dissolutio autem dubitationis 
+      diffi<lb ed="#V" n="9" break="no"/>cilis qua quero de 
+      <lb ed="#V" n="10"/>subiecto huius esse cogniti quod existit in intellectum primi 
+      <lb ed="#V" n="11"/>motoris. Attamen sit ista prima propositio. quod esse cognitum 
+      rose<lb ed="#V" n="12" break="no"/>productum ab intellectu primi motoris non est subiectiue in 
+      ro<lb ed="#V" n="13" break="no"/>sa coginita: cum rosa pecenitus nihil sit nec existat. Nec valet 
+      <lb ed="#V" n="14"/>si dicas quod rosa manet in esse quiditatiuo: dico quod actualiter 
+      <lb ed="#V" n="15"/>non existit: sed licet illud concederetur scilicet quod quiditas 
+      <lb ed="#V" n="16"/>rose haberet esse quiditatiuum antece eius productionem: non 
+      <lb ed="#V" n="17"/>tamen propter hoc potest dici quod esset subiectum illius esse 
+      co<lb ed="#V" n="18" break="no"/>gniti: quoniam quiditas in esse quiditatiuo nullum predicatum 
+      <lb ed="#V" n="19"/>per accidens potest recipere. esse autem cognitum est 
+      quoddan<lb ed="#V" n="20" break="no"/>praedicatum per accidens: quia accidit rei quod sit cognita. 
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1628">
+               <lb ed="#V" n="21"/>¶ Amplius autem de subiecto illius esse cogniti 
+      perscru<lb ed="#V" n="22" break="no"/>temur: an possit esse intellectus primi motoris vel 
+      <lb ed="#V" n="23"/>eius intellelietio vel non. Dicimus autem in primis 
+      pro<lb ed="#V" n="24" break="no"/>potionem negatiuam: quod hoc est impossibile: quoniam tunc 
+      mu<lb ed="#V" n="25" break="no"/>taretur subiectiue et perficeretur: nec esset simliciter 
+      perfe<lb ed="#V" n="26" break="no"/>ctus quoniam sibi aliquid deesset que omnino sibi 
+      repu<lb ed="#V" n="27" break="no"/>gnant. Quid ergo est obiectum illius esse cogniti: Dicitur quod 
+      <lb ed="#V" n="28"/>terminatur intellectui vel intellectioni primi 
+      moto<lb ed="#V" n="29" break="no"/>ris: sic quod terminat eius dependentiam absque omni 
+      informa<lb ed="#V" n="30" break="no"/>tione vel inherentia: Terminus autem dependentie non 
+      <lb ed="#V" n="31"/>mutatur si de nouo terminat dependentiam alicuius 
+      <lb ed="#V" n="32"/>quam prius non terminabat. Existunt ergo in intellectu 
+      <lb ed="#V" n="33"/>primi motoris formaliter tanquam terminante eorum 
+      de<lb ed="#V" n="34" break="no"/>pendentiam: non tamen formaliter et inherenter.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1662">
+      ¶ Et si 
+      que<lb ed="#V" n="35" break="no"/>ras in vniversali de omni respectu rationis qui est in primo 
+      <lb ed="#V" n="36"/>motore in quo est substantiue. Respondeo tibi. quere 
+      prim<lb ed="#V" n="37" break="no"/>si respectus rationis existant formaliter in intellectu 
+      pri<lb ed="#V" n="38" break="no"/>mi motoris. et sint res tales quales distincte ab 
+      in<lb ed="#V" n="39" break="no"/>tellectum et intellectione primi motoris: vel tantum habeant 
+      <lb ed="#V" n="40"/>esse in intellectum obiectiue sicut cognitum in cogniente 
+      <lb ed="#V" n="41"/>Manifestum est autem quod si respectus rationis tantum 
+      ha<lb ed="#V" n="42" break="no"/>bent esse in intellectum obiectiue quod nullum debetur eis 
+      <lb ed="#V" n="43"/>subiectum: sicut nec albedini existenti in intellectum obiectiue 
+      de<lb ed="#V" n="44" break="no"/>betur aliquod subiectum. nec nego quan existentie dimitte 
+      albe<lb ed="#V" n="45" break="no"/>dinis quam habet in intellectum scilicet ipsi esse cognito 
+      al<lb ed="#V" n="46" break="no"/>bedini debeatur aliquod subiectum: vel aliquod terminans 
+      <lb ed="#V" n="47"/>eius dependentiam: sed dico quod illi quod tamtem existit in 
+      intel<lb ed="#V" n="48" break="no"/>lectum obiectiue: vt sit subiectum debetur subiectum. Si 
+      au<lb ed="#V" n="49" break="no"/>tem respectus rationis non tantum habeat esse in intellectum 
+      obie<lb ed="#V" n="50" break="no"/>ctiue: sed magis ibi existit formaliter propria existentia 
+      <lb ed="#V" n="51"/>qua non est existentia obiectiua. Tunc consequentur est dicendum quod in intellectum 
+      <lb ed="#V" n="52"/>nostro debetur eis subiectum: et sunt in intellectum subiectiue. in 
+      in<lb ed="#V" n="53" break="no"/>tellectum autem primi motoris non sunt formaliter et 
+      infor<lb ed="#V" n="54" break="no"/>matiue et inherenter: sed tamem eorum dependentiam 
+      termi<lb ed="#V" n="55" break="no"/>nat.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1710">
+      ¶ Et si queras quid sit magis probabile: vel quod 
+      re<lb ed="#V" n="56" break="no"/>spectus rationis tantum habeant esse in intellectum obiectiue 
+      <lb ed="#V" n="57"/>sicut cognitum in cognoscente: vel quod ibi existant propria 
+      exi<lb ed="#V" n="58" break="no"/>stentia formaliter. Respondeo tibi quod hoc satis dictum est 
+      in<lb ed="#V" n="59" break="no"/>libro predicamentorum. caprima relationis. ibi enim dictum fuit quid 
+      <lb ed="#V" n="60"/>sit relatio rationis: et quot sint modi eius: vt patet ex illo cape. 
+      <lb ed="#V" n="61"/>quod respectus rationis sunt quadam res quantuncumque minime 
+      enti<lb ed="#V" n="62" break="no"/>tatis formaliter existentes in intellectum. non tantum obiectiue. 
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1728">
+               <lb ed="#V" n="63"/>Ad dicta autem in dubitatione tertia 
+      <lb ed="#V" n="64"/>qua dicebatur: an primius 
+      <lb ed="#V" n="65"/>motor intelligat precise vniuersala: vel precise particulare
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>vnde dicimus quod cogitat de vtroquem. Palam autem 
+      <lb ed="#V" n="67"/>quod vniuersal apprehendit: quoniam intelligeta ens inquantum ens: et 
+      <lb ed="#V" n="68"/>substantiam: et breviter substantia omnium scientiarum. ista autem 
+      <lb ed="#V" n="69"/>sunt vniversalia: quia scientia est de vniversalibus.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1748">
+      ¶ Adhuc autem vniversalia 
+      <lb ed="#V" n="70"/>platonica si sint intelligibilia sunt quoniam sunt 
+      quedan<lb ed="#V" n="71" break="no"/>substantie vere comprehendentes: et quodam intelligere 
+      sub<lb ed="#V" n="72" break="no"/>sistens: vt in prioribus dictum fuit.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1757">
+      ¶ De singularibus autem 
+      <lb ed="#V" n="73"/>probatur tum quia primus motor seipsum cogitat et 
+      <lb ed="#V" n="74"/>intelltae. singuiatiae autem est: quia notitia singularium perfectior est 
+      <lb ed="#V" n="75"/>quam notitia vniversalium: sicut singularia sunt 
+      perfectiora<lb ed="#V" n="76" break="no"/>et nobiliora vniuersalibus.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1768">
+      ¶ Et si arguas quod 
+      noti<lb ed="#V" n="77" break="no"/>tia singularium est designatiua et situatiua per hic et 
+      <lb ed="#V" n="78"/>nunc talis modus intelligendi cum sit malis et 
+      situati<lb ed="#V" n="79" break="no"/>uus repugnat intellectui. Confirmatur: quia sensus est 
+      <lb ed="#V" n="80"/>singularium. intellectus autem vverlsatium. Respondeo 
+      ti<lb ed="#V" n="81" break="no"/>bi: licet intellectus communiunctus non intelligat singulare 
+      <lb ed="#V" n="82"/>et indiuiduum nisi statuendo hic et nunc id est per aliquam 
+      pro<lb ed="#V" n="83" break="no"/>prietatem accidentalem que est in vno et non in alio: quia si 
+      <lb ed="#V" n="84"/>essent omnia similia non posset distinguere inter illa. 
+      <lb ed="#V" n="85"/>hoc tamen verum est de intellectu communiuncto corpori: et 
+      pro<lb ed="#V" n="86" break="no"/>tempore pro quo coniunctus est: non autem de intellectum 
+      sepa<lb ed="#V" n="87" break="no"/>rato. Et ratio huius dicti est: quoniam intellectus coniunctus tali 
+      <lb ed="#V" n="88"/>corpori corruli non intelligetia proprietatem indiuidualem 
+      <lb ed="#V" n="89"/>et constitutiuam et distinctiuam ipsius singularis: sed 
+      intel<lb ed="#V" n="90" break="no"/>lectus separatus seu coniunctus corpori incorruptibi 
+      <lb ed="#V" n="91"/>li perfecte et distincte intelligeta et cognoscit 
+      differentian<lb ed="#V" n="92" break="no"/>indiuidualem: qua vnum indiuiduum ab altero 
+      distin<lb ed="#V" n="93" break="no"/>guitur: et per consequens potest vnum indiuiduum ab alio 
+      distin<lb ed="#V" n="94" break="no"/>guere: et non per hic et nunc id est non per aliquam 
+      differen<lb ed="#V" n="95" break="no"/>tiam seu proprietatem indiuidualem et modum 
+      situati<lb ed="#V" n="96" break="no"/>uum. Et volo tibi ponere exemplum. si essent 2o oua 
+      om<lb ed="#V" n="97" break="no"/>nino similia in proprietatibus accidentalibus: vt in 
+      <lb ed="#V" n="98"/>quantitate qualitate et colore nunquam posses inter illa 
+      <lb ed="#V" n="99"/>distinguere nisi per situm et nunc: vtpote: quia vnum 
+      <lb ed="#V" n="100"/>est positum ad dextrum et aliud ad sinistrum. Unde si 
+      <lb ed="#V" n="101"/>te ignorante mutarent situm nescires distinguere 
+      in<lb ed="#V" n="102" break="no"/>ter illa: nec scires dicere: illud fuit ad dextrum et aliud 
+      <lb ed="#V" n="103"/>ad sinistrum. signum autem huius est: quoniam tu ignoras 
+      dif<lb ed="#V" n="104" break="no"/>ferentiam indiuidualem constituentem et distinguentem. Intelle 
+      <lb ed="#V" n="105"/>ctus autem separatus a corpore vel communiunctus 
+      corpo<lb ed="#V" n="106" break="no"/>ri incorruptibili sciret bene distinguere inter ista: et 
+      <lb ed="#V" n="107"/>hoc: quia nouit differentiam indiuidualem distinguentem inter 
+      il<lb ed="#V" n="108" break="no"/>la: et ideo talis intellectus non inteltsa situando et statuendo 
+      <lb ed="#V" n="109"/>hic et nunc: et per proprietates accidentales. Et fortiori ra 
+      <lb ed="#V" n="110"/>tione primus motor intelliget singulare non statuendo 
+      <lb ed="#V" n="111"/>nunc per modum situatiuum: sed abstrahendo ipsum ab 
+      <lb ed="#V" n="112"/>omni situ: et ab hic et nunc: et aliis conditionibus 
+      <lb ed="#V" n="113"/>materialibus accidentalibus. 
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1852">
+               <lb ed="#V" n="114"/>Dubitatio vero quarta est de notitia 
+      <lb ed="#V" n="115"/>futurorum contingentium 
+      <lb ed="#V" n="116"/>an primus motor intelligat futurum sub ratione futuri: et 
+      <lb ed="#V" n="117"/>preteritum sub ratione preteriti: et praesens sub 
+      ratio<lb ed="#V" n="118" break="no"/>ne presentis: valde difficilis est ad soluendum. de hoc: 
+      <lb ed="#V" n="119"/>enim varie loquuntur noui philosophi.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1868">
+      ¶ Propositio namque 
+      ne<lb ed="#V" n="120" break="no"/>gatiua cuiusdam est talis: quod primus motor non 
+      cogno<lb ed="#V" n="121" break="no"/>scit futurum sub ratione futuri: sed magis abstrah endo 
+      <lb ed="#V" n="122"/>ab omni futuritione: et tali ordine procedit. Primum 
+      <lb ed="#V" n="123"/>dictum est quod actualitas futuri contingentis potest habere 
+      <lb ed="#V" n="124"/>similitudinem certitudinaliter representantem eam: sicut ue 
+      <lb ed="#V" n="125"/>talis similitudo sit simul existens cum actuabiue seu non. 
+      <lb ed="#V" n="126"/>si tamen sit indistans negatiua a tali actuahysiute: sic quod talis 
+      <lb ed="#V" n="127"/>similitudo non representet eam antequam sit: nec 
+      post<lb ed="#V" n="128" break="no"/>quam non erit nec simul sed tantum indistanter. Exemplum 
+      <lb ed="#V" n="129"/>sor enim indicatur sedere per visum: quia imprimit in 
+      visu<lb ed="#V" n="130" break="no"/>siltitudinem sor. coexistentem ipsi visioni: nec precedentem
+      <pb ed="#V" n="107-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>in visu. Nec subsequentem seu remanentem post 
+      <lb ed="#V" n="2"/>sessionem: alioquin si precederet vel remaneret 
+      fal<lb ed="#V" n="3" break="no"/>laciter representaret.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1905">
+      ¶ Secundum dictum illius. essentia 
+      <lb ed="#V" n="4"/>primi motoris est talis similitudo: quoniam representat 
+      <lb ed="#V" n="5"/>existentiam futuri contingentis indistanter dum actu est: nec 
+      pri<lb ed="#V" n="6" break="no"/>us est: nec post: nec simul cum abstrahat ab omni 
+      li<lb ed="#V" n="7" break="no"/>nea successiua duratione: vnde non respicit 
+      actualita<lb ed="#V" n="8" break="no"/>tem futuri contingentis: vt distantem: sed penitus 
+      indistan<lb ed="#V" n="9" break="no"/>tem: ergo eam certitudinaliter representat.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1921">
+      ¶ Tertium 
+      di<lb ed="#V" n="10" break="no"/>ctum elicitur ex duobus primis scilicet quod primus motor non 
+      <lb ed="#V" n="11"/>cognitue futurum sub ratione futuri nec preteritum sub 
+      ra<lb ed="#V" n="12" break="no"/>tione preteriti. ratio autem huius terti dicti talis est: 
+      <lb ed="#V" n="13"/>quoniam talis est notitia primi motoris de futuro contin 
+      <lb ed="#V" n="14"/>genti qualem modum habet eius essentia que est silitudo et 
+      <lb ed="#V" n="15"/>exemplum eminens in exemplando futura: sed eius existentia non 
+      <lb ed="#V" n="16"/>representat futurum sub ratione futuri: sed omnino 
+      indistan<lb ed="#V" n="17" break="no"/>ter. ergo etc.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1941">
+      ¶ Debes tamen aduertere quod primo motori 
+      ni<lb ed="#V" n="18" break="no"/>hil est preteri tum neque futurum quoniam omnia in ipso sunt emi 
+      <lb ed="#V" n="19"/>nenter. vnde pro tanto verum est quod intuitus eius est omnino in 
+      <lb ed="#V" n="20"/>distans ab actualitate futuri contingentis a sua essenuetua qut 
+      <lb ed="#V" n="21"/>est omnia eminenter. Unde nauale bellum quod erit cras est 
+      <lb ed="#V" n="22"/>sibi indistans equipollenter: et bellum troianum est 
+      <lb ed="#V" n="23"/>sibi indistans equipollenter: quia eius essenuientia que est omnia ista 
+      <lb ed="#V" n="24"/>eminenter est sibi omnino indistans. Let ergo vnum 
+      succe<lb ed="#V" n="25" break="no"/>dat alteri: vt sunt in proprio genere non tamen vt sunt in 
+      <lb ed="#V" n="26"/>primo motore eminenter et exemplariter: quia omnia 
+      inuariabi<lb ed="#V" n="27" break="no"/>liter representat.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1965">
+      ¶ Et si dicas quod nihil est a nullo 
+      <lb ed="#V" n="28"/>potest esse indistans: quia indistantia: cum sit necessario relatiua 
+      <lb ed="#V" n="29"/>requirit extrama: contingens autem futurum est penitus nihil. 
+      <lb ed="#V" n="30"/>ergo essenuitia primi motoris non potest esse indistans a futu 
+      <lb ed="#V" n="31"/>ro contingenti. Respondetur quod licet simultas sit relatio positiua 
+      <lb ed="#V" n="32"/>et requirit extrema: indistantia tamen cum sit pura negatio 
+      <lb ed="#V" n="33"/>seu priuatio non requirit extrama in actu: sicut chymera 
+      <lb ed="#V" n="34"/>non distat a tragelapho cum non sit simul cum eo. Quid 
+      <lb ed="#V" n="35"/>autem veritatis haoenti dicta contineant perscrutemur .
+    </p>
+            <p xml:id="nbnt23-n08863-d1e1986">
+      ¶ 
+      Di<lb ed="#V" n="36" break="no"/>camus ergo in primis: quod licet primum dictum in parte verum sit 
+      <lb ed="#V" n="37"/>tamen non est totaliter verum: nam cum dicitur quod futurum potest habere 
+      si<lb ed="#V" n="38" break="no"/>militudinem ipsum certitudinaliter representantem. hoc 
+      <lb ed="#V" n="39"/>vtique verum est. Secundum autem quod dicit quod similitudo 
+      <lb ed="#V" n="40"/>illa si representat futurum sil quando est vel indistanter 
+      ve<lb ed="#V" n="41" break="no"/>re et certitudinaliter representat: sed 3m quod dicit quod siliter 
+      <lb ed="#V" n="42"/>tudo futuri contingentis priusquam nec postquam non erit: sed 
+      <lb ed="#V" n="43"/>indistanter: et siliter quando est. non autem nec post hoc dubium 
+      <lb ed="#V" n="44"/>vtique est: immo non videtur verum. hoc tamen dictum potest habe. 
+      <lb ed="#V" n="45"/>re duplicem intellentim vnum quod similitudo non prius 
+      repre<lb ed="#V" n="46" break="no"/>sentet futurum inquantum futurum quam futurum sit. hoc est non 
+      <lb ed="#V" n="47"/>pro nunc priori representet pro nunc posteriori: 
+      quo<lb ed="#V" n="48" break="no"/>niam tunc representaret aliter quam esset et esset silitudo 
+      fal<lb ed="#V" n="49" break="no"/>sa: et ille intellectus est verus. alius intellectus potest 
+      <lb ed="#V" n="50"/>esse talis: quod si similitudo futuri ad hoc quod vere 
+      re<lb ed="#V" n="51" break="no"/>presentet: nec dabtet precedere: nec sequi futurum sed 
+      si<lb ed="#V" n="52" break="no"/>mul esse cum actualitate futuri vel indistans ab eo: et ille 
+      <lb ed="#V" n="53"/>sensus non est verus. Palam autem quod in intellectum astrolo 
+      <lb ed="#V" n="54"/>gi est similitudo eclypsis future vere ipsam pro 
+      ta<lb ed="#V" n="55" break="no"/>li nunc representans per mensem vel per annum ipsam 
+      <lb ed="#V" n="56"/>eclypsim: et transacta eclypsi: adhuc remanet 
+      simili<lb ed="#V" n="57" break="no"/>tudo ipsam representans fuisse preteritam.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e2036">
+      ¶ Debes 
+      <lb ed="#V" n="58"/>tamen aduertere quod eadem similitudo vel species vel actus 
+      <lb ed="#V" n="59"/>quie repraesentat intellectui nostro quod nunc sor. cras leget: 
+      <lb ed="#V" n="60"/>ipsa eadem similitudo essentialiter representabit mihi 
+      <lb ed="#V" n="61"/>cras quod leget in praesenti: et illa eadem actu legendi transeum 
+      <lb ed="#V" n="62"/>te representabit mihi si maneat quod sor. legerit in 
+      pre<lb ed="#V" n="63" break="no"/>teritum: nec est ibi variatio in substantia alicuius: licet forte 
+      <lb ed="#V" n="64"/>sit variatio in connotato scilicet in partibus temporis. sic per 
+      <lb ed="#V" n="65"/>eundem actum videndi video primo rem distantem: et postea 
+      praesen<cb ed="#V" n="b"/>
+               <lb ed="#V" n="66" break="no"/>tem sola variatione facta in respectum propinquitatiem et 
+      <lb ed="#V" n="67"/>distantie. Attamen quicquid sit de identitate 
+      similitu<lb ed="#V" n="68" break="no"/>dinis respectu futuri praesentis et preteriti: certum est tamen quod 
+      <lb ed="#V" n="69"/>similitudo aliquid ponit in intellectum representans 
+      fu<lb ed="#V" n="70" break="no"/>turum sub ratione futuri: quam similitudinem 
+      certitudina<lb ed="#V" n="71" break="no"/>liter representantem habere dicunr pronostici et prophete verium 
+      <lb ed="#V" n="72"/>dici similiter similitudinem repraesentantem preteritum 
+      <lb ed="#V" n="73"/>sub ratione preteriti. Amplius autem dictum 
+      secu<lb ed="#V" n="74" break="no"/>dum eiusdem non videtur verum: cum dicit quod 
+      si<lb ed="#V" n="75" break="no"/>militudo primi motoris est silitudo eminens 
+      certi<lb ed="#V" n="76" break="no"/>tudinaliter actualitatem representans futurum indistantem 
+      <lb ed="#V" n="77"/>quando est: nec ante nec post. Deficit namque primo in hoc quod 
+      di<lb ed="#V" n="78" break="no"/>cit: quod quando actualitas contingentis est quod ipsam actu 
+      re<lb ed="#V" n="79" break="no"/>presentat hoc namque fclitet est: vt in primo lib. huius naturalis theoio 
+      <lb ed="#V" n="80"/>dictum fuit: quoniam primus motor simius est exemplar et ydea 
+      <lb ed="#V" n="81"/>simplicium terminorum et complexionum necessariarum. nullo autem 
+      <lb ed="#V" n="82"/>modo contingentium: quoniam si representaret contingentia: cum 
+      <lb ed="#V" n="83"/>necessario et inuariabiliter representet quicquid 
+      represen<lb ed="#V" n="84" break="no"/>tat: tunc continuitua necessario euenirent: quod est onietum in adiecto. 
+      <lb ed="#V" n="85"/>Palam autem quod si representat actualitatem continuitusr quando 
+      actu<lb ed="#V" n="86" break="no"/>est. sequitur quod antequam esset et postquam non esset eius 
+      actualita<lb ed="#V" n="87" break="no"/>tem representabit. alias. esset mutatio et variatio in eo: 
+      <lb ed="#V" n="88"/>quia de represensite fieret non representans: et sic non erit 
+      <lb ed="#V" n="89"/>simpliciter immutabilis.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e2110">
+      ¶ Adhuc autem tertium dictum non videtur 
+      <lb ed="#V" n="90"/>verum: quod primus motor non intelligat futurum inquantum 
+      futu<lb ed="#V" n="91" break="no"/>rum: quoniam aliter non intelletura nec cognoscit quam eius essentia 
+      repre<lb ed="#V" n="92" break="no"/>sentat. ipsa autem non representat futurum sub ratione 
+      futu<lb ed="#V" n="93" break="no"/>ri. Palam autem ex dictis quod ratio eius assimit falsum: cum 
+      <lb ed="#V" n="94"/>dicit quod essentia representat indistanter: quoniam non 
+      represen<lb ed="#V" n="95" break="no"/>tat futurum contingens nec distanter nec indistanter. Aliud 
+      <lb ed="#V" n="96"/>etiam dictum non est verum cum dicit: quod primus motor non 
+      intel<lb ed="#V" n="97" break="no"/>ligit aliter quam eius essentia representat. hoc non est verum 
+      <lb ed="#V" n="98"/>de cognitione contingentium: licet sit verum de terminis sinbus et 
+      <lb ed="#V" n="99"/>complexionibus necessaruis. Ac vero ratio nunc concludit 
+      <lb ed="#V" n="100"/>ositum eius cum dicit quod primus motor abstrahit ab omni 
+      <lb ed="#V" n="101"/>linea successionis temporis: ideo non potest signare differentias temperis 
+      <lb ed="#V" n="102"/>scilicet nunc tunc etc. et per consequens non csognoscit futurum sub ratione 
+      <lb ed="#V" n="103"/>futuri: neque praeteritum sub ratione praeteriti: nec praesens sub 
+      re<lb ed="#V" n="104" break="no"/>tione praesentis. istud inquam medtum non valet. Palam autem quod si 
+      <lb ed="#V" n="105"/>cut primus motor potest significte in quantitate permaiue differentias 
+      lo<lb ed="#V" n="106" break="no"/>ci: vt hic ibi: dato quod abstrahat ab omni differentia loci: et ab 
+      <lb ed="#V" n="107"/>omni loco de linea localis distantie: sic in quantitate 
+      suc<lb ed="#V" n="108" break="no"/>cessiua temporis differentias ipsius temperis quae sunt ante et post. numc: 
+      <lb ed="#V" n="109"/>tunc olim posiue signum per inteum.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e2156">
+      ¶ Ad euidentiam autem primi 
+      <lb ed="#V" n="110"/>debes diligenter aduertere quod intellectus non potest 
+      <lb ed="#V" n="111"/>signo tales differentias loci hic ibi nisi habeat habitudinem 
+      <lb ed="#V" n="112"/>ad locum: quod patet: quia ad variationem habitudinis ad 
+      lo<lb ed="#V" n="113" break="no"/>cum: sequitur variatio de li hic et ibi: quoniam de re distante non 
+      <lb ed="#V" n="114"/>potest dici hoc: sed dicitur ibi. Nam quod est vni hoc est alteri ibi. 
+    </p>
+            <p xml:id="nbnt23-n08863-d1e2169">
+               <lb ed="#V" n="115"/>¶ Ratio autem huius variationis est ista: quoniam li hic non 
+      <lb ed="#V" n="116"/>significat absolute vbi sed vt notat propinquitatem aliquid 
+      <lb ed="#V" n="117"/>drantis vel saltem indistantiam: li ibi: et non significat absolute 
+      <lb ed="#V" n="118"/>vbi sed vt notat indistantiam demonstrantis: Et ideo cum vnum 
+      <lb ed="#V" n="119"/>et idem scilicet vnum vbi sit mihi propinquum seu indistans 
+      indi<lb ed="#V" n="120" break="no"/>stantia equipollenti propinquitati indiuii et contiguitati: et sic 
+      <lb ed="#V" n="121"/>demonstrando possum dicere hic: et illud hic est tibi 
+      di<lb ed="#V" n="122" break="no"/>stans: et per consequens demonstrando potes dicere ibi. Attamen noen 
+      <lb ed="#V" n="123"/>intendo dicere quod demonstrans habeat habitudinem ad 
+      <lb ed="#V" n="124"/>locum et vbi subiectiue: sed sufficit quod habeat habitudinem 
+      <lb ed="#V" n="125"/>terminatiue scilicet quod sit terminus illius habitudinis 
+      <lb ed="#V" n="126"/>vae. distantie et propinquitatis. Palam autem ex his: quod licet 
+      pri<lb ed="#V" n="127" break="no"/>mus motor se non habeat ad locum subiectiue: tamen se habet 
+      ter<lb ed="#V" n="128" break="no"/>minatiue: quia est terminus distandaete vel praesentie sub 
+      di<lb ed="#V" n="129" break="no"/>uersis vbi potest demonstrando dicere: hic: ibi istuc: 
+      il<lb ed="#V" n="130" break="no"/>luc. Manifestum est autem quod modo silti: et conformiter est dicendum
+      <pb ed="#V" n="108-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>de tempore: quod licet primus motor abstrahat a tota 
+      linea<lb ed="#V" n="2" break="no"/>successiua temperis: quia noen mensuratur tempore: nec tabescit 
+      <lb ed="#V" n="3"/>in tempore: nec sub tempore continetur. poterit tamen per intellectum 
+      <lb ed="#V" n="4"/>demonstrare praesens preteritum et futurum: et hoc sub ratione 
+      <lb ed="#V" n="5"/>praesentis praeteriti et futuri.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e2221">
+      ¶ Et si arguas quod nihil 
+      prete<lb ed="#V" n="6" break="no"/>ritum et futurum est respectu primi motoris. Respondeo 
+      <lb ed="#V" n="7"/>quod licet nihil sit sibi praeteritum nec futurum emineter: nec 
+      <lb ed="#V" n="8"/>aliqua rosa est sibi indistans eminenter: quoniam eius 
+      essen<lb ed="#V" n="9" break="no"/>tia est sibi indistans: que est omnia eminenter: nec aliqua 
+      <lb ed="#V" n="10"/>rosa est sibi indistans: nec aliquos homo: verum est 
+      emi<lb ed="#V" n="11" break="no"/>nenter. Aliquid tamen est bene sibi futurum in 
+      proprio<lb ed="#V" n="12" break="no"/>genere: vt eclypsis lune. illa enim ecclypsis est sibi bene 
+      di<lb ed="#V" n="13" break="no"/>stans et futura vel saltem distans alicui instanti temporis 
+      <lb ed="#V" n="14"/>cui coexistit. Dicamus ergo concludendo quod primus 
+      mo<lb ed="#V" n="15" break="no"/>tor non tantum cogitat de se immo de aliis: quia intelligit aliqua 
+      <lb ed="#V" n="16"/>extra formie. intelligit enim vniuersal et perticulare et futurum 
+      contin<lb ed="#V" n="17" break="no"/>gens sub ratione futuri.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e2251">
+      ¶ Dissolutio autem rationis 
+      <lb ed="#V" n="18"/>antiquorum philosophorum: et etiam modernorum licet sit difficilis. non 
+      <lb ed="#V" n="19"/>tamen est impossibilis. Dissoluamus per rationes antiquorum 
+      <lb ed="#V" n="20"/>deinde modernorum: quia cum arguitur quod primus motor ne 
+      <lb ed="#V" n="21"/>dependet ab aliquo quod sit extra se in aliquo genere depen¬s 
+      <lb ed="#V" n="22"/>concedamus. Sed cum vltra dicitur quod si intellietia primi 
+      moto<lb ed="#V" n="23" break="no"/>ris terminatur ad aliquid extra se: tunc dependeret ab 
+      <lb ed="#V" n="24"/>obiecto vel in ratione causantis vel mensurantis vel 
+      sal<lb ed="#V" n="25" break="no"/>tem coexigeret aliquid extra se: et per consequens vilesceret eius 
+      <lb ed="#V" n="26"/>intellectus. Respondeo quod accipiendo intellectionem quantum 
+      <lb ed="#V" n="27"/>ad abfolutum: quod importat: a nullo quod sit extra se 
+      depen<lb ed="#V" n="28" break="no"/>det: et omni alio a se circumscripto adhuc maneret. 
+      acci<lb ed="#V" n="29" break="no"/>piendo autem intellectionem quantum ad retia scilicet quantum ad li esse 
+      co<lb ed="#V" n="30" break="no"/>gnitum quod est diminutum: nec idem: nec distinctum cum 
+      intel<lb ed="#V" n="31" break="no"/>lectu primi motoris. si tale esse cognitum dependeat ab 
+      <lb ed="#V" n="32"/>obiecto quod est extra: nullum est inconueniens: quoniam tale 
+      <lb ed="#V" n="33"/>dbiectum illius esse cogniti nullam imperfectionem ponit in 
+      pri<lb ed="#V" n="34" break="no"/>mo motore: quoniam non est magis perfectus propter illud: nec 
+      <lb ed="#V" n="35"/>minus sine illo.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e2293">
+      ¶ Et si arguas quod circumscripto obiecto 
+      <lb ed="#V" n="36"/>circumscribit li esse cognitum. circumscripto autem esse 
+      cogni<lb ed="#V" n="37" break="no"/>to. primus motor non est in acie intelligentie. tamen est in 
+      <lb ed="#V" n="38"/>potentia accidentali ad intelligendum.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e2302">
+      ¶ Et si negnicatio intellectionis 
+      <lb ed="#V" n="39"/>dicit imperfectionem. sequitur quod affirmatio dicit 
+      perfecti<lb ed="#V" n="40" break="no"/>onem. Respondeo tibi circumscripto obiecto quantum ad esse 
+      <lb ed="#V" n="41"/>reale non oportet quod tollatur esse cognitum. Et cum vltra dicis 
+      <lb ed="#V" n="42"/>quod si circumscribatur esse cognitum primus motor est in pois 
+      <lb ed="#V" n="43"/>accidentali ad intelligendum seu cognoscendum: concedo: sed sic 
+      <lb ed="#V" n="44"/>esse in potentia accidentali non quantum ad intelligenre absolutum 
+      <lb ed="#V" n="45"/>sed quantum ad relieciam nihil imperfectionis dicit in primo 
+      <lb ed="#V" n="46"/>motore: nec in nobis: nec in aliquo intellectum: quia illicud 
+      <lb ed="#V" n="47"/>esse cognitum cum sit respectus rationis: et ens diminutum 
+      <lb ed="#V" n="48"/>nullam dicit perfectionem: et per consequens nec eius negatio dicut 
+      <lb ed="#V" n="49"/>imperfectionem. Aliter respoendetur. quare.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e2328">
+      ¶ Dicta autem in ratione 
+      <lb ed="#V" n="50"/>secunda non concludunt: nam cum dicunt quod actus si est verus 
+      <lb ed="#V" n="51"/>infert obiectum esse sicut antecens infert consequens. concedo.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e2335">
+      ¶ Et 
+      <lb ed="#V" n="52"/>cum arguis: ergo sicut ad destructionem consequentis sequitur 
+      <lb ed="#V" n="53"/>destructio antecedentis sic ad sublationem obiecti 
+      extrin<lb ed="#V" n="54" break="no"/>seci tollitur actus intelligendi primi motoris. totum 
+      con<lb ed="#V" n="55" break="no"/>cedo tibi accipiendo actu pro esse cognito qui est 
+      quidan<lb ed="#V" n="56" break="no"/>respectus rationis: et ens diminutum. non autem accipiendo 
+      <lb ed="#V" n="57"/>actum quantum ad absolutum: quod importat: quoniam nec talis actus 
+      <lb ed="#V" n="58"/>est antecedens et obiectum consequens: nec infert obiectum in esse: ergo nec 
+      tol<lb ed="#V" n="59" break="no"/>litur per sublationem obiecti in esse.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e2355">
+      ¶ Et si dicas quod 
+      <lb ed="#V" n="60"/>impossibile videtur quod nec actus quantum ad absolutum nec 
+      <lb ed="#V" n="61"/>quantum ad esse cognitum tollatur a primo motore: 
+      <lb ed="#V" n="62"/>quoniam totum est necessarium quicquid est in eo. Respondeo 
+      <lb ed="#V" n="63"/>tibi quod li esse cognitum continuitur est positum in esse: quia suum 
+      <lb ed="#V" n="64"/>oppositum potuit poni: sic continguitur conseruatur: et per consequens potest 
+      <lb ed="#V" n="65"/>tolli ab intellectu primi motoris per suum oppsitum con¬
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>trarie vel contradictorie scilicet per negationem eius.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e2376">
+      ¶ Ad 
+      <lb ed="#V" n="67"/>confirmationem autem quam tu ponis quod ad vnum antecedens non 
+      se<lb ed="#V" n="68" break="no"/>quuntur 2o contradictoria: concedo: et cum dicis ibi est vnum 
+      <lb ed="#V" n="69"/>antecedens scilicet vnus actus intelligendi: qui scilicet est verus infert obiectum 
+      <lb ed="#V" n="70"/>in esse: et cum vtraque pers contradictionis possit euenire. sequitur 
+      <lb ed="#V" n="71"/>quod vnus actus intelligendi infert vtramque partem 
+      contradictio<lb ed="#V" n="72" break="no"/>nis in esse: quod est impossibile: quia vt dictum est: tunc ad vnum 
+      <lb ed="#V" n="73"/>antecedens sequuntur 2o contradictoria. Respondeo sicut iam dictum 
+      <lb ed="#V" n="74"/>est quod actus intelligendi in primo motore quantum ad absolutum 
+      <lb ed="#V" n="75"/>quod importat non est antedens: nec aliquid infert: nec 
+      affirmati<lb ed="#V" n="76" break="no"/>ue quod erit: nec negatiue quod non erit: sed li esse cognitum 
+      <lb ed="#V" n="77"/>infert obiectum in esse. si sit verum. idem autem esse cognitum non 
+      <lb ed="#V" n="78"/>est de contradictoriis nunc quod hoc erit et non erit: sed sunt 
+      <lb ed="#V" n="79"/>2o antentia. ad 2o autem antetia bene sequuntur 2o 
+      contra<lb ed="#V" n="80" break="no"/>dictoria: De ratione autem quarta: cum dicit quod si primus 
+      <lb ed="#V" n="81"/>motor intelligit plura extra se quod succeientia 
+      intelligentia<lb ed="#V" n="82" break="no"/>rum faciet in eo lassitudinem. Dico quod non oportet sicut nec 
+      <lb ed="#V" n="83"/>successio motionum et reuolutionum: quibus secundi motores 
+      <lb ed="#V" n="84"/>reuoluunt orbes causant in eis lassitudinem. nec habet ista 
+      <lb ed="#V" n="85"/>ratio aliquam apparentiam
+    </p>
+            <p xml:id="nbnt23-n08863-d1e2420">
+      ¶ Ad dictum autem vltimum cum 
+      ar<lb ed="#V" n="86" break="no"/>guis quod sua actio erit vilissima actio omnium actionum: 
+      <lb ed="#V" n="87"/>et quod inconueniens est meditari de quibusdam: et quod digni 
+      <lb ed="#V" n="88"/>us est non quedam videri quam videri. Respondeo cognitur 
+      <lb ed="#V" n="89"/>qua se cognoscit est nobilissima actio actionum isti 
+      <lb ed="#V" n="90"/>generis: sed esse cognitum de istis inferioribus secundum quod obiecta 
+      <lb ed="#V" n="91"/>sunt perfectiora dici potest perfectius vel imperfectius super 
+      <lb ed="#V" n="92"/>posito quod aliquam perfectionem dicat: quod tamen superius est 
+      <lb ed="#V" n="93"/>negatum.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e2440">
+      ¶ Adhuc autem cum dicis quod inconueniens est 
+      me<lb ed="#V" n="94" break="no"/>ditari de quibusdam. Dico quod apud intellectum 
+      separa<lb ed="#V" n="95" break="no"/>tum sicut scire malum non est inconueniens sic nec 
+      medi<lb ed="#V" n="96" break="no"/>tari de vili est vile: nec inconueniens. nullum enim inconue 
+      <lb ed="#V" n="97"/>niens videtur quod potentia apprehendat suum obiectum saltem quantum 
+      <lb ed="#V" n="98"/>ad bonitatem et nobilitatem animalem quicquid sit de 
+      bonita<lb ed="#V" n="99" break="no"/>te morali.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e2456">
+      ¶ Ad dicta autem nouorum philosophorum qui magis 
+      <lb ed="#V" n="100"/>perticulariter asserunt: quod primus motor nihil extra 
+      <lb ed="#V" n="101"/>se intelligit. Difsolutio autem prime demostrationis: 
+      <lb ed="#V" n="102"/>stat in hoc: nam cum arito quod primus motor si intelligetua aliquid 
+      <lb ed="#V" n="103"/>extra se intelligit omnes partes continui autem ergo diuie: 
+      <lb ed="#V" n="104"/>et hoc nden: quia tunc nen intelligeret omnes partes continui actu: sed 
+      ie<lb ed="#V" n="105" break="no"/>potentia autem omnino indiuibles et esse contitum esset compositum 
+      <lb ed="#V" n="106"/>ex indiuibuus. Respondent quidam quod intelligit partes 
+      <lb ed="#V" n="107"/>adhuc in infinitum diuibles. Et cum dicis quod tunc non 
+      in<lb ed="#V" n="108" break="no"/>telligit omnes partes in actu: sed in potentia dicunt 
+      <lb ed="#V" n="109"/>quod verum est quod infinitum ex natura rei habet hoc quod 
+      <lb ed="#V" n="110"/>semper sit in accipiendo vnum post aliud: nec est 
+      <lb ed="#V" n="111"/>aliquid inconueniens si intelligeret rem secundum quod nata est 
+      intel<lb ed="#V" n="112" break="no"/>ligi. Sed illa non vera est responsio: vt videtur: quoniam tunc 
+      pro<lb ed="#V" n="113" break="no"/>ficeret in cognitione. nec ab eterno primus motor 
+      co<lb ed="#V" n="114" break="no"/>gnouisset quod hodie cogescit: et successiue intelligeret 
+      <lb ed="#V" n="115"/>pertem post partem. Que omnia sunt absurda. Aliter ergo 
+      di<lb ed="#V" n="116" break="no"/>citur ad ronem quod supponit vnum falsum scilicet quod 
+      con<lb ed="#V" n="117" break="no"/>tinuum sit diuisilite in infinitum. Dictum namque fuit in lib. 
+      praedi<lb ed="#V" n="118" break="no"/>camentorum. caprimo de quantitate continuma. quod quantitas contiua ex 
+      <lb ed="#V" n="119"/>partibus quantitatis indiuibus finitis constituitur: tamen non 
+      <lb ed="#V" n="120"/>infinitis. si quantitas sit finita. Ac vero cum 2o additur quod 
+      <lb ed="#V" n="121"/>sicut continuum potest euacuari in esse cognito sic in 
+      <lb ed="#V" n="122"/>esse reali. Respondeo quod verum est: quoniam concedo quod diuiso 
+      <lb ed="#V" n="123"/>continuo tam in esse continuo quam in esse reali ex finitis 
+      <lb ed="#V" n="124"/>partibus componatur.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e2513">
+      ¶ Amplius autem cum 3o dicitur. in 
+      specie<lb ed="#V" n="125" break="no"/>bus est processus in infinitum: ergo si intelligit omnia 
+      <lb ed="#V" n="126"/>que sunt extra se intelligit perfectiorem speciem 
+      pos<lb ed="#V" n="127" break="no"/>sibilem poni in esse. ista autem distat ab 
+      imperfectio<lb ed="#V" n="128" break="no"/>ri in infinitum: ergo infinita perfectione.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e2524">
+      ¶ Hic 
+      di<lb ed="#V" n="129" break="no"/>citur quod ratio assumit vnum dubium: an si sit 
+      proces<lb ed="#V" n="130" break="no"/>sus in infinitum in speciebus: quoniam hoc forte:
+      <pb ed="#V" n="108-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>negaretur. Hoc etiam dato non videtur sequi 
+      incon<lb ed="#V" n="2" break="no"/>ueniens: nec habetur ex hoc quod sit infinite perfectio 
+      <lb ed="#V" n="3"/>nis si mpliciter: sed secundum quid in isto genere entis scilicet 
+      limita<lb ed="#V" n="4" break="no"/>ti.
+    </p>
+            <p xml:id="nbnt23-n08863-d1e2545">
+      ¶ Adhuc autem ratio vltima non concludit quando dicit quod 
+      <lb ed="#V" n="5"/>creature non relucerent in creatore: sicut in 
+      specu<lb ed="#V" n="6" break="no"/>lo: quod probant: quoniam tunc non eodem actu intelligeret eis 
+      <lb ed="#V" n="7"/>sentiam suam: et alia a se: cum speculum et res in speculo non 
+      <lb ed="#V" n="8"/>eodem actu videatur. hoc vtique non videtur verum quoniaom 
+      <lb ed="#V" n="9"/>eodem actu potest videri speculum et res in speculo. Attamen 
+      <lb ed="#V" n="10"/>non ponimus quod alia representantur in essentia primi 
+      mo<lb ed="#V" n="11" break="no"/>toris sicut res in speculo: sed sicut in exemplari: nec est 
+      <lb ed="#V" n="12"/>differentia nisi quia species rose est exemplar diminutum. Eentia 
+      <lb ed="#V" n="13"/>autem primi motoris est exemplar eminens representans 
+      <lb ed="#V" n="14"/>rosam: nam sicut species rose supplet vicem obiecti in 
+      represen<lb ed="#V" n="15" break="no"/>tando: non autem in terminando intuitum: sed ipsamet 
+      ro<lb ed="#V" n="16" break="no"/>sa in se formaliter terminat: sic essentia primi motoris 
+      <lb ed="#V" n="17"/>supplet vicem obiecti in representando: non autem in terminam 
+      <lb ed="#V" n="18"/>do: sed ipsamet rosa in se formaliter terminat aspectum 
+      <lb ed="#V" n="19"/>intellectionis primi motoris. Concludamus ergo propositio 
+      <lb ed="#V" n="20"/>nem affirmatiuam: quod primus motor intelligit non tantum 
+      <lb ed="#V" n="21"/>se formaliter: sed intelligit alia que sunt extra se forma 
+      <lb ed="#V" n="22"/>liter: primo tamen terminatur intellectus sua ad esseutia: 
+      <lb ed="#V" n="23"/>propriam: deinde ad alia que sunt extra se: et hoc est quod 
+      <lb ed="#V" n="24"/>aliqui volunt dicere quod essentia primi motoris est obiectum 
+      <lb ed="#V" n="25"/>primarium: et creature obiectum secundarium: et primo 
+      <lb ed="#V" n="26"/>intelligit complexiones necessarias et simplices 
+      ter<lb ed="#V" n="27" break="no"/>minos quam complexiones contingentes. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

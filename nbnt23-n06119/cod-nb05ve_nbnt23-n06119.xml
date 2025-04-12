@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="100-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n06119"><!--ntheol-l2c6-->
+            <head xml:id="nbnt23-n06119-Hd1e97">Caput 6</head>
+            <head xml:id="nbnt23-n06119-Hd1e99" type="question-title">De inuisibilitate Dei plane determinat</head>
+            <p xml:id="nbnt23-n06119-d1e102">
+               <lb ed="#V" n="108"/>¶ De inuisibilitate dei plane determinat. Caput. VI
+    </p>
+            <p xml:id="nbnt23-n06119-d1e107">
+               <lb ed="#V" n="109"/>DE inuisibilitate primi 
+      mo<lb ed="#V" n="110" break="no"/>toris est 
+      per<lb ed="#V" n="111" break="no"/>scrutandum: an primus motor sit simpliciter 
+      <lb ed="#V" n="112"/>inuisibilis sicut est simpliciter immortalis: 
+      <lb ed="#V" n="113"/>sit ergo prima propositio talis: primus 
+      <lb ed="#V" n="114"/>motor est omnino inuisibilis oculo corporali: quoniam 
+      <lb ed="#V" n="115"/>nihil potest videri oculo corporali nisi quantum. 
+      <lb ed="#V" n="116"/>primus autem motor est abstractus ab omni 
+      quan<lb ed="#V" n="117" break="no"/>titate extensiua. Tum secundo: quoniam proprium 
+      <lb ed="#V" n="118"/>et per se obiectum visus corporalis est color: ergo non 
+      <lb ed="#V" n="119"/>videtur nisi coloratum: vel saltem obiecta communia. primo 
+      au<lb ed="#V" n="120" break="no"/>tem motori repugnat simpliciter esse coloratum. er.
+    </p>
+            <p xml:id="nbnt23-n06119-d1e136">
+      ¶ Et 
+      <lb ed="#V" n="121"/>si arguas quod primum dictum est valde dubium scilicet 
+      <lb ed="#V" n="122"/>quod visus corporalis non apprehendat nisi quantum: 
+      <lb ed="#V" n="123"/>quoniam dicit Aristo. secundo de anima. i121 quod sensus est 
+      <lb ed="#V" n="124"/>susceptiuus specierum: sine materia hoc est quod species 
+      rece<lb ed="#V" n="125" break="no"/>pte in oculo corporali abstrahunt a conditionibus 
+      <lb ed="#V" n="126"/>quantitatis. Tum quia dicunt sensum extra se 
+      obie<lb ed="#V" n="127" break="no"/>ctiue. Tum quia non commensurantur obiecto: ideo 
+      mi<lb ed="#V" n="128" break="no"/>nima species est representatiua maximi obiecti: vt 
+      <lb ed="#V" n="129"/>species celi. Tum quia non habent realem quantitatem 
+      <lb ed="#V" n="130"/>in sensu: sicut habent forme sensate in materuis existen¬
+      <pb ed="#V" n="100-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>tes. Palam autem quod species existentes in 
+      oculo<lb ed="#V" n="2" break="no"/>vel in speculo sunt visibiles oculo corporali: et tamen 
+      <lb ed="#V" n="3"/>sunt non quante: sicut dictum est supra: ergo non 
+      quan<lb ed="#V" n="4" break="no"/>tum potest videri oculo corporali. Respondeo 
+      ti<lb ed="#V" n="5" break="no"/>bi: quod licet species existentes in sensum aliqualiter 
+      abstra<lb ed="#V" n="6" break="no"/>hant ab aliquibus conditionibus quantitatis: sicut 
+      <lb ed="#V" n="7"/>tu arguis: et bene: non tamen sunt omnino non 
+      quan<lb ed="#V" n="8" break="no"/>te: ideo sunt extense et quante: sicut ad sensum apparet: 
+      <lb ed="#V" n="9"/>sicut de specie in speculo apparet quod pars est in parte: 
+      <lb ed="#V" n="10"/>et non tota species in qualibet parte. Primus autem 
+      <lb ed="#V" n="11"/>motor est simpliciter non quantus nullam habens 
+      ma<lb ed="#V" n="12" break="no"/>gnitudinem: ergo non est visibilis oculo corporali. 
+    </p>
+            <p xml:id="nbnt23-n06119-d1e192">
+               <lb ed="#V" n="13"/>¶ Et si queras an species omnino indiuisibilis non 
+      <lb ed="#V" n="14"/>quanta sicut est species representatiua nature 
+      spiri<lb ed="#V" n="15" break="no"/>tualis: possit recipi in oculo corporali: et per 
+      conse<lb ed="#V" n="16" break="no"/>quens species representatiua primi motoris: vel an 
+      <lb ed="#V" n="17"/>hec contradictorie repugnent. Dicitur quod non 
+      re<lb ed="#V" n="18" break="no"/>pugnat subiecto quanto et materiali recipere 
+      spe<lb ed="#V" n="19" break="no"/>ciem indiuisibilem et immaterialem.
+    </p>
+            <p xml:id="nbnt23-n06119-d1e210">
+      ¶ Et si 
+      ar<lb ed="#V" n="20" break="no"/>guas quod forma substantialis omnino immaterialis 
+      <lb ed="#V" n="21"/>intrinseca: vt species representatiua primi motoris 
+      <lb ed="#V" n="22"/>posset immediate recipi in subiecto quanto scilicet in 
+      ocu<lb ed="#V" n="23" break="no"/>lo corporali. Respondeo quod non est simile de forma 
+      <lb ed="#V" n="24"/>substantiali et accidentali: quoniam licet 
+      conceda<lb ed="#V" n="25" break="no"/>tur de forma substantiali quod immediate recipiatur 
+      <lb ed="#V" n="26"/>in subiecto corporeo: non tamen conceditur de 
+      for<lb ed="#V" n="27" break="no"/>ma accidentali nisi mediante substantiali: nec est 
+      <lb ed="#V" n="28"/>alia ratio nisi quod hoc est hoc.
+    </p>
+            <p xml:id="nbnt23-n06119-d1e232">
+      ¶ Et si adhuc dicas quod 
+      <lb ed="#V" n="29"/>quum in oculo corporali sit anima rationalis tota: 
+      qua<lb ed="#V" n="30" break="no"/>re non poterit esse ratio formalis in eo recipiendi 
+      <lb ed="#V" n="31"/>speciem representatiuam primi motoris. Oculus 
+      <lb ed="#V" n="32"/>etiam constitutus ex anima rationali et organo 
+      cor<lb ed="#V" n="33" break="no"/>porali sit illud quod recipit talem speciem: et per 
+      conse<lb ed="#V" n="34" break="no"/>quens posset videre primum motorem per speciem 
+      <lb ed="#V" n="35"/>in eo formaliter existentem. Respondeo tibi. solutionem 
+      <lb ed="#V" n="36"/>quere.
+    </p>
+            <p xml:id="nbnt23-n06119-d1e252">
+      ¶ Secunda propositio est talis: primus 
+      mo<lb ed="#V" n="37" break="no"/>tor est simpliciter inuisibilis: sic quod nullo sensu per 
+      <lb ed="#V" n="38"/>se recipi potest. hec probatur: sicut prima. tum etiam: 
+      <lb ed="#V" n="39"/>quia primus motor non continetur sub obiecto 
+      ade<lb ed="#V" n="40" break="no"/>quato alicuius sensus: ergo a nullo sensu potest 
+      com<lb ed="#V" n="41" break="no"/>prehendi. Ex hoc infertur quod primus motor est 
+      om<lb ed="#V" n="42" break="no"/>nino intangibilis et impalpabilis cum non contineatur 
+      <lb ed="#V" n="43"/>sub obiecto sensus tactus. 2o quod est omnino 
+      inaudi<lb ed="#V" n="44" break="no"/>bilis: cum non contineatur sub obiecto sensus: 
+      au<lb ed="#V" n="45" break="no"/>ditus: et sic de aliis sensibus exterioribus.
+    </p>
+            <p xml:id="nbnt23-n06119-d1e274">
+      ¶ Et si 
+      <lb ed="#V" n="46"/>queras: an primus motor sit sensibilis per accidens: 
+      <lb ed="#V" n="47"/>licet non per se: sicut substantia: que licet non sit sensibilis 
+      <lb ed="#V" n="48"/>per se: est tamen sensibilis per accidens. Fertur ab 
+      aliqui<lb ed="#V" n="49" break="no"/>bus quod sic. sicut sor. vel guiglielmus auditur per 
+      ac<lb ed="#V" n="50" break="no"/>cidens scilicet ratione vocis eius prolate: cum igitur primus 
+      <lb ed="#V" n="51"/>motor posset vocem proferre et narrare: sicut sor. 
+      vi<lb ed="#V" n="52" break="no"/>detur quod per accidens possit audiri: et ex tali voce 
+      co<lb ed="#V" n="53" break="no"/>gnosci: sed an sit visibilis proprie per accidens non 
+      as<lb ed="#V" n="54" break="no"/>sero: quoniam non adhuc est probatum: an aliquid 
+      <lb ed="#V" n="55"/>accidens visibile sit in eo subiectiue: sic quod eius 
+      de<lb ed="#V" n="56" break="no"/>pendentiam terminet: quoniam si sic: tunc esset 
+      vi<lb ed="#V" n="57" break="no"/>sibilis per accidens.
+    </p>
+            <p xml:id="nbnt23-n06119-d1e303">
+      ¶ Tertia propositio talis est: 
+      <lb ed="#V" n="58"/>primus motor non est omnino ymaginabilis: hoc 
+      pro<lb ed="#V" n="59" break="no"/>batur: quoniam non videtur quod aliquod obiectum sit 
+      <lb ed="#V" n="60"/>ymaginabile nisi sit aliquo sensu exteriori 
+      percepti<lb ed="#V" n="61" break="no"/>bile seu sensibile: cum ymaginatio et fantasia sint 
+      mo<lb ed="#V" n="62" break="no"/>tus facti a sensu. Primus autem motor non cadit 
+      <lb ed="#V" n="63"/>sub sensu: vt dicit propositio secunda.
+    </p>
+            <p xml:id="nbnt23-n06119-d1e320">
+      ¶ Et si queras: an 
+      <lb ed="#V" n="64"/>sit visibilis oculo mentali: vel non. de hoc inferius 
+      <lb ed="#V" n="65"/>fiet sermo: cum de cognitione primi motoris inqui¬
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>retur: ideo ad locum illum differatur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

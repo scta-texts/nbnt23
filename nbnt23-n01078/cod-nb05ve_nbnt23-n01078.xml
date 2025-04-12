@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="92-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n01078"><!--ntheol-l1d2-->
+            <head xml:id="nbnt23-n01078-Hd1e97">Caput 2</head>
+            <head xml:id="nbnt23-n01078-Hd1e99" type="question-title">Quid sit prima intelligentia in speciali</head>
+            <p xml:id="nbnt23-n01078-d1e102">
+               <lb ed="#V" n="50"/>¶ Hic ostenditur quid sit prima intelligentia in 
+      <lb ed="#V" n="51"/>speciali. Caput. II. 
+    </p>
+            <p xml:id="nbnt23-n01078-d1e109">
+               <lb ed="#V" n="52"/>AMplius autem de prima 
+      intel<lb ed="#V" n="53" break="no"/>ligentia quid sit 
+      <lb ed="#V" n="54"/>n speciali inquirendum est. de quo dica 
+      <lb ed="#V" n="55"/>tur alique propositiones per ordinem. 
+      <lb ed="#V" n="56"/>lrima sit talis. primus motor est immo 
+      <lb ed="#V" n="57"/>bilis substantia: et immaterialis: et incorporea. Hec 
+      pro<lb ed="#V" n="58" break="no"/>batur: quoniam differentia constitutiua substantie 
+      corpo<lb ed="#V" n="59" break="no"/>ree est materialis. Nam incorporea et immateria 
+      <lb ed="#V" n="60"/>lia corporalibus et materialibus nobiliora sunt. Ac 
+      <lb ed="#V" n="61"/>vero per immaterialitatem istam intelligo primum 
+      <lb ed="#V" n="62"/>motorem carere materia que est altra pars 
+      compo<lb ed="#V" n="63" break="no"/>siti: quum illa matera habeat rationem partis et potentie. 
+      <lb ed="#V" n="64"/>de quo principio mali dictum est in primo libro 
+      phy<lb ed="#V" n="65" break="no"/>sicorum. capite tertio.
+    </p>
+            <p xml:id="nbnt23-n01078-d1e142">
+      ¶ Adhuc autem immateria<cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>
+               <lb ed="#V" n="67" break="no"/>litas 
+      primi motoris obponitur quantitati et 
+      corpore<lb ed="#V" n="68" break="no"/>tati et omni dimensioni. Quoniam primus motor: nec est 
+      <lb ed="#V" n="69"/>corpus: nec virtus in corpore. non intelligo autem quod 
+      <lb ed="#V" n="70"/>primus motor sit immaterialis immaterialitate quod 
+      <lb ed="#V" n="71"/>opponitur hecceitati et diferentie indiuiduali. Quoniam 
+      <lb ed="#V" n="72"/>in primo motore sunt multe differentie 
+      indiuidua<lb ed="#V" n="73" break="no"/>les: et multa indiuidua: vt indiuiduum entis et 
+      indi<lb ed="#V" n="74" break="no"/>uiduum substantie: et sic de aliis.
+    </p>
+            <p xml:id="nbnt23-n01078-d1e167">
+      ¶ Secunda propositio sit 
+      ta<lb ed="#V" n="75" break="no"/>lis: primus motor est substantia spiritualis atque 
+      intelle<lb ed="#V" n="76" break="no"/>ctualis: probatio huius dependet ex prima 
+      propo<lb ed="#V" n="77" break="no"/>sitione: quoniam opposita differentia quantitati et 
+      <lb ed="#V" n="78"/>corporeitati est differetia spiritualis et 
+      intellectua<lb ed="#V" n="79" break="no"/>lis. vnde omnis substantia incorporea et immateria 
+      <lb ed="#V" n="80"/>lis est spiritualis et intellectualis. Sed materia que 
+      <lb ed="#V" n="81"/>est altera pars compositi. Et hecceitas non inferunt 
+      <lb ed="#V" n="82"/>naturam esse spiritualem et intellectualem. Similite 
+      <lb ed="#V" n="83"/>non impediunt naturam esse spiritualem et intelle 
+      <lb ed="#V" n="84"/>ctualem. Sed tantum materia accepta pro quanti 
+      <lb ed="#V" n="85"/>tate impedit naturam esse spiritualem et intellectua 
+      <lb ed="#V" n="86"/>lem.
+    </p>
+            <p xml:id="nbnt23-n01078-d1e196">
+      ¶ Tertia propositio est ista. primus motor est 
+      <lb ed="#V" n="87"/>exemplar: et ydea representatiua aliorum a (e. Et 
+      <lb ed="#V" n="88"/>hinc est quod secunda intelligentia mouens orbem 
+      aspi<lb ed="#V" n="89" break="no"/>cit ad primum motorem tanquam ad artem suam. in 
+      qua<lb ed="#V" n="90" break="no"/>ista producibilia representantur distincte: et ex 
+      ta<lb ed="#V" n="91" break="no"/>li aspectu et representatione mouet orbem.
+    </p>
+            <p xml:id="nbnt23-n01078-d1e209">
+      ¶ Et 
+      <lb ed="#V" n="92"/>si queratur an sit exemplar omnium: respondetur 
+      <lb ed="#V" n="93"/>quod est exemplar omnium terminorum simplicium: 
+      <lb ed="#V" n="94"/>que omnium complexionum necessariarum. 
+      Uuo<lb ed="#V" n="95" break="no"/>niam ista semper inuariabiliter et vniformiter 
+      re<lb ed="#V" n="96" break="no"/>presentantur.
+    </p>
+            <p xml:id="nbnt23-n01078-d1e222">
+      ¶ Quarta propositio sit talis: primus 
+      <lb ed="#V" n="97"/>motor non est exemplar omnium contingentium 
+      <lb ed="#V" n="98"/>atque possibilium. Ratio huius debet esse ista: 
+      quoni<lb ed="#V" n="99" break="no"/>am possibile est contradictoria euenire in sensu 
+      di<lb ed="#V" n="100" break="no"/>uisionis: vt bellum nauale esse cras et non esse cras 
+      <lb ed="#V" n="101"/>est possibile contingens. Impossibile est autem quod 
+      <lb ed="#V" n="102"/>contradictoria possent representari in aliquo 
+      exem<lb ed="#V" n="103" break="no"/>plari. Quoniam si vtraque pars contradictionis 
+      re<lb ed="#V" n="104" break="no"/>presentaretur cum vtraque non eueniat: exemplar 
+      <lb ed="#V" n="105"/>esset falsum: quia aliter representaret quam eueniret. 
+      <lb ed="#V" n="106"/>¶. Et si dicas quod vtramque partem contradictionis 
+      <lb ed="#V" n="107"/>representat: vt possibilem euenire in tali nunc: hoc 
+      <lb ed="#V" n="108"/>non sufficit: quoniam non tantum representat 
+      alte<lb ed="#V" n="109" break="no"/>ram partem: vt possibilem euenire: sed representat 
+      <lb ed="#V" n="110"/>eam que de facto et de inesse eueniat in tali nunc. 
+      <lb ed="#V" n="111"/>Aliter exemplar erit fim: quoniam vtraque pars 
+      con<lb ed="#V" n="112" break="no"/>tradictionis non eueniret.
+    </p>
+            <p xml:id="nbnt23-n01078-d1e259">
+      ¶ Quinta propositio sit 
+      <lb ed="#V" n="113"/>talis. primus motor non est exemplar alicuius 
+      par<lb ed="#V" n="114" break="no"/>tis complexionis contingentis non affirmatiue nec 
+      <lb ed="#V" n="115"/>negatiue ratio est: quoniam eadem ratione qua 
+      vni<lb ed="#V" n="116" break="no"/>us et alterius. Unde illa pars que esset 
+      exemplata<lb ed="#V" n="117" break="no"/>eueniret: et alia nunquam eueniret.
+    </p>
+            <p xml:id="nbnt23-n01078-d1e272">
+      ¶ Et si arguas quod 
+      <lb ed="#V" n="118"/>prunus motor immobilis nullius est exemplar 
+      ex<lb ed="#V" n="119" break="no"/>tempore quin sit ab eterno: et immutabiliter. alias eu 
+      <lb ed="#V" n="120"/>set in eo vicissitudo et mutatio. Quando autem 
+      con<lb ed="#V" n="121" break="no"/>tingens est actu primus motor est similitudo: et 
+      exe<lb ed="#V" n="122" break="no"/>plar istius complexionis contingentis actu 
+      existe<lb ed="#V" n="123" break="no"/>tis: ergo ab eterno. ¶. Adhuc autem primus 
+      mo<lb ed="#V" n="124" break="no"/>tor est similitudo et exemiplar omnis necessarie 
+      en<lb ed="#V" n="125" break="no"/>titatis. Contingens autem quum actu existit est 
+      ne<lb ed="#V" n="126" break="no"/>cessarium: quoniam omne quod est quando est 
+      neces<lb ed="#V" n="127" break="no"/>se est esse. Attamen ista non impediunt: quoniam 
+      <lb ed="#V" n="128"/>nec ex tempre: nec ab eterno primus motor est 
+      exem<lb ed="#V" n="129" break="no"/>plar alicuius complexionis contingentis de 
+      futu<lb ed="#V" n="130" break="no"/>ro pro instanti pro quo erit: licet bene sit de possibili. 
+      Exe<lb ed="#V" n="131" break="no"/>piar sciest quod potent eise exempiar in infteas.
+    </p>
+            <p xml:id="nbnt23-n01078-d1e306">
+      ¶ Et si ar¬
+      <pb ed="#V" n="93-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>guas per quid intelligit iftud contingens quod existit: 
+      <lb ed="#V" n="2"/>dicitur quod per deteriinationem sue voluntatis de 
+      <lb ed="#V" n="3"/>quo 4o theologie erit sermo. Secundum non 
+      im<lb ed="#V" n="4" break="no"/>pedit: quoniam istud quod est actu non est necessari 
+      <lb ed="#V" n="5"/>um absolete: quum subiectum possit carere predicato: non 
+      <lb ed="#V" n="6"/>cum reduplicatione huiusmodi quando est.
+    </p>
+            <p xml:id="nbnt23-n01078-d1e326">
+      ¶ 
+      Se<lb ed="#V" n="7" break="no"/>xta propositio est talis. primus motor est vnum 
+      exem<lb ed="#V" n="8" break="no"/>plar omnium: et similitudo istorum: quorum est 
+      exem<lb ed="#V" n="9" break="no"/>plar nec est ibi alia et alia ydea respectu diuersorum. 
+      <lb ed="#V" n="10"/>Ratio est ista: quoniam non sunt ponenda plura 
+      si<lb ed="#V" n="11" break="no"/>ne necessitate. huiusmodi autem ponere nulla est 
+      <lb ed="#V" n="12"/>necessitas: probatur: quoniam vnum exemplar 
+      li<lb ed="#V" n="13" break="no"/>mitatum: vt vna species intelligibilis: et similiter actus 
+      <lb ed="#V" n="14"/>intelligendi est similitudo equiuoca: absoluta 
+      dimi<lb ed="#V" n="15" break="no"/>nuta plurium dissimilium. a fortiori. primus 
+      mo<lb ed="#V" n="16" break="no"/>tor immobilis erit similitudo equiuoca vna 
+      emi<lb ed="#V" n="17" break="no"/>nens omnium simplicium terminorum et 
+      comple<lb ed="#V" n="18" break="no"/>xionum necessariarum: nec intelligo negare: quinus 
+      <lb ed="#V" n="19"/>quiditas primi motoris: que per vnam rationem 
+      <lb ed="#V" n="20"/>absolutam est exemplar aliorum findet diuersos 
+      <lb ed="#V" n="21"/>respectus ad diuersa exemplata et et ita illud 
+      exem<lb ed="#V" n="22" break="no"/>plar absolutum sub vno respectu dicetur 
+      similitu<lb ed="#V" n="23" break="no"/>do illius et alio respectu dicetur similitudo 
+      alteri<lb ed="#V" n="24" break="no"/>us. Alia propositio sit talis. primus motor 
+      immo<lb ed="#V" n="25" break="no"/>bilis potest dici rosa: lapis: granum frumenti: sic quod 
+      <lb ed="#V" n="26"/>rosa verius habet esse in prima intelligentia quam 
+      <lb ed="#V" n="27"/>in seipsa: et sic de omnibus aliis exemneto. ratio 
+      hu<lb ed="#V" n="28" break="no"/>ius propositionis est hec: quoniam rei et eius 
+      simi<lb ed="#V" n="29" break="no"/>litudini potest idem nomen imponi: vt homini 
+      pi<lb ed="#V" n="30" break="no"/>cto: et homini vero: et domui in anima et domui 
+      ex<lb ed="#V" n="31" break="no"/>tra animam in re. Dictum est enim supra: quod primus 
+      <lb ed="#V" n="32"/>motor est exemplar rose et lapidis: et omnium 
+      alio<lb ed="#V" n="33" break="no"/>tum a se: ergo primo motori et rose: et sic de aliis 
+      po<lb ed="#V" n="34" break="no"/>test vnum nomen imponi. Ita quod hoc nomen rosa 
+      <lb ed="#V" n="35"/>est commune ad rosam que est extra animam in els 
+      <lb ed="#V" n="36"/>se reali formaliter: et ad rosam que est in primo 
+      mo<lb ed="#V" n="37" break="no"/>tore eminenter. Palam autem quod verius habet eit 
+      <lb ed="#V" n="38"/>se rosa in primo motore quam in seipsa: quoniam 
+      si<lb ed="#V" n="39" break="no"/>militudini et rei imponitur idem nomen. si similitu¬. 
+      <lb ed="#V" n="40"/>do est eminens. Uerius dicitur istud nomen de 
+      si<lb ed="#V" n="41" break="no"/>militudine quam de ipsa re: vt autem similitudo est 
+      <lb ed="#V" n="42"/>diminuta: verius dicitur similitudo de re quam de 
+      si<lb ed="#V" n="43" break="no"/>militudine. Primus autem motor est similitudo 
+      <lb ed="#V" n="44"/>eminens rose: ergo primus motor eminentius et 
+      <lb ed="#V" n="45"/>verius est rosa quam rosa sit in seipsa.
+    </p>
+            <p xml:id="nbnt23-n01078-d1e413">
+      ¶ Adhuc autem 
+      <lb ed="#V" n="46"/>constat quod primus motor est lapis formaliter 
+      vi<lb ed="#V" n="47" break="no"/>uens: immo vita: et rosa in primo motore est rosa 
+      vi<lb ed="#V" n="48" break="no"/>uens et quedam vita: similiter lapis in primo 
+      mo<lb ed="#V" n="49" break="no"/>tore est lapis verius. et vt me breviter expediam 
+      om<lb ed="#V" n="50" break="no"/>nia exemplaria in primo motore sunt vita in ipso 
+      <lb ed="#V" n="51"/>Debemus autem diligenter aduertere quod ista 
+      no<lb ed="#V" n="52" break="no"/>mina que sunt communia primo motori et aliis: quum 
+      di<lb ed="#V" n="53" break="no"/>citur primus motor est rosa viuens: et lapis viuus: 
+      <lb ed="#V" n="54"/>sic sunt accipienda quod similitudo rose in primo 
+      mo<lb ed="#V" n="55" break="no"/>tore est quedam vita: non autem quiditas eius: 
+      si<lb ed="#V" n="56" break="no"/>militer similitudo lapidis est quedam vita: et 
+      qui<lb ed="#V" n="57" break="no"/>dam lapis viuus: non autem ipsa quiditas lapidis. 
+      <lb ed="#V" n="58"/>Ex istis ergo propositionibus patet in speciali: quid sit 
+      <lb ed="#V" n="59"/>primus motor immobilis. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

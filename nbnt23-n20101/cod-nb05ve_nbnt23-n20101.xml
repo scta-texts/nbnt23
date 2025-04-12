@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="122-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n20101"><!--ntheol-l6c1-->
+            <head xml:id="nbnt23-n20101-Hd1e97">Caput 1</head>
+            <head xml:id="nbnt23-n20101-Hd1e99" type="question-title">
+      Ostendit in quo consistat ratio formalis 
+      constitutiua suppositi in subcoelestibus
+    </head>
+            <p xml:id="nbnt23-n20101-d1e102">
+               <lb ed="#V" n="20"/>¶ Incipit liber sextus theologie naualis. 
+    </p>
+            <p xml:id="nbnt23-n20101-d1e107">
+               <lb ed="#V" n="21"/>¶ Ostendit in quo consistat ratio formalis 
+      constitu<lb ed="#V" n="22" break="no"/>tiua suppositi in subcelestibus. Cap. I 
+    </p>
+            <p xml:id="nbnt23-n20101-d1e114">
+               <lb ed="#V" n="23"/>DE proprietatibus ant ostium 
+      <lb ed="#V" n="24"/>tiuis 
+      perso<lb ed="#V" n="25" break="no"/>narum productarum: nec non de passionibus et 
+      <lb ed="#V" n="26"/>proprietatibus personarum specuctimaum. prima er 
+      <lb ed="#V" n="27"/>perscrutatio est an persone ille sint 
+      consti<lb ed="#V" n="28" break="no"/>tute formaliter per aliquid positiuum vel per 
+      ali<lb ed="#V" n="29" break="no"/>quid negatiuum seu priuatantum. 2o an sint 
+      <lb ed="#V" n="30"/>constitute per aliquid absolutum vel aliquid relatuum. 3o an 
+      <lb ed="#V" n="31"/>per releationes: an per origines: an scilicet per aliquid de praedicato releatio 
+      <lb ed="#V" n="32"/>nis vivela per aliquid reductiue pertinens ad genus actionis et 
+      pas<lb ed="#V" n="33" break="no"/>sionis.
+    </p>
+            <p xml:id="nbnt23-n20101-d1e141">
+      ¶ Deinde de propecribus et passiolribus personarum erit per 
+      <lb ed="#V" n="34"/>scrutatio.
+    </p>
+            <p xml:id="nbnt23-n20101-d1e146">
+      ¶ Dicamus autem in primis de supposito et 
+      perso<lb ed="#V" n="35" break="no"/>na in istis inferioribus. Suppositum autem et persona non dernt: 
+      <lb ed="#V" n="36"/>nisi sicut superius et inferius. Suppotus enim in plus est quam persons. 
+      <lb ed="#V" n="37"/>nam persona tantum reperitur in natura intellectuali. suppositum vero 
+      re<lb ed="#V" n="38" break="no"/>peritur in natura intellectuali siue non intellectuali. Palam autem 
+      <lb ed="#V" n="39"/>quod in hoc conueniunt omnes: quod de ratione persone est esse per se 
+      persei<lb ed="#V" n="40" break="no"/>tate terti modi scilicet esse solitarum et esse seorsum seque 
+      <lb ed="#V" n="41"/>stratum ab omni alio.
+    </p>
+            <p xml:id="nbnt23-n20101-d1e164">
+      ¶ Et hoc patet de significatione termini. dicitur enim 
+      <lb ed="#V" n="42"/>persona quasi per se sonans et per se existens. Ideo dicitur quod de ratione per 
+      <lb ed="#V" n="43"/>sone est esse incommunile alteri. Et sicut vniuersal communicatur 
+      inferiori<lb ed="#V" n="44" break="no"/>bus. quorum quodlibet est ipsum: sicut forma materie communicatur. 
+      persona<lb ed="#V" n="45" break="no"/>ergo est omnino incommunicalis manente sua personaiute: non tamen 
+      conuerti<lb ed="#V" n="46" break="no"/>tur consequentia scilicet quod nihil sit communicalite persone: quoniam bene aliquid 
+      ad<lb ed="#V" n="47" break="no"/>ditur et inexistit et additur persone: sicut accidens communicatur subiecto 
+      <lb ed="#V" n="48"/>per se subsistenti.
+    </p>
+            <p xml:id="nbnt23-n20101-d1e182">
+      ¶ Et si arguas quod de ratione persone est 
+      <lb ed="#V" n="49"/>esse solitatum et per se perseite terti modi. ergo si aliquid illi 
+      ad<lb ed="#V" n="50" break="no"/>ditur et cum alio ponitur. iam non erit per se: sed erit cum alio: et per 
+      <lb ed="#V" n="51"/>conseques non erit persona: nec suppositio.
+    </p>
+            <p xml:id="nbnt23-n20101-d1e191">
+      ¶ Responsio accipitur hoc 
+      per<lb ed="#V" n="52" break="no"/>se sic quod non sit in alio id est in alio vel sicut vniuersal in 
+      inferio<lb ed="#V" n="53" break="no"/>ribus: vel sicut forma in mam quod eius dependentia sit ad aliud 
+      <lb ed="#V" n="54"/>determinata: non tamen sibi repugnat quin possit alterius 
+      <lb ed="#V" n="55"/>dependentiam terminare: et per consequens aliquid sibi inesse.
+    </p>
+            <p xml:id="nbnt23-n20101-d1e202">
+      ¶ Et 
+      <lb ed="#V" n="56"/>si dicas ergo non est solitarium: nec per se. ex quo aliquid aliud 
+      <lb ed="#V" n="57"/>est cum illo: dicitur quod immo tali perseitate de quae fit secundo: quoniam 
+      <lb ed="#V" n="58"/>dicitur esse per se: quoniam in se subsistit et alteri non innititur. est enim 
+      <lb ed="#V" n="59"/>verum exemplum dicentis quod solus sor. est in domo: et tamen si 
+      <lb ed="#V" n="60"/>solus non excludit accidens sortis. persona ergo sic est per se 
+      <lb ed="#V" n="61"/>quod non est alteri communicata nec communicabilis.
+    </p>
+            <p xml:id="nbnt23-n20101-d1e219">
+               <lb ed="#V" n="62"/>Amplius autem restat perscrutato: de ratione 
+      for<lb ed="#V" n="63" break="no"/>mali personalitatis. vae. an 
+      <lb ed="#V" n="64"/>sit aliquid positiuum vel non: et quid sit illud. At vero 
+      circa<lb ed="#V" n="65" break="no"/>boc sunt tria dicta disparata. prium quod personalitas viela ratio¬
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>eius in ereaturis dicit 2ee negonem: quia dicit 2eum 
+      im<lb ed="#V" n="67" break="no"/>communicaphysice scilicet negonnem communicatiue actualis: et negonem 
+      communica<lb ed="#V" n="68" break="no"/>bilitatis aptibllius vel dicit negonnem 2o cuo dependaseta: 
+      actua<lb ed="#V" n="69" break="no"/>lis scilicet et aptilis.
+    </p>
+            <p xml:id="nbnt23-n20101-d1e241">
+      ¶ Et si arguas contra istam diffiactionem: quod aqua 
+      <lb ed="#V" n="70"/>in vase vere habet rationem supientia: et tamen non habet istam 2eme 
+      negon<lb ed="#V" n="71" break="no"/>nem: quoniam licet habeat negonnem actualis dependendsete: quia est 
+      actu<lb ed="#V" n="72" break="no"/>in se et per se non cum alio non tamen habet negonem aptilalius de 
+      pecie<lb ed="#V" n="73" break="no"/>dentie et vnionis: quoniam potest vniri naturaliter alteri supposito et 
+      <lb ed="#V" n="74"/>ad vnionem hanc habet nalem aptitudinem: quoniam aqua quae est in 
+      <lb ed="#V" n="75"/>vase potest poni in flumine: et tunc ex duobus suppositues fiet 
+      <lb ed="#V" n="76"/>vnum suplicitum: quoniam ista sunt apta vniri adiuice.
+    </p>
+            <p xml:id="nbnt23-n20101-d1e259">
+      ¶ Respondtur 
+      <lb ed="#V" n="77"/>tibi. Sutta aqua si ponatur in mari non est in eo: sicut natura 
+      <lb ed="#V" n="78"/>in supposito: cum sint eiusdem rationis: nec vna pers continui est 8 
+      <lb ed="#V" n="79"/>in alia: sicut natura in supposito: nec terminat dependentiam alte¬ super 
+      <lb ed="#V" n="80"/>rius: sicut suppositum terminat dependentiam naturae: quoniam quolibet 
+      pers<lb ed="#V" n="81" break="no"/>conti subsistit in se: et quolibet pers aqua subsistit in se: licet actum non 
+      <lb ed="#V" n="82"/>sit separata ab alia parte: sed ex istis fit vnum supitur in 
+      actu<lb ed="#V" n="83" break="no"/>per indistintionem et indinsionem vnius ab altero.
+    </p>
+            <p xml:id="nbnt23-n20101-d1e277">
+      ¶ Dictum 2m 
+      di<lb ed="#V" n="84" break="no"/>sparatum: immo opitum primo est istud: quod ratio supposilitio dicut aliquid 
+      po<lb ed="#V" n="85" break="no"/>sitiuum: quia dicit quandam entitatem positiuam scilicet differentiam: et 
+      <lb ed="#V" n="86"/>sepotionem ab alio actualem. nam sicut punctus in actu separat et 
+      <lb ed="#V" n="87"/>distinguit et facut esse per se perseitate tertium modi. non autem 
+      pun<lb ed="#V" n="88" break="no"/>ctus in potentia: cum iste continuet vnam partem cum alia: nihilomi 
+      <lb ed="#V" n="89"/>nus puctus in actum nihil addit supra punctum in potentia 
+      <lb ed="#V" n="90"/>nisi praecise actualem diuisionem et seprationem: non actionem: sed 
+      <lb ed="#V" n="91"/>releactionem. sic suppositum vel ratio supposie separat et distinguit 
+      <lb ed="#V" n="92"/>vnam ab alia: et hoc formaliter per diuisionem et sepertionem re 
+      <lb ed="#V" n="93"/>latiuam. vnde natura humana vel quacumque alia habet istam actualem 
+      <lb ed="#V" n="94"/>diuisionem et separationem ab alio supposito dicitur esse in 
+      proprio<lb ed="#V" n="95" break="no"/>supposito: et carens ista separatione ab alio supposito non 
+      di<lb ed="#V" n="96" break="no"/>supposita in se. nec in proprio supposinto.
+    </p>
+            <p xml:id="nbnt23-n20101-d1e308">
+      ¶ Et si arguas 
+      <lb ed="#V" n="97"/>de accidente separato ab omni subiecto quod habet actualem diuisionem 
+      <lb ed="#V" n="98"/>et separationem ab omni alio supento: et tamen non est supentis.
+    </p>
+            <p xml:id="nbnt23-n20101-d1e315">
+      ¶ Respondetur 
+      <lb ed="#V" n="99"/>quod accidens si per possibile vel impossibile esset separatum ab omni subiecto 
+      <lb ed="#V" n="100"/>non haberet actualem disionem vel se protionem nalem: nec quantum 
+      <lb ed="#V" n="101"/>est de se: immo quantum est de se semper est aptum natum esse in 
+      <lb ed="#V" n="102"/>alio. ergo separatio actualis alicui fundamento est ratio formalis 
+      <lb ed="#V" n="103"/>suppositia: et quo suppositum est forite supcitum secundum illum motio 
+      po<lb ed="#V" n="104" break="no"/>nendi.
+    </p>
+            <p xml:id="nbnt23-n20101-d1e332">
+      ¶ 3 dictum disparatum est istud: quod ratio formalis super 
+      <lb ed="#V" n="105"/>positi est quaedam actualitas et quadam entitas: que 
+      separat<lb ed="#V" n="106" break="no"/>et distinguit: quae quidem actualitas est omnino realitas alia 
+      <lb ed="#V" n="107"/>a natura: et est omnino incommunicabitis. nam sicut proprietas indiuilis est 
+      <lb ed="#V" n="108"/>aliquid quo forliter vnum singuite distinguitur et differt ab alio 
+      sin<lb ed="#V" n="109" break="no"/>gulari. Sic hoc actualitas est quidam realitas quae 
+      suppoite<lb ed="#V" n="110" break="no"/>formaliter distinguitur ab omni alio supeunto. isti ergo tres sunt modi 
+      <lb ed="#V" n="111"/>assidi rationem formalem suppositi. primus duplicem negonem. 
+      <lb ed="#V" n="112"/>2o seprtionem actualem: que est quaedam relatio 3s quandam 
+      actua<lb ed="#V" n="113" break="no"/>lem: que formaliter separat et distinguit.
+    </p>
+            <p xml:id="nbnt23-n20101-d1e354">
+               <lb ed="#V" n="114"/>Dicamus ergo qaud in hac conusione sit rationabiliter 
+      <lb ed="#V" n="115"/>dicendum. 2m namque dictum de separatione et 
+      <lb ed="#V" n="116"/>diuisione est dubium: quoniam tunc videtur quod forma separata a 
+      <lb ed="#V" n="117"/>suo subiecto esset in se suppositium. quia heret actualem diuisio 
+      <lb ed="#V" n="118"/>nem ab omni supposito. Adhuc autem manifeitum est quod 
+      si<lb ed="#V" n="119" break="no"/>personalitas addat supra naturam praecise actualem 
+      diuisio<lb ed="#V" n="120" break="no"/>nem a quocumque alio supposito: non videtur dicere vnam 
+      <lb ed="#V" n="121"/>diuisionem numero. sed plures: tot scilicet quot sunt 
+      ter<lb ed="#V" n="122" break="no"/>mini illius diuisionis. Termini autem sunt omnia alia 
+      super<lb ed="#V" n="123" break="no"/>posita positua actum et possibilia: que sunt infinita. ergo 
+      <lb ed="#V" n="124"/>sequitur si natura vniretur vni supposito quod tollitur diuisio 
+      <lb ed="#V" n="125"/>ab illo supposito per indiuisionem sibi oppositan 
+      priuati<lb ed="#V" n="126" break="no"/>ue: sed propter hoc non tolluntur diuisiones ab aliis: vel 
+      <lb ed="#V" n="127"/>ergo ro suppositi consistit in vna sola diuisione vel 
+      <lb ed="#V" n="128"/>in omnibus: non in vna sola: quia sic ista sola non 
+      <lb ed="#V" n="129"/>apparet: et qua ratione in vna. eadem ratione in 
+      <lb ed="#V" n="130"/>alia. Tum etiam: quia si ratio suppositi consisteret
+      <pb ed="#V" n="122-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>in vna diuisione ab vno supposito et non in alia 
+      di<lb ed="#V" n="2" break="no"/>uisione ab alio supeposito: sequeretur quod si natura 
+      vni<lb ed="#V" n="3" break="no"/>retur vni istorum suppositorum cum adhuc maneat 
+      diui<lb ed="#V" n="4" break="no"/>sio ab alio: quod stante ratione supposi supectum posset 
+      vni<lb ed="#V" n="5" break="no"/>ri et communicari alteri: quod est impossibile. Si autem dicatur quod ratio 
+      <lb ed="#V" n="6"/>supposilitue consistit in omnibus diuilus actualibus. Tunc sequitur 
+      <lb ed="#V" n="7"/>que nullum erit suppositum nisi actualiter sint omnia supposita: 
+      <lb ed="#V" n="8"/>quia omnes diuisiones et separationes non paesenst esse en 
+      actu<lb ed="#V" n="9" break="no"/>nisi earum termini sint in actu. Adhuc autem 
+      sequere<lb ed="#V" n="10" break="no"/>tur quod ratio supposiliue non esset vna realitas simpliciter: sed esset 
+      <lb ed="#V" n="11"/>vna vnitate cuiusdam totalitatis: quoniam consisteret in 
+      to<lb ed="#V" n="12" break="no"/>talitate omnium diuisionum ab omnibus supposinito. 
+      Ista<lb ed="#V" n="13" break="no"/>sunt dubia: quae sequuntur ad istum modum. Qui tamen vellet 
+      <lb ed="#V" n="14"/>sustinere praedictum modum heberet dicere quod ratio personanite 
+      <lb ed="#V" n="15"/>et suppositi consistit non in vna actuali diuisione et 
+      se<lb ed="#V" n="16" break="no"/>paratione ab vno supposito: sed in pluribus: tot sup 
+      <lb ed="#V" n="17"/>ple quot sunt supposita in actu.
+    </p>
+            <p xml:id="nbnt23-n20101-d1e435">
+      ¶ Dictum primum quod 
+      po<lb ed="#V" n="18" break="no"/>nit duplicem negationem duplicis communicayitva scilicet actualis 
+      <lb ed="#V" n="19"/>et aptitulia haebet consequenter dicere vt modus praecedens quod 
+      <lb ed="#V" n="20"/>non consistit in vna negatione vnius actualis communicatio 
+      <lb ed="#V" n="21"/>nis et dependentie: et in vna negatione aptitudinalis 
+      <lb ed="#V" n="22"/>dependentie: sed in pluribus talibus: tot supple quot 
+      <lb ed="#V" n="23"/>funt termini dependentie: et quot sunt supposita alia 
+      <lb ed="#V" n="24"/>ab isto: et consequenter oprtet dicere quod ratio formalis suppositi 
+      <lb ed="#V" n="25"/>non consistit praecise in ista duplici negatione: sed in 
+      tota<lb ed="#V" n="26" break="no"/>litate negationum dependentie actualis et 
+      aptitudina<lb ed="#V" n="27" break="no"/>lis ab omni alio supposito. et forsitam ponens illum 
+      primu<lb ed="#V" n="28" break="no"/>modum hoc concederet: sicut alius concederet de totali 
+      <lb ed="#V" n="29"/>tate omnium separationum et diuitum actualium.
+    </p>
+            <p xml:id="nbnt23-n20101-d1e464">
+      ¶ Dictum 
+      <lb ed="#V" n="30"/>autem 3m non habet ponere quod ratio formalis suppositi 
+      consi<lb ed="#V" n="31" break="no"/>stat in quadam totalitate omnium actualitatum et plurium: 
+      <lb ed="#V" n="32"/>sed tantum quod consistat in vna actualitate simplici: per 
+      quan<lb ed="#V" n="33" break="no"/>separatur et distinguitur ab omni alio supposito: sicut linea 
+      <lb ed="#V" n="34"/>per vnum punctum separatur et distinguitur ab omni alia 
+      <lb ed="#V" n="35"/>tinea terminata in actu per punctum: quoniam sicut 
+      singu<lb ed="#V" n="36" break="no"/>tare per vnam differentiam indibaeum distinguitur et separatur ab 
+      omni<lb ed="#V" n="37" break="no"/>alio singulari: et species per vnam differentiam specificam ab 
+      omni<lb ed="#V" n="38" break="no"/>alia specie. Sic vnum suppositum per vnam actualitatem 
+      di<lb ed="#V" n="39" break="no"/>stinguitur ab omni alio supposito.
+    </p>
+            <p xml:id="nbnt23-n20101-d1e488">
+      ¶ Et si dicas quod 
+      li<lb ed="#V" n="40" break="no"/>nea erit tunc suppositum: quoniam habet vnam actualitatem et 
+      ter<lb ed="#V" n="41" break="no"/>minationem scilicet punctum in actu per quam distinguitur ab 
+      omni<lb ed="#V" n="42" break="no"/>alia linea.
+    </p>
+            <p xml:id="nbnt23-n20101-d1e497">
+      ¶ Respondetur quod non: quoniam punctus non separat et 
+      <lb ed="#V" n="43"/>distinguit lineam a supposito: sed tantum lineam in actu. 
+      ra<lb ed="#V" n="44" break="no"/>tio suppositalis separat et distinguit ab omni alio 
+      suppo<lb ed="#V" n="45" break="no"/>sito. Sed adhuc forte dices: quod ista actualitas non 
+      se<lb ed="#V" n="46" break="no"/>parat actualitet et foris ab omni alio supposito: sed tantum 
+      <lb ed="#V" n="47"/>fundament: sicut punctus non separat ab alio puncto: nisi 
+      tar<lb ed="#V" n="48" break="no"/>tum fundaente: pro tanto quia potest esse fundamentum diuisionis ab 
+      omni<lb ed="#V" n="49" break="no"/>alio puncto: ita potest esse fundamentum indiuisionis cum alio 
+      pun<lb ed="#V" n="50" break="no"/>cto. vt patet in linea contiua: cuius vltima sunt vnum: quod sic 
+      <lb ed="#V" n="51"/>intelligo quod vltima id est puncta fundabunt diuisionem 
+      <lb ed="#V" n="52"/>actualem quando linea erit actu diuisa ab alia: non ista 
+      ea<lb ed="#V" n="53" break="no"/>dem puncta secundum suam totam realitatem remaneret linea 
+      <lb ed="#V" n="54"/>continua: nisi quod in continguitua fundant indiuisionem actualem: et 
+      <lb ed="#V" n="55"/>si dicenetur fieri vnum non vnitate absolucta: sed vnitate 
+      relati<lb ed="#V" n="56" break="no"/>ua. sic diceretur tibi in proposito quod iste actualitates. 
+      <lb ed="#V" n="57"/>quas tu ponis distinguant tibi funnis. ista autem diuisio 
+      <lb ed="#V" n="58"/>actualis diuidit formaliter et per consequens: sicut iste 
+      actuali<lb ed="#V" n="59" break="no"/>tates praesenst fundamentae diuisipnem actualem: ita praestenst fundamente 
+      indi<lb ed="#V" n="60" break="no"/>uisionem actualem: et sic si ista actualitas sit ratio 
+      <lb ed="#V" n="61"/>supposilio. qua foris suppscitum est suppositum: sequitur quod 
+      super<lb ed="#V" n="62" break="no"/>positum actu suppositum non erit incommunilie et non inunifile: 
+      <lb ed="#V" n="63"/>immo ambabus illis actualitatibus poterunt duo 
+      suppo<lb ed="#V" n="64" break="no"/>sita adinuicem vniri: sicut remanentibus duobus punctis 
+      <lb ed="#V" n="65"/>quantum ad totam suam realitatem intrinsecam quam important
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>vniuntur linee adiuicem.
+    </p>
+            <p xml:id="nbnt23-n20101-d1e555">
+      ¶ Adhuc forte diceretur secundum 
+      <lb ed="#V" n="67"/>sic ponentem illam actualitatem esse rationem formalem 
+      suppo<lb ed="#V" n="68" break="no"/>siti: et quae separat et distinguit vnum suppositum ab omni alio: quod 
+      <lb ed="#V" n="69"/>talis actualitas sic fundat diuisionem et separationem ab 
+      <lb ed="#V" n="70"/>omni alia actualitate qua aliquod aliud suppositum est 
+      sup<lb ed="#V" n="71" break="no"/>positum: quod impossibile est etm fundamete actualem indiuisionem. et ideo 
+      <lb ed="#V" n="72"/>suppositum est simpliciter per illud incommunile: immo sibi repugnat 
+      <lb ed="#V" n="73"/>contradictotetre fundare actualem indiuisionem: et ideo suppositim per 
+      <lb ed="#V" n="74"/>istam est simpliciter incommunile: nec valet quod dicis de duobus 
+      <lb ed="#V" n="75"/>punctis: quoniam non est silbile: quoniam pro tanto praesent fundare 
+      diui<lb ed="#V" n="76" break="no"/>sionem et indiuisionem eorum adiuicem: quia sunt continuatium partium 
+      <lb ed="#V" n="77"/>linee: et tunc fundant indinisionem: quia autem linea est 
+      diui<lb ed="#V" n="78" break="no"/>sibilis. ideo paesenst fundare diuisionem: non sic autem de istis 
+      <lb ed="#V" n="79"/>actualibus: quia non sunt a naura continuatiue suppotentia: immo 
+      di<lb ed="#V" n="80" break="no"/>stinctiue et separatiue suppotentua adiuicem: sicut differuntie 
+      spe<lb ed="#V" n="81" break="no"/>cifice sunt separatiue et non continuatiue aliquorum adinuicem. 
+      <lb ed="#V" n="82"/>Potest est vlterius dici quod non est alia ratio. quare puncta 
+      <lb ed="#V" n="83"/>fundant diuisionem et indiuisionem. he autem actualitates 
+      <lb ed="#V" n="84"/>non: nisi quia hoc est hec: et non est alia causa querenda.
+    </p>
+            <p xml:id="nbnt23-n20101-d1e597">
+               <lb ed="#V" n="85"/>At vero qas istorum modorum sit probabilior 
+      nunc<lb ed="#V" n="86" break="no"/>dicamus. Palam autem quod qui ponit 
+      <lb ed="#V" n="87"/>ponit 2m et primum: et non esonli: et qui ponit 2m ponit prium: et non 
+      <lb ed="#V" n="88"/>conuertitur consequentia. et si pluralitas non est ponenda sine 
+      necessar<lb ed="#V" n="89" break="no"/>tate: sufficiat primus modus de duplici negonne: 
+      immo<lb ed="#V" n="90" break="no"/>de multiplici negonne actuali et aptitudinali ad omne 
+      <lb ed="#V" n="91"/>aliud suppositum: nec apperet magna necessaritas posinia illam 
+      di<lb ed="#V" n="92" break="no"/>uisionem et separationem seu illam actualitatem 
+      distinguen<lb ed="#V" n="93" break="no"/>tem et separantem ab alio supposito. Manifecitum autem est 
+      <lb ed="#V" n="94"/>quod nulla est necessaritas ponendi talem diuisionem et 
+      separatio<lb ed="#V" n="95" break="no"/>nem: quod patet dissoluendo omnes rationes probantes necessaritatem 
+      <lb ed="#V" n="96"/>positi talem diuisionem et talem actualitatem. omnium autem 
+      dis<lb ed="#V" n="97" break="no"/>solutio haberi potest sufficienter ex libro praedicamentorum. 
+      <lb ed="#V" n="98"/>caplictio de haitum. qui haitus et vniones medie seu est 
+      diui<lb ed="#V" n="99" break="no"/>siones et separationes non vender necessario posinti. vide illud 
+      ca<lb ed="#V" n="100" break="no"/>pitulum.
+    </p>
+            <p xml:id="nbnt23-n20101-d1e634">
+      ¶ Adhuc auutem ista alia actualitas 3a quam 
+      tua<lb ed="#V" n="101" break="no"/>ponis non videtur necessaria: et per consequens: nec positita. tum quia ista 
+      diui<lb ed="#V" n="102" break="no"/>sio et separatio potest immediate fundari supra naturam nudam. 
+      si<lb ed="#V" n="103" break="no"/>militer autem et ista 2e nego: licet autem quilibet istorum modo 
+      <lb ed="#V" n="104"/>rum sit possibilis. primus tamen videtur probabilior et 
+      rationabi<lb ed="#V" n="105" break="no"/>lior: quia pauciora ponitu. Palam autem siue ratio supposia 
+      di<lb ed="#V" n="106" break="no"/>cat duplicem negonnem in genere et in vnuelli: licet multiplicem 
+      <lb ed="#V" n="107"/>in perticulari: quod potest cadere et amittere proprium 
+      suppo<lb ed="#V" n="108" break="no"/>situ: quoniam potest tolli illa nego actualis dependentie per 
+      <lb ed="#V" n="109"/>affipriatiam oppositan scilicet per dependentiam actualem.
+    </p>
+            <p xml:id="nbnt23-n20101-d1e656">
+      ¶ Adhuc 
+      <lb ed="#V" n="110"/>autem siue ratio supposibilius addat supra naturam diuisionem et 
+      se<lb ed="#V" n="111" break="no"/>parationem actualem. potest naura cadere a proprio supposito: 
+      <lb ed="#V" n="112"/>quoniam talis potest tolli per suum oppositiv scilicet per indiuisionem: quae est 
+      <lb ed="#V" n="113"/>eius oppositum priuatiuum vel per vnionem: quae est eius oppositem 
+      <lb ed="#V" n="114"/>contrarium: siue est ratio suppositi addat ad naturam istam 
+      actuali<lb ed="#V" n="115" break="no"/>tatem absoictaum: adhuc natura potest cadere a proprio supposito: quoniam 
+      <lb ed="#V" n="116"/>ista actualitas potest tolli per suum opposiatum contradictoriectum: quia 
+      <lb ed="#V" n="117"/>ex quo talis actualitas est distincta actualiter a natura 
+      po<lb ed="#V" n="118" break="no"/>test natura separari ab ista: sicut linea a puncto et prius a 
+      poste<lb ed="#V" n="119" break="no"/>riori.
+    </p>
+            <p xml:id="nbnt23-n20101-d1e680">
+      ¶ Habet autem dubitationem an natura possit personari seu 
+      <lb ed="#V" n="120"/>suppositie suppositatione aliema: non amittendo suppoitionem 
+      <lb ed="#V" n="121"/>propriam. 2o an supposia possit duabus supposibus extrinse 
+      <lb ed="#V" n="122"/>cis.
+    </p>
+            <p xml:id="nbnt23-n20101-d1e689">
+      ¶ Palam quod ad primum ductum: quod si ratio formalis suppositia ad 
+      <lb ed="#V" n="123"/>dat supra naturam duplicem negonnem actualis dependaetae: non 
+      <lb ed="#V" n="124"/>potest supits supposito alieno nisi propriam suppoitionem 
+      amitten<lb ed="#V" n="125" break="no"/>do: quoniam si supponeretur suppositie aliema actualiter 
+      depende<lb ed="#V" n="126" break="no"/>rtet ab illo supposito. si autem suppositum suppoitione propria a 
+      nul<lb ed="#V" n="127" break="no"/>lo actualiter dependeret. actualiter autem dependere et non 
+      <lb ed="#V" n="128"/>actualiter dependere repugnant circa idem.
+    </p>
+            <p xml:id="nbnt23-n20101-d1e706">
+      ¶ Adhuc 
+      <lb ed="#V" n="129"/>autem si ratio suppositalis dicat actualem diuisionem ab 
+      omni<lb ed="#V" n="130" break="no"/>alieno supposito. Palam quod non: quia tunc haberet actualem¬
+      <pb ed="#V" n="123-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>diuisionem ab omni alieno supposito et actualem 
+      <lb ed="#V" n="2"/>indiuisionem cum alio quae omnino simul stare non paesenst. At 
+      vero<lb ed="#V" n="3" break="no"/>si ratio suppositua dicat illam actualitatem. Palam est quod non: 
+      <lb ed="#V" n="4"/>quia actualitas separat et distiguit nam ab omni alio 
+      suppo<lb ed="#V" n="5" break="no"/>sito: ergo ipsa manente impossibile est naturam manere et 
+      <lb ed="#V" n="6"/>indiuidi et indistingui cum alio supposito extrinseco: 
+      <lb ed="#V" n="7"/>quia tunc ma esset actu separata ab aliquo et actu inseparata 
+      <lb ed="#V" n="8"/>eidem. Dissolutio autem dubitationis 2e facilis est. 
+      Palan<lb ed="#V" n="9" break="no"/>enim quod natura potest supposita pluribus suppositis alienis: quia 
+      si<lb ed="#V" n="10" break="no"/>bi non repugnat nec successiue nec sili fundare plures 
+      <lb ed="#V" n="11"/>indiuisiones seu vniones ad plura supposita extrinseca: 
+      <lb ed="#V" n="12"/>vnde si vna gutta aqua possed esse in pleclibus flulcaribus cuilibet isto 
+      <lb ed="#V" n="13"/>rum vniretur: et in supposito illius supponeretur: licet non propriem 
+      <lb ed="#V" n="14"/>adhuc enim non sequuntur inconuenientia quae sequuntur 
+      si<lb ed="#V" n="15" break="no"/>supponeretur in supposito proprio et alieno. Dictum est ergo de 
+      <lb ed="#V" n="16"/>ratione formali constitutiua suppositi in istis 
+      inferiori<lb ed="#V" n="17" break="no"/>bus quid sit et quomodo se habet ad naturam eius. Ad suppositionem 
+      <lb ed="#V" n="18"/>ergo personarum in primo motore accedamus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

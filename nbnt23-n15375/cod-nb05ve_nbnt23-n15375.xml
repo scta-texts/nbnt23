@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="114-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n15375"><!--ntheol-l4c4-->
+            <head xml:id="nbnt23-n15375-Hd1e97">Caput 4</head>
+            <head xml:id="nbnt23-n15375-Hd1e99" type="question-title">Inuestigat in quae consistat ratio libertatis</head>
+            <p xml:id="nbnt23-n15375-d1e102">
+               <lb ed="#V" n="79"/>¶ Inuestigat in quae consistat ratio libertatis. Cap. IIII
+    </p>
+            <p xml:id="nbnt23-n15375-d1e107">
+               <lb ed="#V" n="80"/>Amplius autem de comparatione 
+      volu<lb ed="#V" n="81" break="no"/>tatis primi 
+      moto<lb ed="#V" n="82" break="no"/>ris et aliorum motorum: nec non et de 
+      liberta<lb ed="#V" n="83" break="no"/>te volutatis in quo consistit perscrutandum. 
+      <lb ed="#V" n="84"/>. Sit grgo paimua conlusio volundasmenicte primi motoris 
+      no<lb ed="#V" n="85" break="no"/>agete: voluntas aliorum motorum posterius nihil agitur. 
+      <lb ed="#V" n="86"/>Ratio hbus dicti est ista: quoniam in ordine essentiali causrum. 
+      pri<lb ed="#V" n="87" break="no"/>non causante nihil causatur. de hoc tamen inferius prolixior erit 
+      <lb ed="#V" n="88"/>syecunmo.
+    </p>
+            <p xml:id="nbnt23-n15375-d1e129">
+      ¶ Ad hanc autem propone sequit. quod 2a volutas 
+      primi<lb ed="#V" n="89" break="no"/>motoris potest supplere vicem aliarum. ratio quia eminenter 
+      <lb ed="#V" n="90"/>continet causalitatem earum: cum sit infinita in vigore. vt dictum 
+      <lb ed="#V" n="91"/>est in physicis.
+    </p>
+            <p xml:id="nbnt23-n15375-d1e139">
+      ¶ Sequitur 3a propositio: quod volutas primi 
+      <lb ed="#V" n="92"/>motoris potest suspedere actu cuiuscumque volutatis 2: 
+      <lb ed="#V" n="93"/>quoniam non causando cum ea sic suspedit. ¶. 4 conclusio sit talis. quod 
+      <lb ed="#V" n="94"/>voluntas primi motoris prius causat quam voluntas 
+      secun<lb ed="#V" n="95" break="no"/>di ratio hus dicti est ista: quoniam causa prima cum sit superior primo et 
+      <lb ed="#V" n="96"/>plus influit supra cauntum que 2m d Et si queras: qua 
+      <lb ed="#V" n="97"/>poritate sit prior an temporis origins vel nature. patet quod non prius 
+      <lb ed="#V" n="98"/>cant prioritate temporis: quoniam si prius causaret et poneret 
+      effe<lb ed="#V" n="99" break="no"/>ctum in actum quam 2o: non posset 2a illum effectum ponerem 
+      <lb ed="#V" n="100"/>aliter idem bis poneret. facere autem id quod fictum est nihil 
+      <lb ed="#V" n="101"/>est facere.
+    </p>
+            <p xml:id="nbnt23-n15375-d1e163">
+      ¶ Adhuc autem nec prius caustem prioritate 
+      ori<lb ed="#V" n="102" break="no"/>ginis: sed sicut simul caustem simultate temporis: ita sili causant 
+      <lb ed="#V" n="103"/>simultate originis et gnerationis. Nisi dicas quod volun 
+      <lb ed="#V" n="104"/>tas primi motoris prius origine producit quam volutas 2et 
+      <lb ed="#V" n="105"/>quoniam a se producit: alia autem non a se: sed ab alio: et in illo 
+      sen<lb ed="#V" n="106" break="no"/>su posset concedi: sed de tali modo prioritatis originis. hic 
+      <lb ed="#V" n="107"/>non conuenientius loqui: sed de pori origie proprie loquedo 
+      <lb ed="#V" n="108"/>de quo fuit dictum in nra metaphysica. ibi eni potens 
+      <lb ed="#V" n="109"/>videre de triplici ordine origins. Palam igitur quod 
+      volu<lb ed="#V" n="110" break="no"/>tas primi motoris prius causte prioritate naturae: quoniam perfectior 
+      <lb ed="#V" n="111"/>est 2a: nec videtur quod alia prioritas prius ponat effectum in 
+      <lb ed="#V" n="112"/>esse que 2o.
+    </p>
+            <p xml:id="nbnt23-n15375-d1e189">
+      ¶ Et si arguas: quod voluntas primi motoris: 
+      <lb ed="#V" n="113"/>nec non prius origine producit effectum in esse volito quam 
+      vo<lb ed="#V" n="114" break="no"/>lutas secundi motoris: quoniam nihil potest velle voluntas 2 
+      <lb ed="#V" n="115"/>permi motoris: nisi pus determinetur a primas. ergo et pus 
+      pro<lb ed="#V" n="116" break="no"/>ducit effectum in esse reali qua 2o et hoc prioritate 
+      origi<lb ed="#V" n="117" break="no"/>nis proprie dicta.
+    </p>
+            <p xml:id="nbnt23-n15375-d1e202">
+      ¶ Respondeo tibi. concedi potest antecedens quod 
+      <lb ed="#V" n="118"/>voluntas primi motoris prius ponit obiectum in esse volito: 
+      <lb ed="#V" n="119"/>licet possit caluniari antedens. Deinde potet dici: quod volutas 
+      <lb ed="#V" n="120"/>ntra potest ponere obiectum in esse volito vel nolito absque 
+      <lb ed="#V" n="121"/>hoc quod voluntas primi motoris prius ponat id in esse 
+      vo<lb ed="#V" n="122" break="no"/>lito vel nolito: quicquid autem sit de antete. nego consequentiam: 
+      <lb ed="#V" n="123"/>quonmam non est necarium. si volutas primi motoris 
+      produ<lb ed="#V" n="124" break="no"/>cit obiectum in esse intensibili: quod ipm prius origine producat i 
+      <lb ed="#V" n="125"/>esse reali. Ratio autem huius dicti est ista: quoniam 
+      volun<lb ed="#V" n="126" break="no"/>tas primi et volutas secundi non concurrunt ad 
+      productio<lb ed="#V" n="127" break="no"/>nem obiecti in esse volito: sed volutas primi totaliter 
+      <lb ed="#V" n="128"/>ponit obiectum in esse volito. Et siliter volutas secundi 
+      to<lb ed="#V" n="129" break="no"/>taliter producit obiectum in esse intensibili nec aliquo modo 
+      <lb ed="#V" n="130"/>concurrit ibi volutas primi: nec eius actio.
+    </p>
+            <p xml:id="nbnt23-n15375-d1e233">
+      ¶ Et ideo 
+      vo<lb ed="#V" n="131" break="no"/>luntas permi et volutas secundte producunt obectum in etie
+      <pb ed="#V" n="115-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>spetu etetuans paeatiueamius 
+      vnais<lb ed="#V" n="2" break="no"/>concurrentibus ad vnum effectum: sed duabus 
+      to<lb ed="#V" n="3" break="no"/>talibus respectu vnius effectus ordinem 
+      habenti<lb ed="#V" n="4" break="no"/>bus secundum prius et posterius. vnum namque obiectum potest 
+      produ<lb ed="#V" n="5" break="no"/>ci pluribus productionibus totalibus: et hoc in esse 
+      <lb ed="#V" n="6"/>intensibili et sili et successiue: licet non in esse reali: et per consequens 
+      <lb ed="#V" n="7"/>simul simultate teporis et simultate generationis et 
+      ori<lb ed="#V" n="8" break="no"/>ginis: quarum productionum partialium neutra per 
+      <lb ed="#V" n="9"/>se sumpta: sicut alia potest ponere effectum: sed tantum 
+      <lb ed="#V" n="10"/>ambe simul praesent ponere effectum: oportet ergo quod simul 
+      <lb ed="#V" n="11"/>agant simultate teperis et originis: licet ibi sit ordo nature: 
+    </p>
+            <p xml:id="nbnt23-n15375-d1e266">
+               <lb ed="#V" n="12"/>Perscrutandum ergo restat in quo 
+      con<lb ed="#V" n="13" break="no"/>sistit proprie ratio liber 
+      <lb ed="#V" n="14"/>tatis voiatus in communi: prout voluntas est communis omni 
+      vo<lb ed="#V" n="15" break="no"/>luntati tam primi motoris quam aliorum. De hoc varie 
+      <lb ed="#V" n="16"/>opinantur sapientes. Et sunt 6e dicta supra hoc 
+      proge<lb ed="#V" n="17" break="no"/>nitorum nostrorum. primus modus assignandi rationem 
+      <lb ed="#V" n="18"/>libertatis est talis: quoniam consistit: vt fertur in posse hoc 
+      <lb ed="#V" n="19"/>elicere vel oppositum eius. oppsitum dico non contrarium: 
+      <lb ed="#V" n="20"/>quoniam hoc potest agens naturaliter: sed in opsitum contradictorium: quoniam 
+      <lb ed="#V" n="21"/>potest hoc elicere vel non elicere: nullo 
+      impedimen<lb ed="#V" n="22" break="no"/>to concurpsente: sed omnibus approximatis et non 
+      impedi<lb ed="#V" n="23" break="no"/>tis. Adhuc autem potest agere vel non agere.
+    </p>
+            <p xml:id="nbnt23-n15375-d1e296">
+      ¶ Palam 
+      <lb ed="#V" n="24"/>autem quod iste modus caluniabilis est: quoniam si libertas 
+      sta<lb ed="#V" n="25" break="no"/>ret in continuetua: vositua tunc primi motoris non esset libera re 
+      <lb ed="#V" n="26"/>spectu omnis obiecti: quoniam non respectu sui cum se necessario 
+      <lb ed="#V" n="27"/>velit et diligat: et alia a se quantum ad terminos 
+      sim<lb ed="#V" n="28" break="no"/>plices: licet non quantum ad complexiones contingentes. 
+      Simi<lb ed="#V" n="29" break="no"/>liter vos secundi motoris non esset libera: nec respectu 
+      <lb ed="#V" n="30"/>sui: nec respectu primi clare nisi quoniam in ista necessario 
+      <lb ed="#V" n="31"/>tendit sicut fertur: sicut ergo continitua non repugnat 
+      agenti<lb ed="#V" n="32" break="no"/>naturali sic necessitas libertatis.
+    </p>
+            <p xml:id="nbnt23-n15375-d1e318">
+      ¶ Adhuc autem 
+      <lb ed="#V" n="33"/>modus secundus assignandi libertatem voluntatis est 
+      ta<lb ed="#V" n="34" break="no"/>lis: quod libertas est in posse hoc: et oppsitum eius non respectum 
+      <lb ed="#V" n="35"/>actus primi vointia que est quaedam qualitas absoluta vel se 
+      ha<lb ed="#V" n="36" break="no"/>bens ad modum qualitatis: sed respectu actus secundi quie est 
+      <lb ed="#V" n="37"/>productio obiecti in esse volito: quoniam libere et continguitur transit 
+      <lb ed="#V" n="38"/>voitusm supra obiectum in tali esse intentionali: licet necessario et 
+      natura<lb ed="#V" n="39" break="no"/>liter insit sibi illa volitio absoluta. Palam autem quod ille 
+      <lb ed="#V" n="40"/>modus habet instantiam: quoniam primus motor non tantum 
+      neces<lb ed="#V" n="41" break="no"/>sario habet actum vointia respritum sui: immo necessario 
+      produ<lb ed="#V" n="42" break="no"/>cit se in esse volito et forte etiam respectum aliorum aliquo 
+      <lb ed="#V" n="43"/>rum.
+    </p>
+            <p xml:id="nbnt23-n15375-d1e344">
+      ¶ Et si queras in quo differt iste fecundus 
+      mo<lb ed="#V" n="44" break="no"/>dus a primo potest dici quod primus modus ponebat rationem 
+      <lb ed="#V" n="45"/>libertatis consistere in continitua actus primi absoluti. sed 
+      <lb ed="#V" n="46"/>2m in continitua actus secundi qui est respectum transitus 
+      <lb ed="#V" n="47"/>seqnitur obiectum quantum ad esse intelligibile scilicet quantum 
+      <lb ed="#V" n="48"/>ad esse volitum vel nolitum. ipsa aute volitio absoluta 
+      <lb ed="#V" n="49"/>producio obiecti in esse nolito distinguuntur sicut 
+      absolu<lb ed="#V" n="50" break="no"/>tum et respectiuum: et sicut ens absolutum et ens 
+      intelli<lb ed="#V" n="51" break="no"/>gibile et diminutum: sicut dictum fuit in libro 
+      praedica<lb ed="#V" n="52" break="no"/>mentorum. caprimo de passione.
+    </p>
+            <p xml:id="nbnt23-n15375-d1e366">
+      ¶ Amplius autem tertius 
+      mo<lb ed="#V" n="53" break="no"/>dus assignandi rationem libertatis est talis quod ratio liber 
+      <lb ed="#V" n="54"/>tatis consistit in delectabiliter et eligibiliter operari: 
+      <lb ed="#V" n="55"/>et voluntanui: et in actu complarie hoc probatur: quoniam volundaetur 
+      <lb ed="#V" n="56"/>et liberum idem sunt sicut violentum et inuiolentum. tamen etiam 
+      <lb ed="#V" n="57"/>actus complacentie cum sit grfastra sui semper redditur pro 
+      cau<lb ed="#V" n="58" break="no"/>sa: nam cum aliquos petit quare hoc fecisti. Respondeo: quia 
+      <lb ed="#V" n="59"/>placet: et quare: et sic semper actus complacentie redditur 
+      <lb ed="#V" n="60"/>pro causa. Ac vero licet iste modus assignandi sit multum 
+      <lb ed="#V" n="61"/>rationalis: non tamen placet alicui. ratio huius est: quoniam 
+      queli<lb ed="#V" n="62" break="no"/>bet potentia anime esset libera cum placeat in obiecto 
+      si<lb ed="#V" n="63" break="no"/>bi conuerti. Et in receptione actus conuensmento: sed forte 
+      <lb ed="#V" n="64"/>dices quod non: quia solum appetitus est receptiuus 
+      dilecti<lb ed="#V" n="65" break="no"/>onis.
+    </p>
+            <p xml:id="nbnt23-n15375-d1e397">
+      ¶ Et si vlterius dicas quod tunc bruta haebunt po¬
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>tentiam liberam: quoniam delectabictiliter agunt: quod non videtur 
+      <lb ed="#V" n="67"/>verum: quoniam agunt mere naturaliter. Hic dicitur quod 
+      <lb ed="#V" n="68"/>verum est quod pueri et alia habent multum de liberite: licet 
+      <lb ed="#V" n="69"/>nihil habeant de difeniis sui actus.
+    </p>
+            <p xml:id="nbnt23-n15375-d1e410">
+      ¶ Et si amplius 
+      di<lb ed="#V" n="70" break="no"/>cas quod ratio non concludit que dicit quod actus compiacentie 
+      <lb ed="#V" n="71"/>redditur pro causa: quoniam non semper redditur pro causa immo 
+      ml<lb ed="#V" n="72" break="no"/>te alie cause redduntur quam ista: quia placet: nec cum que 
+      <lb ed="#V" n="73"/>ris: quare hoc fecisti propter talem vel talem rationem: nec 
+      semp<lb ed="#V" n="74" break="no"/>diciture: quia placet. immo est talis ramensio puerorum et est raspensio 
+      <lb ed="#V" n="75"/>ignorantis et non potentis medium circumuenire. Et pono 
+      <lb ed="#V" n="76"/>tibi exemplum de bene fortunato qui ex impetum et sine 
+      <lb ed="#V" n="77"/>ratione motia ad aliquid prosequendum et fugiendum: cum queruum 
+      <lb ed="#V" n="78"/>ab eo. quare hoc prosequeris nescit rationem reddetur: nisi quia 
+      <lb ed="#V" n="79"/>placet: et tamen secundum veritatem est alia causa: et ratio latens que 
+      <lb ed="#V" n="80"/>mouet eum ad sic agendum. alia dico causa et intrinseca 
+      <lb ed="#V" n="81"/>et extrinseca mouens eum quae vltimate reddetur pro causa 
+      <lb ed="#V" n="82"/>ab intellectu potente eam cognoscere. Et de hoc dictum 
+      <lb ed="#V" n="83"/>est in philosophicis. caprimo de bona fortuna et causis intrinsecis 
+      <lb ed="#V" n="84"/>et extrinsecis bone fortune. Actus ergo complacentie non 
+      <lb ed="#V" n="85"/>reddetur pro causa vltimata: immo ille actus reducetur in aliam 
+      <lb ed="#V" n="86"/>causam priorem: sed quia ignorans eam reddit actum 
+      compla<lb ed="#V" n="87" break="no"/>centie pro causa.
+    </p>
+            <p xml:id="nbnt23-n15375-d1e453">
+      ¶ Perscrutandum est autem de quarto modo 
+      <lb ed="#V" n="88"/>assignationis libertatis vointo. Et dicitur quod ratio libertatis 
+      <lb ed="#V" n="89"/>consistit in determinatione de possibili ad opposita 
+      contradi<lb ed="#V" n="90" break="no"/>ctoria scilicet posse agere et posse non agere.
+    </p>
+            <p xml:id="nbnt23-n15375-d1e462">
+      ¶ Ad cuius 
+      eui<lb ed="#V" n="91" break="no"/>dentiam est primo intelligendum quod duplex est indeterminatio 
+      <lb ed="#V" n="92"/>ad agendum: et duplex determinatio illi duplici 
+      inde<lb ed="#V" n="93" break="no"/>terminationi opposita: vna indeterminatio est de 
+      po<lb ed="#V" n="94" break="no"/>sibili ad posse agere et posse non agere. Alia est de 
+      in<lb ed="#V" n="95" break="no"/>esse ad agere et non agere: et ille 2e indeterminationes 
+      <lb ed="#V" n="96"/>distinguuntur: sicut posse agere ab agere: et potentia est 
+      ali<lb ed="#V" n="97" break="no"/>ud ab actu: et per consequens vna indeterminatio habet alia 
+      ex<lb ed="#V" n="98" break="no"/>trema ab alia indeterminatione.
+    </p>
+            <p xml:id="nbnt23-n15375-d1e482">
+      ¶ Adhuc autem 
+      ma<lb ed="#V" n="99" break="no"/>nifestum est quod prima indeterminatio distinguitur a 2o quoniam 
+      <lb ed="#V" n="100"/>potest stare cum determinatione opposita 2e 
+      indetermi<lb ed="#V" n="101" break="no"/>nationi: nam quod causa sit indeterminata de possibili ad posse 
+      <lb ed="#V" n="102"/>agere et non agere: et quod sit determinata 
+      determina<lb ed="#V" n="103" break="no"/>tione de inesse ad alteram pertem nulla est contradictio. Palam 
+      <lb ed="#V" n="104"/>igitur quod in hoc stat continus cuiuscumque cause contingentis scilicet 
+      <lb ed="#V" n="105"/>in prima indeterminatione de possibili scilicet ad posse agere et 
+      <lb ed="#V" n="106"/>posse non agere: nam quod causa continguitura potest agere et non agere 
+      <lb ed="#V" n="107"/>potest non agit continitur: et est indeterminata solum de possibi 
+      <lb ed="#V" n="108"/>li non autem de inesse. Amplius autem fertur de eodem quod 
+      nul<lb ed="#V" n="109" break="no"/>la causa de mundo est indeterminata ind eterminatione 
+      <lb ed="#V" n="110"/>de inesse. quia omnis causa de mundo de inesse est sub 
+      alte<lb ed="#V" n="111" break="no"/>ro contradictoriorum quoniam vel sic: et sic est determinata ad 
+      <lb ed="#V" n="112"/>agendum: vel non agit: et sic est determinata ad non 
+      agen<lb ed="#V" n="113" break="no"/>du: et ita de inesse nulla est indeterminatio in rerum 
+      <lb ed="#V" n="114"/>natura. Et in hoc distinguitur causa contingentis a causa 
+      necel<lb ed="#V" n="115" break="no"/>saria et determinata ad alteram partem contradictionis non 
+      <lb ed="#V" n="116"/>solum de inesse: immo de possibili: quoniam non potest esse. causa 
+      <lb ed="#V" n="117"/>autem contingens licet sit determinata ad alteram partem 
+      con<lb ed="#V" n="118" break="no"/>tradictionis de inesse: est tamen indeterminata ad 
+      vtran<lb ed="#V" n="119" break="no"/>que de possibili.
+    </p>
+            <p xml:id="nbnt23-n15375-d1e530">
+      ¶ Ac vero licet iste modus sit 
+      probabi<lb ed="#V" n="120" break="no"/>lis: est tamen in aliquo caluniabilis. Et primo in hoc quod 
+      <lb ed="#V" n="121"/>ponit libertate consistere in indeterminatione de 
+      <lb ed="#V" n="122"/>possibili ad posse agere et posse non agere: quoniam tunc primus 
+      <lb ed="#V" n="123"/>intelligentia non esset respectum actus voluntatis 
+      respectu<lb ed="#V" n="124" break="no"/>sui: cum non sit indeterminata de possibili ad posse 
+      dili<lb ed="#V" n="125" break="no"/>gere se et posse non diligere. Conieite: quia videtur quod 
+      ne<lb ed="#V" n="126" break="no"/>cessitas non possit stare cum indeterminatione de 
+      pos<lb ed="#V" n="127" break="no"/>sibili: quia quod aliquid necessario diligat se: et quod possit non 
+      <lb ed="#V" n="128"/>diligere non stant simul. Prima autem intelligentia 
+      ne<lb ed="#V" n="129" break="no"/>cessario diligit se: igitur non potest se non diligere 
+    </p>
+            <p xml:id="nbnt23-n15375-d1e554">
+               <lb ed="#V" n="130"/>¶ Adhuc autem quantum ad illud quod additur quod nulla
+      <pb ed="#V" n="115-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>causa de mundo est indeterminata indeterminatio 
+      <lb ed="#V" n="2"/>ne de inesse: quoniam omnis causa necessario est deter 
+      <lb ed="#V" n="3"/>minata ad agere vel non agere de inesse: quia agit vel 
+      <lb ed="#V" n="4"/>non agit. hoc non videtur verum: quia aliqua causa est omni 
+      <lb ed="#V" n="5"/>no indeterminata de inesse ad agere vel non 
+      agere<lb ed="#V" n="6" break="no"/>potest enim esse quod aliquos non est determinatus ad 
+      legen<lb ed="#V" n="7" break="no"/>dum cras hora prima: nec determinatus ad non 
+      le<lb ed="#V" n="8" break="no"/>gendum: immo omnino indeterminatus ad vtramque partem 
+      <lb ed="#V" n="9"/>contradictionis. Nec valet quod dicis vel leget vel non 
+      le<lb ed="#V" n="10" break="no"/>get ista hora: ergo est determinatus ad alteram partem 
+      <lb ed="#V" n="11"/>nego consequentiam. pott enim aliquis cras non legere: et tamen 
+      <lb ed="#V" n="12"/>modo non est determinatus ad legendum. Utraque enim 
+      <lb ed="#V" n="13"/>determinatione potest simul carere cum iste 
+      deter<lb ed="#V" n="14" break="no"/>minationes sint aliquid positiuum et opponantur 
+      contra<lb ed="#V" n="15" break="no"/>rie et non contradictorie. vnde cum aliquos proponit alicut 
+      <lb ed="#V" n="16"/>vtramque partem contradictionis: vt eligat quam voluerit 
+      <lb ed="#V" n="17"/>iste dium deliberat antequam ad alteram partem se determi 
+      <lb ed="#V" n="18"/>net: immo aliquando sibi dicitur determinate ad alteram partem 
+      <lb ed="#V" n="19"/>quod non esset verum si esset determinatus ad alteram. 
+    </p>
+            <p xml:id="nbnt23-n15375-d1e604">
+               <lb ed="#V" n="20"/>¶ Quintus modus assignandi rationem libertatis 
+      <lb ed="#V" n="21"/>sit talis. ratio libertatis: vt fertur: consistit in vtraque in 
+      <lb ed="#V" n="22"/>determinatione scilicet indeterminatione de 
+      possibili<lb ed="#V" n="23" break="no"/>et indeterminatione de inesse et agere et non agere: et 
+      <lb ed="#V" n="24"/>hoc quantum est de se: et ex parte voluntatis. Et 
+      intel<lb ed="#V" n="25" break="no"/>ligo sic quod sola potentia est libera que quantum est de se est 
+      in<lb ed="#V" n="26" break="no"/>determinata: et de possibili ad posse agere et non 
+      age<lb ed="#V" n="27" break="no"/>re quantum est ex se: si autem necessario sit sub actu hoc non 
+      <lb ed="#V" n="28"/>est ex se: quoniam quantum est ex se si distinguitur realiter ab 
+      actu<lb ed="#V" n="29" break="no"/>sibi non repugnat esse sine actu: sed quia actus est idem 
+      <lb ed="#V" n="30"/>sibi realiter no potest esse sine eo.
+    </p>
+            <p xml:id="nbnt23-n15375-d1e631">
+      ¶ Adhuc autem: quia actus 
+      <lb ed="#V" n="31"/>est ex se necessarius: sicut voluntas est necefsario 
+      <lb ed="#V" n="32"/>inesse voliti: ideo voluntas necessario est sub 
+      actu<lb ed="#V" n="33" break="no"/>volendi: sed hoc non inest sibi ex se: et in hoc consistit 
+      ratio<lb ed="#V" n="34" break="no"/>libertatis: et in hoc patet differentia inter potentiam nalem et 
+      libe<lb ed="#V" n="35" break="no"/>ram: quoniam potentia naualis semper quantum est de se 
+      determina<lb ed="#V" n="36" break="no"/>ta est et de polibi et de inesse omni impedimento sublato ad 
+      <lb ed="#V" n="37"/>alteram partem contradictionis: sed libere quantum est de 
+      se<lb ed="#V" n="38" break="no"/>est indeterminata ad vtramque partem contradictionis.
+    </p>
+            <p xml:id="nbnt23-n15375-d1e651">
+      ¶ Ext 
+      <lb ed="#V" n="39"/>his autem sequitur corpore quod ista diuisio de libertate 
+      sim<lb ed="#V" n="40" break="no"/>plici et contradictionis non est necessaria nec vtilis: 
+      <lb ed="#V" n="41"/>quoniam omnis libertas quantum est ex natura potentie libere est 
+      <lb ed="#V" n="42"/>libertas contradictionis et non ex se: siue actus 
+      iste<lb ed="#V" n="43" break="no"/>sit actus simplex voluntatis alius et tertius ab 
+      actu<lb ed="#V" n="44" break="no"/>volendi intellectus ipsius semper potentia libera quantum 
+      <lb ed="#V" n="45"/>est ex se est indeterminata ista duplici indeterminatione 
+      <lb ed="#V" n="46"/>respectu istorum actuum. Cui non placet iste quantus 
+      mo<lb ed="#V" n="47" break="no"/>dus accipiat vnum de aliis et specialiter tertium qui ponit quod 
+      <lb ed="#V" n="48"/>libertas consistit in eligibiliter et delectabiliter 
+      oprari<lb ed="#V" n="49" break="no"/>At vero non intendo negare simpliciter quin naturale et liberum 
+      <lb ed="#V" n="50"/>coincidere possint in idem principium penitus idem ex 
+      <lb ed="#V" n="51"/>natura rei. hoc enim potest intelligi bene et male. potest enim 
+      intelli<lb ed="#V" n="52" break="no"/>gi quod idem penitus idem agat naturaliter et libere: et hoc in 
+      <lb ed="#V" n="53"/>alio genere cause: et hoc est verum: quoniam voluntas est caus 
+      <lb ed="#V" n="54"/>receptiua et malis naturaliter respectu sue volitionis et in 
+      <lb ed="#V" n="55"/>genere cause productiua est libera. Potest etiam intellig 
+      <lb ed="#V" n="56"/>quod in eodem genere cause: sed in alio et in alio ordine 
+      <lb ed="#V" n="57"/>est causa nataualis et libera: quoniam voluntas in ratione 
+      obiecti<lb ed="#V" n="58" break="no"/>est causa naturalis notitiae respectum sui et libera in ratione 
+      po<lb ed="#V" n="59" break="no"/>sed numquam eadem causa in eodem genere cause: et in eodem 
+      ordi<lb ed="#V" n="60" break="no"/>ne est naturalis et libera. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

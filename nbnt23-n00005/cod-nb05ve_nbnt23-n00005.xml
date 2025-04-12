@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="91-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n00005"><!--ntheol-l1c1-->
+            <head xml:id="nbnt23-n00005-Hd1e97">Caput 1</head>
+            <head xml:id="nbnt23-n00005-Hd1e99" type="question-title">Quid sit prima intelligentia in uniuersali declarat</head>
+            <p xml:id="nbnt23-n00005-d1e102">
+               <pb ed="#V" n="91-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>¶ Theologis naturalis Nicholai Sonetti liber primus. 
+    </p>
+            <p xml:id="nbnt23-n00005-d1e111">
+               <lb ed="#V" n="2"/>¶ Quid sit prima intelligentia in vniuersali 
+      decla<lb ed="#V" n="3" break="no"/>rat. Caput. I 
+    </p>
+            <p xml:id="nbnt23-n00005-d1e118">
+               <lb ed="#V" n="4"/>Motor immobilis 
+      <lb ed="#V" n="5"/>
+      simplici<lb ed="#V" n="6" break="no"/>ter primus: cum de 
+      <lb ed="#V" n="7"/>numero studentium 
+      <lb ed="#V" n="8"/>ac scribentium 
+      partici<lb ed="#V" n="9" break="no"/>pecie me fecisset: 
+      cogi<lb ed="#V" n="10" break="no"/>tanti mihi in 
+      multi<lb ed="#V" n="11" break="no"/>plici quiditate 
+      scibi<lb ed="#V" n="12" break="no"/>li in noctis silentio 
+      <lb ed="#V" n="13"/>visum ac secrete 
+      fu<lb ed="#V" n="14" break="no"/>it mihi dictum: vt ad 
+      <lb ed="#V" n="15"/>motorem meum et 
+      do<lb ed="#V" n="16" break="no"/>ctorem: meum 
+      conuerte<lb ed="#V" n="17" break="no"/>rem intellectum. De ipso 
+      <lb ed="#V" n="18"/>que de cetero cogitarem ac scriberem ista: ad quae ratio naturalis 
+      <lb ed="#V" n="19"/>se extendit: atque secundum prinus communia modernis philosophis et 
+      anti<lb ed="#V" n="20" break="no"/>quis. At vero licet hoc aggredi: et de tam excellenti maie 
+      <lb ed="#V" n="21"/>state perscrutari sim insufficiens et indignus: obedire 
+      <lb ed="#V" n="22"/>tamen disposui: et pro viribus intelligceur mee que cogitaui 
+      <lb ed="#V" n="23"/>temptabo scribere: salua tamen reuerentia sanctorum 
+      do<lb ed="#V" n="24" break="no"/>ctorum: in quibus nihil est temeratue asserendum: sed 
+      probabi<lb ed="#V" n="25" break="no"/>liter ex principiis naualibus et nobis et philosophis communibus 
+      pro<lb ed="#V" n="26" break="no"/>cedendum est. Totam autem speciem meam in meo motore: immo 
+      <lb ed="#V" n="27"/>doctore fixe: quoniam immobilis motor meus mihi 
+      reuela<lb ed="#V" n="28" break="no"/>bit que scribam: et cum ipse gescet: necessarium erit est 
+      mi<lb ed="#V" n="29" break="no"/>hi quiescere ab opre iam incepto: quia non moueor nisi 
+      <lb ed="#V" n="30"/>motus. Palam autem sit cuilibet legenti hunc librum: quoniam de 
+      <lb ed="#V" n="31"/>motore immobili est mihi gratissimum speculari. Nec 
+      <lb ed="#V" n="32"/>est mirum quoniam contemplatio ipsius est nobilissima: perfectissi 
+      <lb ed="#V" n="33"/>ma: et summe desiderata: cum sit suauissima et tota 
+      volu<lb ed="#V" n="34" break="no"/>ptuosa: in cuius contemplatione moderni philosophi 
+      perfe<lb ed="#V" n="35" break="no"/>ctam posuerunt felicitatem intellectus cuiuslibet.
+    </p>
+            <p xml:id="nbnt23-n00005-d1e191">
+      ¶ Et si 
+      <lb ed="#V" n="36"/>queras: quare de natura: et aliis primis generibus per 
+      volui<lb ed="#V" n="37" break="no"/>scribere. Respondeo tibi quod perscrutatio de ente ordine 
+      <lb ed="#V" n="38"/>simpliciter prior est: cum sit ex natura rei prius motore 
+      immo<lb ed="#V" n="39" break="no"/>bili. sicut per se superius suo per se inferiori. De natura autem 
+      <lb ed="#V" n="40"/>et. io. primis generibus me excuso: quia fuit ordo 
+      primpo<lb ed="#V" n="41" break="no"/>sterus: sed necessario conmutatus: vt ex sensibilibus 
+      <lb ed="#V" n="42"/>et corporalibus ad insensibilia inuisibilia: et omnino 
+      abstra<lb ed="#V" n="43" break="no"/>cta sequendo vestigia progenitorum meorum possem 
+      ascen<lb ed="#V" n="44" break="no"/>dere per gradus scale qui in illis formaliter sunt inclusi¬ 
+    </p>
+            <p xml:id="nbnt23-n00005-d1e213">
+               <lb ed="#V" n="45"/>¶ Primum igitur in hac nostra theotintia naturali est stabilire 
+      <lb ed="#V" n="46"/>subiectum. Deinde eius per se passiones inquirere. 
+      Per<lb ed="#V" n="47" break="no"/>scrutemur ergo an primus motor immobilis possit esse 
+      <lb ed="#V" n="48"/>subiectum in hac nra theoutia Palam autem quod primum motorem 
+      im<lb ed="#V" n="49" break="no"/>mobilem pro subiecto stabilire non possumus nisi prius 
+      <lb ed="#V" n="50"/>sciamus an sit et quid sit: et an proprietates substeanti 
+      scien<lb ed="#V" n="51" break="no"/>tie sibi conueniant: quoniam de subiecto optet praesupponere si est 
+      <lb ed="#V" n="52"/>et quid est. Palam autem de motore primo immobili praesupponit 
+      <lb ed="#V" n="53"/>quilibet intellectus quod sit: cum ipsum esse sit propositio per se 
+      no<lb ed="#V" n="54" break="no"/>ta vel sylluctio imperceptibili conclusa. Presupponamus 
+      <lb ed="#V" n="55"/>autem de ipso quod non sit ens prohibitum: quoniam si sic esset: omnia et 
+      <lb ed="#V" n="56"/>sent entia prohibita: propter ordinem essentialem primi moto 
+      <lb ed="#V" n="57"/>ris ad alia: et maxime in reali existentia: quicquid sit 
+      <lb ed="#V" n="58"/>de esse quiditatiuo. Perscrutatio autem de secunda 
+      praesup<lb ed="#V" n="59" break="no"/>potione quid sit: multum alta est inquesitio: et de hoc 
+      loquun<lb ed="#V" n="60" break="no"/>tur varie moderni et antiqui: immo noui philosophi 
+      adinui<lb ed="#V" n="61" break="no"/>cemn discrepant de primo motore quid sit.
+    </p>
+            <p xml:id="nbnt23-n00005-d1e252">
+      ¶ Fertur namque 
+      a<lb ed="#V" n="62" break="no"/>quodam: quod primus motor siue prima intelligentia est 
+      o<lb ed="#V" n="63" break="no"/>ens eminenter subsistens. Non enim potest esse omne ens realiter et 
+      <lb ed="#V" n="64"/>formaliter: quoniam tunc primus motor non esset aliud nisi 
+      tantum<lb ed="#V" n="65" break="no"/>aceruus et aggregatio omnium entium: vt lapidis: ligni: bo¬
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>uis: asini. et sic de aliis.
+    </p>
+            <p xml:id="nbnt23-n00005-d1e268">
+      ¶ Adhuc autem non potest dici quod 
+      <lb ed="#V" n="67"/>primus motor est omne ens virtualiter et causaliter: quoniam secundum 
+      plu<lb ed="#V" n="68" break="no"/>res extra se nihil causat nec producit. non est potest omnem 
+      en<lb ed="#V" n="69" break="no"/>titatem producere: quoniam nec actionem nec passionem: quibus 
+      <lb ed="#V" n="70"/>entia inferiora agunt: quia vna actio numero non potest sib 
+      <lb ed="#V" n="71"/>nec successiue elici a pluribus agentibus distinctis 
+      <lb ed="#V" n="72"/>numero: sicut scriptum est in caprimo de actione et 
+      passione<lb ed="#V" n="73" break="no"/>in. 7. praedicamento.
+    </p>
+            <p xml:id="nbnt23-n00005-d1e286">
+      ¶ Adhuc autem non potest dici quod prima 
+      <lb ed="#V" n="74"/>intelligentia seu primus motor sit ens praecise exemplari 
+      <lb ed="#V" n="75"/>ter. et nihil aliud sit nisi exemplar omnium: quoniam non 
+      repu<lb ed="#V" n="76" break="no"/>gnat entitati finite et limitate: vt intellectioni: quinus 
+      <lb ed="#V" n="77"/>possit esse exemplar nouum: nam per vnum actum intelligendi 
+      nu<lb ed="#V" n="78" break="no"/>mero paestent omnia distincte apprehendi: vt alias ostendetur 
+      <lb ed="#V" n="79"/>in tertio libro theologie. ille autem actus intelligendi es 
+      <lb ed="#V" n="80"/>set exemplar omnium licet diminutum. Ulterius etiam nec 
+      <lb ed="#V" n="81"/>potest dici quod primus motor sit aliqua natura terminata 
+      hec<lb ed="#V" n="82" break="no"/>vel illa: vt si imaginaretur quod prima natura esset vna natura simpliciter 
+      <lb ed="#V" n="83"/>determinate entitatis: et quod heret infinitos gradus 
+      en<lb ed="#V" n="84" break="no"/>titatis infra istam naturam determinatam: sicut albedo 
+      es<lb ed="#V" n="85" break="no"/>set nobilissimus color si contineret infinitos gradus 
+      al<lb ed="#V" n="86" break="no"/>bedinis: nam si prima intelligentia esset talis naturae iam non esset 
+      <lb ed="#V" n="87"/>entitas infinita simpliciter sed infinita secundum quid: quia diceret 
+      <lb ed="#V" n="88"/>portionem entitatis: quod est falsum: cum sit substantia pelagus 
+      <lb ed="#V" n="89"/>infinitum. Ex his autem concluditur praedicta descriptio primi 
+      <lb ed="#V" n="90"/>motoris quod non est hec entitas: nec illa: nec aliqua de 
+      <lb ed="#V" n="91"/>terminata: sed est omne ens eminenter subsistens. Est 
+      <lb ed="#V" n="92"/>enim exemplar omnium non determinatum: sed eminens 
+      perfe<lb ed="#V" n="93" break="no"/>ctum. Modus autem ponitur talis: quoniam sicut minus 
+      vniuersale<lb ed="#V" n="94" break="no"/>sicut est species: est exemplar omnium singularium hominium 
+      <lb ed="#V" n="95"/>actum existentium et possibilium: sic magis vniuersali: immo 
+      su<lb ed="#V" n="96" break="no"/>premum velaltium quod est ens inquantum ens: est exemplar emi 
+      <lb ed="#V" n="97"/>nens et existens omnium per se contetorum sub ente priori. Prima 
+      <lb ed="#V" n="98"/>ergo intellieua nihil aliud est nisi quodam vniuersale scilicet supremum 
+      <lb ed="#V" n="99"/>correspondens conceptui entis: quod est exemplar eminens et 
+      <lb ed="#V" n="100"/>per se subsistens omnium aliorum a se. Et fertur quod ista fuit 
+      po<lb ed="#V" n="101" break="no"/>plctonica sicut in nostra metaphysica prolixius fuit dictum. in 
+      tra<lb ed="#V" n="102" break="no"/>ctatum. 7 de ydeis. Nunc autem inquramus quid veritatis 
+      <lb ed="#V" n="103"/>contineat ista pomitio praedicta an sit possibilis et necessario 
+      <lb ed="#V" n="104"/>vera vel non. Dicamus autem quod licet poitio fuerit multum 
+      al<lb ed="#V" n="105" break="no"/>ta et suttilis: et fuerit de intentione progenitorum nostrorum. 
+      <lb ed="#V" n="106"/>Uidetur tamen quod modus positus non sit possibilis: nam 
+      si<lb ed="#V" n="107" break="no"/>cut minus vniuersala: vtpote id quod correspondndet conceptui specifica 
+      <lb ed="#V" n="108"/>hominis si poneretur extra subsistere non videtur verum quod esset 
+      <lb ed="#V" n="109"/>exemplar: et idea omnium particularium hominum: cuius ratio est 
+      <lb ed="#V" n="110"/>quoniam homo specificas obiectiue existens in intellectum: non est aliud nisi 
+      <lb ed="#V" n="111"/>realitas omnium singularium hominium actu existentium et 
+      <lb ed="#V" n="112"/>possibilium existere: quoniam illud idem obiectum quod est extra: 
+      <lb ed="#V" n="113"/>subsistit in intellectum obiectiue sub esse diminuto: si ergo 
+      homo<lb ed="#V" n="114" break="no"/>specificas qui est in intellectum obiectiue qui claudit infra se 
+      for<lb ed="#V" n="115" break="no"/>maliter omnes realitates omnium hominium: poneretur extra 
+      subsi<lb ed="#V" n="116" break="no"/>stere realiter: non esset aliud nisi aceruus vel aggregatio 
+      <lb ed="#V" n="117"/>omnium hominum particularium formaliter et non exem plariter 
+      <lb ed="#V" n="118"/>natura sicut conceptus specificas hominis in intellectum non est 
+      exem<lb ed="#V" n="119" break="no"/>plar conceptuum singularium hominium in intellectum: sic nec 
+      <lb ed="#V" n="120"/>illud quod correspondet conceptui specificao si poneretur in re extra. 
+      <lb ed="#V" n="121"/>esset exemplar singularium hominum. Certum est enim quod in 
+      <lb ed="#V" n="122"/>conceptum specificao quie est in intellectum capiunt commune esse 
+      di<lb ed="#V" n="123" break="no"/>minutum realitates omnium hominium indiuidualium: quoniam non 
+      <lb ed="#V" n="124"/>habent in conceptum specificta proprium esse diminutum. Sed tantum vnum 
+      <lb ed="#V" n="125"/>esse commune omnium. tamen semper verum est quod omnes realitates 
+      for<lb ed="#V" n="126" break="no"/>maliter omnium hominum subsistunt in illo esse diminuto communi: 
+      <lb ed="#V" n="127"/>ergo si ille eedem realitates quae habent illud esse diminutum: 
+      tan<lb ed="#V" n="128" break="no"/>ipse quam suum esse diminutum possent poni extra subsistere 
+      <lb ed="#V" n="129"/>realiter in vno esse reali communi hominibus omnibus: adhuc esset 
+      <lb ed="#V" n="130"/>verum dicere quod in isto esse reali esset forma sor. et sortes
+      <pb ed="#V" n="91-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>realiter et quilibet alius homo singularis. Ex hoc patet 
+      <lb ed="#V" n="2"/>manifeste quod iste homo simpliciter quem tu ponis si 
+      correspon<lb ed="#V" n="3" break="no"/>deret conceptui specifico non esset exemplar nec eminens 
+      <lb ed="#V" n="4"/>nec diminutum.
+    </p>
+            <p xml:id="nbnt23-n00005-d1e425">
+      ¶ Adhuc autem manifeste videtur quod iste 
+      <lb ed="#V" n="5"/>homo simpliciter loquendo platonice: non ille homo qui 
+      correspon<lb ed="#V" n="6" break="no"/>det conceptui specifico: est exemplar eminens: quoniam per 
+      il<lb ed="#V" n="7" break="no"/>lum actum intelligendi per quem apprehenditur et intelligitum 
+      <lb ed="#V" n="8"/>homo in vniversali in conceptum specifico: non apprehenditur ille 
+      hobe<lb ed="#V" n="9" break="no"/>simlicites que est ydea et exemplar singularium hominum: sed si 
+      di<lb ed="#V" n="10" break="no"/>ceres intelligitur per alium actum intelligendi: tunc sequitur quod 
+      <lb ed="#V" n="11"/>iste homo simpliciter plectionice non correspondet illi conceptui 
+      he<lb ed="#V" n="12" break="no"/>minis specifico. Concludamus ergo quod licet sit possibile: sicut 
+      no<lb ed="#V" n="13" break="no"/>stri progenitores asserunt dare hominem simlcitesr qui eminenter 
+      <lb ed="#V" n="14"/>contineret: et exemplariter omnem hominem singularem: non 
+      tamen<lb ed="#V" n="15" break="no"/>est verum quod iste homo correspondeat conceptui specifico 
+      ho<lb ed="#V" n="16" break="no"/>minis: sic quod sicut subsistit obiectiue in intellectum sic 
+      po<lb ed="#V" n="17" break="no"/>natur extra relitar existere: nec tamen negatur quin sit possibile quod sit 
+      <lb ed="#V" n="18"/>verum exemplar eminens omnium subsistens omnium 
+      particula<lb ed="#V" n="19" break="no"/>rium hominum: in quo omnia singularia continentur: et nihil 
+      <lb ed="#V" n="20"/>aliud. illud enim exemplar non correspondet conceptui 
+      specifi<lb ed="#V" n="21" break="no"/>co hominis: ita quod sicut subsistit in intellectum obiectiue sic 
+      po<lb ed="#V" n="22" break="no"/>natur in re extra subsistere. Palam autem quod vnitur est dicendum 
+      de<lb ed="#V" n="23" break="no"/>prima intelligentia quod ipsa non est correspondens conceptui entis 
+      <lb ed="#V" n="24"/>inquantum ens: quasi nihil aliud sit nisi conceptus entis qui 
+      pon<lb ed="#V" n="25" break="no"/>tur extra relta existere. hoc namque videtur impossibile ex praedictis. 
+      <lb ed="#V" n="26"/>licet bene concedamus quod prima intellius sit exemplar eminens 
+      <lb ed="#V" n="27"/>omnium entium aliorum a se. Quid ergo sit prima intelligeua 
+      dil<lb ed="#V" n="28" break="no"/>ficile est videre. Dicamus ergo de pri motore quod communis schola 
+      <lb ed="#V" n="29"/>tenet: quid est: quoniam vt in nono nostre metaphysice fuit dictum 
+      <lb ed="#V" n="30"/>prima intellitusa per se perseitate primi modi: includit ens 
+      inqua<lb ed="#V" n="31" break="no"/>tum ens: quod est sibi commune vniuocum et omni enti limitato. in 
+      <lb ed="#V" n="32"/>cludit est substantiam: et spim quiditatiue: et primo modo: non 
+      di<lb ed="#V" n="33" break="no"/>co substantiam quo est quiditas praedicamentalis: vt est quodam 
+      <lb ed="#V" n="34"/>constitutum ex quiditate entis limitati: et quadam differentia 
+      con<lb ed="#V" n="35" break="no"/>trahente: sed vt ibi fuit dictum includit differentiam 
+      constitu<lb ed="#V" n="36" break="no"/>tiuam substantia quae constitutiua est substantia praedicamentalis et limi 
+      <lb ed="#V" n="37"/>tate et substantia illiblate et infinite. legas nonum metaphysice: et 
+      pro<lb ed="#V" n="38" break="no"/>inuenies prolixius explicite. Concludamus ergo quod prima 
+      <lb ed="#V" n="39"/>intelligentia non est ens eminenter subsistens: sic quod 
+      cor<lb ed="#V" n="40" break="no"/>respodeat conceptui entis: sicut quodam vniuersale abstractum 
+      <lb ed="#V" n="41"/>ab omni singulari nihil includens commne sibi et aliis: sicut 
+      ho<lb ed="#V" n="42" break="no"/>mo in communi non est vndiacae dictum de isto per se homine si ponere 
+      <lb ed="#V" n="43"/>tur: et de aliis hominibus singularibus: sicut nec ens in communi esset 
+      <lb ed="#V" n="44"/>vnisacae dictum de prima intelligentia: et aliis entibus: si esset 
+      <lb ed="#V" n="45"/>quoddam vniuersale entis eminenter subsistens. Prima ergo in 
+      <lb ed="#V" n="46"/>telligentia est ens illigcnatum et substantia spiritualis: hec sit 
+      descri<lb ed="#V" n="47" break="no"/>ptimo eius: nam prima intelligentia includit spim substantiam ens 
+      <lb ed="#V" n="48"/>illigcntum et ens inquatum ens. bene ergo concedimus quod prima 
+      <lb ed="#V" n="49"/>intelligentia est omne ens eminenter subsistens: non 
+      tamen<lb ed="#V" n="50" break="no"/>vniuersal correspondens conceptui entis: sed sicut quodam indiui 
+      <lb ed="#V" n="51"/>duum entis. Illa namque differentia vltimate constituctiua prime in 
+      <lb ed="#V" n="52"/>telligentie et essengsetue eius est exemplar eminens et ydea 
+      re<lb ed="#V" n="53" break="no"/>presentatiua omnium aliorum a se: vt infra dicetur.
+    </p>
+            <p xml:id="nbnt23-n00005-d1e535">
+      ¶ 
+      Ma<lb ed="#V" n="54" break="no"/>nifestum est autem quod prima intelligentia est definitaius cum 
+      ha<lb ed="#V" n="55" break="no"/>beat conceptum quiditatiuum et differentiam contraentem essentialem 
+      <lb ed="#V" n="56"/>et constituciteum: nec habet conceptum simpliciter simplicem: sed 
+      reso<lb ed="#V" n="57" break="no"/>lubilem in plures conceptus explicatos distincte eius 
+      quidita<lb ed="#V" n="58" break="no"/>tem: sicut definitio explicit definitum: et ex illis 
+      princi<lb ed="#V" n="59" break="no"/>piis intrinsecis constituitur per se vnum perseitate primi 
+      mo<lb ed="#V" n="60" break="no"/>di: hic est quod ista propositio. prima intelligentia est ens. est in 
+      <lb ed="#V" n="61"/>primo modo directe: quoniam ibi per se inclusum praedicatur de in 
+      <lb ed="#V" n="62"/>clucbite.
+    </p>
+            <p xml:id="nbnt23-n00005-d1e557">
+      ¶ Et si arguatur quod secundum praedica primua intelligentia erit 
+      <lb ed="#V" n="63"/>composita ex actum et potentia contrahibili et contrahente 
+      <lb ed="#V" n="64"/>erit est prinusietua principiis intrinsecis: ergo et extrinse 
+      <lb ed="#V" n="65"/>cis quod est ducere omnem scolam in contradictionem.
+    </p>
+            <p xml:id="nbnt23-n00005-d1e566">
+               <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>
+               <!-- line coord error -->
+               <lb ed="#V" n="67"/>¶ Dissolutio autem huius dubu stat in hoc quod prima 
+      <lb ed="#V" n="68"/>radix componibilitatis est ro partis: quoniam nihil pot 
+      co<lb ed="#V" n="69" break="no"/>poni cum alio nisi habeat rationem partis respectu totius 
+      re<lb ed="#V" n="70" break="no"/>sultantis ex illa pte: et quadam alia: que potest etiam 
+      ha<lb ed="#V" n="71" break="no"/>bere rationem ptis: et componere cum alio seu esse in 
+      com<lb ed="#V" n="72" break="no"/>pone cum alio. Radix autem quod aliquid habeat rationem 
+      par<lb ed="#V" n="73" break="no"/>tis dependet ex hoc quod sit finitum: nam gradus 
+      intrinse<lb ed="#V" n="74" break="no"/>cus alicuius scilicet ipsa finitas est illud quod facit aliquid quod 
+      <lb ed="#V" n="75"/>hebeat partis rationem: quod probatur: quoniam nullum infinitum potest 
+      <lb ed="#V" n="76"/>here rationem ptis: cum omne totum sit maius sua parte: nihil autem 
+      <lb ed="#V" n="77"/>maius est infinito. Ad propositum autem applicando: dicimus 
+      <lb ed="#V" n="78"/>quod nihil positiuum quod sit in primo motore habet rationem partis: cum 
+      <lb ed="#V" n="79"/>nullum sit finitum: et per consequens nulla potest esse componibilitas.
+    </p>
+            <p xml:id="nbnt23-n00005-d1e603">
+               <lb ed="#V" n="80"/>¶= Et si arguas quod quiditas entis quae est in primua 
+      intelligen<lb ed="#V" n="81" break="no"/>tia ex se non est infinita: siliter nec quaditas substantiae: nec 
+      quidi<lb ed="#V" n="82" break="no"/>tas sptus: alias cum iste eedem quiditates reperiantur in 
+      crea<lb ed="#V" n="83" break="no"/>turis essent infinite formite: ergo tales quiditates in prima 
+      intel<lb ed="#V" n="84" break="no"/>ligentia poterunt habere rationem partis: et per consequens poterunt 
+      con<lb ed="#V" n="85" break="no"/>ponere. Respondetur quod ad hoc quod aliquid possit hbere 
+      ratio<lb ed="#V" n="86" break="no"/>nem patis non requiritur quod non sit infinitum: sed requiritur quod sit 
+      ex<lb ed="#V" n="87" break="no"/>se finitum positiuum: et quod habeat finitatem pro gradum 
+      intrin<lb ed="#V" n="88" break="no"/>seco. Nunc autem quiditas substantie entis: et sptus: in quibus 
+      vni<lb ed="#V" n="89" break="no"/>uocatur prima intelligentia: et alia non habent finitatem pro 
+      qgradu<lb ed="#V" n="90" break="no"/>intrinseco: quoniam nec finitas nec infinitas est gradus 
+      intrinse<lb ed="#V" n="91" break="no"/>cus illarum.
+    </p>
+            <p xml:id="nbnt23-n00005-d1e632">
+      ¶ Et si adhuc arguas quod secundum istam viam differentia 
+      <lb ed="#V" n="92"/>prime intelligentie in aliis eadem ratione non componit: sicut nec 
+      <lb ed="#V" n="93"/>i priua intelliuia: et per consequens substantia praedicamentalis non erit 
+      com<lb ed="#V" n="94" break="no"/>posita: cum sit constituta ex ista differentia quae ex se: nec est 
+      fi<lb ed="#V" n="95" break="no"/>nita nec infinita. Respondetur quod ad hoc quod aliquid faciat 
+      <lb ed="#V" n="96"/>compositionem: sufficit vel quod ambo extrema eorum fint fini 
+      <lb ed="#V" n="97"/>ta foris. vel quod alterum eorum sit finitum formie: et alterum non 
+      fi<lb ed="#V" n="98" break="no"/>nitum nec infinitum: licet ergo illa differentia constitutiua praedicam 
+      <lb ed="#V" n="99"/>talis substantie non sit ex se finita formaliter: et non habeat 
+      ali<lb ed="#V" n="100" break="no"/>quam magnitudinem nec finitam nec infinitam: quia 
+      tamen<lb ed="#V" n="101" break="no"/>illud quod contrahit et perficit scilicet enatura limitata communis ad. i0. 
+      gene<lb ed="#V" n="102" break="no"/>ra prima ex se est finita formite: ergo talis differentia constitutiua substantiae 
+      <lb ed="#V" n="103"/>pdicamentalis componit cum natura limitata quam contrahit: et per 
+      <lb ed="#V" n="104"/>conseques substantia praedicamentalis est quiditas composita. Palam 
+      <lb ed="#V" n="105"/>autem ad intelligendum compositionem inter aliqua sufficit quod 
+      am<lb ed="#V" n="106" break="no"/>bo extrema sint formaliter finita: vel quod vnum illorum sit 
+      for<lb ed="#V" n="107" break="no"/>maliter finitum: et alterum quod nec sit formaliter finitum nec 
+      infini<lb ed="#V" n="108" break="no"/>tum. Omnis autem quiditas formaie existens in primo motore: autem est ex 
+      <lb ed="#V" n="109"/>se infinita: vel ex se nec finita nec infinita: ergo in pri 
+      moto<lb ed="#V" n="110" break="no"/>re nulla est compositio.
+    </p>
+            <p xml:id="nbnt23-n00005-d1e676">
+      ¶ Et si queras an formaliter 
+      <lb ed="#V" n="111"/>infinitum et formaliter finitum possent componere. Dicitur quod si 
+      <lb ed="#V" n="112"/>de ratione totius sit quod sit maius qualibet sui parte 
+      seor<lb ed="#V" n="113" break="no"/>sum accepta finitum formaliter et infinitum formaliter non 
+      pol<lb ed="#V" n="114" break="no"/>sunt componere: quia tunc totum non esset maius altera sui 
+      <lb ed="#V" n="115"/>parte scilicet infinita. Si autem sufficit quod tositum sit maius altera 
+      <lb ed="#V" n="116"/>parte sui et non qualibet: Tunc dicitur quod finitum formite et 
+      infinitu<lb ed="#V" n="117" break="no"/>formaliter possunt componere. Aliter respondeo. Solutionem 
+      que<lb ed="#V" n="118" break="no"/>re.
+    </p>
+            <p xml:id="nbnt23-n00005-d1e697">
+      ¶ Et si arguas contra istam proportionem communiter concessam quod. si 
+      <lb ed="#V" n="119"/>infinitum formaliter non potest habere rationem partis: qui 
+      <lb ed="#V" n="120"/>ipso nihil est maius: et semper totum maius est sua parte: 
+      <lb ed="#V" n="121"/>videtur quod ista propositio non sit omnino vera. Nam si sint 2o for¬ er 
+      <lb ed="#V" n="122"/>maliter infinita: quorum quodlibet habeat magnitudinem vir¬ o 
+      <lb ed="#V" n="123"/>tualem infinitan intensiue. si ista duo infinita sint alterius 
+      <lb ed="#V" n="124"/>rationis. Manifestum est quod ista infinita plus habent positt v 
+      <lb ed="#V" n="125"/>ue de entitate quam alterum illorum tantum: ex quo quodlibet isto vt 
+      <lb ed="#V" n="126"/>rum dicit aliquid positiuum. Respondetur communi¬ eius 
+      <lb ed="#V" n="127"/>ter quod plus et minus sunt passiones magnitudinis 
+      fi<lb ed="#V" n="128" break="no"/>nite: non autem infinite. Et si dicas quod. i0. 
+      infinita<lb ed="#V" n="129" break="no"/>formaliter sunt plura infinita quam quatuor 
+      infinita<lb ed="#V" n="130" break="no"/>formaliter. Dicitur quod ibi plus et minus non dicitur 
+      <lb ed="#V" n="131"/>nisi de numero finito qui est numerus istorum 
+      infini<pb ed="#V" n="92-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1" break="no"/>torum.
+    </p>
+            <p xml:id="nbnt23-n00005-d1e734">
+      ¶ Et si dicas quod saltem vnum infinitum exquo dicit 
+      <lb ed="#V" n="2"/>aliquid positiuum adhuc addit aliquid ad aliud 
+      infini<lb ed="#V" n="3" break="no"/>tum. Respondetur tibi: concedo quod addit: tamen non conceditur quod 
+      <lb ed="#V" n="4"/>illud quod resultat ex istis duobus infinitis sit maius 
+      <lb ed="#V" n="5"/>altero istorum.
+    </p>
+            <p xml:id="nbnt23-n00005-d1e745">
+      ¶ Ad dubitationem autem secundam quae 
+      <lb ed="#V" n="6"/>dicit quod sequitur quod prima intelliusa hebeat principia 
+      intrin<lb ed="#V" n="7" break="no"/>seca: et per consequens extrinseca. Respondetur: conceditur quod babet prinuitua 
+      in<lb ed="#V" n="8" break="no"/>trinseca constitutiua ipsius vel ipsam constituentua et 
+      prio<lb ed="#V" n="9" break="no"/>ra aliqua prioritate: sed quando infers: ergo habet principia 
+      ex<lb ed="#V" n="10" break="no"/>trinseca: omnino negamus: sicut fuit dictum in secundo 
+      <lb ed="#V" n="11"/>physicorum. capite primo. 
+    </p>
+            <p xml:id="nbnt23-n00005-d1e761">
+               <lb ed="#V" n="12"/>Habet autem dubitationem ex predictis 
+      tra<lb ed="#V" n="13" break="no"/>hentem originem: nam cum dictum sit quod 
+      <lb ed="#V" n="14"/>prima intelligentia est definibilis definitione proprie
+      <lb ed="#V" n="15"/>dicta: cum hebeat conceptum resolubilem in conceptum 
+      quiditati<lb ed="#V" n="16" break="no"/>uum et conceptum qualitatiuum essentialem: videtur omnino 
+      conclu<lb ed="#V" n="17" break="no"/>di quod prima intelligentia sit per se sub genere. Tum 2o 
+      <lb ed="#V" n="18"/>quoniam nihil per se includit differiam: quin includat genus 
+      consti<lb ed="#V" n="19" break="no"/>tutum per illam differentiam: vt species facit constituta per ipsam 
+      dif<lb ed="#V" n="20" break="no"/>ferentiam vel indiuiduum istius speciei. Species enim et indiuiduum 
+      <lb ed="#V" n="21"/>per se includunt genus: ergo vera est propositio assumpta: sed 
+      <lb ed="#V" n="22"/>iam concessum est quod prima intellietua includit differentiam diuisiuam substantiae 
+      <lb ed="#V" n="23"/>praedicamentalis et constitutiuam generis: que scilicet predicatur 
+      <lb ed="#V" n="24"/>quiditatiue de substantia spirituali et corporali: ergo per consequens 
+      inclu<lb ed="#V" n="25" break="no"/>dit per se substantiam praedicamentalem.
+    </p>
+            <p xml:id="nbnt23-n00005-d1e794">
+      ¶ Amplius autem 
+      <lb ed="#V" n="26"/>habet dubitatione de illis que dicunr formaliter de prima 
+      intel<lb ed="#V" n="27" break="no"/>ligentia: et de illis quae sunt per se in genere: cuiusmodi sunt: 
+      <lb ed="#V" n="28"/>sapia: bonitas: et veritas: nec non: et de multis 
+      relationi<lb ed="#V" n="29" break="no"/>bus communibus prime intelligentie et aliis: an sint per se in genere 
+      <lb ed="#V" n="30"/>vel non.
+    </p>
+            <p xml:id="nbnt23-n00005-d1e807">
+      ¶ Adhuc autem est difficultas specialis: an rellitue 
+      <lb ed="#V" n="31"/>rationis qui sunt in prima intelligentia habeant esse in genere: 
+      <lb ed="#V" n="32"/>quoniam cum ipsum genus sit quidam respectus rationis: tunc 
+      se<lb ed="#V" n="33" break="no"/>quitur quod generis esset genus: et in infinitum abibit: ex quo omnis 
+      <lb ed="#V" n="34"/>respectus rationis continetur in genere.
+    </p>
+            <p xml:id="nbnt23-n00005-d1e819">
+      ¶ Ad 
+      dissoluen<lb ed="#V" n="35" break="no"/>dum autem istas difficultates dicitur ad primam quod prima 
+      <lb ed="#V" n="36"/>intelligentia non est per se in genere: et ratio eius est 
+      ta<lb ed="#V" n="37" break="no"/>lis secundum eum: prima intelligentia est omne ens 
+      eminen<lb ed="#V" n="38" break="no"/>ter subsistens correspondens adequate concetui entis: et per 
+      <lb ed="#V" n="39"/>conseques non potest contineri infra ambitum alicuius generis: 
+      <lb ed="#V" n="40"/>quia tunc contentum esset maioris ambitus quam continens: 
+      <lb ed="#V" n="41"/>et includens quam inclusum: quod est impossibile. Istud dictum 
+      <lb ed="#V" n="42"/>quod prima intelligentia sit omne ens eminenter subsistens 
+      <lb ed="#V" n="43"/>conceptui entis correspondens fuit superius improbatum. 
+    </p>
+            <p xml:id="nbnt23-n00005-d1e841">
+               <lb ed="#V" n="44"/>¶ Secundum dictum negatiuum vnius alterius est quod prima 
+      <lb ed="#V" n="45"/>intelligentia non est per se in genere: et ratio eius talis est: quoniam 
+      <lb ed="#V" n="46"/>nullum genus est necesse esse: quia statim identificaret 
+      se<lb ed="#V" n="47" break="no"/>cum dfrentias: et tunc essent duo necesse esse. Prima autem in 
+      <lb ed="#V" n="48"/>telligentia est quodam necesse esse. Sed nec home est 
+      suf<lb ed="#V" n="49" break="no"/>ficienter dictum: quoniam omnes coordinationes 
+      praedicamento<lb ed="#V" n="50" break="no"/>rum abstrahunt ab existentia actuali: et sunt quodam 
+      neces<lb ed="#V" n="51" break="no"/>se esse in esse quiditatiuo ab eterno.
+    </p>
+            <p xml:id="nbnt23-n00005-d1e861">
+      ¶ Alii dicunt ipsam 
+      <lb ed="#V" n="52"/>non esse per se in praedicamento: quia genus et differentia sumuntur 
+      <lb ed="#V" n="53"/>ab alia et alia realitate. In prima autem intelligentia 
+      <lb ed="#V" n="54"/>non est alia et alia realitas: cum sit simplicissima 
+      reali<lb ed="#V" n="55" break="no"/>tas. Sed nec id est sufficienter dictu: quoniam in prima 
+      intelli<lb ed="#V" n="56" break="no"/>gentia est aliquid contrahibile et aliquod contrahens: et 
+      <lb ed="#V" n="57"/>determinabile: et determinans: et actuabile et actuans: 
+      <lb ed="#V" n="58"/>inter que necessario est non ydentitas ex natura rei: ergo in 
+      pri<lb ed="#V" n="59" break="no"/>intelligentia potest summi ratio generis et differentiae ab alia et alia 
+      <lb ed="#V" n="60"/>quiditate. est enim ibi quiditas entis et entis illimitati 
+      <lb ed="#V" n="61"/>que contrauntur per varias differntias. ex quibus constituitur substantia 
+      <lb ed="#V" n="62"/>incorporalis et spiritualis.
+    </p>
+            <p xml:id="nbnt23-n00005-d1e887">
+      ¶ Tertium dictum negatiuum 
+      <lb ed="#V" n="63"/>est istud: quod prima intelligentia non est in genere: cuius ratio talis 
+      <lb ed="#V" n="64"/>assignatur: quoniam nullum infinitum est in genere per se: quoniam genuntuer 
+      <lb ed="#V" n="65"/>babet rationem partis et potentiae nullum autem infinitum potest habere ronem
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>partis: nec esse in potentia vit componat cum alio. Sed licet 
+      <lb ed="#V" n="67"/>illud dictum sit probabile: non tamen videtur omnino verum: quoniam 
+      <lb ed="#V" n="68"/>non videtur quod cuilibet infinito repugnet esse in genere.
+    </p>
+            <p xml:id="nbnt23-n00005-d1e905">
+      ¶ Et 
+      <lb ed="#V" n="69"/>si dicas. infinitum simpliciter non potest esse in genere: quia 
+      ydentifi<lb ed="#V" n="70" break="no"/>cat sibi omne composite in eodem. Dicitur quod ydentificat sibi 
+      re<lb ed="#V" n="71" break="no"/>omne sibi composite: non tamen ydentificat sibi formaliter omne 
+      si<lb ed="#V" n="72" break="no"/>bi composile in eodem nec quiditatiue: quia cum infinitate 
+      <lb ed="#V" n="73"/>vtriusque extremi stat distinctio formalis et quiditati 
+      <lb ed="#V" n="74"/>ua extremorum. Quod autem additur quod genus habet ratio nem 
+      <lb ed="#V" n="75"/>partis et potentiae: diceretur forte quod hoc accidit generi: quia 
+      si<lb ed="#V" n="76" break="no"/>bi accidit quod sit quiditas finita: et per consequens potentialis: et 
+      <lb ed="#V" n="77"/>quod habeat rationem partis: sicut accidit differenie quod sit finita 
+      for<lb ed="#V" n="78" break="no"/>maliter. quoniam sicut superius dictum est sunt differentiae. Que de se nec 
+      <lb ed="#V" n="79"/>formaliter finite sunt nec formaliter infinite: sicut differentia constitutiua 
+      <lb ed="#V" n="80"/>sbuanae praedicamentalis: et differentia constitutiua substantiae incorporee. et 
+      <lb ed="#V" n="81"/>quod breviter omnis differnia vniuoce dicta de prima 
+      intelli<lb ed="#V" n="82" break="no"/>gentia et aliis. hec autem ratio magis est probabilis quam 
+      prio<lb ed="#V" n="83" break="no"/>res. Qniam ab omi schola communiter est concessum quod 
+      ge<lb ed="#V" n="84" break="no"/>nus habet rationem partis et potentie. Dicamus ergo prima 
+      <lb ed="#V" n="85"/>intelligentia nullo modo est per se inclusa in aliquo 
+      <lb ed="#V" n="86"/>io. generum. Ratio est: quoniam nulla quiditas predica 
+      <lb ed="#V" n="87"/>mentalis est in prima intelligentia secundum se totam. 
+      di<lb ed="#V" n="88" break="no"/>ctum enim fuit supra: quod quiditas predicamentalis 
+      <lb ed="#V" n="89"/>non est communis prime intelligentie et aliis. Sed 
+      tan<lb ed="#V" n="90" break="no"/>tum vniuocantur in differentia constitutiua substantia predicamen 
+      <lb ed="#V" n="91"/>talis: sic conformiter est dicendum. de aliis generibus 
+      sub<lb ed="#V" n="92" break="no"/>alternis: et speciebus specialissimis: quia non vniuocani 
+      <lb ed="#V" n="93"/>in illis: sed tantum in differentis constitutiuis 
+      ip<lb ed="#V" n="94" break="no"/>sorum. ratio autem prime dubitationis quod prima in 
+      <lb ed="#V" n="95"/>telligentia si esset diffilis per consequens esset in genere: quia 
+      <lb ed="#V" n="96"/>definitio constituitur ex genere et differentia: non 
+      conclu<lb ed="#V" n="97" break="no"/>dit. Qniam ad veram definitionem sufficit: quod illud 
+      <lb ed="#V" n="98"/>quod definitur resoluatur in conceptum quiditatiuum et 
+      con<lb ed="#V" n="99" break="no"/>ceptum qualitatiuum essentialem. Sed quod conceptus 
+      <lb ed="#V" n="100"/>quiditatiuus habeat rationem generis: et qualituam 
+      <lb ed="#V" n="101"/>essentialis rationem differenie hoc accidit.
+    </p>
+            <p xml:id="nbnt23-n00005-d1e979">
+      ¶ Dissolutio 
+      <lb ed="#V" n="102"/>2ae dubitationis. que dicit quod omne includens differentiam 
+      <lb ed="#V" n="103"/>includit et genus: non concludit: quoniam propositio 
+      <lb ed="#V" n="104"/>non est vera. de differentis transebus: quoniam non tantum 
+      <lb ed="#V" n="105"/>includuntur in per se contentis sub isto genere. Cuius 
+      <lb ed="#V" n="106"/>sunt differentiae: immo in prima intelligentia includuntur. 
+    </p>
+            <p xml:id="nbnt23-n00005-d1e993">
+               <lb ed="#V" n="107"/>¶ Preterea de dubitatione qua dubitatur an ista 
+      <lb ed="#V" n="108"/>que formaliter dicuntur de prima intelligentia siue 
+      <lb ed="#V" n="109"/>sint perfectiones simpliciter: siue non: absoluta vel 
+      re<lb ed="#V" n="110" break="no"/>latiua sint in genere. Respondetur. pro retligetia generali 
+      te<lb ed="#V" n="111" break="no"/>nendum est quod nihil formaliter dictum de prima 
+      in<lb ed="#V" n="112" break="no"/>telligentia nec inclusum in aliquo quod sit formaliter 
+      <lb ed="#V" n="113"/>in ipso est per se species nec indiuiduum alicuius generis. 
+      <lb ed="#V" n="114"/>bene tamen est in genere: sicut dicimus quod differentia est 
+      <lb ed="#V" n="115"/>in genere: Quoniam sicut dictum est prima 
+      intelligen<lb ed="#V" n="116" break="no"/>tia et illa que sunt formaliter in ea: bene 
+      vniuoca<lb ed="#V" n="117" break="no"/>tur in differentia alicuius generis generalissimi: et 
+      inclu<lb ed="#V" n="118" break="no"/>duntur in quiditate generis et speciei.
+    </p>
+            <p xml:id="nbnt23-n00005-d1e1022">
+      ¶ De 
+      respecti<lb ed="#V" n="119" break="no"/>bus rationis que sunt in prima: an sint formaliter in 
+      <lb ed="#V" n="120"/>ea vel non. dicendum est quod sunt in genere 
+      relatio<lb ed="#V" n="121" break="no"/>nis per se: quoniam sicut in nostra metaphysica. 
+      prim<lb ed="#V" n="122" break="no"/>libro. capite sexto. fuit dictum. Relatio predicamen 
+      <lb ed="#V" n="123"/>talis vniuoce predicatur de relatione reali et 
+      ra<lb ed="#V" n="124" break="no"/>tionis.
+    </p>
+            <p xml:id="nbnt23-n00005-d1e1038">
+      ¶ Et cum arguis quod tunc in infinitum 
+      abi<lb ed="#V" n="125" break="no"/>bit: quoniam generis erit genus. Ad hoc fertur a 
+      quo<lb ed="#V" n="126" break="no"/>dam quod respectus generis qui genus dicitur definitur. 
+      <lb ed="#V" n="127"/>et eius definitio constituitur ex genere et differentia: et sic ge 
+      <lb ed="#V" n="128"/>nus in genus resoluitur vsque ad vltimum genus: 
+      su<lb ed="#V" n="129" break="no"/>per quod etiam fundari potest alius respectus 
+      ratio<lb ed="#V" n="130" break="no"/>nis: et iste est eiusdem rationis cum primo: et in tali
+      <pb ed="#V" n="92-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>potest concedi processus in infinitum. 
+      Manife<lb ed="#V" n="2" break="no"/>stum est autem quod illi duo respectus rationis sunt eiui 
+      <lb ed="#V" n="3"/>dem rationis non est verum. Qntiam vbi sunt fundam 
+      <lb ed="#V" n="4"/>tum: et terminus alterius rationis: respectus sunt et 
+      al<lb ed="#V" n="5" break="no"/>terius rationis. sic est: quoniam primus respectus fundatur 
+      supra<lb ed="#V" n="6" break="no"/>primam intentionem. Secundus autem supra secundam. Tum 
+      se<lb ed="#V" n="7" break="no"/>cundo: quia respectus non est eiusdem rationis cum fundamento 
+      <lb ed="#V" n="8"/>proximo. Tum tertio: quia respectus rationis qui dicitur genus 
+      <lb ed="#V" n="9"/>fundatur supra animalitatem: et terminatur ad hominem 
+      <lb ed="#V" n="10"/>et asinum: et secundus respectus rationis fundatur supra illud 
+      <lb ed="#V" n="11"/>potentiale in quod resoluitur respectus primus tanquam 
+      in<lb ed="#V" n="12" break="no"/>genus. non habent ergo eadem principia potentialia 
+      intrin<lb ed="#V" n="13" break="no"/>seca. Dicimus ergo quod genus dupliciter accipitur vel 
+      <lb ed="#V" n="14"/>formaliter vel essentialiter: et tunc est respectus 
+      ra<lb ed="#V" n="15" break="no"/>tionis: et fundatur supra primam intentionem: vt animal 
+      <lb ed="#V" n="16"/>vel corpus: vel secundo modo potest sumi denominatiue 
+      <lb ed="#V" n="17"/>et fundamentaliter: et tunc accidit sibi quod sit respectus. vn 
+      <lb ed="#V" n="18"/>de cum dicitur quod animal est genus. ibi sunt tria 
+      gene<lb ed="#V" n="19" break="no"/>ra. Primum iste rellietiua qui essentialiter dicitur genus. 
+      <lb ed="#V" n="20"/>Secundum realitas potetialis per se inclusa in isto 
+      re<lb ed="#V" n="21" break="no"/>spectu contracta per differentiam essentialem ad talem 
+      spe<lb ed="#V" n="22" break="no"/>ciem. Tertium est respectus generis alius a primo et secundo 
+      fun<lb ed="#V" n="23" break="no"/>datus supra illam realitatem potentialem que est 
+      poten<lb ed="#V" n="24" break="no"/>tialitas generis. Et cum dicitur quod in infinitum abibit non 
+      <lb ed="#V" n="25"/>est inconueniens in potentia. non sequitur tamen quod ibi sit 
+      <lb ed="#V" n="26"/>actualis infinitas: quoniam non est necessarium: quod 
+      intel<lb ed="#V" n="27" break="no"/>lectus comparet illum respectum vel eius fundamen 
+      <lb ed="#V" n="28"/>tum ad suas species causando in isto fundamento 
+      re<lb ed="#V" n="29" break="no"/>spectum rationis: qui dicitur genus: licet hoc possit cansare: 
+      si<lb ed="#V" n="30" break="no"/>cut non est necessarium: si intelligo animal quod propter hoc 
+      <lb ed="#V" n="31"/>comparem ipsum ad suas species causando in anima 
+      <lb ed="#V" n="32"/>li respectum rationis qui dicitur genus formaliter: et 
+      se<lb ed="#V" n="33" break="no"/>cunda intentio: licet hoc possit facere. Concludamus er 
+      <lb ed="#V" n="34"/>go quod respectus rationis qui sunt in prima 
+      intelligen<lb ed="#V" n="35" break="no"/>tia: et aliis intellectibus non sunt per se in genere. be 
+      <lb ed="#V" n="36"/>ne tamen contenta sunt sub differentia alicuius 
+      gene<lb ed="#V" n="37" break="no"/>ris: et illam per se includunt.
+    </p>
+            <p xml:id="nbnt23-n00005-d1e1138">
+      ¶ Et si adhuc queras 
+      <lb ed="#V" n="38"/>si vnitatus non esset realis extra animam: sed tantum in 
+      <lb ed="#V" n="39"/>concetum: et in vno actu intelligendi: sic quod prima 
+      intelli<lb ed="#V" n="40" break="no"/>gentia et alia vniuocarentur tantum in conceum generis 
+      sub<lb ed="#V" n="41" break="no"/>stantie: et non in aliquo positiuo extra intellectum: 
+      num<lb ed="#V" n="42" break="no"/>quid prima intelligentia posset contineri sub genere 
+      <lb ed="#V" n="43"/>potentiali. Respondetur quod non esset aliqua 
+      impos<lb ed="#V" n="44" break="no"/>sibilitas quin posset per se esse in genere: quia non re 
+      <lb ed="#V" n="45"/>pugnat sibi et aliis habere vnum talem conceptum 
+      com<lb ed="#V" n="46" break="no"/>munem. Nos autem ponimus ista que sunt in 
+      ge<lb ed="#V" n="47" break="no"/>nere. ibi esse per suas quiditates includentes et 
+      in<lb ed="#V" n="48" break="no"/>clusas: et hoc totum extra animam: ideo apud nos 
+      <lb ed="#V" n="49"/>prima intelligentia minime erit in predicamento. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="131-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n26331"><!--ntheol-l7c4-->
+            <head xml:id="nbnt23-n26331-Hd1e97">Caput 4</head>
+            <head xml:id="nbnt23-n26331-Hd1e99" type="question-title">
+      De separatione et unione rerum adinuicem
+    </head>
+            <p xml:id="nbnt23-n26331-d1e102">
+               <lb ed="#V" n="98"/>¶ De separatione et vnione rerum adinuicem. Cap. IIII.
+    </p>
+            <p xml:id="nbnt23-n26331-d1e107">
+               <lb ed="#V" n="99"/>PRedictis autem 
+      adiicien<lb ed="#V" n="100" break="no"/>dum 
+      vi<lb ed="#V" n="101" break="no"/>detur de separatione rerum adinuicem. 
+      <lb ed="#V" n="102"/>Nec non et de vnione atque translatione 
+      <lb ed="#V" n="103"/>vnius accipientis ad aliud subiectum: et 
+      exi<lb ed="#V" n="104" break="no"/>stentia vnius accidentis in pluribus substantis simul et 
+      <lb ed="#V" n="105"/>successiue. An primi motoris virtute infinita tales 
+      <lb ed="#V" n="106"/>separationes et translationes fieri possint. Sit ergo 
+      <lb ed="#V" n="107"/>prima propositio talis. Omnis entitas absoluta ab alia 
+      <lb ed="#V" n="108"/>realiter distincta et absoluta: siue illa sit essentialiter prior alia: 
+      <lb ed="#V" n="109"/>sicut substantia prior est origine accidente siue posterior 
+      es<lb ed="#V" n="110" break="no"/>sentialiter sicut accidens est posterius substantia potest esse sine ea¬. 
+      <lb ed="#V" n="111"/>hoc patet: quoniam hoc non includit repugnantiam. Tum 2o: quo 
+      <lb ed="#V" n="112"/>niam substantia potest accipre modum accidentis: vt esse in alio realiter 
+      <lb ed="#V" n="113"/>distincto: ergo accidens poterit habere modum substantia: et sic per 
+      <lb ed="#V" n="114"/>se stare et solitarie: et ab omni substantia sequestrari. 
+      Confir<lb ed="#V" n="115" break="no"/>per dicta illorum qui ponunt materiam primam separari secundum 
+      <lb ed="#V" n="116"/>rem: sicut narrat Aristo. ina et 4o metaphysice sue. 
+    </p>
+            <p xml:id="nbnt23-n26331-d1e149">
+               <lb ed="#V" n="117"/>¶ Adhuc autem quiditas entis: immo indiuiduum 
+      en<lb ed="#V" n="118" break="no"/>tis quod in accidente est inclusum non est in aliquo 
+      <lb ed="#V" n="119"/>subiecto: vt indiuiduum entis quod est in albedine 
+      <lb ed="#V" n="120"/>non dependet essentialiter a subiecto: cuius ratio 
+      <lb ed="#V" n="121"/>est: quia indiuiduum entis in substantia et 
+      acciden<lb ed="#V" n="122" break="no"/>te est eiusdem rationis: sicut in nostra 
+      metaphy<lb ed="#V" n="123" break="no"/>sica fuit dictum: sed indiuiduum entis quod est in 
+      sub<lb ed="#V" n="124" break="no"/>stantia non est aptum natum inherere: ergo nec 
+      in<lb ed="#V" n="125" break="no"/>diuiduum entis quod est in albedine est aptum natum 
+      <lb ed="#V" n="126"/>inherere: sed per se stare. Nisi dicas quod indiuiduum 
+      <lb ed="#V" n="127"/>quod est in albedine ratione differentie indiuisibilis 
+      con<lb ed="#V" n="128" break="no"/>uenit sibi aptiblius dependenntio. nec hoc videtur 
+      inconue<lb ed="#V" n="129" break="no"/>niens quod ratione hecceitatis hoc sibi conueniat. Et fertur 
+      <lb ed="#V" n="130"/>quod hoc est verum: et si sic: tunc oportet negare istam
+      <pb ed="#V" n="132-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>propositionem famosam: que dicit quod illa que sunt 
+      <lb ed="#V" n="2"/>eiusdem rationis habent passiones per se eiusdemn 
+      ra<lb ed="#V" n="3" break="no"/>tionis: et quicquid per se primo modo et secundo modo inest 
+      <lb ed="#V" n="4"/>vni et alteri: et hoc tibi conceditur.
+    </p>
+            <p xml:id="nbnt23-n26331-d1e196">
+      ¶ At vero circa hoc 
+      <lb ed="#V" n="5"/>occurrunt magna dubia. primo de 3a entitate in 
+      compe<lb ed="#V" n="6" break="no"/>sito: que ponitur res absoleta distincta ab ambabus 
+      par<lb ed="#V" n="7" break="no"/>tibus simul sumptis: et tamen sine illis existere est 
+      impos<lb ed="#V" n="8" break="no"/>sibile. et 2m dubium est de motum qui non potest fieri sine 
+      mo<lb ed="#V" n="9" break="no"/>bili. 2m de linea: que non potest fieri sine rectitudine 
+      <lb ed="#V" n="10"/>vel curuitate: nec numerus qun sit par vel impar: nec 
+      <lb ed="#V" n="11"/>res numerata sine numero: nec due rose sine 
+      dua<lb ed="#V" n="12" break="no"/>litate: et sic de pluribus aliis. Dissolutio autem istorum 
+      du<lb ed="#V" n="13" break="no"/>biorum facilis est. nam cum arguis de 3a entitate imn 
+      con<lb ed="#V" n="14" break="no"/>que res distincta ponitur a partibus. Dicitur quod quantum est 
+      <lb ed="#V" n="15"/>de se hoc sibi non repugnat: licet sibi repugnet per accidens 
+      <lb ed="#V" n="16"/>scilicet ratione depenuaentr essentialis: quam habet ad partes suas 
+      intrin<lb ed="#V" n="17" break="no"/>secas: sine qua depenta esse non potest. quoniam est idem realiter 
+      <lb ed="#V" n="18"/>cum ista. ista autem depeneta habet pro termino vnionem partium vel 
+      <lb ed="#V" n="19"/>pertes ipsas sub vnione. ergo sine illis esse non potest: nec esonlsi¬. 
+      <lb ed="#V" n="20"/>Istud recte videtur esse gratis dictum. Ideo raspentio tibi aliter 
+      interi<lb ed="#V" n="21" break="no"/>mendo suppositum quod 3a entitas res addita: que dicitur esse 
+      <lb ed="#V" n="22"/>quiditas totius vt humanitas dicatur res alia 
+      distin<lb ed="#V" n="23" break="no"/>cta absoleta ab anima et corpore et ab ambobus simul 
+      sum<lb ed="#V" n="24" break="no"/>ptis: quoniam istud est omnino impossibile: sicut satis dictum 
+      <lb ed="#V" n="25"/>fuit in physicis: et hoc simpliciter tibi ontendo: accipio istam 
+      <lb ed="#V" n="26"/>3m entitatem quam dicis rem aliam a partibus simul sum. 
+      <lb ed="#V" n="27"/>ptis vt humanitatem vt praescindit realiter ab anima et 
+      cor<lb ed="#V" n="28" break="no"/>pore et ab vnione ipsorum adinuicem et ab omnibus istis 
+      tri<lb ed="#V" n="29" break="no"/>bus simul sumptis: autem ergo humanitas est quedam natura 
+      <lb ed="#V" n="30"/>et quedam res essentialiter viuens: vel est natura mere 
+      corpo<lb ed="#V" n="31" break="no"/>ralis et essentialiter corpus vel corporea: vel est 
+      constitu<lb ed="#V" n="32" break="no"/>ta ex duabus naturis. quarum vna est vitalis et alia 
+      <lb ed="#V" n="33"/>corporalis. primum dari no potest: quia vel esset vita 
+      sensiti<lb ed="#V" n="34" break="no"/>ua vel vita intellectiua: quecumque detur sequitur quod in homine 
+      <lb ed="#V" n="35"/>suut due vite sensitiue vel due vite intellectiue 
+      rea<lb ed="#V" n="36" break="no"/>liter distincte: quod est falsum. Nec 2m dari potest: quoniam 
+      se<lb ed="#V" n="37" break="no"/>quitur quod in homie erunt 2o corpora. sequitur etiam quod 
+      quidi<lb ed="#V" n="38" break="no"/>tas ista vt humanitas sit ignobilior quam anima 
+      intelle<lb ed="#V" n="39" break="no"/>ctiua: que ponitur eius pars: quod est falsum: nec 3m 
+      di<lb ed="#V" n="40" break="no"/>ci potest: quoniam tunc sequeretur eodem modo quod in homine essent 
+      <lb ed="#V" n="41"/>2ae vite et due anime et 2o corpora. sequeretur etim processus 
+      <lb ed="#V" n="42"/>in infinitum. quoniam ex illis duabus naturis resultaret alia 
+      <lb ed="#V" n="43"/>3a res eadem ratione: sicut prius: et tunc queretur de istam 
+      <lb ed="#V" n="44"/>entitate: sicut prius autem est pura vita: et sic in infinitum 
+      <lb ed="#V" n="45"/>abibit: vel erit standum in primis. Attamen forsitan dicere: 
+      <lb ed="#V" n="46"/>tur a sic ponente et sustinente 3m entitatem esse in 
+      compo<lb ed="#V" n="47" break="no"/>sito: quod praedicta diuiduo: non est sufficiens quando querit: autem 
+      <lb ed="#V" n="48"/>ista 3a entitas est pure corporalis vel pure spiritualis: autem 
+      <lb ed="#V" n="49"/>vtrumque: quod vnum menbrum debeat addi: autem nec pure 
+      <lb ed="#V" n="50"/>corporalis: nec pure spiritualis sil sumpta. et istud 4m 
+      <lb ed="#V" n="51"/>membrum conceditur: quoniam ista 3a entitas: nec est formiter 
+      cor<lb ed="#V" n="52" break="no"/>poralis: nec spiritualis simul nec diuisiue: sed bene est 
+      in<lb ed="#V" n="53" break="no"/>tellectualis et corporalis eminenter simuius et 
+      equipol<lb ed="#V" n="54" break="no"/>lenter: non tamen formaliter sed virtualiter et perfectior continet 
+      <lb ed="#V" n="55"/>vtrumque sicut anima intellectiua continet virtualiter et 
+      emi<lb ed="#V" n="56" break="no"/>nenter animam sensitiuam et vegetatiuam. non autem continet 
+      <lb ed="#V" n="57"/>istas formis. sic est de ista 3a entitate vt de 
+      humanita<lb ed="#V" n="58" break="no"/>te: quoniam ista continet eminenter et equipollenter animam et 
+      <lb ed="#V" n="59"/>corpus. et per consequens animam intellectualem et corporalem 
+      <lb ed="#V" n="60"/>Est tamen primo diuersa ab illis quantum ad omnem realitatem: 
+      <lb ed="#V" n="61"/>que sit foris in ea: nisi forte in quidditate entis vel substantia. 
+      <lb ed="#V" n="62"/>Dissoluitur tamen aliter ponendo in opposito 3m 
+      entita<lb ed="#V" n="63" break="no"/>tem: que est quodam positiuum: nec voco illam 3m 
+      entita<lb ed="#V" n="64" break="no"/>tem humanitatem: sed voco eam quandam existentiam per 
+      se<lb ed="#V" n="65" break="no"/>vnam: que communis est illis partibus simul sumptis et vni¬
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>tis vel indiuisis adinuineem. non sunt ergo tres res: sed sunt 
+      <lb ed="#V" n="67"/>ibi tres existentie due partiales et proprie et 3a communis est 
+      <lb ed="#V" n="68"/>illis partibus: et hoc satis fuit dictum in physicies. 
+      <lb ed="#V" n="69"/>aliarum dubitationum faci¬ 
+    </p>
+            <p xml:id="nbnt23-n26331-d1e342">
+               <lb ed="#V" n="70"/>Dissolutio autem is et primna nas de 
+      me<lb ed="#V" n="71" break="no"/>tu qui non potest separari a moibili: licet sit res alia distincta: 
+      <lb ed="#V" n="72"/>non est contra proponem praedictam: quoniam motus non est 
+      ali<lb ed="#V" n="73" break="no"/>quid absolutum: sed pertinet ad genus passionis: vt in 
+      <lb ed="#V" n="74"/>physicis dictum fuit. 2a de linea que non potest fieri quin 
+      <lb ed="#V" n="75"/>sit recta vel non recta facilis est: quoniam rectitudo et 
+      <lb ed="#V" n="76"/>curuitas cum sint quedam figure vnder esse respectus 
+      quidan<lb ed="#V" n="77" break="no"/>scilicet quidam ordo partium in toto. rectum dicitur cuius 
+      me<lb ed="#V" n="78" break="no"/>dium non exit ab extremis. Curuum vero cuius rnedium 
+      <lb ed="#V" n="79"/>exit ab extremis: attamen dato quod rectitudo et cur 
+      <lb ed="#V" n="80"/>uitas sint quedam qualitates absoleate: cum tu petis an 
+      li<lb ed="#V" n="81" break="no"/>nea possit fieri: ita quod non sit recta neque curua. dico 
+      <lb ed="#V" n="82"/>quod sic: quoniam non erit nec curua: nec recta foris. sicut et 
+      <lb ed="#V" n="83"/>alba no paestent esse foris silatia: sed tamen essent similia fundamentem: 
+      <lb ed="#V" n="84"/>hoc autem sic ontendunt aliqui. primus motor potest facere 
+      <lb ed="#V" n="85"/>motum localem absque hoc quod producat aliam entitatem praeter 
+      <lb ed="#V" n="86"/>motum et per se terminum motus. si autem aliqua linea cur 
+      <lb ed="#V" n="87"/>ua nec se intercutur potest moueri ad partem aliam 
+      rectifi<lb ed="#V" n="88" break="no"/>cando eam: cum autem desinet esse curua per talem motum 
+      <lb ed="#V" n="89"/>quero an sit facta recta formalitem per talem motum localem: et 
+      <lb ed="#V" n="90"/>patet quod non per suppositum: quia potest fieri motus localis 
+      <lb ed="#V" n="91"/>absque hoc quod alia esntitas acquiratur alia a motu: vel 
+      <lb ed="#V" n="92"/>ab eius per se termino. rectitudo autem non est motus: nec 
+      <lb ed="#V" n="93"/>eius per se terminus. ergo per motum localem potest amitti 
+      curui<lb ed="#V" n="94" break="no"/>tas absque hoc quod acquiratur rectitudo in linea 
+      for<lb ed="#V" n="95" break="no"/>maliter. sic tunc linea non erit nec recta nec curua 
+      <lb ed="#V" n="96"/>formaliter. Dubitatio autem alia qua dubitatur an 
+      nume<lb ed="#V" n="97" break="no"/>rus possit fieri que non sit par neque impar stat in hoc. 
+      <lb ed="#V" n="98"/>quoniam paritas si est per se passio alicuius numeri vel 
+      plu<lb ed="#V" n="99" break="no"/>rium non est separabilis ab illo numero. quia sunt idem 
+      rea<lb ed="#V" n="100" break="no"/>liter. sicut in aliis per se passionibus dicimus: quod sunt 
+      <lb ed="#V" n="101"/>idem realiter cum suis substantis. Attamen si poneremus quod 
+      <lb ed="#V" n="102"/>paritas vel imparitas essent res distincte a numeris 
+      <lb ed="#V" n="103"/>quibus insunt. tunc diceremus quod possibilis esset 
+      separa<lb ed="#V" n="104" break="no"/>tio. Instantia etiam de numero non est multum ad 
+      propo<lb ed="#V" n="105" break="no"/>situm: quoniam numerus communiter non ponitur habere verum esse reale 
+      <lb ed="#V" n="106"/>extra animam sed tantum obiectiue in anima nostra. loquitur autem de 
+      distin<lb ed="#V" n="107" break="no"/>ctione reali extra animam. Ultima vero dubitatio qua 
+      <lb ed="#V" n="108"/>dubitatur de numero et de rebus numeratis quod non 
+      <lb ed="#V" n="109"/>possint separari abinuicem: vt quod sint due rose et non 
+      <lb ed="#V" n="110"/>sint plures rose numerate stat in hoc. quoniam sicut 
+      di<lb ed="#V" n="111" break="no"/>ximus communiter dicitur quod numerus non habet esse nisi obiectiue 
+      in<lb ed="#V" n="112" break="no"/>anima. Attamen si tum ponas numerum hebere verum esse 
+      rea<lb ed="#V" n="113" break="no"/>le extra animam distinctum ab istis rebus numeratis. 
+      <lb ed="#V" n="114"/>sit tamen quod res ipsa numerata: et ipse numerus sint 
+      de<lb ed="#V" n="115" break="no"/>genere ablunto. sicut propositio praedicta accipit: concedo quod sint 
+      <lb ed="#V" n="116"/>separabilia abinuicem: nec videtur aliquod inconueniens 
+      <lb ed="#V" n="117"/>plus de istis quam de aliis. 
+    </p>
+            <p xml:id="nbnt23-n26331-d1e449">
+               <lb ed="#V" n="118"/>Propositio 2e sit ista absolutum prius 
+      rea<lb ed="#V" n="119" break="no"/>liter distinctum potest separari 
+      <lb ed="#V" n="120"/>a respectiuo posteriori. hec probis. sicut prima: quoniam ex 
+      <lb ed="#V" n="121"/>quo sunt res distincte sine alia contradictione. 
+      vide<lb ed="#V" n="122" break="no"/>tur quod prius possit manere sine posteriori: cum tale 
+      po<lb ed="#V" n="123" break="no"/>sterius incidit sibi accidentaliter per accidentes. Conie. 
+      quo<lb ed="#V" n="124" break="no"/>niam pluribus producribus producuntur et pluribus conseruabtus 
+      <lb ed="#V" n="125"/>conseruatur. primum poterit peragens debitum 
+      produ<lb ed="#V" n="126" break="no"/>ci non conseruando 2m: quoniam vtrumque contingenter 
+      conser<lb ed="#V" n="127" break="no"/>uatur.
+    </p>
+            <p xml:id="nbnt23-n26331-d1e473">
+      ¶ Et si arguas. quod creatura poterit esse 
+      si<lb ed="#V" n="128" break="no"/>ne sua creatione et sine sua conseruatione: quod non 
+      vi<lb ed="#V" n="129" break="no"/>detur possibile. 2o quoniam tunc relationes de 2o 
+      gene<lb ed="#V" n="130" break="no"/>re non essent intrinsecus aduenientes. quia non 
+        oriun<pb ed="#V" n="132-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1" break="no"/>tur positis terminis: quoniam secundum hoc possent 
+      <lb ed="#V" n="2"/>esse duo alba et non similia: et quod homo et asinus non 
+      <lb ed="#V" n="3"/>eisent distincta. Dissolutio autem istorum facilis est. nam 
+      <lb ed="#V" n="4"/>cum accipis de creatura et eius creatione passiua et 
+      <lb ed="#V" n="5"/>eius conseruatione non videtur esse ad propositum 
+      pro<lb ed="#V" n="6" break="no"/>pter 2o primum quoniam vt in pluribus ponitur quod non 
+      <lb ed="#V" n="7"/>sit res distincta realiter a creatura. loquimur autem 
+      <lb ed="#V" n="8"/>de illis: que sunt relatiua distincta. 2o quia 
+      proposi<lb ed="#V" n="9" break="no"/>tio erat assumpta de absolecto priori et relatiuo 
+      posterio<lb ed="#V" n="10" break="no"/>ri. Creatio autem passiua est prior origine termino 
+      or<lb ed="#V" n="11" break="no"/>dine quodam. primum enim quod infertur ab agente est actio 
+      <lb ed="#V" n="12"/>2m passio 3m ipsemet terminus: et sic actio est prior 
+      <lb ed="#V" n="13"/>origine passione: et passio termino etiam prior est 
+      ori<lb ed="#V" n="14" break="no"/>gine. Attamen omnibus istis concessis quod terminus 
+      <lb ed="#V" n="15"/>sit prius respectu producti ad producens et sit 
+      deistin<lb ed="#V" n="16" break="no"/>ctus realiter: Adhuc stat propositio: quoniam dicetur 
+      <lb ed="#V" n="17"/>tibi et bene quod creatura pot esse sine creatione 
+      passi<lb ed="#V" n="18" break="no"/>ua: et etiam sine quacumque conseruatione data et 
+      significta<lb ed="#V" n="19" break="no"/>ratio de creatione est ista: quoniam si creatio est actio 
+      <lb ed="#V" n="20"/>realiter distincta a creatura: cum ipsa mensuretur 
+      in<lb ed="#V" n="21" break="no"/>stanti raptim transeunte: et ipsa raptim transeat: nec 
+      <lb ed="#V" n="22"/>durat nisi per instans: Creatura autem manet per 
+      to<lb ed="#V" n="23" break="no"/>tum tempus sequens: sequitur euidenter quod ipsa creatura 
+      <lb ed="#V" n="24"/>est separabilis a sua creatione passiua: immo de inesse 
+      <lb ed="#V" n="25"/>necessario separatur: nec posset manere: cum eius 
+      na<lb ed="#V" n="26" break="no"/>tura sit simpliciter raptim transire. Palam quod de 
+      con<lb ed="#V" n="27" break="no"/>seruatione conformiter est dicendum: quoniam 
+      conser<lb ed="#V" n="28" break="no"/>uatio est actio indiuilio raptim transiens et alia sibi suc 
+      <lb ed="#V" n="29"/>cedit: et iterum ista raptim transit: et sic semper 
+      conti<lb ed="#V" n="30" break="no"/>quandium creatura manet. Et sic non est alia actio 
+      con<lb ed="#V" n="31" break="no"/>seruatiua quin sit alia ab illa re conseruata: cum ipsa 
+      <lb ed="#V" n="32"/>raptim transeat. res autem conseruata eadem 
+      ma<lb ed="#V" n="33" break="no"/>net. Palam autem de secundo cum dicis: quod tunc 
+      pos<lb ed="#V" n="34" break="no"/>sunt esse duo alba et non similia: quod conceditur: sed cum 
+      <lb ed="#V" n="35"/>addis quod tunc non est similitudo inter ista respectus 
+      <lb ed="#V" n="36"/>intrinsecus adueniens: cum non sequatur positis 
+      ter<lb ed="#V" n="37" break="no"/>minis. dicitur tibi quod immo: quoniam quantum est ex se 
+      po<lb ed="#V" n="38" break="no"/>sitis duobus albis sequeretur similitudo nisi virtu. 
+      <lb ed="#V" n="39"/>te causae superioris impediretur talis sequela.
+    </p>
+            <p xml:id="nbnt23-n26331-d1e571">
+      ¶ 
+      Pro<lb ed="#V" n="40" break="no"/>positio tertia sit talis. respectus realiter distinctu 
+      <lb ed="#V" n="41"/>a fundatito et termino non potest existere sine 
+      funda<lb ed="#V" n="42" break="no"/>mento et termino. de termino patet. quoniam terminus 
+      <lb ed="#V" n="43"/>non est causa productiua et effectiua ipsius respects: 
+      <lb ed="#V" n="44"/>quoniam si hoc esset: cum primus motor posset super 
+      <lb ed="#V" n="45"/>plere vices cuiuscumque cause 2e efficientis. si etiam 
+      <lb ed="#V" n="46"/>terminus est causa effectiua respectus potest primus 
+      <lb ed="#V" n="47"/>motor supplere vicem eius. Palam autem quod 
+      termi<lb ed="#V" n="48" break="no"/>num non est causa materialis: nec subiectiua 
+      respe<lb ed="#V" n="49" break="no"/>ctus: nec formalis. ergo apparet quod respectus potest 
+      exi<lb ed="#V" n="50" break="no"/>stere sine termino: cum terminus ad respectum non 
+      se<lb ed="#V" n="51" break="no"/>habeat in aliquo genere cause. potest dici quod est ordo 
+      <lb ed="#V" n="52"/>essentialis in existendo in terminum et respectum: quo 
+      <lb ed="#V" n="53"/>niam impossibile est hanc rem existere: nisi talis 
+      exi<lb ed="#V" n="54" break="no"/>stat. si hoc non est: nec hoc: et si hoc est vt respectus 
+      <lb ed="#V" n="55"/>necessario hoc est scilicet terminus: sicut supra actus 
+      vo<lb ed="#V" n="56" break="no"/>lendi in voluntate necessario est actus intelligendi 
+      <lb ed="#V" n="57"/>in intellectum.
+    </p>
+            <p xml:id="nbnt23-n26331-d1e613">
+      ¶ Et si adhuc dicas: quod primus motor 
+      <lb ed="#V" n="58"/>poterit conuertere terminum in respectum: quia potest 
+      conuer<lb ed="#V" n="59" break="no"/>tere quodlibet in quodlibet: et respectus remane 
+      <lb ed="#V" n="60"/>bit sine termino: quod est propositum prouidebitur de alio 
+      <lb ed="#V" n="61"/>termino: quod non videtur possibile quod successiue possit 
+      <lb ed="#V" n="62"/>terminari ad duos terminos. Dissolutio autem istium 
+      <lb ed="#V" n="63"/>dubitationis stat in hoc: quoniam concedimus quod 
+      ter<lb ed="#V" n="64" break="no"/>minus potest conuerti in relationem aliquam: non tamen in 
+      <lb ed="#V" n="65"/>omnem: quoniam primus terminus non potest conuerti in pro¬
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>priam relationem quam terminant: quoniam tunic seque 
+      <lb ed="#V" n="67"/>rentur ista inconuenientia: que tu dicis. potest tame in 
+      <lb ed="#V" n="68"/>aliquam aliam. secundum quod respectus non potest fieri sine 
+      <lb ed="#V" n="69"/>fundamento. probatur eadem ratione: sicut de termino. adhuc 
+      <lb ed="#V" n="70"/>additur etiam quod inherentia relationis ad suum 
+      funda<lb ed="#V" n="71" break="no"/>mentum est idem realiter: cum ista relatione et inherem 
+      <lb ed="#V" n="72"/>tia. dico actualis. ergo non potest esse sine inherentia 
+      <lb ed="#V" n="73"/>ista actuali. et per consequens sine fundamento relatio 
+      <lb ed="#V" n="74"/>nis istius: cum istud fundamentum sit terminus 
+      re<lb ed="#V" n="75" break="no"/>lationis inherentie.
+    </p>
+            <p xml:id="nbnt23-n26331-d1e658">
+      ¶ Et si adhuc queras. vnde 
+      ha<lb ed="#V" n="76" break="no"/>bes quod ista relatio sit idem cum ista inherentia actuali. 
+      <lb ed="#V" n="77"/>dicit quod habentur ad euitandum processum in infinitum 
+      <lb ed="#V" n="78"/>in inherentiis: et de hoc satis dictum fuit in libro 
+      pre<lb ed="#V" n="79" break="no"/>dicamentorum. caplictio de habitu. 
+    </p>
+            <p xml:id="nbnt23-n26331-d1e669">
+               <lb ed="#V" n="80"/>Amplius autem restat perscrutatio: an 
+      <lb ed="#V" n="81"/>idem accidens 
+      nume<lb ed="#V" n="82" break="no"/>ro possit deus successiue in diuersis subiectis 
+      rea<lb ed="#V" n="83" break="no"/>liter et materialiter distinctis transferre de vno 
+      <lb ed="#V" n="84"/>subiecto in aliud subiectum. Uel an hoc sit 
+      simplici<lb ed="#V" n="85" break="no"/>ter impossibile. quacumque virtute.
+    </p>
+            <p xml:id="nbnt23-n26331-d1e685">
+      ¶ Palam autem quod 
+      de<lb ed="#V" n="86" break="no"/>pendentia vnius accidentis: absque tamen inherentia et 
+      <lb ed="#V" n="87"/>confirmatione potest successiue a pluribus terminabus 
+      <lb ed="#V" n="88"/>terminari: sicut patet: quoniam primum suppositum in quo 
+      <lb ed="#V" n="89"/>subsistit natura primi motoris potest terminare 
+      depen<lb ed="#V" n="90" break="no"/>dentiam alicuius dependentis: et postea secundum 
+      supposi<lb ed="#V" n="91" break="no"/>tum: et postea 3m ergo successiue potest esse idem depen¬s 
+      <lb ed="#V" n="92"/>dens in diuersis terminantibus eandem dependentiam. 
+    </p>
+            <p xml:id="nbnt23-n26331-d1e703">
+               <lb ed="#V" n="93"/>¶ Dictum 2m sit istud: quod idem accidens potest esse in 
+      <lb ed="#V" n="94"/>diuersis subiectis successiue. propositio ista patet 
+      de<lb ed="#V" n="95" break="no"/>qualitate simbola: que eadem dicitur esse in generato 
+      <lb ed="#V" n="96"/>et corrupto: sicut de raritate in igne et in aere: que 
+      se<lb ed="#V" n="97" break="no"/>cundum philosophos eadem est.
+    </p>
+            <p xml:id="nbnt23-n26331-d1e716">
+      ¶ At vero ex hoc videtur 
+      rationa<lb ed="#V" n="98" break="no"/>bile: quoniam sicut vna mamia potest esse successiua sub 
+      di<lb ed="#V" n="99" break="no"/>uersis formis substantialibus et accidentalibus. Sic 
+      <lb ed="#V" n="100"/>et vna forma substantialis siue accidentalis potest esse 
+      <lb ed="#V" n="101"/>successiua sub diuersis vel in diuersis materiis 
+      si<lb ed="#V" n="102" break="no"/>ue subiectis. nam sicut in nostra metaphysica dictum 
+      <lb ed="#V" n="103"/>fuit vnum potentiale potest actuari pluribus actibus 
+      <lb ed="#V" n="104"/>sic et vnum actuale potest perficere et actuare plura 
+      po<lb ed="#V" n="105" break="no"/>tentialia.
+    </p>
+            <p xml:id="nbnt23-n26331-d1e736">
+      ¶ Et si arguas quod accidens numeratur ad 
+      <lb ed="#V" n="106"/>numerationem subiecti. ergo vbi subiecta sunt 
+      nume<lb ed="#V" n="107" break="no"/>ro distincta. sequitur quod necessario accidentia 
+      distin<lb ed="#V" n="108" break="no"/>guerentur.
+    </p>
+            <p xml:id="nbnt23-n26331-d1e746">
+      ¶ Respondetur tibi: quod accidens non 
+      nu<lb ed="#V" n="109" break="no"/>meratur numeratione subiecti nisi denominatiue et 
+      <lb ed="#V" n="110"/>per accidens. ex se autem habet quod numeratur circumscripto 
+      <lb ed="#V" n="111"/>omni subiecto per possibile vel impossibile.
+    </p>
+            <p xml:id="nbnt23-n26331-d1e755">
+      ¶ Et si 
+      <lb ed="#V" n="112"/>adhuc dicas: quod dependentia essentialis est vnius ad 
+      <lb ed="#V" n="113"/>vnum et non vnius ad plura. Respondetur tibi quod non est 
+      ve<lb ed="#V" n="114" break="no"/>rum saltem successiue: sicut materia dependet quantum 
+      <lb ed="#V" n="115"/>ad suum esse a forma: potest tamen successiue esse 
+      sub<lb ed="#V" n="116" break="no"/>pluribus formis. sic de accidentibus.
+    </p>
+            <p xml:id="nbnt23-n26331-d1e768">
+      ¶ Adhuc autem 
+      <lb ed="#V" n="117"/>dependentia ad subiectum actualis non est accidentis 
+      <lb ed="#V" n="118"/>essentialis: sed accidentalis: licet aptitudinalis depens 
+      <lb ed="#V" n="119"/>dentia sit sibi essentialis. et predicetur de eo in 
+      secun<lb ed="#V" n="120" break="no"/>do modo. Et si dicas quod vnum passum possit pluram 
+      <lb ed="#V" n="121"/>immo infinita eiusdem rationis recipere. similiter 
+      <lb ed="#V" n="122"/>autem et aliud passum eiusdem rationis: cum isto potest 
+      re<lb ed="#V" n="123" break="no"/>cipere infinita eiusdem rationis: illa tamen quorum 
+      <lb ed="#V" n="124"/>vnum passum est receptiuum aliud passum nunquam est 
+      <lb ed="#V" n="125"/>receptiuum: ita quod nihil quod vnum passum recipit aliud 
+      <lb ed="#V" n="126"/>passum potest recipere.
+    </p>
+            <p xml:id="nbnt23-n26331-d1e792">
+      ¶ Sed omnino aliter 
+      respon<lb ed="#V" n="127" break="no"/>deo tibi quod illud non videtur omnino concedendum: 
+      quo<lb ed="#V" n="128" break="no"/>niam non apparet causa. quare plura passa. ex quo 
+      <lb ed="#V" n="129"/>sunt eiusdem rationis et ista: que debent recipre: sint 
+      <lb ed="#V" n="130"/>etiam eiusdem rationis: cum quodlibet passum sit 
+        <pb ed="#V" n="133-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>receptiuum cuiuslibet eorum que sunt eiusdem 
+      ratio<lb ed="#V" n="2" break="no"/>nis. et per consequens omnia que vnum passum potest 
+      <lb ed="#V" n="3"/>recipere potest et aliud ista eadem. Unde enim habet 
+      <lb ed="#V" n="4"/>quod terminatur ad ista plusquam ad alia: cum omnia sint 
+      <lb ed="#V" n="5"/>eiusdem rationis.
+    </p>
+            <p xml:id="nbnt23-n26331-d1e818">
+      ¶ Et si dicas quod determinatio sit 
+      <lb ed="#V" n="6"/>ratio rationis istius quiditatis communis: sed 
+      ratio<lb ed="#V" n="7" break="no"/>ne hecceitatum: que sunt primo diuerse: licet istud dictum 
+      <lb ed="#V" n="8"/>possit calumniari propositionem predictam: tamen 
+      opposi<lb ed="#V" n="9" break="no"/>tum tenetur a multis: quia non oportet quod 
+      heccei<lb ed="#V" n="10" break="no"/>tas sit ratio determinandi: quoniam tunc quodlibet 
+      <lb ed="#V" n="11"/>cum sit vnum numero videretur determinare vnum 
+      <lb ed="#V" n="12"/>aliorum accidentium: sicut vnum accidens ratione sue 
+      <lb ed="#V" n="13"/>differentie indiuidualis per te sibi determinat vnum 
+      <lb ed="#V" n="14"/>passum numero. quare enim magis hoc quam illud non 
+      <lb ed="#V" n="15"/>videtur ratio nisi gratis dictum.
+    </p>
+            <p xml:id="nbnt23-n26331-d1e842">
+      ¶ Et si adhuc que 
+      <lb ed="#V" n="16"/>ras an adhuc actiones productiue possint esse 
+      suc<lb ed="#V" n="17" break="no"/>cessiue in pluribus agentibus vel non. dicitur sicut 
+      <lb ed="#V" n="18"/>alias. in praedicanentis fuit dictum. caplctio de actione. quod non: 
+      <lb ed="#V" n="19"/>quoniam ibi est specialis ratio. sicut ibidem dictum 
+      <lb ed="#V" n="20"/>fuit. Dicamus ergo quod eadem albedo numero potest 
+      <lb ed="#V" n="21"/>successiue esse in diuersis subiectis et transferri 
+      de<lb ed="#V" n="22" break="no"/>vno subiecto ad subiectum. Similiter autem et si 
+      en<lb ed="#V" n="23" break="no"/>tis de vno intellectum ad alium intellectum potest 
+      <lb ed="#V" n="24"/>transferri. Si forsitan adhuc dicas quod videtur quod 
+      ita<lb ed="#V" n="25" break="no"/>possit transferri vna similitudo: que est inter 
+      duo<lb ed="#V" n="26" break="no"/>alba ad alia. similiter autem et paternitas et filiatio: et 
+      <lb ed="#V" n="27"/>sic aliquis posset esse pater meu et non genuisset me: 
+      <lb ed="#V" n="28"/>et ego filius alicuius a quo non essem genitus: quoniam 
+      <lb ed="#V" n="29"/>actus generationis non est nisi dispositio transiens: 
+      <lb ed="#V" n="30"/>et in fieri tantum. Adhuc respondeo: quod hoc est 
+      spe<lb ed="#V" n="31" break="no"/>ciale in relationibus: immo in omnibus 
+      respecti<lb ed="#V" n="32" break="no"/>bus: quod relatio ratione sue hecceitatis determinat 
+      si<lb ed="#V" n="33" break="no"/>bi precise vnum fundamentum numero: nec potest 
+      <lb ed="#V" n="34"/>quacumque virtute simul esse in pluribus. ponitur autem 
+      <lb ed="#V" n="35"/>adhuc exemplum. hic homo vt sort. in potentia 
+      ob<lb ed="#V" n="36" break="no"/>iectiua determinat sibi hanc realitatem et 
+      existen<lb ed="#V" n="37" break="no"/>tiam vnam numero: quoniam sorti non potest 
+      cor<lb ed="#V" n="38" break="no"/>respondere: nec simul nec successiue: nisi vna 
+      reali<lb ed="#V" n="39" break="no"/>tas et vna existentia et non plures. Manifestum est 
+      <lb ed="#V" n="40"/>enim quod postquam. sort. fuit tractus ad realitatem et 
+      exi<lb ed="#V" n="41" break="no"/>stentiam per generationem virtutis producentis 
+      <lb ed="#V" n="42"/>si ipso anihilato primi motoris virtute iterum 
+      redi<lb ed="#V" n="43" break="no"/>ret non traheretur ad aliam realitatem: neque aliam 
+      exi<lb ed="#V" n="44" break="no"/>stentiam: sed omnino ad eandem. aliter sort. primo 
+      <lb ed="#V" n="45"/>productus et secundo interum reproductus non esset 
+      <lb ed="#V" n="46"/>sort. realiter: sed tamen esset idem sort. numeraliter: 
+      di<lb ed="#V" n="47" break="no"/>stinctus tamen a se respectum in diuersis suppositis: 
+      <lb ed="#V" n="48"/>sicut primus motor vnus numero esset in tribus sup 
+      <lb ed="#V" n="49"/>positis realiter distinctis. ergo ita esset in 
+      proposi<lb ed="#V" n="50" break="no"/>to. Et si dicitur quod nullum videtur inconueniens: quod 
+      sor<lb ed="#V" n="51" break="no"/>sit illimitatus ad plures realitates et ad plures 
+      exi<lb ed="#V" n="52" break="no"/>stentias: sicut primus motor ad plures simul et sic 
+      <lb ed="#V" n="53"/>trahetur nunc ad vnam realitatem nunc ad aliam 
+      <lb ed="#V" n="54"/>et sic esset idem sort. numero: quoniam eadem 
+      heccei<lb ed="#V" n="55" break="no"/>tas: que est proximum fundamentum vnitatis 
+      nume<lb ed="#V" n="56" break="no"/>ralis: non tamen esset idem sort. realiter: quia non esset 
+      <lb ed="#V" n="57"/>eadem realitas que prius. Tibi diceretur quod hoc non 
+      <lb ed="#V" n="58"/>est simile de realitate: que est quidam modus 
+      in<lb ed="#V" n="59" break="no"/>trinsecus et de aliis realiter distinctis vt de relatio. 
+      <lb ed="#V" n="60"/>nibus respectu fundamenti et termini qui sunt quidam 
+      mo<lb ed="#V" n="61" break="no"/>di extrinseci: sicut sunt omnia accidentia realiter 
+      di<lb ed="#V" n="62" break="no"/>stincta a suis fundamentus et subiectis: de quibus est 
+      mo<lb ed="#V" n="63" break="no"/>do sermo. Attamen dicendum est conformiter 
+      priori<lb ed="#V" n="64" break="no"/>bus dictis quod relatio et respectus non est separabi¬
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="65"/>ltis a fundamento et termino: quoniam vt dictum 
+      <lb ed="#V" n="66"/>est hoc est speciale respectibus: non repugnat 
+      ab<lb ed="#V" n="67" break="no"/>sobutis autem transferri.
+    </p>
+            <p xml:id="nbnt23-n26331-d1e960">
+               <lb ed="#V" n="68"/>Perscruntemurur eraoo vstimo an idem 
+      <lb ed="#V" n="69"/>accidens possit simul 
+      <lb ed="#V" n="70"/>existere in diuersis subiectis accidentaliter: autem non 
+      <lb ed="#V" n="71"/>sit hoc possibile apud quancumque virtutem.
+    </p>
+            <p xml:id="nbnt23-n26331-d1e971">
+      ¶ Dica<lb ed="#V" n="72" break="no"/>mus in primis vnam propositionem de formis 
+      sub<lb ed="#V" n="73" break="no"/>stantialibus: quoniam vna forma potest simul in 
+      actu<lb ed="#V" n="74" break="no"/>informare plures materias. hoc probatur: quo 
+      <lb ed="#V" n="75"/>niam anima intellectiua simul actu informat omnia 
+      <lb ed="#V" n="76"/>menbra corporis: que adinuicem realiter 
+      distinguun<lb ed="#V" n="77" break="no"/>tur: et videntur esse plura membra animata 
+      vni<lb ed="#V" n="78" break="no"/>ca anima et forma.
+    </p>
+            <p xml:id="nbnt23-n26331-d1e989">
+      ¶ Conformiter autem secundum quod 
+      <lb ed="#V" n="79"/>asserunt progenitores nostri de intellectu qui ab 
+      <lb ed="#V" n="80"/>ipsis ponitur idem numero in omnibus 
+      homini<lb ed="#V" n="81" break="no"/>bus. et ideo nec plurificatur ad plurificationem 
+      cor<lb ed="#V" n="82" break="no"/>poris cum sit forma abstracta et simpliciter 
+      implu<lb ed="#V" n="83" break="no"/>rificabilis.
+    </p>
+            <p xml:id="nbnt23-n26331-d1e1002">
+      ¶ Adhuc autem hoc patet de anima 
+      <lb ed="#V" n="84"/>celi: que est tota in qualibet parte celi et illam 
+      infor<lb ed="#V" n="85" break="no"/>mat.
+    </p>
+            <p xml:id="nbnt23-n26331-d1e1009">
+      ¶ Et si dicas: quod celum est vnum corpus 
+      contin<lb ed="#V" n="86" break="no"/>nuum et vnum informabile adequatum anime celi. 
+      <lb ed="#V" n="87"/>sic corpus humanum est vnum corpus informabile. 
+      <lb ed="#V" n="88"/>adequatum anime intellectiue quantuncumque habeat 
+      <lb ed="#V" n="89"/>membra distincta. At vero istud non obstat: quo 
+      <lb ed="#V" n="90"/>niam secundum progenitores nostros loquentes de 
+      <lb ed="#V" n="91"/>toto animali in celo: dicunt quod anima vna informat 
+      <lb ed="#V" n="92"/>omnes celos qui sunt numero plures: nec sunt 
+      con<lb ed="#V" n="93" break="no"/>tinui: sed tantum contigui: et realiter distincti: sicut 
+      <lb ed="#V" n="94"/>patet de primo mobili et orbibus planetarum: quod probant 
+      <lb ed="#V" n="95"/>astrologi propter diuersitatem motus: quia sunt 
+      com<lb ed="#V" n="96" break="no"/>positi.
+    </p>
+            <p xml:id="nbnt23-n26331-d1e1035">
+      ¶ Conformiter esset dicendum de anima 
+      in<lb ed="#V" n="97" break="no"/>tellectiua: que informat corpus et plura 
+      membra<lb ed="#V" n="98" break="no"/>corporis realiter distincta: quoniam si ista 
+      membra<lb ed="#V" n="99" break="no"/>non essent continua: sed contigua tantum: dum tamen 
+      <lb ed="#V" n="100"/>sic possent stare propter pondus: non tenderent ad 
+      <lb ed="#V" n="101"/>terram et abinuicem separarentur. dicunt quod omnia 
+      <lb ed="#V" n="102"/>talia membra posset informare: sed verum est quod 
+      <lb ed="#V" n="103"/>natura propter pondus membrorum adinuenit 
+      lie<lb ed="#V" n="104" break="no"/>gamina vt neruos et plura alia quibus membra ad 
+      <lb ed="#V" n="105"/>inuicem sunt ligata: ne propter pondus caderent et 
+      <lb ed="#V" n="106"/>abinuicem diuiderentur. Uera est ergo propositio 
+      <lb ed="#V" n="107"/>vel saltem probabilis.
+    </p>
+            <p xml:id="nbnt23-n26331-d1e1062">
+      ¶ Propositio secunda sit 
+      ta<lb ed="#V" n="108" break="no"/>lis: forma accidentalis potest simul informare 
+      plu<lb ed="#V" n="109" break="no"/>ra subiecta. hec posset probari sicut probatur 
+      pri<lb ed="#V" n="110" break="no"/>ma: tamen aliter: quoniam vna quantitate numero 
+      <lb ed="#V" n="111"/>in aliquo quanto sunt omnia quanta denominati 
+      <lb ed="#V" n="112"/>ue: vt materia est quanta: et omnia accidentia dicun 
+      <lb ed="#V" n="113"/>tur quanta vna et eadem quantitate. ista autem 
+      quan<lb ed="#V" n="114" break="no"/>titas videtur omnia informare et esse ibi tamquam in 
+      sub<lb ed="#V" n="115" break="no"/>iecto: sicut et ipsa de ipsis denominatiue dicitur. 
+      for<lb ed="#V" n="116" break="no"/>ma autem et materia sunt realiter distincta ab 
+      ac<lb ed="#V" n="117" break="no"/>cidentibus.
+    </p>
+            <p xml:id="nbnt23-n26331-d1e1086">
+      ¶ Sed forte dices: quod ista non sunt in 
+      <lb ed="#V" n="118"/>diuersis suppositis realiter distinctis. loqumur 
+      au<lb ed="#V" n="119" break="no"/>tem hic an idem accidens possit simul existere in 
+      di<lb ed="#V" n="120" break="no"/>uersis subiectis suppositaliter distinctis.
+    </p>
+            <p xml:id="nbnt23-n26331-d1e1095">
+      ¶ Sed 
+      <lb ed="#V" n="121"/>nec istud videtur impedire quin siue ista substantia sint 
+      <lb ed="#V" n="122"/>apta nata constituere suppositum siue non 
+      idem<lb ed="#V" n="123" break="no"/>sequitur: quoniam si concederes mihi quod eadem 
+      al<lb ed="#V" n="124" break="no"/>bedo esset in duabus vel pluribus quantitatibus 
+      se<lb ed="#V" n="125" break="no"/>paratis ab omni subiecto: pari ratione concederes 
+      <lb ed="#V" n="126"/>quod posset esse in tribus suppositis realiter distinctis: 
+    </p>
+            <p xml:id="nbnt23-n26331-d1e1111">
+               <lb ed="#V" n="127"/>¶ Adhuc autem propositio predicta apparet scilicet quod idem 
+      <lb ed="#V" n="128"/>accidens possit simul existere in pluribus subiectis:
+      <pb ed="#V" n="133-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>immo forte in infinitis si essent: quoniam omnis 
+      ra<lb ed="#V" n="2" break="no"/>tio opposita solubilis est. ergo illud non est 
+      negan<lb ed="#V" n="3" break="no"/>dum esse possibile. Et si arguas quod hoc est 
+      simplici<lb ed="#V" n="4" break="no"/>ter impossibile: quoniam impossibile est quod vnum 
+      <lb ed="#V" n="5"/>actu dependeat a pluribus subiectis totalibus et eius 
+      <lb ed="#V" n="6"/>dependentiam totaliter determinantibus esset 
+      <lb ed="#V" n="7"/>autem sic si idem accidens poneretur in diuersis 
+      sub<lb ed="#V" n="8" break="no"/>iectis: quoniam quodlibet subiectum esset causa 
+      tota<lb ed="#V" n="9" break="no"/>lis terminandi eius dependentiam.
+    </p>
+            <p xml:id="nbnt23-n26331-d1e1142">
+      ¶ Respondeo 
+      <lb ed="#V" n="10"/>tibi frequenter fuit dictum supra: et specialiter in 
+      phy<lb ed="#V" n="11" break="no"/>sicis. propositio ista: quod nihil potest simul 
+      depende<lb ed="#V" n="12" break="no"/>re a pluribus totalibus causis vera est in vno 
+      sen<lb ed="#V" n="13" break="no"/>su scilicet accipiendo causam totalem inclusiue. falsa autem 
+      <lb ed="#V" n="14"/>est accipiendo causam totalem exclusiue. De 
+      cau<lb ed="#V" n="15" break="no"/>sa totali pluries fuit dictum et expositum superius 
+      <lb ed="#V" n="16"/>nec videtur necessarium hic iterum repetere. Et in 
+      <lb ed="#V" n="17"/>hoc completur liber septimus de potentia primi 
+      mo<lb ed="#V" n="18" break="no"/>toris ad extra: que quidem potentia est infinita in 
+      <lb ed="#V" n="19"/>duratione: et etiam in vigore que virtus nobis 
+      conce<lb ed="#V" n="20" break="no"/>dat sibi vniri et ea frui in eternum. Amen.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

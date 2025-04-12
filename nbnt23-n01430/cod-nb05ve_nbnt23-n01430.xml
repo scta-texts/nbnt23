@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="93-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n01430"><!--ntheol-l1c3-->
+            <head xml:id="nbnt23-n01430-Hd1e97">Caput 3</head>
+            <head xml:id="nbnt23-n01430-Hd1e99" type="question-title">Hic stabilitur subiectum theologiae</head>
+            <p xml:id="nbnt23-n01430-d1e102">
+               <lb ed="#V" n="60"/>¶ Hic stabilitur subiectum theologie. Caput II 
+    </p>
+            <p xml:id="nbnt23-n01430-d1e107">
+               <lb ed="#V" n="61"/>MAnifestum est erao er 
+      di<lb ed="#V" n="62" break="no"/>ctis. An 
+      pri<lb ed="#V" n="63" break="no"/>mus motor sit: et quid sit: quoniam est 
+      <lb ed="#V" n="64"/>quoddam ens positiuum: et sic describitur. 
+      <lb ed="#V" n="65"/>Primus motor est substantia spiritua
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>lis et illilnuta: oportet ergo stabiectilire subiectum hcuius theo:¬ 
+      <lb ed="#V" n="67"/>logie: quod assignamus primum motorem 
+      immobilen<lb ed="#V" n="68" break="no"/>ratio huius dicti est ista: quoniam omnes 
+      proprie<lb ed="#V" n="69" break="no"/>tates subiecti. tam affirmatiue quam negatiue 
+      conue<lb ed="#V" n="70" break="no"/>nienter sibi applicantur: sicut scriptum est in primo 
+      <lb ed="#V" n="71"/>metaphysice nostre. capite tertio. Nam aliqua 
+      pro<lb ed="#V" n="72" break="no"/>prietates negatiue ibi scripte sibi conueniunt. 
+      pri<lb ed="#V" n="73" break="no"/>ma scilibet quod non est ens prohibitum includens 
+      con<lb ed="#V" n="74" break="no"/>tradictionem. 2a quod non est ens equiuocum. tertia quod 
+      <lb ed="#V" n="75"/>non est ens per accidens: sed est vnum per se. quar 
+      <lb ed="#V" n="76"/>ta quod non est ens precise in anima. Sed vere et 
+      rea<lb ed="#V" n="77" break="no"/>liter extra animam existens: quinta quod non est ens 
+      <lb ed="#V" n="78"/>corruptibile: sed necesse est esse. sexta quod non est ens 
+      <lb ed="#V" n="79"/>incommunicabile secundum antiquos: licet hec proprietas et 
+      <lb ed="#V" n="80"/>conditio sit multum dubia apud modernos 
+      phylo<lb ed="#V" n="81" break="no"/>sophos qui asserunt de singularibus posse esse 
+      sci<lb ed="#V" n="82" break="no"/>entiam: non tantum de vniuersalibus septima 
+      proprie<lb ed="#V" n="83" break="no"/>tas quod non est ens demonstrabile saltem in ista theolo 
+      <lb ed="#V" n="84"/>gia: quoniam nulla scientia probat subiectum suum: sed 
+      <lb ed="#V" n="85"/>supponit: tamen in aliqua scientia potuit fuisse 
+      pro<lb ed="#V" n="86" break="no"/>batum. Declarationes autem istarum. 7. 
+      propositi<lb ed="#V" n="87" break="no"/>onum quere in metaphysica vbi supra.
+    </p>
+            <p xml:id="nbnt23-n01430-d1e170">
+      ¶ Adhuc 
+      <lb ed="#V" n="88"/>autem manifestum est quod. 7. proprietates 
+      affirimati<lb ed="#V" n="89" break="no"/>ue subiecti scibilis primo motori immobili 
+      conue<lb ed="#V" n="90" break="no"/>niunt. Quarum prima talis est: quoniam subiectum 
+      <lb ed="#V" n="91"/>scibile est defile quum definitio subiecti sit medium 
+      <lb ed="#V" n="92"/>ad concludendum passionem de subiecto. Primus 
+      <lb ed="#V" n="93"/>autem motor immobilis est defilius definitione 
+      pro<lb ed="#V" n="94" break="no"/>prie dicta: quum habeat concetum resolubilem per se vnum 
+      <lb ed="#V" n="95"/>perseitate primi modi constitutum ex concetum per se 
+      con<lb ed="#V" n="96" break="no"/>trahibili: et concetum contrahente per se: sicut superius 
+      fu<lb ed="#V" n="97" break="no"/>it dictum. capite primo. Secunda proprietas subiecti scibi 
+      <lb ed="#V" n="98"/>lis conuenit primo motori immobili que talis est. 
+      <lb ed="#V" n="99"/>quoniam subiectum scibile est causatum causis 
+      in<lb ed="#V" n="100" break="no"/>trinsecis: quum sit definibile: et definitum 
+      constitua<lb ed="#V" n="101" break="no"/>tur ex partibus definitionis que sunt eius 
+      princt<lb ed="#V" n="102" break="no"/>pia intrinseca ex quibus fit vnum per se perseitate 
+      <lb ed="#V" n="103"/>primi modi. Tertia proprietas substanti scibilis conuenit: 
+      <lb ed="#V" n="104"/>quae talis est: quod subiectum scibile est prius quiditate scibili: et hoc 
+      <lb ed="#V" n="105"/>triplici prioritate originis perfectionis et notitie seu 
+      co<lb ed="#V" n="106" break="no"/>gnitionis. Primus autem motor immobilis 
+      prior<lb ed="#V" n="107" break="no"/>est hac triplici prioritate omni quiditate scibili 
+      de<lb ed="#V" n="108" break="no"/>ipso attributali et passionali. Quarta proprietas 
+      af<lb ed="#V" n="109" break="no"/>firmatiua sibi non repugnat que est: quod subiectum 
+      <lb ed="#V" n="110"/>scibile est posterius medtia ex natura rei: sicut 
+      defini<lb ed="#V" n="111" break="no"/>tum est posterius parte definitionis: et principiis 
+      con<lb ed="#V" n="112" break="no"/>stius: et proprietas affirmatiua subiecti scibilis 
+      pri<lb ed="#V" n="113" break="no"/>mo motori conuenit que talis est: quod quiditas 
+      sci<lb ed="#V" n="114" break="no"/>bilis est formaliter in subiecto scibili: quum sit eius 
+      <lb ed="#V" n="115"/>propria passio per se predicabilis in secundo 
+      mo<lb ed="#V" n="116" break="no"/>do de eo. Subiectum autem non potest carere sua 
+      <lb ed="#V" n="117"/>propria passione. Alias. conclusiodrimonstrata esset falsa. 
+      In<lb ed="#V" n="118" break="no"/>primo autem motore sunt plures quiditates scibi 
+      <lb ed="#V" n="119"/>les de ipso demonstrabiles. de quibus prolixior 
+      fi<lb ed="#V" n="120" break="no"/>et sermo: vt quod sit bonus: vnus verus: et sic de aliis. 
+    </p>
+            <p xml:id="nbnt23-n01430-d1e245">
+               <lb ed="#V" n="121"/>¶ Sexta proprietas subiecti scibilis affirtuatiua 
+      con<lb ed="#V" n="122" break="no"/>uenit primo motori immobili que talis est: quod qui 
+      <lb ed="#V" n="123"/>ditas scibilis cum subiecto scibili est idem realiter: 
+      <lb ed="#V" n="124"/>cum sit ab eo omnino inseparabilis: per se autem 
+      pas<lb ed="#V" n="125" break="no"/>siones primi motoris sunt idem realiter cum ipso: 
+      <lb ed="#V" n="126"/>quoniam inseparabiliter sibi insunt. Altia proprie 
+      <lb ed="#V" n="127"/>tas affirmatiua subiecti scibilis conuenit primo 
+      mo<lb ed="#V" n="128" break="no"/>tori que talis est: quod quiditas scibilis de subiecto est 
+      <lb ed="#V" n="129"/>formaliter distincta: et ex natura rei a subiecto: sicut 
+      <lb ed="#V" n="130"/>passio formaliter distinguitur a subiecto. per se autem
+      <pb ed="#V" n="93-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>passiones primi motoris dicuntur de eo per se 
+      per<lb ed="#V" n="2" break="no"/>seitate secundi modi et non primi: ergo ex natura 
+      rei<lb ed="#V" n="3" break="no"/>ab ipso formaliter distinguitur. Concludimus er 
+      <lb ed="#V" n="4"/>go quod primus motor est subiectum scibile: cum 
+      pro<lb ed="#V" n="5" break="no"/>prietates subiecti scibilis tam affirmatiue quam 
+      nege<lb ed="#V" n="6" break="no"/>tiue sibi conueniant: ideo primum motorem in hac 
+      sei<lb ed="#V" n="7" break="no"/>entia stabilimus pro subiecto: quid autem sit 
+      sub<lb ed="#V" n="8" break="no"/>iectum primum in hac theologia: et de ratione 
+      for<lb ed="#V" n="9" break="no"/>mali subiecti sufficienter dictum est in nostra 
+      meta<lb ed="#V" n="10" break="no"/>physica. capite quarto et quinto primi libri: nec 
+      hic<lb ed="#V" n="11" break="no"/>est necessarium repetere: sed sufficit: et intellectus 
+      <lb ed="#V" n="12"/>tuus sit semper applicatiuus istorum principiorum communium qunue 
+      <lb ed="#V" n="13"/>dicta sunt in nostra metaphysica ad tuum propositum 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

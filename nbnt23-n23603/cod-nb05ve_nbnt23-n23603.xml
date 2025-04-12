@@ -1,0 +1,1140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2 </title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2 </title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="127-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n23603"><!--ntheol-l7c2-->
+            <head xml:id="nbnt23-n23603-Hd1e97">Caput 2 </head>
+            <head xml:id="nbnt23-n23603-Hd1e99" type="question-title">De infinitate Dei abunde loquitur</head>
+            <p xml:id="nbnt23-n23603-d1e102">
+               <pb ed="#V" n="127-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>e
+      <lb ed="#V" n="2"/>¶ De infinitate dei abunde loquitur. Cap. II
+    </p>
+            <p xml:id="nbnt23-n23603-d1e113">
+               <lb ed="#V" n="3"/>Post hoc hoc autem perscrutemur an primus
+      <lb ed="#V" n="4"/>motis sit infinitus in vigore vel 
+      <lb ed="#V" n="5"/>non. hoc sunt aliqua certa et aliqua duntia. Certum et 
+      <lb ed="#V" n="6"/>autem et concessum ab omnibus phlosophis quod primus mois et 
+      <lb ed="#V" n="7"/>tuus in duratione: cum sit necessae esse et non possit 
+      <lb ed="#V" n="8"/>non esse: cum et sit eternus et perpetuus: nec hoc est proprie 
+      pro<lb ed="#V" n="9" break="no"/>prium primo motori: immo hoc conuenit vel saltem 
+      <lb ed="#V" n="10"/>conuenire potest omnibus aliis motoribus orbium: quod sint 
+      <lb ed="#V" n="11"/>infiniti indurat ione: cum sint entia sempiterna. hoc 
+      <lb ed="#V" n="12"/>idem concessum fuit a nostris progenitoribus de celo et 
+      ma<lb ed="#V" n="13" break="no"/>prima et aliquibus aliis. Certum est 2o quod primus m otor est 
+      <lb ed="#V" n="14"/>infinitus in duratione in mouere. fic intellecendo quod non tantum 
+      <lb ed="#V" n="15"/>pott manere in infinitum in essendo: immo etiam in infinitatas 
+      du<lb ed="#V" n="16" break="no"/>ratione potest mouere: et ratio hbus dicti fuit ista: quoniam est 
+      mo<lb ed="#V" n="17" break="no"/>omnino immoibilies et per se et per accidens: et per consequens potest continuare 
+      mo<lb ed="#V" n="18" break="no"/>tu suum in infinitum.
+    </p>
+            <p xml:id="nbnt23-n23603-d1e150">
+      ¶ Et si quaras an hoc sit proprium primo 
+      <lb ed="#V" n="19"/>motori quod sit infinitus in duratione in mouere et nulli 
+      al<lb ed="#V" n="20" break="no"/>teri conueniat. Palam consideranti dicta philosophorum quod sic: quoniam 
+      <lb ed="#V" n="21"/>posuerunt quod nulla virtus in corporae ex se mouet: immo 
+      fi<lb ed="#V" n="22" break="no"/>naliter cessaret mouere: et ratio hbus dicti eorum fuit ista: 
+      <lb ed="#V" n="23"/>quoniam intellectum continuatus orbi: quem mouet motitea ad motum 
+      <lb ed="#V" n="24"/>orbis: quia motis nobis mouentur per accidens omnia: quae sunt 
+      <lb ed="#V" n="25"/>in nobis. Nullum autem per accidens est perpetuum: immo potest 
+      <lb ed="#V" n="26"/>non esse. Adhuc autem quod intelligetua 2a non moueret nisi 
+      mo<lb ed="#V" n="27" break="no"/>ta a prima. ergo si primua non moueret eam in aliqua genere 
+      mo<lb ed="#V" n="28" break="no"/>tionis ipsa non moiaes. Sed licet hoc posuerint antiqui philosophi: 
+      no<lb ed="#V" n="29" break="no"/>ui tamen non sic: quoniam non videtur eis inconueniens nec impossibile: quod 
+      <lb ed="#V" n="30"/>si sol sit infinitus in duratione et aer siliter sit sibi propotio 
+      <lb ed="#V" n="31"/>natus non appret quin prpetuo possit illuminare aerem. Et 
+      <lb ed="#V" n="32"/>cum dicunt quod nullum per accidens est perpetuum: ista non est 
+      velai<lb ed="#V" n="33" break="no"/>vera: eti secundum eos: quia celum per accidens est quantum: et tamen est per 
+      pe<lb ed="#V" n="34" break="no"/>tuum. et de pelcalibus possed poni exemplum.
+    </p>
+            <p xml:id="nbnt23-n23603-d1e188">
+      ¶ 3a propositio sit 
+      ta<lb ed="#V" n="35" break="no"/>lis: quod primus motor est infinitus in entitate. hec fuit 
+      <lb ed="#V" n="36"/>probata superius cum fiebat sermo de infinitate primi 
+      mo<lb ed="#V" n="37" break="no"/>toris: nec altiori indiget probatione.
+    </p>
+            <p xml:id="nbnt23-n23603-d1e197">
+      ¶ Propositio 
+      <lb ed="#V" n="38"/>4oa sit talis. nulla inferior natura alia ab illo primo motore et 
+      <lb ed="#V" n="39"/>infinita in entitate eo modo quae posum est de primo motore. 
+      <lb ed="#V" n="40"/>hoc probatur: quoma tuc essent equales priamto motori in perfectione: 
+      <lb ed="#V" n="41"/>quod est omnino impossibile. Tum etiam quia omnia alia a primo 
+      motore<lb ed="#V" n="42" break="no"/>cadunt sub ente finito et liminuto: sicut sunt omnia entia 
+      <lb ed="#V" n="43"/>creata.
+    </p>
+            <p xml:id="nbnt23-n23603-d1e213">
+      ¶ Propositio 5o sit talis. Nulla 2a 
+      intellige<lb ed="#V" n="44" break="no"/>tia est infinita in vigore. hoc probis: quia tunc moueret 
+      in<lb ed="#V" n="45" break="no"/>non tempore: cuius oppscitum experimur. Tum eti quia nulla virtus in 
+      <lb ed="#V" n="46"/>magnitudine potest esse infitua in vigore: immo nec in 
+      dura<lb ed="#V" n="47" break="no"/>tione: quoniai virtus non est magis intensa quam substantia istius 
+      vu<lb ed="#V" n="48" break="no"/>tutis: quoniam vel virtus est totaliter idem cum eo cuius est: vbl 
+      <lb ed="#V" n="49"/>saltem est eius propria passio. sicut naturalis potentialiquid 
+      fai<lb ed="#V" n="50" break="no"/>vel producendi: sed substantia cuius est: est finita. ergo et eius virtus 
+      <lb ed="#V" n="51"/>intensitiue erit finita: quoniam de tali finitate nunc est secundmo: cum 
+      <lb ed="#V" n="52"/>non sit maioris perfectionis passio quam subiectum.
+    </p>
+            <p xml:id="nbnt23-n23603-d1e235">
+      ¶ Et si 
+      di<lb ed="#V" n="53" break="no"/>cas: quod licet virtus quantum ad entitatem suam iam sit finita 
+      inte<lb ed="#V" n="54" break="no"/>siue. tamen quantum ad hoc quod conmpratur ad effectum quie per eam pot 
+      <lb ed="#V" n="55"/>cape esse potest esse infinita intensiue. hoc est quod possit 
+      infet<lb ed="#V" n="56" break="no"/>re actionem infinitam intensiue et effectum infinitum intensiue. 
+    </p>
+            <p xml:id="nbnt23-n23603-d1e246">
+               <lb ed="#V" n="57"/>¶ Et confirmatur per exemplum de igne quie est. io. gradus et 
+      <lb ed="#V" n="58"/>finitus intensiue. si approximentur sibi infinita conbustibi 
+      <lb ed="#V" n="59"/>lia numero equaliter disposita ad conburendum et equaliter 
+      ap<lb ed="#V" n="60" break="no"/>proximata ipsi igni vel causaret infinitos ignes in illis 
+      <lb ed="#V" n="61"/>conbustius: vel in nullo causaret: cum omnia sint sibi 
+      equaliter<lb ed="#V" n="62" break="no"/>approximata: et sint equaliter disposita. non est dicendum quod 
+      <lb ed="#V" n="63"/>in nullo. ergto in omnibus. et per consequens illi ignes geniti essent 
+      <lb ed="#V" n="64"/>numero infiniti. si ergo omnes illi ignes geniti infiniti vnirentur 
+      <lb ed="#V" n="65"/>adinuice et facerent vnum ignem: iste ignis resultans ex 
+      il<lb ed="#V" n="66" break="no"/>lis ifinitis ignibus esset ifinitas intesiue. e ignis finitus. io¬
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>
+               <lb ed="#V" n="68"/>gduum: quia pott causare ignem infinitum intensiue habet in se 
+      virtute<lb ed="#V" n="69" break="no"/>infinintaum dato quod in se sit finitus.
+    </p>
+            <p xml:id="nbnt23-n23603-d1e279">
+      ¶ Responsio tibi. solutionem quare. 
+      <lb ed="#V" n="70"/>Dicamus ergo quod nullus 2s motor est infinitus intensitie.
+    </p>
+            <p xml:id="nbnt23-n23603-d1e285">
+               <lb ed="#V" n="71"/>De primo hotoreimobili simpliter an sit 
+      ri<lb ed="#V" n="72" break="no"/>nitus vel infinitus in vigore 
+      specu<lb ed="#V" n="73" break="no"/>landum est. ponamus ergo propositionem affirmatiuam: et 
+      di<lb ed="#V" n="74" break="no"/>camus quod primus motor est infinitus intensisue. hec 
+      pro<lb ed="#V" n="75" break="no"/>batur. Nulla virtus entitatis finite et limilie vt est duo 
+      <lb ed="#V" n="76"/>rum motorum potest equari virtuti primi motoris: hoc 
+      tamen<lb ed="#V" n="77" break="no"/>patet ex termins: quoniam isti motores sunt essentialiter 
+      ordina<lb ed="#V" n="78" break="no"/>ti secundum perfectius et impefectius. ergo primus motor est 
+      infini<lb ed="#V" n="79" break="no"/>tus intensiue. probatur consequentia: quoniam si esset virtutis finite 
+      inten<lb ed="#V" n="80" break="no"/>siue. sequitur quod aliqua virtus entitatis fite potest sibi esse 
+      equa<lb ed="#V" n="81" break="no"/>lis: quia nulla virtus finita intensiue repugnictio enti limintto et 
+      <lb ed="#V" n="82"/>finito. probatur aliter 2o sic. primus motor est infinitus in 
+      <lb ed="#V" n="83"/>entitate. ergo et in vigore intensiue. antecedens est 
+      manifestu<lb ed="#V" n="84" break="no"/>ex prioribus. consequentia probatur: quoniam sicut se habet ad entitatem: ita et 
+      <lb ed="#V" n="85"/>ad virtutem habet autem entitatem infinitam intensiue. ergo et virtutem 
+      <lb ed="#V" n="86"/>infinitam intensiue. Palam autem ex alio: quoniam quando aliqua indini 
+      <lb ed="#V" n="87"/>dua sunt eiu sdem rationis formalis: et vtrumque habet 
+      virtu<lb ed="#V" n="88" break="no"/>tem productiuam: si vnum istorum est infinitum intensiue 
+      ra<lb ed="#V" n="89" break="no"/>tione differentiae indiuilis ipsum conthentis: et aliud sit finitum 
+      inten<lb ed="#V" n="90" break="no"/>siue in entitate ratione differenie indiuibilius et sue realitatis. 
+      <lb ed="#V" n="91"/>si illud quod est finitum in entitate intensiue habet virtutem 
+      fi<lb ed="#V" n="92" break="no"/>nitan intensiue. ergo et illud quod est infinitum intesiue erit in vi 
+      <lb ed="#V" n="93"/>tute infinitus in tensiue. in primo autem motore et in aliis 
+      <lb ed="#V" n="94"/>et in nobis sunt talia duo indiua eiusdem rationis: sicut 
+      <lb ed="#V" n="95"/>intellectus et voluntas: et sic de pluribus aliis. erg et 6. 
+      <lb ed="#V" n="96"/>¶. Habet autem dubitationem magnam sic dicendo. et dubita 
+      <lb ed="#V" n="97"/>tio prima sit talis: que videtur demonstrare primum motorem 
+      no<lb ed="#V" n="98" break="no"/>esse infinitum intensiue in vigore. et hoc sic: Qualis est 
+      pro<lb ed="#V" n="99" break="no"/>portio virtutis ad virtutem. talis est proportio 
+      mobi<lb ed="#V" n="100" break="no"/>lis ad mobile: sed virtus finita potest mosite mobile 
+      fini<lb ed="#V" n="101" break="no"/>tum. ergo virtus infinita intensiue mobile infinitum: sed homne 
+      <lb ed="#V" n="102"/>est impossibile: quoniam si esset corpus infinitum non esset moie. vt 
+      <lb ed="#V" n="103"/>Aristo. demrat in primo celi et mundi 37 g non est 
+      da<lb ed="#V" n="104" break="no"/>re virtutem infinitam intensiue.
+    </p>
+            <p xml:id="nbnt23-n23603-d1e361">
+      ¶ Dubitatio 2a sit talis. 
+      <lb ed="#V" n="105"/>vyirtus finita mouet in tempore. ergo virtus infinita in non tempore. 
+      <lb ed="#V" n="106"/>probatur consequentia: quoniam qualis est proportio virtutis ad virtutem 
+      <lb ed="#V" n="107"/>talis est proportio temporis mensutituo motum vtrumque: sed 
+      fini<lb ed="#V" n="108" break="no"/>te virtutis ad virtutem infinitam nulla est proportio. ergo nec 
+      <lb ed="#V" n="109"/>mensure ad mensuram.
+    </p>
+            <p xml:id="nbnt23-n23603-d1e374">
+      ¶ Et confirmatur: quoniam si tanta virtus 
+      <lb ed="#V" n="110"/>in tanto tempore: et maior in minori. et per consequens 
+      infinita<lb ed="#V" n="111" break="no"/>in nullo. ert erit motus in instanti: sed contradictionem includit 
+      <lb ed="#V" n="112"/>motum fieri in instanti: cum motus sit essentialiter successi 
+      <lb ed="#V" n="113"/>uus: et affirmatio vnius partis prioris inferat negatio 
+      <lb ed="#V" n="114"/>nem alterius partis posterioris.
+    </p>
+            <p xml:id="nbnt23-n23603-d1e387">
+      ¶ Dubitatio vero 3m 
+      <lb ed="#V" n="115"/>sit talis. virtus infinita intensiue excludit a motu suo 
+      <lb ed="#V" n="116"/>omnem aliam virtutem: ita quod nulla alia virtus possit in 
+      mo<lb ed="#V" n="117" break="no"/>tu concurrere: quoniam causa totalis excludit ab effectum suo 
+      <lb ed="#V" n="118"/>omnem aliam causam totalem vel partialem. ert superflui et ociolsi 
+      <lb ed="#V" n="119"/>essent omnes alii motores a prio hoc autem est inconueniens. ergo et. 
+      <lb ed="#V" n="120"/>Dissolutio autem istarum dubitationum non est impossibilis: 
+      <lb ed="#V" n="121"/>licet sit difficilis.
+    </p>
+            <p xml:id="nbnt23-n23603-d1e405">
+      ¶ Dissoluamus esrt primam 
+      dubitatio<lb ed="#V" n="122" break="no"/>nem qua dicitur quod virtus infinita moueret corpus 
+      infi<lb ed="#V" n="123" break="no"/>nitum: quod est impossibile: quia corpus infinitum. si poneretur 
+      <lb ed="#V" n="124"/>non moueretur: nec motu recto: nec motu circumlari. 
+      <lb ed="#V" n="125"/>Dicitur etiam quod moueretur infra se non ad locum: quia locum non 
+      <lb ed="#V" n="126"/>habet. Et cum arguis quod 2oe linee exeutes a centro ad 
+      ciu<lb ed="#V" n="127" break="no"/>cumferentiam istius corporis infiniti: dicitur quod tu ymagi 
+      <lb ed="#V" n="128"/>naris quod sint ibi exeuntes et non sunt: quia corpus infinitum 
+      no<lb ed="#V" n="129" break="no"/>tenet nisi extremum. Dato tamen adhuc quod sit sic 
+      infinita<lb ed="#V" n="130" break="no"/>distantia inter istas lineas prtractas in infinitum a centro isti 
+      <lb ed="#V" n="131"/>corpris infinitum ad circum ferentiam: cum ergo vna ps istius 
+      circumfe<lb ed="#V" n="132" break="no"/>retie numque veniret ad locum alteris cum ibi sit distantia
+      <pb ed="#V" n="128-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>infinita et infinitum non potest pertransiri. similiter 
+      <lb ed="#V" n="2"/>autem istud spacium interceptum inter istas duas lineas 
+      <lb ed="#V" n="3"/>esset infinitum in actum et esset acceptum. ideo non 
+      vide<lb ed="#V" n="4" break="no"/>tur quin per virtutem infinitam intensiue posset per 
+      <lb ed="#V" n="5"/>transiri.
+    </p>
+            <p xml:id="nbnt23-n23603-d1e447">
+      ¶ Dissolutio autem 2ae dubitationis: que 
+      conclu<lb ed="#V" n="6" break="no"/>dit quod tuc sequitur quod motus possit fieri in instanti: quod 
+      il<lb ed="#V" n="7" break="no"/>lud quod tu infers pro inconuenieti non est inconueniens: nec 
+      <lb ed="#V" n="8"/>impossibile: quoniam motus potest fieri in instanti. Partes enim mot 
+      <lb ed="#V" n="9"/>quantum ad omnem realitatem vt dicunt nullam habent repugnam 
+      <lb ed="#V" n="10"/>tiam ad simul essendum: quoniam sicut motus potest 
+      <lb ed="#V" n="11"/>fieri in maiori et indifferenter. sic iste eedem partes 
+      <lb ed="#V" n="12"/>motus: que a virtute minore mouente fiunt in vno 
+      <lb ed="#V" n="13"/>mense possent fieri a virtute duplici in vigore in 
+      di<lb ed="#V" n="14" break="no"/>midio mense et in vno die et in vna hora: et sic semper 
+      <lb ed="#V" n="15"/>diuidendo teaproens secundum augmentum virtutis. ergo a virtu 
+      <lb ed="#V" n="16"/>te infinita potest fieri in instanti. At vero cum dicis quod 
+      mo<lb ed="#V" n="17" break="no"/>tus essentialiter est successiuus. dicitur quod hoc non est 
+      <lb ed="#V" n="18"/>verum accinus successionem proprie prout vna pars 
+      ce<lb ed="#V" n="19" break="no"/>dit alteri venienti: immo simul praestenst stare. Et si dicas 
+      <lb ed="#V" n="20"/>quod immo motus prout distinguitur contra mutationem 
+      ne<lb ed="#V" n="21" break="no"/>cessario est successiuus et diuilis: quia mutatio est 
+      indi<lb ed="#V" n="22" break="no"/>uisibilis et simultanea. Dicitur quod differentia motus et 
+      <lb ed="#V" n="23"/>mutationis non est in indite vel in diuisilite mensure: nisi 
+      <lb ed="#V" n="24"/>per accidens: quoniam motus potest mensurari eadem 
+      <lb ed="#V" n="25"/>mensura qua mutatio: et econcluio immo forte ipsa mutatio 
+      <lb ed="#V" n="26"/>quantum ad suam realitatem potest manere per tempus 
+      <lb ed="#V" n="27"/>et tempore mensurari. similiter autem et motus. hoc 
+      ta<lb ed="#V" n="28" break="no"/>men tibi sub dubio relinquo. Differentia 
+      mutatio<lb ed="#V" n="29" break="no"/>nis et motus est in diuisilite et in indiuisibilite motus et 
+      mu<lb ed="#V" n="30" break="no"/>tationis quantum ad suas realitates proprias: quoniam 
+      <lb ed="#V" n="31"/>mutatio est vna realitas simplex non diuisibilis in 
+      <lb ed="#V" n="32"/>plures realitates: cum non sit vt fertur nisi vna motio 
+      <lb ed="#V" n="33"/>passiua et indiuisibilis in sua entitate et realitate 
+      pro<lb ed="#V" n="34" break="no"/>pria siue raptim transeat siue per tempus maneat. 
+      <lb ed="#V" n="35"/>Motus autem est quedam realitas diuisibilis in 
+      plu<lb ed="#V" n="36" break="no"/>res realitates: quia includit plures productiones seu 
+      <lb ed="#V" n="37"/>motiones et translationes passiuas et in illas est 
+      diui<lb ed="#V" n="38" break="no"/>sibilis: sicut linea est diuisibilis realitas et punctus 
+      <lb ed="#V" n="39"/>est realitas simpliciter indiuisibilis: sic mutatio est 
+      <lb ed="#V" n="40"/>indiuisibilis. Motus vero diuisibilis. potest ergo 
+      mo<lb ed="#V" n="41" break="no"/>tus mensurari in instanti: et de hoc in physicis prolixius 
+      <lb ed="#V" n="42"/>fuit sermo.
+    </p>
+            <p xml:id="nbnt23-n23603-d1e531">
+      ¶ Dubitatio autem 3 sic dissoluitur: quo 
+      <lb ed="#V" n="43"/>niam primus motor non agit necessario et naturaliter: sed 
+      <lb ed="#V" n="44"/>magis libere et contingenter potest agere et mouere non 
+      se<lb ed="#V" n="45" break="no"/>cundum vltimum posse suum: nec secundum totum conatum suum: et 
+      <lb ed="#V" n="46"/>per consequens non vt causa totalis: et poterit motus 
+      secun<lb ed="#V" n="47" break="no"/>dus concurrere cum isto ad mouendum. Sed licet ista 
+      re<lb ed="#V" n="48" break="no"/>sponsio sit vera: supposito quod primus motor agat 
+      con<lb ed="#V" n="49" break="no"/>tingenter: non tamen si ageret necessario. Ponamus autem 
+      <lb ed="#V" n="50"/>primum motorem vigoris infiniti intensiue siue agat libe 
+      <lb ed="#V" n="51"/>re et contingenter siue necessario et naturaliter. Dissolua 
+      <lb ed="#V" n="52"/>tur ergo aliter sic praedicta ductio que accipit quod si primum 
+      <lb ed="#V" n="53"/>mouens esset vigoris infiniti intensiue quod excluderet 
+      <lb ed="#V" n="54"/>omnem aliam causam 2m cum esset causa totalis effectus 
+      <lb ed="#V" n="55"/>et motus. ista est neganda: quoniam sicut dictum fuit in 
+      phy<lb ed="#V" n="56" break="no"/>sicis et alibi pluries repetitum: plices cause totales 
+      pos<lb ed="#V" n="57" break="no"/>sunt concurrere ad eundem effectum. similiter autem et vna 
+      <lb ed="#V" n="58"/>causa totalis et alia non totalis: immo partialis quantum 
+      <lb ed="#V" n="59"/>est de se: acciuo tamen totalem causam exclusiue et non 
+      inclu<lb ed="#V" n="60" break="no"/>siue. causa autem totalis exclusiue dicitur ista: que ex 
+      se<lb ed="#V" n="61" break="no"/>apta nata est ponere effectum omni alia causa 
+      exclu<lb ed="#V" n="62" break="no"/>sa per possibile vel impossibile: et partialis per opsitum: que 
+      <lb ed="#V" n="63"/>ex se non est nata ponere effectum omni alia causa 
+      <lb ed="#V" n="64"/>exclus. totalis autem causa inclusiue est ista: que 
+      inclu<lb ed="#V" n="65" break="no"/>dit omnes causas in actu compossibiles et acceptabiles
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>respectu vnius effectus: et in isto sensu sic accis 
+      cau<lb ed="#V" n="67" break="no"/>sam totalem sic inclusiue: impossibile est quod plures 
+      <lb ed="#V" n="68"/>cause totales vnius effectus simul concurrant ad vnum 
+      <lb ed="#V" n="69"/>effectum. primus autem motor si poneretur infinitus 
+      <lb ed="#V" n="70"/>intensiue in vigore esset causa totalis exclusiue non 
+      <lb ed="#V" n="71"/>inclusiue: et per consequens possent motores 
+      secundi<lb ed="#V" n="72" break="no"/>concurrere cum eo ad mouendum vt videtur. Concludamus 
+      <lb ed="#V" n="73"/>ergo primum motorem simpliciter immobilem esse 
+      virtu<lb ed="#V" n="74" break="no"/>tis infinite intensiue in vigore: et nihil aliud a primo 
+      <lb ed="#V" n="75"/>motore esse virtutis infinite intensiue in vigore: licet 
+      <lb ed="#V" n="76"/>sint infinita in essendo et in mouere secundum nouos philosophos: 
+      <lb ed="#V" n="77"/>sed non secundum antiquos. 
+    </p>
+            <p xml:id="nbnt23-n23603-d1e612">
+               <lb ed="#V" n="78"/>habet autem dubitationem ex dictis 
+      tra<lb ed="#V" n="79" break="no"/>hentem originem. dictum enim 
+      <lb ed="#V" n="80"/>est quod primus motor est infinitus in vigore 
+      intensi<lb ed="#V" n="81" break="no"/>ue. dictum est secundo quod primus motor non mouet 
+      ne<lb ed="#V" n="82" break="no"/>cessario et naturaliter: sed libere et contingenter. 
+      Circa<lb ed="#V" n="83" break="no"/>hoc est dubium an primus motor possit agere secundum 
+      vel<lb ed="#V" n="84" break="no"/>timum posse suum siue secundum vltimum sue potentie et 
+      ef<lb ed="#V" n="85" break="no"/>fectum eque perfectum: sicut si ageret naturaliter. 
+      Fer<lb ed="#V" n="86" break="no"/>tur a quodam quod non: quoniam agit secundum iudicium sue 
+      ra<lb ed="#V" n="87" break="no"/>tionis et beneplaciti sui. ideo non opte quod agat et 
+      mo<lb ed="#V" n="88" break="no"/>ueat secundum vltimum potentie sue. virtus autem necessario 
+      <lb ed="#V" n="89"/>mouens ageret secundum vltimum potentia sue. et ideo effectum 
+      <lb ed="#V" n="90"/>perfectiore produceret. non sic autem virtus infinita mouens 
+      <lb ed="#V" n="91"/>libere et contingenter. Palam autem quod illud non est 
+      suffi<lb ed="#V" n="92" break="no"/>cienter dictum: quoniam non querimus si virtus infinita in 
+      <lb ed="#V" n="93"/>vigore intensiue producat semper secundum vltimum 
+      poten<lb ed="#V" n="94" break="no"/>tie sue ista que contingenter agit. Potest modo 
+      inten<lb ed="#V" n="95" break="no"/>se. modo remisse secundum iudicium sue rationis. Sed hic 
+      <lb ed="#V" n="96"/>queritur an hoc possit: ita quod de possibili possit 
+      produ<lb ed="#V" n="97" break="no"/>cere effectum perfectiorem qui contineat in tali 
+      cau<lb ed="#V" n="98" break="no"/>sa virtualiter: et quod possit agere secundum vltimum virtutis 
+      <lb ed="#V" n="99"/>sue et vigoris. Et ideo non est responsum sufficienter: quia 
+      <lb ed="#V" n="100"/>tantum dictum est de facto: et de inesse. non autem de possibi 
+      <lb ed="#V" n="101"/>li. Dicamus autem propositionem affirmatiuam: quod 
+      poten<lb ed="#V" n="102" break="no"/>tia libere agens et contingenter siue sit virtutis 
+      infini<lb ed="#V" n="103" break="no"/>te siue fite potest agere secundum vltimum vigoris: sui ita quod 
+      <lb ed="#V" n="104"/>posset in effectum perfectiorem. hoc probatur sic. illa 
+      <lb ed="#V" n="105"/>conditio que non diminuit de ratione vigoris potentis 
+      <lb ed="#V" n="106"/>infinite intensiue non diminuit de ratione effectiue 
+      <lb ed="#V" n="107"/>productionis effectus posilius produci secundum talem positiuam: sed 
+      <lb ed="#V" n="108"/>conditio libertatis et continguietur non diminuit de ratione 
+      <lb ed="#V" n="109"/>potentie actiue siue finite siue infinite. ergo nec 
+      de<lb ed="#V" n="110" break="no"/>ratione libere et continuitur: nec de ratione necessario et 
+      natu<lb ed="#V" n="111" break="no"/>raliter agentis: sed potentia et virtus infinita in vigo 
+      <lb ed="#V" n="112"/>re si ageret necessario ageret secundum vltimum sue potentie. 
+      <lb ed="#V" n="113"/>ergo et virtus infinita intensiue in vigore libere et 
+      <lb ed="#V" n="114"/>contingenter agens et mouens mouere potest secundum vltimum 
+      <lb ed="#V" n="115"/>potentie sue: nec apparet ratio quare magis virtus 
+      natu<lb ed="#V" n="116" break="no"/>ralis agat secundum vltimum sue potentie quam libere: et 
+      contin<lb ed="#V" n="117" break="no"/>genter agens: nisi quia vna virtus agit secundum vltimum et 
+      <lb ed="#V" n="118"/>potentie sue naturaliter et necessario et semper de inesse. 
+      <lb ed="#V" n="119"/>Alia autem libere et contingenter potest agere secundum vltimum 
+      <lb ed="#V" n="120"/>potentie sue vel non agere secundum quod placet sibi. Amplius 
+      <lb ed="#V" n="121"/>autem aliter probatur sic. quoniam si virtus infinita 
+      in<lb ed="#V" n="122" break="no"/>tensiue in vigore libere et contingenter agens non 
+      po<lb ed="#V" n="123" break="no"/>test agere secundum vltimum sue potentie. sequitur quod virtus 
+      <lb ed="#V" n="124"/>finita potest in equali tempore agere et mouere: sicut 
+      <lb ed="#V" n="125"/>virtus infinita in vigore. hoc autem absurdum est: sicut 
+      <lb ed="#V" n="126"/>quilibet deducere potest: probatio consequentie: quoniam 
+      si<lb ed="#V" n="127" break="no"/>virtus infinita intensiue in vigore non potest 
+      age<lb ed="#V" n="128" break="no"/>re effectum secundum vltimum sue potentie: sed 
+      secun<lb ed="#V" n="129" break="no"/>dum aliquem graduum certum. sequitur quod alia virtus 
+      fini<lb ed="#V" n="130" break="no"/>ta poterit aliquem gradum equa perfectum eque producere:
+      <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>quoniam per augmentum virtutis finite poterimus v 
+      <lb ed="#V" n="2"/>nire vsque ad virtutem: que in equali tempore poterit moite 
+      <lb ed="#V" n="3"/>et producere: que tamen virtus erit finita: et sic virtus ma¬ 
+      <lb ed="#V" n="4"/>ior non mouebit in minori mensura quam minor: quod est ent 
+      <lb ed="#V" n="5"/>veritatem et demonstrationem Arist. 7. physic. et in pluri¬ 
+      <lb ed="#V" n="6"/>bus aliis locis. Concludamus ergo quod virtus finita si¬ 
+      <lb ed="#V" n="7"/>ue infinita in vigore intensiue agens libere et continuitur potest 
+      <lb ed="#V" n="8"/>agere secundum vltimum potentiae sue conformite: sicut potentia et virtus 
+      <lb ed="#V" n="9"/>agens et mouens necessario: et potest producere effectum perfe¬ 
+      <lb ed="#V" n="10"/>ctum: quem potest producere et mouere velociori motum quam 
+      <lb ed="#V" n="11"/>possit mouere: et vltra istum motum non posset mo¬ 
+      <lb ed="#V" n="12"/>tum velociorem causare.
+    </p>
+            <p xml:id="nbnt23-n23603-d1e758">
+               <lb ed="#V" n="13"/>Dicto de infinitate intesiua primi moni¬ 
+      <lb ed="#V" n="14"/>perscrutari restat 
+      <lb ed="#V" n="15"/>an talis infinitas in vigore ad se extendat. Palam 
+      <lb ed="#V" n="16"/>autem quod non se extendit ad producendum alium motorem primum 
+      <lb ed="#V" n="17"/>equalem sibi in natura et vigore distinctum ab ipso eentia 
+      <lb ed="#V" n="18"/>liter realiter realitate absoluta: siue iste alius motor ab 
+      <lb ed="#V" n="19"/>eo productus sit eiusdem rationis et numeraliter distin¬ 
+      <lb ed="#V" n="20"/>ctus: siue sit alterius rationis ab illo. hec propositio superius 
+      <lb ed="#V" n="21"/>libo 2o sufficienter fuit probata: quoniam ibi factus est secundmo 
+      <lb ed="#V" n="22"/>de implurite primi motoris: et quod semper primus motor est 
+      <lb ed="#V" n="23"/>impluciliue: nec est necessarium aliud addere.
+    </p>
+            <p xml:id="nbnt23-n23603-d1e784">
+      ¶ Inquira 
+      <lb ed="#V" n="24"/>mus ergo ad que virtus eius infinita se extendit. Pro¬ 
+      <lb ed="#V" n="25"/>positio ergo prima sit talis: virtus infinita intensiue primi 
+      <lb ed="#V" n="26"/>motoris se extendit ad producendum infinita extensius 
+      <lb ed="#V" n="27"/>secundum mulitasem hoc probatu: quoniam que nullam repugnantiam 
+      <lb ed="#V" n="28"/>habent ad sil coexistere et esse nullam videntur habere repu¬ 
+      <lb ed="#V" n="29"/>gnantiam ad simul produci et specialiter a virtute infini¬ 
+      <lb ed="#V" n="30"/>ta in vigore: sed infinita singularia permanentia nul¬ 
+      <lb ed="#V" n="31"/>lam habent repugnantiam eiusdem rationis scilicet ad simi esse et 
+      <lb ed="#V" n="32"/>coexistere: cum nullam habeant oppositionem. ergo talis virtus 
+      <lb ed="#V" n="33"/>infinita in vigore potest producere infinitam multitudi¬ 
+      <lb ed="#V" n="34"/>nem indiuiduorum infra eandem speciem. Et aliter pro¬ 
+      <lb ed="#V" n="35"/>batur minor scilicet quod singuitatitue infinita nullam habeant repugnan¬ 
+      <lb ed="#V" n="36"/>tiam: quoniam vbi maior pluralitas non habet maiorem repu¬ 
+      <lb ed="#V" n="37"/>gnantiam quam minor pluralitas: nec infinita pluralitas 
+      <lb ed="#V" n="38"/>habet aliquam repugnantiam. 
+    </p>
+            <p xml:id="nbnt23-n23603-d1e819">
+      ¶ Confirmatur. quoniam si infinita:m 
+      <lb ed="#V" n="39"/>naturalis talium singularium haberet repugnantiam: autem ha¬ 
+      <lb ed="#V" n="40"/>beret infinitam repugnantiam: autem finitam. non infinitam: quoniam 
+      <lb ed="#V" n="41"/>infinita repugnantia non videtur esse causa. quare infinita¬ 
+      <lb ed="#V" n="42"/>adiuicem repugnent: nec finita: quoniam infinita repugnan¬ 
+      <lb ed="#V" n="43"/>tia constituit ex infinitis repugnantiis secundum numerum: si¬ 
+      <lb ed="#V" n="44"/>cut infinita linea constituitur ex infinitis lineis secundum quanti¬ 
+      <lb ed="#V" n="45"/>tatem et infinitis secundum numerum: sed infinitas repugnantie¬ 
+      <lb ed="#V" n="46"/>secundum numerum includit repugnantiam cuiuslibet indiui 
+      <lb ed="#V" n="47"/>dui ad quodlibet indiuiduum. Ubi autem est repugnantia 
+      <lb ed="#V" n="48"/>cuiuslibet indiuidui ad quodlibet indiuiduum non paesent plu¬ 
+      <lb ed="#V" n="49"/>ra indiuidua comexistere simul in aliquo numero: nec 
+      <lb ed="#V" n="50"/>finito nec infinito. non autem illa. sic in proposito: quoniam plu¬ 
+      <lb ed="#V" n="51"/>ra indiuidua coexistunt simul saltem in aliquo nume¬ 
+      <lb ed="#V" n="52"/>ro finito. ergo infinitas numeralis talium singularium non 
+      <lb ed="#V" n="53"/>habet repugnantiam: nec finitam: nec infinitam. ergo absolicte videtur 
+      <lb ed="#V" n="54"/>possibile. 
+    </p>
+            <p xml:id="nbnt23-n23603-d1e856">
+      ¶ Amplius autem probatur quod non in multitudine 
+      <lb ed="#V" n="55"/>infinita singularium est repugnantia infinita: quoniam sicut 
+      <lb ed="#V" n="56"/>repugnant infinita ad numerum infinita multitudine: 
+      <lb ed="#V" n="57"/>ita repugnant finita ad multitudinem infinitam: quia si 
+      <lb ed="#V" n="58"/>cut negatio finita ad affirmationem infinitam: sed mul¬ 
+      <lb ed="#V" n="59"/>titudo finita simul non includit repugnantiam infinitam 
+      <lb ed="#V" n="60"/>quod patet de se. ergo multitudo finita non includit repugnam 
+      <lb ed="#V" n="61"/>tiam finitam vt patet de se. ergo nullam includit repugnantianm
+    </p>
+            <p xml:id="nbnt23-n23603-d1e875">
+               <lb ed="#V" n="62"/>¶ Habet autem dubitatione ex dictis trahysiteum originem. si¬ 
+      <lb ed="#V" n="63"/>est dare multitudinem infinitan singularium sub aliqua 
+      <lb ed="#V" n="64"/>specie vel ista adequabunt totam istam speciem: vel non si non. 
+      <lb ed="#V" n="65"/>tuc non sunt infinita: quoniam aliqua alia prastuent addi quae sub ea¬
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>dem specie continentur. infinito autem nihil est maius: nec infini¬ 
+      <lb ed="#V" n="67"/>to actum nihil est maius. si sic. quero an 2o singula¬ 
+      <lb ed="#V" n="68"/>ria de illa multitudine infinita possint annihilari: et patet 
+      <lb ed="#V" n="69"/>quod sic: quoniam omne producie est annihile et specialiciter in natura limitata. 
+      <lb ed="#V" n="70"/>quero de residuo an sit finitum vel infinitum. non finitum: 
+      <lb ed="#V" n="71"/>quia tunc ex illis et aliis duobus primis existentibus non fie¬ 
+      <lb ed="#V" n="72"/>bat vna multitudo infinita: quom ex finitus non fit infini¬ 
+      <lb ed="#V" n="73"/>tum. si dicis quod sit infinitum. ergo sequitur quod adequat totan¬ 
+      <lb ed="#V" n="74"/>suam speciem. et per consequens ista duo: que sunt annihiluta non 
+      <lb ed="#V" n="75"/>continebantur sub illa specie: quod falsum est et contra praesuppo¬ 
+      <lb ed="#V" n="76"/>situm. 
+    </p>
+            <p xml:id="nbnt23-n23603-d1e912">
+      ¶ Dissolutio autem istius dubitationis facilis est et stat 
+      <lb ed="#V" n="77"/>in hoc: quoniam infinitas numeralis est in duplici differentia. 
+      <lb ed="#V" n="78"/>quedam enim est infinitas naturalis actualis secundum quid scilicet non 
+      <lb ed="#V" n="79"/>tot quin plura: tamen quod acceptum est: est infinitum. nam per abla 
+      <lb ed="#V" n="80"/>tionem cuiuscumque partis finite: etiam secundum eandem quantitatem 
+      <lb ed="#V" n="81"/>tale infinitum vel talis multitudo non posset consumi et 
+      <lb ed="#V" n="82"/>talis multitudo infinita non adequat totam suam speciem: 
+      <lb ed="#V" n="83"/>quia non sunt tot quin plura: et tali multitudini infra ean¬ 
+      <lb ed="#V" n="84"/>dem speciem bene posset fieri additio: sicut dictum est 
+      <lb ed="#V" n="85"/>libro 2o huius theologie naturalis: alia est infinitas 
+      <lb ed="#V" n="86"/>actualis simpliciter: et est cui nulla potest fieri additio in 
+      <lb ed="#V" n="87"/>fra eandem speciem: infinitas simpliciter dicitur quod sunt tot quod 
+      <lb ed="#V" n="88"/>non plura et ista adequat totam suam speciem: et si abstra¬ 
+      <lb ed="#V" n="89"/>has duo vel tria: quod remanet non est iam sic infinitum 
+      <lb ed="#V" n="90"/>infinitre simpliciter: licet sit infinitum: secundum quid secundum quod supra fuit 
+      <lb ed="#V" n="91"/>expositum. primus autem motor potest producere multitudi¬ 
+      <lb ed="#V" n="92"/>nem infinitam: quia talis multitudo infinita nul¬ 
+      <lb ed="#V" n="93"/>lam includit repugnantiam. 
+    </p>
+            <p xml:id="nbnt23-n23603-d1e951">
+               <lb ed="#V" n="94"/>Propositio 2e sit talis: quo primus motor 
+      <lb ed="#V" n="95"/>potest producere magnitudinem 
+      <lb ed="#V" n="96"/>infinitam. hoc probatur: et probiomtio eius apparet ex prima pro¬ 
+      <lb ed="#V" n="97"/>positione: quoniam si multitudo infinita secundum numerum est 
+      <lb ed="#V" n="98"/>possibilis in actu. ergo et magnitudo. probatur consequentia: quaniam 
+      <lb ed="#V" n="99"/>ex ista multitudine infinita potest fieri vnum quantum et 
+      <lb ed="#V" n="100"/>vna magnitudo. Palam autem quod talis magnitudo 
+      <lb ed="#V" n="101"/>que resultat ex illis infinitis quantitatibus partiali¬ 
+      <lb ed="#V" n="102"/>bus ditatiso: secundum numerum erit infinita magnitudo. Exem¬ 
+      <lb ed="#V" n="103"/>plum. si ex infinitis lineis bipedalibus ditaius secundum nu¬ 
+      <lb ed="#V" n="104"/>merum per vnionem constitueretur vna linea: et patet quod ista 
+      <lb ed="#V" n="105"/>linea non esset finita: immo esset necessario infinita. consequentia ista 
+      <lb ed="#V" n="106"/>erit necessaria: quod si est multitudo infinita quantorum possi¬ 
+      <lb ed="#V" n="107"/>bilis. sequitur quod magnitudo vna infinita est possibilis. 
+      <lb ed="#V" n="108"/>et per consequens possibile est dare corpus quantum infinitum: quoniam sicut 
+      <lb ed="#V" n="109"/>est dare lineam infinitam: sic est superficies infinita: et cor¬ 
+      <lb ed="#V" n="110"/>pus infinitum. 
+    </p>
+            <p xml:id="nbnt23-n23603-d1e990">
+      ¶ Habet autem dubitationem magnam sic dicem 
+      <lb ed="#V" n="111"/>do: quoniam sicut recta per te potest esse infinita sicu et linea cium 
+      <lb ed="#V" n="112"/>cularis vt videtur potest esse actu infinita. hoc est falsum: 
+      <lb ed="#V" n="113"/>quia figure termino vel terminis clauduntur. quod autem est 
+      <lb ed="#V" n="114"/>terminatum et clausum non est finitum. ergo linea circularis 
+      <lb ed="#V" n="115"/>non potest fieri infinita. Adhuc autem patet de 3o et 4o et bi¬ 
+      <lb ed="#V" n="116"/>cubito et tricubito: quoniam cum sint figure quodam termi¬ 
+      <lb ed="#V" n="117"/>no clauduntur 
+    </p>
+            <p xml:id="nbnt23-n23603-d1e1008">
+      ¶ Dubitatio autem 2a sequitur ponendo mul¬ 
+      <lb ed="#V" n="118"/>titudinem infinitan siue secundum numerum siue secundum magnitu 
+      <lb ed="#V" n="119"/>dinem: quoniam tunc sequitur quod pars est equalis toti et conuer¬ 
+      <lb ed="#V" n="120"/>titur consequentia: quod est contra prinsitum: quod omne totum est maius sua parte: 
+      <lb ed="#V" n="121"/>quod tamen est prinduicitum per se notum vel conclusi deducta ex pringctio per 
+      <lb ed="#V" n="122"/>se noto. 
+    </p>
+            <p xml:id="nbnt23-n23603-d1e1021">
+      ¶ Dissolutio istorum dubiorum possibilis est. nam 
+      <lb ed="#V" n="123"/>prime dubitationis dissolutio stat in hoc quod cum dici¬ 
+      <lb ed="#V" n="124"/>tur quod figura circularis non potest esse actu infinita. Dici¬ 
+      <lb ed="#V" n="125"/>tur quod pott esse actu infinita priuatiue scilicet per priuationem 
+      <lb ed="#V" n="126"/>terminorum. figura enim circularis nullum habet termi¬ 
+      <lb ed="#V" n="127"/>num in actu: quoniam in circulo nullus est punctus vt 
+      <lb ed="#V" n="128"/>punctus in actu: sed omnia puncta sunt in circulo in poten¬ 
+      <lb ed="#V" n="129"/>tia: sed omnia puncta que sunt infra lineam rectam sunt in po¬ 
+      <lb ed="#V" n="130"/>tentia et nullum in actu distincte: licet ibi sint in actu¬ 
+      <pb ed="#V" n="129-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>essentiali et entitatiuo. patet ergo quod circulus quicumque et 
+      quan<lb ed="#V" n="2" break="no"/>tumcumque minimus est infinitus priuatiue. Sed quoniam de 
+      <lb ed="#V" n="3"/>tali infinite non quarimus: sed tantum de infitue positiua: sicut 
+      di<lb ed="#V" n="4" break="no"/>quod linea recta infinita potest esse positiue includens in se 
+      per<lb ed="#V" n="5" break="no"/>tes eiusdem quantitatis infinitas: numquid circulus possit 
+      <lb ed="#V" n="6"/>esse actu infinitus. Respondeo. dico quod sic: et ratio est ista: 
+      <lb ed="#V" n="7"/>quoniam sicut ex finita et recta linea potest fieri linea cipliates 
+      <lb ed="#V" n="8"/>finita: ita videtur quod ex linea recta actu infinita possit 
+      fie<lb ed="#V" n="9" break="no"/>ri linea circularis actu infinita. eadem enim est ratio hoc et 
+      <lb ed="#V" n="10"/>ibi. si autem est linea recta infinita est facta linea 
+      cir<lb ed="#V" n="11" break="no"/>cularis.
+    </p>
+            <p xml:id="nbnt23-n23603-d1e1070">
+      ¶ Palam autem quod talis linea circularis esset 
+      <lb ed="#V" n="12"/>actu infinita cum tota essentia et omne pos linee quod erat 
+      <lb ed="#V" n="13"/>in linea quando erat recta. modo sic est ibi: quoniam 
+      linea<lb ed="#V" n="14" break="no"/>est facta circularis.
+    </p>
+            <p xml:id="nbnt23-n23603-d1e1079">
+      ¶ At vero cum dicis. quod linea 
+      cir<lb ed="#V" n="15" break="no"/>cularis termino vel termis clauditur cum sit figura 
+      quae<lb ed="#V" n="16" break="no"/>dam: quod autem termino vel terminis clauditur finitum est. 
+    </p>
+            <p xml:id="nbnt23-n23603-d1e1086">
+               <lb ed="#V" n="17"/>¶ Respondeo 2 quod aliquid potest bene termino vel termis 
+      <lb ed="#V" n="18"/>claudi: et tamen erit realiter infinitum: sicut dictum fuit in 
+      phy<lb ed="#V" n="19" break="no"/>sicis. in caio: de tempore. in tractatum de mundi eternitate. 
+      <lb ed="#V" n="20"/>ibi enim fuit dictum quod linea recta clausa infra 2o puncta 
+      <lb ed="#V" n="21"/>in actu potest esse realiter et positiue infinita: licet formaliter et de 
+      <lb ed="#V" n="22"/>nominatiue sit finita ab illis duobus punctis finienbus 
+      <lb ed="#V" n="23"/>ipsam. Exemplum. imaginemur vnam lineam rectam secundum 
+      <lb ed="#V" n="24"/>longitudinem. auferatur ab illa vna linea vnius pedis 
+      <lb ed="#V" n="25"/>ex vtraque parte. patet quod tunc residuum claudet 
+      infra<lb ed="#V" n="26" break="no"/>duo puncta in actu: et tamen residuum erit infinitum 
+      nega<lb ed="#V" n="27" break="no"/>tiue: quoniam illud est infinitum quod per ablationem 
+      par<lb ed="#V" n="28" break="no"/>tis finite secundum eandem quantitatem. Palam autem quod dato quod 
+      <lb ed="#V" n="29"/>linea circularis sit clausa inter terminos quin sit 
+      infi<lb ed="#V" n="30" break="no"/>nita. adhuc autem quod dicitur figura termino clauditur dicitur 
+      <lb ed="#V" n="31"/>quod hec non est diffictio figure in communi: sed tantum figure finite. 
+      <lb ed="#V" n="32"/>Interum dicitur quod verum est quod illud quod clauditur est 
+      fini<lb ed="#V" n="33" break="no"/>tum. si claudatur termio intrinseco. sicut linea puncto: 
+      <lb ed="#V" n="34"/>non autem termino extrinseco. Circucitas autem seu 
+      figura<lb ed="#V" n="35" break="no"/>est qualitas. et ideo non est terminus intrinsecus alicuius 
+      <lb ed="#V" n="36"/>linee siue recte siue non recte. Ratio 2a sit talis. quod 
+      figu<lb ed="#V" n="37" break="no"/>ra cum sit quedam qualitas realiter distincta a linea 
+      qua<lb ed="#V" n="38" break="no"/>cumque et a quantitate: et quantitas sit prior. sequitur quod nulla 
+      <lb ed="#V" n="39"/>est repugnia quin sit talis linea circularis sine 
+      quacum<lb ed="#V" n="40" break="no"/>que figura: ita quod non erit ibi aliqua figura formaliter sed 
+      <lb ed="#V" n="41"/>tantum maliter et fundamentaliter. Oud autem additur de 
+      bicubi<lb ed="#V" n="42" break="no"/>to et tricubito dicendum est quod non sunt species quantitatis: sed 
+      <lb ed="#V" n="43"/>magis releationis. ergo nihil ad propositum de quantitate quin 
+      pos<lb ed="#V" n="44" break="no"/>sit esse infinita. vel potest dici: sicut statim dictum fuit: quod 
+      <lb ed="#V" n="45"/>quantitas cum sit prior quacumque figura virtute 
+      infini<lb ed="#V" n="46" break="no"/>ta primi motoris poterit sine omni figura fieri et esse. 
+    </p>
+            <p xml:id="nbnt23-n23603-d1e1154">
+               <lb ed="#V" n="47"/>¶ Propositio 3a sit talis. virtus infinita in vigore 
+      <lb ed="#V" n="48"/>potest producere aliquod infinitum intensiue. hec 
+      pro<lb ed="#V" n="49" break="no"/>positio patet ex prima et secunda propositione: quoniam si potest 
+      pro<lb ed="#V" n="50" break="no"/>ducere infinitam multitudinem sub eadem specie: et 
+      infi<lb ed="#V" n="51" break="no"/>nitam magnitudinem: sequitur quod potest producere 
+      infini<lb ed="#V" n="52" break="no"/>tam entitatem intensiue. si enim potest producere infinitos 
+      ca<lb ed="#V" n="53" break="no"/>lores et istos adinuicem vnire. sequitur quod ignis ex 
+      infi<lb ed="#V" n="54" break="no"/>nitis istis caloribus erit calor infinitus intensiue: 
+      <lb ed="#V" n="55"/>quoniam calor. io. graduum intensior est quam calor nouen 
+      <lb ed="#V" n="56"/>graduum: et nouem quam octo: et sic in infinitum. ergo sequitur 
+      <lb ed="#V" n="57"/>quod calor erit infinitus intensiue.
+    </p>
+            <p xml:id="nbnt23-n23603-d1e1180">
+      ¶ Et si arguas quod tunc 
+      <lb ed="#V" n="58"/>dicet perfectionem infinitam: quoniam calor 
+      quan<lb ed="#V" n="59" break="no"/>to intensior tanto perfectior. ergo infinite 
+      inten<lb ed="#V" n="60" break="no"/>sus est infinite perfectus. Confirmatur per idem 
+      de<lb ed="#V" n="61" break="no"/>cogitatione: quoniam possibile est dare vnam 
+      intellectio<lb ed="#V" n="62" break="no"/>nem actu infinitam intensiue. et per consequens intellectus possed 
+      <lb ed="#V" n="63"/>comprehendere primum motorem et intelligere quantum 
+      intelli<lb ed="#V" n="64" break="no"/>gibilis est.
+    </p>
+            <p xml:id="nbnt23-n23603-d1e1198">
+      ¶ Adhuc autem sequitur quod talia 
+      infinita<lb ed="#V" n="65" break="no"/>intensiue non essent in aliquo genere. Oem autem ens limi
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>tatum et finitum est in aliquo genere: cum ens limi 
+      <lb ed="#V" n="67"/>tatum diuidatur in. x. prima genera.
+    </p>
+            <p xml:id="nbnt23-n23603-d1e1210">
+      ¶ Dissolutio 
+      <lb ed="#V" n="68"/>autem istorum facilis est: nam cum dicis quod calor 
+      <lb ed="#V" n="69"/>infinitus intensiue esset perfectus simpliciter neganti 
+      <lb ed="#V" n="70"/>est: sed esset perfectus secundum quid: quia infra 
+      propri<lb ed="#V" n="71" break="no"/>am speciem: et in genere et non extra genus: et talis 
+      <lb ed="#V" n="72"/>infinitas non videtur dicere perfectionem 
+      simpli<lb ed="#V" n="73" break="no"/>citer: cum non sit infinitas simpliciter: sed tantum secundum quid. 
+      <lb ed="#V" n="74"/>Quod autem additur de intellectione dicendum est 
+      comn<lb ed="#V" n="75" break="no"/>formite: sicut de calore: quod non est infinitus simpliciter: et per 
+      <lb ed="#V" n="76"/>conseques per talem intellectionem non comprehenditur 
+      pri<lb ed="#V" n="77" break="no"/>mus motor quantum comprehensibilis est. Et per consequens nec 
+      <lb ed="#V" n="78"/>valet quod dicis quod nullum infinitum est per se in genere. patet quod 
+      <lb ed="#V" n="79"/>illud non est verum de infinito secundum quid. Linea enim 
+      infini<lb ed="#V" n="80" break="no"/>ta secundum quid est per se in genere. Liuor autem infinita secundum quid et 
+      fini<lb ed="#V" n="81" break="no"/>ta simtus sunt eiusdem rationis: et habent eandem diffiniti 
+      <lb ed="#V" n="82"/>onem. Diffinitio autem constituitur ex genere et differentia: ergo 
+      <lb ed="#V" n="83"/>sequitur quod tale infinitum secundum quid potest esse per se in 
+      <lb ed="#V" n="84"/>genere. At vero cum tum arguis quod ens finitum et limitatum 
+      <lb ed="#V" n="85"/>est commune ad. x. prima genera. Respondetur quod est 
+      infi<lb ed="#V" n="86" break="no"/>nitum simpliciter claudens in se equipollenter omnes 
+      realita<lb ed="#V" n="87" break="no"/>tes decem generum: immo omnem rem ipse primus 
+      <lb ed="#V" n="88"/>motor qui est infinitus simpliciter: sed infinitum quod 
+      clau<lb ed="#V" n="89" break="no"/>ditur in genere non est diffinitum simpliciter: sed tantum 
+      <lb ed="#V" n="90"/>secundum quid: nec claudit infra se: nec formaliter nec 
+      equi<lb ed="#V" n="91" break="no"/>pollenter omnia alia illius generis: sicut calor 
+      infi<lb ed="#V" n="92" break="no"/>nitus non claudit infra se: nec formaliter: nec 
+      equiua<lb ed="#V" n="93" break="no"/>lenter seu perfectionaliter omnes realitates de 
+      ge<lb ed="#V" n="94" break="no"/>nere qualitatis: quia non fritateum nec calorem nec 
+      in<lb ed="#V" n="95" break="no"/>tellectionem: et sic de aliis.
+    </p>
+            <p xml:id="nbnt23-n23603-d1e1273">
+               <lb ed="#V" n="96"/>Predictis autem adiciendum supitues 
+      <lb ed="#V" n="97"/>que dicta sunt: quod 
+      pri<lb ed="#V" n="98" break="no"/>mus motor possit producere infinitum in actu: et secundum 
+      mehl<lb ed="#V" n="99" break="no"/>titudinem et intensitiue et extentiue. An potentia primi 
+      moto<lb ed="#V" n="100" break="no"/>ris: et virtus eius intensiue infinita in vigore euacuari 
+      <lb ed="#V" n="101"/>possit totaliter scilicet quod tot faciat secundum multitudinem quod 
+      am<lb ed="#V" n="102" break="no"/>plius nihil facere possit: et effectum ita intensum et perfectum 
+      <lb ed="#V" n="103"/>quod perfectiorem non possit facere. hoc enim magnam 
+      inclu<lb ed="#V" n="104" break="no"/>dit difficultatem scilicet quod primus motor tantum faceret in vna 
+      <lb ed="#V" n="105"/>die quod hoc facto nihil posset amplius facere: et isto modo 
+      <lb ed="#V" n="106"/>intelligimus eius potentiam euacuari. Debes tamen aduerte 
+      <lb ed="#V" n="107"/>re quod non intendo dicere quod si primus motor produceret in 
+      <lb ed="#V" n="108"/>actu omnia productiua per ipsum: et quicquid est contentum in virtute sua 
+      acti<lb ed="#V" n="109" break="no"/>ua quod omnia essent posita in actu: quin adhuc posset productiute: 
+      <lb ed="#V" n="110"/>immo semper posse producere in infinitum: nihil tamen nouum 
+      produ<lb ed="#V" n="111" break="no"/>ceret: sed quod erat productum facta interruptione possed 
+      produ<lb ed="#V" n="112" break="no"/>cere: et iterum corrumpere: et iterum producere: quod alias non 
+      fuis<lb ed="#V" n="113" break="no"/>set productum. Exemplum pono tibi de permaus. Deinde de suc 
+      <lb ed="#V" n="114"/>cessiuis. De permaius sic: quod posset producere tot homines 
+      <lb ed="#V" n="115"/>qut sunt in potentia producibiles: sic quod non posset plures homines 
+      pro<lb ed="#V" n="116" break="no"/>ducere: nec silit: nec sucecetiue: quoniam omnes homines clauduntur 
+      <lb ed="#V" n="117"/>infra istam multitudinem hominium: et sic produceret tot quod 
+      <lb ed="#V" n="118"/>non posset producere plisles. Si tamen aliqui istorum iam producto 
+      <lb ed="#V" n="119"/>rum essent corrupti et annichilati illos posset iterum 
+      produ<lb ed="#V" n="120" break="no"/>cere et reparare in infinitum. Nullum tamen hominem de nouo 
+      pos<lb ed="#V" n="121" break="no"/>set producere quin alias fuisset productus. Exemplum de 
+      succes<lb ed="#V" n="122" break="no"/>siuis. primus motor virtute sua infinita posset 
+      reuolue<lb ed="#V" n="123" break="no"/>re celum tot reuoiribus et omnibus reuoibus quibus celum est 
+      reuolu<lb ed="#V" n="124" break="no"/>bile: et per consequens infinitis: et tot quod non posset pluribus 
+      reuo<lb ed="#V" n="125" break="no"/>lutionibus reuoluere. posset tamen adhuc in infinitum mouere 
+      <lb ed="#V" n="126"/>celum et reuoluere: sed non nouis reuolutionibus: sed 
+      <lb ed="#V" n="127"/>eisdem quibus prius facta reuolutione interum eisdem 
+      reuo<lb ed="#V" n="128" break="no"/>lutionibus posset in infinitum reuoluere. Attamen 
+      de<lb ed="#V" n="129" break="no"/>bes intelligere quod non intendo dicere quod primus motor 
+      pos<lb ed="#V" n="130" break="no"/>set omnia producere quecumque productius sunt ab ipso in vno
+      <pb ed="#V" n="129-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>instanti: sed in aliquo pere peterminate: vt infravium 
+      <lb ed="#V" n="2"/>annum vel mensem vel diem non curo: dum tamen mensura sit 
+      <lb ed="#V" n="3"/>tempus finitum. Ita quod tantum posset producere in vno die: et 
+      <lb ed="#V" n="4"/>postea nihil posset producere. nihil dico nouum: licet 
+      pos<lb ed="#V" n="5" break="no"/>set producere illud idem facta interruptione. Et sic 
+      in<lb ed="#V" n="6" break="no"/>telligo potentiam alicuius productiua euacuari extensiue. 
+      <lb ed="#V" n="7"/>Intesiue vero euacuari intelligo si produceret effectum 
+      <lb ed="#V" n="8"/>perfectitum quem possed: sic quod perfectiorem prducere non 
+      pos<lb ed="#V" n="9" break="no"/>set: positionem ergo sic intellectam volo tibi euidenter 
+      <lb ed="#V" n="10"/>demonstrare.
+    </p>
+            <p xml:id="nbnt23-n23603-d1e1377">
+      ¶ Prima ergo propositio sit talis: agens naturale et 
+      <lb ed="#V" n="11"/>necessario agens producere potest omnia producibilia ab ipso: et 
+      <lb ed="#V" n="12"/>eius potentia et virtus potest euacuari extensiue. hoc probat sic. 
+      <lb ed="#V" n="13"/>omne agens naturaliter et necessario approxinato passo agit secundum vltitum 
+      <lb ed="#V" n="14"/>potentiae sue. ergo si approximetur sibi passa omnia: et receptiua 
+      <lb ed="#V" n="15"/>euacuabitur eius potentia: et producit omnia producibilia quae 
+      conti<lb ed="#V" n="16" break="no"/>nentur in sua virtute: antecedens est concessum ab omnibus: et patet etiam: 
+      <lb ed="#V" n="17"/>quoniam ex quo agens naturaliter et necessario agit non est in 
+      potesta<lb ed="#V" n="18" break="no"/>te sua producere tot et non plura: consequens est manifestum: 
+      <lb ed="#V" n="19"/>quoniam ex quo omnia receptiua et passa sunt sibi equaliter 
+      <lb ed="#V" n="20"/>approximata: certum est quod omnia produceretur equaliter: quia 
+      <lb ed="#V" n="21"/>vel produceret in omnibus equaliter vel in nullo: quoniam 
+      idem<lb ed="#V" n="22" break="no"/>est iudicium de omnibus: nec est ratio: quare magis in vno 
+      <lb ed="#V" n="23"/>quam in omnibus. Confirmatur: quia si agit in aliquibus: et in 
+      ali<lb ed="#V" n="24" break="no"/>quibus non: cum agat secundum vltimum sue potentiae. Et pono tibi 
+      <lb ed="#V" n="25"/>exemplum. Si igni qui naturaliter agit et necessario praesente 
+      rece<lb ed="#V" n="26" break="no"/>ptiuo et disposito essent omnia conbustibilia 
+      approxima<lb ed="#V" n="27" break="no"/>ta quecumque sint illa et quecumque sunt possibilia: et essent 
+      <lb ed="#V" n="28"/>sibi equaliter approximata: certum est quod omnia combure 
+      <lb ed="#V" n="29"/>ret equaliter: quoniam eadem ratione qua vnum conbureret: et 
+      ali<lb ed="#V" n="30" break="no"/>ud: vel nullum. non est dicendum quod nullum: ergo omnia: et sic eius 
+      po<lb ed="#V" n="31" break="no"/>esset euacuata. ita quod de cetero nihil posset conburere: 
+      <lb ed="#V" n="32"/>quod alias conbustum non fuisset ab igne. posset tamen ininfinitum 
+      <lb ed="#V" n="33"/>conburere facta interruptione i conbustibilibus: et 
+      ip<lb ed="#V" n="34" break="no"/>sis reparatis: et iterum eidem igni approximatis.
+    </p>
+            <p xml:id="nbnt23-n23603-d1e1432">
+      ¶ Et 
+      <lb ed="#V" n="35"/>si arguas numquid si stupa de nouo approximetur eam 
+      <lb ed="#V" n="36"/>conbureret: sequitur quod non per te qui ponis eius virtutem 
+      <lb ed="#V" n="37"/>totaliter euacuatam esse. hoc autem erit absurdum scilicet quod iguis 
+      <lb ed="#V" n="38"/>approximatus stumpe ea non conburat. quid enim impediret 
+      <lb ed="#V" n="39"/>eum ne conbureret: Si autem dicas quod sic: ergo eius 
+      po<lb ed="#V" n="40" break="no"/>tentia non est euacuata: cuius oppsitum tamen dicebas. 
+      Re<lb ed="#V" n="41" break="no"/>spondeo tibi. arguctum illud procedit ex falsa suppotione. 
+    </p>
+            <p xml:id="nbnt23-n23603-d1e1450">
+               <lb ed="#V" n="42"/>¶ Supponit enim quod aliqua stupa de nouo posset 
+      appro<lb ed="#V" n="43" break="no"/>ximari igni que alias approximata no fuisset: et quod 
+      <lb ed="#V" n="44"/>aliquod conbustibile posset sibi approximari quod alias 
+      <lb ed="#V" n="45"/>non fuit sibi approximatum: quod est falsum et impossibi 
+      <lb ed="#V" n="46"/>le: quoniam in proportione supponebatur: quod omnia 
+      conbustibi<lb ed="#V" n="47" break="no"/>lia quecumque sint ista essent sibi approximata: si 
+      auten<lb ed="#V" n="48" break="no"/>alia combustibilia essent sibi approximata: iam 
+      de<lb ed="#V" n="49" break="no"/>nouo non possed sibi aliud conbustibile approximari: 
+      <lb ed="#V" n="50"/>quod alias non fuisset approximatum sibi: et per consequens nec 
+      <lb ed="#V" n="51"/>aliqua stupa. Si ergo aliqua stupa sibi de nouo 
+      ap<lb ed="#V" n="52" break="no"/>plicetur non erit nisi vna de istis que alias fuit 
+      com<lb ed="#V" n="53" break="no"/>busta et postea reparata: et concedo quod ista possit 
+      com<lb ed="#V" n="54" break="no"/>buri facta interruptione: et hoc in infinitum. Sed nec 
+      <lb ed="#V" n="55"/>ista stupa esset simpliciter noua: nec combustio: nec ignis 
+      <lb ed="#V" n="56"/>genitus in ista: et sic apparet conclusio predicta quod potentia 
+      agen<lb ed="#V" n="57" break="no"/>tis naturalis possit euacuari.
+    </p>
+            <p xml:id="nbnt23-n23603-d1e1487">
+      ¶ Propositio 2o sit talis. 
+      <lb ed="#V" n="58"/>agens naturale potest habere potentiam adequatam intensiue: et 
+      <lb ed="#V" n="59"/>pot eius potentia euacuari intensiue. hoc probatur. ex 
+      <lb ed="#V" n="60"/>precedenti: quoniam infra istum numerum effectiue. est iste es 
+      <lb ed="#V" n="61"/>fectus perfectissimus: quoniam ex quo omnia producit que 
+      <lb ed="#V" n="62"/>sunt producibilia ab ipso: sequitur necessario quod iste 
+      ele<lb ed="#V" n="63" break="no"/>fectus perfectissimus sit ibi contentus. Adhuc autem patet quod 
+      <lb ed="#V" n="64"/>si omnes isti effectus sint vnibiles quod ex illis 
+      resul<lb ed="#V" n="65" break="no"/>tabit effectus perfectissimus.
+    </p>
+            <p xml:id="nbnt23-n23603-d1e1508">
+               <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>Ad propositum trao reutrtentes dia 
+      <lb ed="#V" n="67"/>mus de primo motorem 
+      <lb ed="#V" n="68"/>an eius potentia possit euacuari et intensiue et 
+      exten<lb ed="#V" n="69" break="no"/>siue.
+    </p>
+            <p xml:id="nbnt23-n23603-d1e1521">
+      ¶ Propositio ergo prima sit talis. potentia primi 
+      mo<lb ed="#V" n="70" break="no"/>toris potest euacuari extensiue: sic quod potest producere tot 
+      <lb ed="#V" n="71"/>quod non plura: nisi facta interruptione eo modo quae 
+      su<lb ed="#V" n="72" break="no"/>pra expositum est. hoc probatur sic. omne producens 
+      <lb ed="#V" n="73"/>cuius producibilia omnia sunt in actu posita vel 
+      poni<lb ed="#V" n="74" break="no"/>bilia in aliqua certa mensura in ista mensura habet 
+      pro<lb ed="#V" n="75" break="no"/>ducere productionem adequatam. ita quod nihit nouum 
+      <lb ed="#V" n="76"/>potest amplius producere eo modo quo supra fuit 
+      di<lb ed="#V" n="77" break="no"/>ctum. subiectum includit predicatum: quoniam ex quo omnia 
+      produci<lb ed="#V" n="78" break="no"/>bilia per ipsum sunt posita in actu nihil vltra nouum 
+      <lb ed="#V" n="79"/>potest produci aliud ab illis: quin esset contentum 
+      in<lb ed="#V" n="80" break="no"/>fra numerum illorum: et per consequens non esset nouum 
+    </p>
+            <p xml:id="nbnt23-n23603-d1e1547">
+               <lb ed="#V" n="81"/>¶ Ratio 2a sit ista. Omnia producibilia a primo 
+      moto<lb ed="#V" n="82" break="no"/>re infinito in vigore sunt ponibilia in aliqua 
+      certa<lb ed="#V" n="83" break="no"/>mensura in actu: vt mensura vnius anni vel vnius 
+      <lb ed="#V" n="84"/>diei non curo: ergo primus motor potest habere 
+      po<lb ed="#V" n="85" break="no"/>tentiam adequatam extensiue. Hec propositio minor sic 
+      <lb ed="#V" n="86"/>probatur: quoniam omnia producibilia a primo motore in 
+      <lb ed="#V" n="87"/>finito in vigore possunt existere in actu in aliqua 
+      cer<lb ed="#V" n="88" break="no"/>ta mensura: vt infra vnum annum vel vnum mensem: ergo 
+      <lb ed="#V" n="89"/>producantur quantum in ista mensura existant. 
+      Pa<lb ed="#V" n="90" break="no"/>lam autem de permaribus quod in aliqua certa mensura possunt 
+      <lb ed="#V" n="91"/>simul existere. immo fertur quod simul in vno instanti: 
+      <lb ed="#V" n="92"/>sicut omnes homines possunt simul existere: immo vbi 
+      ma<lb ed="#V" n="93" break="no"/>ior pluralitas non infert nec includit maiorem 
+      repu<lb ed="#V" n="94" break="no"/>gnantiam ad simul existendum quam minor pluralitas: nec 
+      in<lb ed="#V" n="95" break="no"/>finita pluralitas concludit repugnantiam ad simul 
+      <lb ed="#V" n="96"/>existendum. Palam autem quod non plus repugnat quod simul in 
+      <lb ed="#V" n="97"/>vno instanti sint mille homines quam centum vel. x. ergo nec et 
+      <lb ed="#V" n="98"/>infiniti. ergo infiniti homines paesenst simul existere. 
+      Con<lb ed="#V" n="99" break="no"/>autem est dicendum de his que non possunt esse in vno 
+      instan<lb ed="#V" n="100" break="no"/>ti in aliquo subiecto: sed sucecsiue: sicut forie contrarie et 
+      oppo<lb ed="#V" n="101" break="no"/>sita priuatiua. Ex quo enim in talibus maior pluralitas 
+      <lb ed="#V" n="102"/>non infert maiorem mensuram quam minor pluralitas: ergo 
+      si<lb ed="#V" n="103" break="no"/>idem subiectum potest esse album et nigrum infra vnum diem: et 
+      al<lb ed="#V" n="104" break="no"/>bum et nigrum et fuscum et pallidum: et sic de aliis: ita 
+      pos<lb ed="#V" n="105" break="no"/>set esse sub formis oppositis infinitis vel infinities 
+      <lb ed="#V" n="106"/>sumptis infra vnum diem.
+    </p>
+            <p xml:id="nbnt23-n23603-d1e1606">
+      ¶ Ratio secunda ad 
+      <lb ed="#V" n="107"/>propositionem predictam sit talis. agens naturale 
+      <lb ed="#V" n="108"/>potest habere potentiam adequatam extensiue: ex 
+      <lb ed="#V" n="109"/>go et primus motor. antecedens patet ex predictis: 
+      <lb ed="#V" n="110"/>consequentia est de se nota: quoniam non minus est 
+      po<lb ed="#V" n="111" break="no"/>tens: primus motor ponere sua producibilia in 
+      actu<lb ed="#V" n="112" break="no"/>cum sit vigoris infiniti quam agens naturale.
+    </p>
+            <p xml:id="nbnt23-n23603-d1e1622">
+      ¶ Ratio 
+      <lb ed="#V" n="113"/>tertia sit talis: si primus motor esset producens 
+      na<lb ed="#V" n="114" break="no"/>turaliter: et necessario sequitur quod eius potentia 
+      pos<lb ed="#V" n="115" break="no"/>set euacuari: quia ageret secundum vltimum 
+      poten<lb ed="#V" n="116" break="no"/>tie sue: ergo et mo: quoniam agit libere et continguiter potest 
+      <lb ed="#V" n="117"/>eius potentia euacuari: quoniam potest agere 
+      secun<lb ed="#V" n="118" break="no"/>dum vltimum sue potentie: licet non agat secundum vltimum 
+      <lb ed="#V" n="119"/>potentie sue: agere tamen potest: quia videtur 
+      gra<lb ed="#V" n="120" break="no"/>tis dictum quod agens naturale agat secundum vltimum potentia sue: cum 
+      <lb ed="#V" n="121"/>contintua et libertas non diminuant rationem potentiae. Ex hoc 
+      pa<lb ed="#V" n="122" break="no"/>tet manifeste quod potentia primi motoris totalinter 
+      <lb ed="#V" n="123"/>euacuari potest eo modo quo supra dictum est. 
+    </p>
+            <p xml:id="nbnt23-n23603-d1e1648">
+               <lb ed="#V" n="124"/>¶ Propositio secunda sit talis: primus motor 
+      po<lb ed="#V" n="125" break="no"/>test habere potentiam adequatam intensiue. hoc 
+      <lb ed="#V" n="126"/>probatur ex propositione precedenti: quoniam effectus 
+      <lb ed="#V" n="127"/>perfectissimus quem primus motor producere potest contine 
+      <lb ed="#V" n="128"/>tur infra ambitum istorum producibilium: et omnia sunt 
+      po<lb ed="#V" n="129" break="no"/>nibilia ab ipso in aliqua certa mensura: vt 
+      proba<lb ed="#V" n="130" break="no"/>tum fuit supra. ergo etc.
+      </p>
+            <!-- 130-r and 130-v go here -->
+            <p xml:id="nbnt23-n23603-d1e1669">
+               <pb ed="#V" n="130-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>Dubitationes graues atque difficiles 
+          ad<lb ed="#V" n="2" break="no"/>soluendum oriuntur ex 
+          pre<lb ed="#V" n="3" break="no"/>dictis. Prime ergo dubitationes que occurrunt ex 
+          prae<lb ed="#V" n="4" break="no"/>dictis sunt de entibus successiuis scilicet de motum et 
+          tem<lb ed="#V" n="5" break="no"/>pore: de formis sibi oppositis sibiinuicem succebtus in 
+          <lb ed="#V" n="6"/>eadem materia vel subiecto. Alie sunt de diuisione 
+          continui<lb ed="#V" n="7" break="no"/>Prima ergo dutio est de tempore: quoniam per ea que 
+          di<lb ed="#V" n="8" break="no"/>cta sunt: quod potentia primi motoris posset euacuari 
+          <lb ed="#V" n="9"/>totaliter infra aliquam determinatam mensuram 
+          <lb ed="#V" n="10"/>vt infra mensem: sequitur quod primus motor posset 
+          fa<lb ed="#V" n="11" break="no"/>cere omnes partes temporis infra vnam mensuram 
+          deter<lb ed="#V" n="12" break="no"/>minatam: vt infra vnum mensem. ita quod totum tempus 
+          clau<lb ed="#V" n="13" break="no"/>deret infra vnum mensem. hoc autem est impossibile. ex 
+          <lb ed="#V" n="14"/>go illud ex quo sequitur .
+        </p>
+            <p xml:id="nbnt23-n23603-d1e1706">
+          ¶ Dubitatio 2a sit talis: 
+          <lb ed="#V" n="15"/>tu dicis quod infra mensuram certam potest primus 
+          mo<lb ed="#V" n="16" break="no"/>tor producere totum tempus. quero a te. si post 
+          il<lb ed="#V" n="17" break="no"/>lud tempus iam totum factum posset facere aliquam 
+          <lb ed="#V" n="18"/>mutationem vel motum. videtur quod sic: quia hoc habens 
+          <lb ed="#V" n="19"/>dicere secundum prius dicta: cum ergo omnis mutatio et 
+          <lb ed="#V" n="20"/>motus requirat tempus: necessario sequitur quod post 
+          <lb ed="#V" n="21"/>illud tempus totum quod ponebatur fuisse productum 
+          po<lb ed="#V" n="22" break="no"/>test aliud tempus produci: autem ergo illud tempus est 
+          to<lb ed="#V" n="23" break="no"/>taliter nouum: et sic habetur propositum: autem non est 
+          <lb ed="#V" n="24"/>totaliter nouum: sed alias productum et preteritum 
+          <lb ed="#V" n="25"/>et iterum reparatum. hoc autem est impossibile: quoniam 
+          <lb ed="#V" n="26"/>praeteritum non potest reparari: quoniam secundum Arist. hoc solo 
+          pri<lb ed="#V" n="27" break="no"/>uatur primus motor ingenita facere que facta sunt. 
+          <lb ed="#V" n="28"/>Tertio ad idem accipio totum tempus quod tu ponis esse 
+          pro<lb ed="#V" n="29" break="no"/>ductum in certa mensura mensis. claudatur infra duos 
+          <lb ed="#V" n="30"/>terminos: vt infra 2o instantia. sequitur quod totum tempus 
+          <lb ed="#V" n="31"/>est finitum: nec poterit esse infinitum: quod est falsum. 
+          <lb ed="#V" n="32"/>Adhuc autem 4o sequitur quod praeteritum esset futurum et 
+          econ<lb ed="#V" n="33" break="no"/>uerso: quod videtur impossibile.
+        </p>
+            <p xml:id="nbnt23-n23603-d1e1750">
+          ¶ Dubitatio 3a prins 
+          <lb ed="#V" n="34"/>cipalis est talis. de formis succeus contrariis vel 
+          pri<lb ed="#V" n="35" break="no"/>uatiuis que possunt sibinuicem succedere modis in 
+          <lb ed="#V" n="36"/>finitis infinities: ideo non videtur verum quod eorum 
+          <lb ed="#V" n="37"/>succectisa adinuicem possit euacuari in aliqua certa men 
+          <lb ed="#V" n="38"/>sura: sed semper sibiinuicem in infinitum possunt 
+          suc<lb ed="#V" n="39" break="no"/>cedere: sicut aqua potest transire infinituto de caliditate 
+          <lb ed="#V" n="40"/>in frigiditatem et esonclui: et sic de aliis formis succedentibus 
+          <lb ed="#V" n="41"/>in eadem materi: vt forma vnius elementi potest succedere 
+          <lb ed="#V" n="42"/>in infinitum forme alterius elementi in eadem materia. 
+          <lb ed="#V" n="43"/>et situ forma vnius mixti potest succedere in infinitum 
+          <lb ed="#V" n="44"/>forme alterius mixti.
+        </p>
+            <p xml:id="nbnt23-n23603-d1e1776">
+          ¶ Dubitatio 4a est de 
+          diui<lb ed="#V" n="45" break="no"/>sione continui qua nulla virtus potest euacuari: cum 
+          <lb ed="#V" n="46"/>autem fieret resolutio et staret diuisio vsque ad diuisibi 
+          <lb ed="#V" n="47"/>lia: et sic non esset diuisio euacuata: autem staret ad 
+          sim<lb ed="#V" n="48" break="no"/>indiuisibilia: et tunc continuum esset compositum ex 
+          pun<lb ed="#V" n="49" break="no"/>ctis: quod est impossibile: et contra philosophiam Aristo. et demo 
+          <lb ed="#V" n="50"/>strationes eius in physicis.
+        </p>
+            <p xml:id="nbnt23-n23603-d1e1792">
+               <lb ed="#V" n="51"/>Dubitationes autem cons scuniam pportionem: quod 
+          <lb ed="#V" n="52"/>primus motor potest habe¬. 
+          <lb ed="#V" n="53"/>re potentiam adequatam intensiue sunt due. Prima sit 
+          ta<lb ed="#V" n="54" break="no"/>lis. nullum vnum indiuiduum potest adequare totum 
+          am<lb ed="#V" n="55" break="no"/>Ditum sue specie: cum addat propriam differentiam indiuidualem 
+          <lb ed="#V" n="56"/>ad speciem: differentia autem indiuilius facit differre ab his que 
+          <lb ed="#V" n="57"/>sunt eiusdem rationis: ergo preter ista alia sunt 
+          poni<lb ed="#V" n="58" break="no"/>bilia. ista autem possent ei apponi. puta gradus 
+          albedi<lb ed="#V" n="59" break="no"/>nis: ergo etc.
+        </p>
+            <p xml:id="nbnt23-n23603-d1e1814">
+          ¶ Dubitatio 2a sit talis. producatur ignis 
+          <lb ed="#V" n="60"/>a primo motore intensitiue infinitus: ostendo tibi quod iste 
+          <lb ed="#V" n="61"/>ignis adhuc potest intendi. probatio. isti igni intensitiue 
+          infi<lb ed="#V" n="62" break="no"/>nito approximetur stupa. certum est quod generabit in 
+          ea<lb ed="#V" n="63" break="no"/>ignem et calorem: et iste ignis genitus posset apponi igni 
+          <lb ed="#V" n="64"/>priori. siliter calor calori priori: et sic prior ignis 
+          inten<lb ed="#V" n="65" break="no"/>deretur: ergo ignis qui ponebatur intensiue infinitus non
+          <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>erat effectus adequattus intensitiue virtuti primi 
+          mo<lb ed="#V" n="67" break="no"/>toris: nec euacuabat eius potentiam: cum ignem 
+          perfe<lb ed="#V" n="68" break="no"/>ctiorem possed producere. He ergo sunt dubitationes 
+          <lb ed="#V" n="69"/>difficiles que occurrunt contra predictas propositiones. 
+          <lb ed="#V" n="70"/>Dissolutio tamen istarum dubitationm: licet sit 
+          dif<lb ed="#V" n="71" break="no"/>ficilis: non tamen impossibilis. prima 
+          <lb ed="#V" n="72"/>namque quae accitar de succeigentia et in speciali de tempore: quod pertes totius 
+          <lb ed="#V" n="73"/>teperis non paesenst fieri in aliqua certa mensura: vt infra 
+          vni<lb ed="#V" n="74" break="no"/>us anni spacium vel mesis: non impedit praedictam proportionem 
+          <lb ed="#V" n="75"/>affirmatiuam. nam a sic dubitatue querendum est quid intelligat 
+          <lb ed="#V" n="76"/>per teproes. autem aliquid praecise in anima: sicut dicunt plures: et tunc 
+          <lb ed="#V" n="77"/>manifestum est quod tearoens secundum se totum: et secundum omnes pertes suas 
+          <lb ed="#V" n="78"/>potest fieri in vna die in instanti simul cum vt sic non 
+          ha<lb ed="#V" n="79" break="no"/>beat nisi esse cognitum vel esse denominatum a 
+          cogniti<lb ed="#V" n="80" break="no"/>one. At vero si ponat quod temproes sit vna res extra animam: 
+          <lb ed="#V" n="81"/>tunc vel erit idem realiter quod motus: vel erit passio motus 
+          <lb ed="#V" n="82"/>vt non sit aliud quam coexistentia partium ad eternitatem. Si 
+          prium<lb ed="#V" n="83" break="no"/>detur: sequitur quod teapraeds secundum omnes pertes suas possit fieri in 
+          <lb ed="#V" n="84"/>aliqua mensura: quoniam omnes partes ipsius motus possunt fieri in 
+          <lb ed="#V" n="85"/>aliqua certa mensura: vt infra vnum mensem: immo 
+          mo<lb ed="#V" n="86" break="no"/>tus posset fieri in instanti: sicut in physicis dictum 
+          <lb ed="#V" n="87"/>fuit: et patet: quoniam si coluna existens in aere in instanti 
+          annihi<lb ed="#V" n="88" break="no"/>laretur: aer circumstans repleret locum illum in instanti: et 
+          <lb ed="#V" n="89"/>per consequens esset motus in instanti: vel esset dare vacuum 
+          <lb ed="#V" n="90"/>quod non conceditur communiter. Palam autem quod si tempus ponatur 
+          <lb ed="#V" n="91"/>realiter non esset idem cum motu: sed quod sit eius passio 
+          <lb ed="#V" n="92"/>physica: vt quod sit coexistentia partium motus ad 
+          eternita<lb ed="#V" n="93" break="no"/>tem: vt dictum est. Adhuc videtur quod partes temporis 
+          <lb ed="#V" n="94"/>poterunt fieri in aliqua certa mensura: quoniam in ista 
+          men<lb ed="#V" n="95" break="no"/>sura: in qua fierent partes motus: quia in quacumque 
+          men<lb ed="#V" n="96" break="no"/>sura possunt fieri partes motus praesentfieri iste 
+          coexi<lb ed="#V" n="97" break="no"/>stentie: que sunt ipset teroens realiter. Addis autem 2o quod posito 
+          <lb ed="#V" n="98"/>quod totum tempus esset productum in aliqua certa 
+          men<lb ed="#V" n="99" break="no"/>sura imaginata: tu queris. si primus motor possed 
+          fa<lb ed="#V" n="100" break="no"/>cere vnam mutationem vel non. Respondeo tibi 
+          <lb ed="#V" n="101"/>et dico quod posset vnam mutationem facere non tamen nouam: sed 
+          <lb ed="#V" n="102"/>tantum reparare iam factam: Et cum vltra dicis mutatio 
+          re<lb ed="#V" n="103" break="no"/>quirit tempus vel instans. concedo. et ideo sicut 
+          re<lb ed="#V" n="104" break="no"/>dit mutatio: ita redit comexistentia eius ad primum 
+          mo<lb ed="#V" n="105" break="no"/>torem: quoniam non est maius inconueniens de vno quam 
+          <lb ed="#V" n="106"/>de alio: et sic nihil habes contra propotionem. Quod 
+          ad<lb ed="#V" n="107" break="no"/>huc dicis quod tunc preteritum esset futurum: et econuerso: 
+          <lb ed="#V" n="108"/>quod dicis esse impossibile. Respondeo tibi quod non habens 
+          pro<lb ed="#V" n="109" break="no"/>inconuenienti: quin preteritum quantum ad totum esse 
+          rea<lb ed="#V" n="110" break="no"/>le: quod dicit possit est futurum et econuerso: licet non quantum 
+          <lb ed="#V" n="111"/>ad negationem connotatam vel cointellectam. Preteri 
+          <lb ed="#V" n="112"/>tum enim connotat negationem prefentis et futuri: et etiam conno 
+          <lb ed="#V" n="113"/>tat non existentiam: et quantum ad talia connotata non potest 
+          fie<lb ed="#V" n="114" break="no"/>ri quod praeteritum sit futurum et econcluio tamen quantum ad illud 
+          <lb ed="#V" n="115"/>posum quod dicunt non est verum. Adhuc vero cum adhuc 
+          <lb ed="#V" n="116"/>dicis quod si ponatur quod totum tempus sit productum in 
+          <lb ed="#V" n="117"/>aliqua certa mensura: vt in mensura vnius mensis. 
+        </p>
+            <p xml:id="nbnt23-n23603-d1e1945">
+               <lb ed="#V" n="118"/>¶ Sequitur quod infra 2o instantia claudetur: et per consequens erit 
+          <lb ed="#V" n="119"/>finitum. Respondeo tibi quod dato quod ita esset: sicut tu 
+          aria<lb ed="#V" n="120" break="no"/>adhuc non impediretur: quin tempus esset essentialiter 
+          in<lb ed="#V" n="121" break="no"/>finitum: licet denominatiuum esset finitum: sicut dictum 
+          fu<lb ed="#V" n="122" break="no"/>it in philosophicis de eternitate motus et temperis. Aliter tamen 
+          <lb ed="#V" n="123"/>dicitur quod illud tempus non claudetur infra duo 
+          in<lb ed="#V" n="124" break="no"/>stantia: quoniam quodlibet instans est principium 
+          futu<lb ed="#V" n="125" break="no"/>ri: et terminus preteriti: quo casu posito non habent ibi 
+          <lb ed="#V" n="126"/>locum: quoniam primus motor terminus est primum instans istius tepris 
+          <lb ed="#V" n="127"/>non est teplietus nec finis alicuius praeteriti: quia illud instans non 
+          <lb ed="#V" n="128"/>est continuatiuum: sed initianiam: sicut patet de puncto in priquiter 
+          <lb ed="#V" n="129"/>linee finite: sed nullum esset ibi instans cum de ratione 
+          cuiusli<lb ed="#V" n="130" break="no"/>bet instantis sit quod sit finis et principium.
+        </p>
+            <p xml:id="nbnt23-n23603-d1e1976">
+               <pb ed="#V" n="130-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>Dubitatio 2e de formis oppositis sibumnu 
+          <lb ed="#V" n="2"/>cem succerbus in eadem materia modis 
+          <lb ed="#V" n="3"/>infinities infinitis dissoluitur sic: quoniam non intendo quod suc 
+          <lb ed="#V" n="4"/>cessio talium formarum fieret in instanti: quoniam hoc est 
+          im<lb ed="#V" n="5" break="no"/>possibile: quia tunc contradictoria et contraria et priuatiue 
+          obe<lb ed="#V" n="6" break="no"/>fierent simul in eodem instanti: quod est falsum: sed dico 
+          ta<lb ed="#V" n="7" break="no"/>lis successio talium formarum oppositarum licet nen possit 
+          fie<lb ed="#V" n="8" break="no"/>ri in instanti: potest tamen fieri in tempore: et non oprtet quod ponatur 
+          tem<lb ed="#V" n="9" break="no"/>pus infinitum: sed sufficit quod sint infinita instantia: quoniam 
+          <lb ed="#V" n="10"/>diuersa instantia sufficiunt ad tollendum contradictionem 
+          <lb ed="#V" n="11"/>Palam autem secundum communiter loquentes in philosophia quod in 
+          ali<lb ed="#V" n="12" break="no"/>qua certa mensura vt in mense vel in die sunt 
+          infinita<lb ed="#V" n="13" break="no"/>instantia: ergo successio talium formarum in infinitum 
+          po<lb ed="#V" n="14" break="no"/>test euacuari.
+        </p>
+            <p xml:id="nbnt23-n23603-d1e2013">
+          ¶ Et si arguas quod secundum dicta in 
+          physi<lb ed="#V" n="15" break="no"/>cis in quolibet tepore finito non sunt infinita 
+          instan<lb ed="#V" n="16" break="no"/>tia: sed finita: ergo successiones talium formarum 
+          <lb ed="#V" n="17"/>oppositorum cum sint infinities infite de possibili non 
+          <lb ed="#V" n="18"/>poterunt euacuari in illis instantibus finitis: quoniam 
+          que<lb ed="#V" n="19" break="no"/>cumque successio mensuratur proprio instanti: quia et cuilibet 
+          <lb ed="#V" n="20"/>correspondet proprium instans: et sic duabus succeus 
+          dua<lb ed="#V" n="21" break="no"/>rum formarum oppositarum potest correspondere vnum instans: 
+          <lb ed="#V" n="22"/>cum ergo in succetiue infitatis sint successiones et instanentua 
+          fi<lb ed="#V" n="23" break="no"/>nita: et cuilibet succeti correspondeat vnum instans. 
+          sequi<lb ed="#V" n="24" break="no"/>tur quod in illis instantibus non possunt euacuari ille suc 
+          <lb ed="#V" n="25"/>cessiones infinite. At vero hec dutio grauis est ponem 
+          <lb ed="#V" n="26"/>do quod in tempore finito non sint infinita instantia: sed 
+          fi<lb ed="#V" n="27" break="no"/>nita. potest tamen dici quod licet ibi non sint infinita instantia quantum 
+          <lb ed="#V" n="28"/>ad rem: et in re extra. sunt tamen infinita instantia signalite 
+          <lb ed="#V" n="29"/>per intellectum: et hoc sufficit ad tollendum contradictio 
+          <lb ed="#V" n="30"/>nem: et specialiter quia correspondent illis instantibus infinitis 
+          in<lb ed="#V" n="31" break="no"/>finita instantia signaliua in eternitate: et fertur quod hoc 
+          <lb ed="#V" n="32"/>sufficit. Aliter tamen dicitur quod licet sint ibi infinita instantia: tamen 
+          <lb ed="#V" n="33"/>inter 2o instantia semper cadit tempus medium. in illo 
+          au<lb ed="#V" n="34" break="no"/>tem tempore medio possunt succedere forme sibinui 
+          <lb ed="#V" n="35"/>cem in infinitum. Et si dicas quod successio semper 
+          mensura<lb ed="#V" n="36" break="no"/>bitur instanti: ergo idem sequitur quod prius. Attamen omnia 
+          <lb ed="#V" n="37"/>ista non vnder sufficere. Et ideo aliter dicitur: et bene quod secundum 
+          prae<lb ed="#V" n="38" break="no"/>dicta totum tempus secundum se et secundum realitates suas potest 
+          fie<lb ed="#V" n="39" break="no"/>ri in aliqua certa mensura. vt in spaenitisa imaginato 
+          vni<lb ed="#V" n="40" break="no"/>us anni vel vnius mensis: sicut et motus potest fieri in 
+          <lb ed="#V" n="41"/>tali mensura certa: cum ergo illud tempus sit infinitum 
+          <lb ed="#V" n="42"/>realiter infra se continuabit infinita instantia et infinitas 
+          <lb ed="#V" n="43"/>partes reales teperis. successiones ergo infinite forma 
+          <lb ed="#V" n="44"/>rum oppositarum poterunt fieri in illis instantibus 
+          infi<lb ed="#V" n="45" break="no"/>nitis absque contradictione aliqua. Dubitatio vero 
+          <lb ed="#V" n="46"/>de diuisione continui soluta est: et per illa que dicta 
+          <lb ed="#V" n="47"/>sunt in physicis: et in lib. predicamntorum. cape. de 
+          quan<lb ed="#V" n="48" break="no"/>titate continua. dictum enim fuit ibi quod continuum finitum. vt 
+          <lb ed="#V" n="49"/>liua vnius pedis non est diuisibilis in infinitum: nec ipsa 
+          <lb ed="#V" n="50"/>continet infinitas partes in actum nec in potentia: nec 
+          clau<lb ed="#V" n="51" break="no"/>dit infra se infinitas realitates: sed finitas: et ideo 
+          sta<lb ed="#V" n="52" break="no"/>bit diuius. Et cum queris autem ad diuisiliua vela ad indiuisilitae 
+          <lb ed="#V" n="53"/>Dicitur quod ad indiuisibilia in plura continua. diuisibilia 
+          tamen<lb ed="#V" n="54" break="no"/>in plures realitates: quarum neutra est continua quantitas. 
+          <lb ed="#V" n="55"/>Debes enim reminisci de dictis in philosophicis de contini: quoniam 
+          <lb ed="#V" n="56"/>ibi fuit dictum quod quantitas funtus super concursum realitatum 
+          <lb ed="#V" n="57"/>duarum quarum neutra est contium quantitas: sed bene aliquid 
+          <lb ed="#V" n="58"/>quantitatis: et talis quantitas dicitur quantitas indilius in plures 
+          <lb ed="#V" n="59"/>quantitates diuiles: tamen in plures realitates. linea autem 
+          <lb ed="#V" n="60"/>constituta ex talibus quantitatibus finitis et indiuibuus: et ideo 
+          <lb ed="#V" n="61"/>linea potest resolui vsque ad ista minima indiuisibilia. 
+          <lb ed="#V" n="62"/>Nec voco ista indiuisibilia puncta: immo inter 2o 
+          pun<lb ed="#V" n="63" break="no"/>cta est talis quantitas indiuisibilis in plures 
+          quanti<lb ed="#V" n="64" break="no"/>tates: licet sit diuisibilis in plures realitates. Et de 
+          di<lb ed="#V" n="65" break="no"/>uisione continui tanta dicta sint: quoniam satis dictum est in
+          <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>physicis. quere ibi. primus ergo moitia cum sit vigoris 
+          <lb ed="#V" n="67"/>infiniti potest diuidere continuum quantum diuile est et 
+          <lb ed="#V" n="68"/>resoluere vsque ad minima indiuisibilia. 
+        </p>
+            <p xml:id="nbnt23-n23603-d1e2135">
+               <lb ed="#V" n="69"/>Dubitationes autem ad secuntiam ppositum quei 
+          <lb ed="#V" n="70"/>primus motor potest facere elem 
+          <lb ed="#V" n="71"/>fectum perfectissimum quem potest dissoluuntur. et primo 
+          <lb ed="#V" n="72"/>dubitationis dissoluus stat in hoc: quoniam cum dicitur quod nullum 
+          <lb ed="#V" n="73"/>indiuiduum potest adequare totum ambitum sue speciei cum 
+          <lb ed="#V" n="74"/>habeat propriam differentiam indiuisibiltum qua distinitur ab aliis eius 
+          <lb ed="#V" n="75"/>dem speciei: rapontr quod indiuidua sunt in duplici differentia quaedam 
+          <lb ed="#V" n="76"/>sunt indiuidua eiusdem speciei que non sunt vnilius adinui 
+          <lb ed="#V" n="77"/>cem: vt sor. et plato: et de talibus indiuiduis. conceditur 
+          <lb ed="#V" n="78"/>quod vnum non adequat totum ambitum sue speciei. Aliud 
+          <lb ed="#V" n="79"/>est indiuiduum quod potest vniri alteri indiuiduo 
+          eiusden<lb ed="#V" n="80" break="no"/>speciei sicut color: immo omnia indiuidua possibilia talis 
+          <lb ed="#V" n="81"/>speciei sunt vnibilia adiuicem: vt omnes calores 
+          vniri<lb ed="#V" n="82" break="no"/>possunt adinuicem et facere vnum calorem et vnum 
+          <lb ed="#V" n="83"/>indiuiduum caloris claudens infra se omnes calo 
+          <lb ed="#V" n="84"/>res: et omnes gradus caloris. Palam autem quod tale 
+          <lb ed="#V" n="85"/>indiuiduum adequat totam speciem. Dubitatio e2t 
+          <lb ed="#V" n="86"/>sic soluitur: nam cum dicis. faciat primus motor vnum 
+          <lb ed="#V" n="87"/>ignem intensissimum quem potest. applicetur sibi 
+          <lb ed="#V" n="88"/>stupa generabit alium ignem: quoniam negare hoc 
+          <lb ed="#V" n="89"/>est negare sensum. iste autem ignis genitus in 
+          stu<lb ed="#V" n="90" break="no"/>pa additus generanti faciet eum intensiorem: ergo 
+          <lb ed="#V" n="91"/>primus non fuit intensissimus eodem modo potest 
+          <lb ed="#V" n="92"/>argui de illo igne 2o: quoniam si applicetur sibi 
+          stu<lb ed="#V" n="93" break="no"/>pa generabit alium ignem: et sic semper in infinitum 
+          <lb ed="#V" n="94"/>generando: et semper addendo omnes ignes 
+          possi<lb ed="#V" n="95" break="no"/>biles fieri: et vbi iste ignis claudit infra se omnia 
+          in<lb ed="#V" n="96" break="no"/>diuidua speciei ignis: omnia autem indiuidua ignis 
+          <lb ed="#V" n="97"/>non possunt producere: nisi omnis materia 
+          combu<lb ed="#V" n="98" break="no"/>stibilis habeat actu ignem: et nisi ignis sit in omni 
+          <lb ed="#V" n="99"/>materia sibi possibili: et per consequens 3o posito. 
+          si<lb ed="#V" n="100" break="no"/>ex illis ignibus fieret ignis vnus per indiuisionem et 
+          <lb ed="#V" n="101"/>vnius ignis ab alio. iste ignis esset intensissimus. Sed 
+          <lb ed="#V" n="102"/>cum postea dicis quod approximetur sibi stupa: tu 
+          vnu<lb ed="#V" n="103" break="no"/>impossibile supponis: quoniam dictum est quod iste 
+          <lb ed="#V" n="104"/>ignis intensissimus est in omni materia sibi possibili: 
+          <lb ed="#V" n="105"/>quia est in omni combustibili: et per consequens in omni 
+          stu<lb ed="#V" n="106" break="no"/>pa. stupa ergo non potest sibi administrari: nec 
+          ali<lb ed="#V" n="107" break="no"/>quod aliud conbustibile. Suppositio ergo tua est ex igne 
+          <lb ed="#V" n="108"/>rantia effectus intensentum: quoniam iste effectus claudit 
+          <lb ed="#V" n="109"/>omnia indiuidua istius speciei: si illa sunt vnibilia. 
+          si<lb ed="#V" n="110" break="no"/>vero ista non sunt vnibilia: tunc difficultas est 
+          mi<lb ed="#V" n="111" break="no"/>nor. Concludamus ergo quod virtus primi motoris: 
+          <lb ed="#V" n="112"/>licet sit infinita in vigore potest simpliciter euacuari. 
+          <lb ed="#V" n="113"/>ita quod faciet infra spacium vnius mensis quicquid 
+          <lb ed="#V" n="114"/>in perpetuum facere poterit. Nec tunc aliquid 
+          pro<lb ed="#V" n="115" break="no"/>ducere poterit noui: quin alias productum fuerit: 
+          <lb ed="#V" n="116"/>et in vna die poterit reuoluere celum omnibus 
+          re<lb ed="#V" n="117" break="no"/>uolutionibus: quibus reuolubile est: et si postea 
+          re<lb ed="#V" n="118" break="no"/>uoluat celum hoc erit eisdem reuolutionibus: 
+          qui<lb ed="#V" n="119" break="no"/>bus prius et non aliis. Attamen qui vellet aliquanr 
+          <lb ed="#V" n="120"/>tulum arctare propositionem predictam ad permanentiam 
+          <lb ed="#V" n="121"/>precise: et specialiter ad singuiataia cuiuslibet speciei permanentis 
+          <lb ed="#V" n="122"/>facilius esset sustinere: sic quod potest producere omnes 
+          <lb ed="#V" n="123"/>homines in vna die: et omnes asinos: et omnes rosas: et 
+          <lb ed="#V" n="124"/>sic de aliis dimittendo successionem formarum 
+          opp<lb ed="#V" n="125" break="no"/>sitarum in eadem maeria sibiinuicem in infinitum in 
+          <lb ed="#V" n="126"/>finities succetium que maximam difficultatem ciu 
+          <lb ed="#V" n="127"/>ca propositionem faciunt: tunc facillimae posset sustineri 
+          <lb ed="#V" n="128"/>praedicta propositio de euacuatione primi motoris. generaliter 
+          <lb ed="#V" n="129"/>tamen sustineri potest: licet sit valde difficile: et oportet quod 
+          su<lb ed="#V" n="130" break="no"/>stinens propositionem generaliter de omnibus diligenter
+        <pb ed="#V" n="131-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>aduertatur modum dissoluendi dubintitationes praedictas. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

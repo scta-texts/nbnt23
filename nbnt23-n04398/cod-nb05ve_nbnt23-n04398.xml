@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="97-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n04398"><!--ntheol-l2c3-->
+            <head xml:id="nbnt23-n04398-Hd1e97">Caput 3</head>
+            <head xml:id="nbnt23-n04398-Hd1e99" type="question-title">De incomponibilitate loquitur primi motoris</head>
+            <p xml:id="nbnt23-n04398-d1e102">
+               <lb ed="#V" n="78"/>¶ De incomponibilitate loquitur primi motoris. Cap. III.
+    </p>
+            <p xml:id="nbnt23-n04398-d1e107">
+               <lb ed="#V" n="79"/>AMplius autem de cum passione 
+      ne<lb ed="#V" n="80" break="no"/>gatiua: quae est 
+      in<lb ed="#V" n="81" break="no"/>componibilitas perscrutemur: dicitur namque 
+      pri<lb ed="#V" n="82" break="no"/>mus motor incompositus et incomponibilis. 
+      <lb ed="#V" n="83"/>perscrutandum enim est ergo an primus motor sit 
+      <lb ed="#V" n="84"/>compositus comportione ex hbs et de modo: an sit compositus 
+      compositio<lb ed="#V" n="85" break="no"/>ne cum his.
+    </p>
+            <p xml:id="nbnt23-n04398-d1e125">
+      ¶ Dicamus ergo primo de composito et compositione vniversali. et 
+      <lb ed="#V" n="86"/>2o ad nostrum propositum applicemus.
+    </p>
+            <p xml:id="nbnt23-n04398-d1e131">
+      ¶ Conditiones autem 
+      compo<lb ed="#V" n="87" break="no"/>siti a pluribus assignantur tales. compositum autem includit aliquam 
+      <lb ed="#V" n="88"/>inperfectionem: quae includit pertem potentialem. 2o includit 
+      quandan<lb ed="#V" n="89" break="no"/>alietatem ad suas partes. 3o includit quandam 
+      posteriorita<lb ed="#V" n="90" break="no"/>tem. 4o includit dependentiam ad suas partes. o includit 
+      <lb ed="#V" n="91"/>quandam plicralitatem. de istis autem propriertus compositi an vere 
+      <lb ed="#V" n="92"/>sint perscrutemur. Prima namque proprietas compositi: habet 
+      <lb ed="#V" n="93"/>pertem potentialem. ex quao patet quod compositum est quodam totu: totum autem 
+      <lb ed="#V" n="94"/>dicitur retlietia partium. peros autem vna est in potentia ad aliam. ergo compositum 
+      inclu<lb ed="#V" n="95" break="no"/>dit pertem potentialem. Et hoc sequitur quod includit quandam 
+      inperfe<lb ed="#V" n="96" break="no"/>ctionem: Qoniam pers inperfectior est quam totum. Cum totum sit maius 
+      <lb ed="#V" n="97"/>sua parte: parti est aliquid deest. ergo habet rationem imperfecti: et per 
+      <lb ed="#V" n="98"/>conseques compositum includes partem quandam inperfectionem includit. 
+      Pa<lb ed="#V" n="99" break="no"/>lam autem ex habis quod omnis pers finita est. ex quo sibi aliquid deest 
+      <lb ed="#V" n="100"/>ex quo totum est maius sua parte: quoniam totum includit aliquid quod 
+      <lb ed="#V" n="101"/>deest sue parti.
+    </p>
+            <p xml:id="nbnt23-n04398-d1e166">
+      ¶ Ex quae sequitur vlterius quod nullum infinitum 
+      <lb ed="#V" n="102"/>habet rationem partis: quod infinito in actu nihil deest. si totum est 
+      <lb ed="#V" n="103"/>acceptum quicquid in eo est accepsice: nihil est est maius 
+      infini<lb ed="#V" n="104" break="no"/>to cum infinitum a nullo possit excedi.
+    </p>
+            <p xml:id="nbnt23-n04398-d1e175">
+      ¶ Concluditur ergo quod 
+      <lb ed="#V" n="105"/>infinitum in actu non potest habere rationem partis.
+    </p>
+            <p xml:id="nbnt23-n04398-d1e180">
+      ¶ Et si arguas 
+      <lb ed="#V" n="106"/>superficies infinita existens in corpore infinito. siliter albedo 
+      <lb ed="#V" n="107"/>infinita existens in superficie infinitum componunt adinuicem et habent 
+      <lb ed="#V" n="108"/>rationem pertis: et sic de pluribus aliis infinitis. Corpus est 
+      infi<lb ed="#V" n="109" break="no"/>nitum includit superficiem infinitam et lineam infinatum est enim 
+      mai<lb ed="#V" n="110" break="no"/>quam sit praecise superficies infitua vel linea infinitum: et ideo sequitur quod 
+      <lb ed="#V" n="111"/>aliquid est maius infinito.
+    </p>
+            <p xml:id="nbnt23-n04398-d1e196">
+      ¶ Responsio tibi: aliquid habere rationem 
+      <lb ed="#V" n="112"/>partis potest intelligi 2 vnotitia retlietia proprie nature et proprie specie. 
+      <lb ed="#V" n="113"/>sic quod non includit infra se omnem gradum acceplcteo sue proprie 
+      <lb ed="#V" n="114"/>speciei: sicut possibile est esse in aliquo vno: sicut calor. x. gduum 
+      <lb ed="#V" n="115"/>habet rationem partis: quia non includit omnes gradus caloris 
+      acce<lb ed="#V" n="116" break="no"/>ptabiles: et aliquos calor potest esse maior isto. siliter 
+      linea<lb ed="#V" n="117" break="no"/>infinita in actu in isto intellectum non potest habere rationem partis cum 
+      <lb ed="#V" n="118"/>nulla sit maior illa. Alio autem modo dicitur aliquid habere rationem 
+      <lb ed="#V" n="119"/>partis non ratione proprie naturae et speciei. ideo dici totum quicquid est 
+      <lb ed="#V" n="120"/>sue speciei possibile est in vodo: sed reita alicus aggregati ex 
+      plu<lb ed="#V" n="121" break="no"/>ribus speciebus distinctis: quia non includit in se gradus 
+      alte<lb ed="#V" n="122" break="no"/>rius rationis.
+    </p>
+            <p xml:id="nbnt23-n04398-d1e222">
+      ¶ Et sic conceditur quod albedo infinita subiectiue 
+      <lb ed="#V" n="123"/>existens in superficie infinita haberet rationem partis: quoniam albedo 
+      <lb ed="#V" n="124"/>non claudit infra se intrinsecae aliquem gradum superficiei. ergo 
+      to<lb ed="#V" n="125" break="no"/>tum aggregatiuva scilicet superficies alba habet rationem totius reclita 
+      albe<lb ed="#V" n="126" break="no"/>dinis: et per consequens est maior albedine infiuta: ete potest concedi quod 
+      <lb ed="#V" n="127"/>infinuto aliquid est maius: et per consequens infinitum habet rationem partis.
+    </p>
+            <p xml:id="nbnt23-n04398-d1e236">
+      ¶ Et 
+      <lb ed="#V" n="128"/>si dicas quod superficies alba infitua non dicitur maior quam 
+      albe<lb ed="#V" n="129" break="no"/>do infinita: sed dicitur plus: sicut duo puncta non dicunt 
+      ma<lb ed="#V" n="130" break="no"/>ius quam vnum punctum: sed dicunt plus: quia maius et
+      <pb ed="#V" n="98-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>minus sunt per se passiones quantitatis finite. Uidetur ergo 
+      <lb ed="#V" n="2"/>quod nulla est quantitas finita: nec maius: nec minus. 
+      Cum<lb ed="#V" n="3" break="no"/>ergo albedo supponitur esse infinita. siliter superficies: agu 
+      <lb ed="#V" n="4"/>gregatum ex illis non erit maius quam alterum: licet dicatur 
+      <lb ed="#V" n="5"/>plus.
+    </p>
+            <p xml:id="nbnt23-n04398-d1e260">
+      ¶ Respondeo tibi. fertur quod maius et minus: 
+      ita<lb ed="#V" n="6" break="no"/>sunt per se passiones quantitatis infinite: sicut finite: quoniam 
+      <lb ed="#V" n="7"/>quantitas finita et infinita sunt eiusdem rationis: et per consequens 
+      <lb ed="#V" n="8"/>quicqad est passio quantitatis finite. etiam erit passio 
+      quanti<lb ed="#V" n="9" break="no"/>tatis infinite. In illo ergo 2o intellectum posset concedi quod 
+      <lb ed="#V" n="10"/>infinitum habet rationem partis: et per consequens posset componere 
+      <lb ed="#V" n="11"/>cum alio: licet illud ab antiquos philosophis et modernis sit 
+      ne<lb ed="#V" n="12" break="no"/>gatum communiter: et hoc rationabiliter: quoniam licet in talibus sit 
+      <lb ed="#V" n="13"/>pertium plurium positio: non tamen proprie compositio: quia 
+      compo<lb ed="#V" n="14" break="no"/>sitio requirit quod componentia habeant rationem partis: primo modo 
+      <lb ed="#V" n="15"/>dicte.
+    </p>
+            <p xml:id="nbnt23-n04398-d1e284">
+      ¶ Concludamus ergo de prima proprietate 
+      compo<lb ed="#V" n="16" break="no"/>siti quod eius prima proprietas est quod includit quandam 
+      imper<lb ed="#V" n="17" break="no"/>fectionem: quia parte potentialem: acciantus proprie compositum. 
+      <lb ed="#V" n="18"/>estatu de 2ea proprietate compositi perscrutar: que 
+      <lb ed="#V" n="19"/>talis est: quod compositum includit quandam 
+      <lb ed="#V" n="20"/>alietatem a partibus: et de illa proprietate satis prolixe dictum 
+      <lb ed="#V" n="21"/>fuit in philosophia naturali: quoniam in omni composito necario est 
+      <lb ed="#V" n="22"/>aliquid praeter partes vel resultans vel additum. sed que 
+      <lb ed="#V" n="23"/>sit hec alietas an realis vel formalis vel 
+      materia<lb ed="#V" n="24" break="no"/>lis a philosophis supponat: quoniam hoc non est praesentis specula 
+      <lb ed="#V" n="25"/>tionis.
+    </p>
+            <p xml:id="nbnt23-n04398-d1e308">
+      ¶ 3a proprietas compositi fuit talis quod 
+      composi<lb ed="#V" n="26" break="no"/>tum includit quandam posterioritatem respectum partium: 
+      si<lb ed="#V" n="27" break="no"/>cut principatum retlietia principiorum et constitutum retlitia 
+      constituen<lb ed="#V" n="28" break="no"/>tium: sed que sit illa posteritas non est certum. non enim est 
+      <lb ed="#V" n="29"/>posteritas teperis: quoniam simul in eodem instanti: praestent esse 
+      con<lb ed="#V" n="30" break="no"/>positum et partes: No origie licet causent: quia originatio 
+      <lb ed="#V" n="31"/>magis proprie ad causam productiuam pertinet. Nec est 
+      po<lb ed="#V" n="32" break="no"/>steritas perfectionis: quoniam totum compositum prius est 
+      perfe<lb ed="#V" n="33" break="no"/>ctione suis partibus: nec est posterioritas cognitionis: 
+      <lb ed="#V" n="34"/>quoniam compositum prius est cognitione saltem confusa ipsis 
+      parti<lb ed="#V" n="35" break="no"/>bus. ergo posteritas illa est posteritas materie a qua non 
+      <lb ed="#V" n="36"/>conuertitur consequentia subsistendi: sequitur enim compositum est. ergo: 
+      <lb ed="#V" n="37"/>et non conuertitur consequentia.
+    </p>
+            <p xml:id="nbnt23-n04398-d1e337">
+      ¶ Quarta proprietas compositi 
+      ta<lb ed="#V" n="38" break="no"/>lis est. quod compositum includit quandam dependentiam ad 
+      <lb ed="#V" n="39"/>suas partes: quia sicut fertur partes continue causant 
+      composi<lb ed="#V" n="40" break="no"/>tum in genere cause malis et formalis. ergo 
+      dependet<lb ed="#V" n="41" break="no"/>ab ipsis: saltem compositum ab vnione partium 
+      adinuicen<lb ed="#V" n="42" break="no"/>vel ab actione vnitiua partium inter se et composito naturali et 
+      <lb ed="#V" n="43"/>physico. ergo compositum quandam dependentiam includit. 
+    </p>
+            <p xml:id="nbnt23-n04398-d1e353">
+               <lb ed="#V" n="44"/>¶ Quinta proprietas compositi talis est. quod compositum 
+      <lb ed="#V" n="45"/>necessario includit quandam pluralitatem saltem ad minus 
+      <lb ed="#V" n="46"/>quandam trinitatem: quoniam in omni composito materiali sunt 
+      <lb ed="#V" n="47"/>ad minus tres res. due componentes: et 3a res resultans 
+      <lb ed="#V" n="48"/>vel addita vel 3a res: que est vnio releatio vel 3a res: quae 
+      <lb ed="#V" n="49"/>est vnio actio scilicet actio vnitiua vnius partis cum alia. 
+      il<lb ed="#V" n="50" break="no"/>le ergo sunt quinque proprietates compositi compositione 
+      ex<lb ed="#V" n="51" break="no"/>his.
+    </p>
+            <p xml:id="nbnt23-n04398-d1e374">
+      ¶ Adhuc autem compositum dicitur esse aliquid cum his: licet 
+      <lb ed="#V" n="52"/>non sit compositum compositione ex his: quemadmotitum sunt simpliciter: 
+      <lb ed="#V" n="53"/>simplicia que non componunt ex his: componunt 
+      tamen<lb ed="#V" n="54" break="no"/>cum his: sicut maera et forma secundum plures: sicut simpliciter 
+      <lb ed="#V" n="55"/>simplices: nec componuntur compositione ex his: sunt tamen 
+      <lb ed="#V" n="56"/>composita cum his: quia adiuice paestent componere: et vt 
+      bre<lb ed="#V" n="57" break="no"/>uiter omnia comprehendam: omne aliud a primo 
+      motore<lb ed="#V" n="58" break="no"/>potest esse compositum compositione cum his: quia pot habere rationem 
+      <lb ed="#V" n="59"/>pertis: et aliquid sibi deest: ad quod est in potentia: et potest 
+      <lb ed="#V" n="60"/>ipm recipere vel ipsum recipi. hoc g dicta sunt de 
+      composi<lb ed="#V" n="61" break="no"/>to in vniversali et de composito compositione ex his: et de 
+      copo<lb ed="#V" n="62" break="no"/>sito compositione cum his hoc sunt ad nostrum propositum 
+      <lb ed="#V" n="63"/>applicanda in compositione primi motoris.
+    </p>
+            <p xml:id="nbnt23-n04398-d1e403">
+      ¶ Nunc 
+      <lb ed="#V" n="64"/>autem ad propositum reuertamur perscrutantes: an primus 
+      mo<lb ed="#V" n="65" break="no"/>aor sit simpliciter incompositus compostione ex his: et incomponibi
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>lis comportione cum his. Que etiam proprietas compositionis sibi 
+      <lb ed="#V" n="67"/>repugnat et quae non. sit ergo primum dictum. quod 2a proprietas 
+      compositi<lb ed="#V" n="68" break="no"/>non repugnat primto motori: quia primus motor includit 
+      quandan<lb ed="#V" n="69" break="no"/>alietatem ad illa ex quibus constituitur. Uidelibet ad quiditatem 
+      <lb ed="#V" n="70"/>entis substantiae et species ad differentias contraentes.
+    </p>
+            <p xml:id="nbnt23-n04398-d1e423">
+      ¶ 3a est proprietas 
+      <lb ed="#V" n="71"/>compositi primo motori non repugnat: quae est: quod compositum 
+      respe<lb ed="#V" n="72" break="no"/>ctu partium dicit quandam posteritatem: quoniam in primo motore 
+      <lb ed="#V" n="73"/>est aliquid prius et posterius ex natura rei et est ibi aliquos ordo 
+      <lb ed="#V" n="74"/>perfectionum actualium adinuicem vt intelligere et velle et 
+      <lb ed="#V" n="75"/>essentie primi motoris ad vtrumque. Et inter prinuitua 
+      constituen<lb ed="#V" n="76" break="no"/>tia essentiam primi motoris: et primum motorem et constitutum ex 
+      <lb ed="#V" n="77"/>his. sunt enim i pri motore praedicata priora per se inclusa in inferio 
+      <lb ed="#V" n="78"/>ribus habentia essentialem ordinem ex natura rei adiuicem.
+    </p>
+            <p xml:id="nbnt23-n04398-d1e443">
+      ¶ 
+      <lb ed="#V" n="79"/>etiam proprietas sibi non repugnat scilicet includere quandam 
+      plura<lb ed="#V" n="80" break="no"/>litatem: quia ad minus quandam trinitatem scilicet primorum 
+      constituen<lb ed="#V" n="81" break="no"/>tium et totius constituti. vtrum autem primus motor includat 
+      <lb ed="#V" n="82"/>quandam trinitatem suppositorum autem non inferius prolixior erit 
+      <lb ed="#V" n="83"/>secundo: cum de potentia productiua et gnerantiua primi motoris 
+      <lb ed="#V" n="84"/>ad ista inqueremus. Palam ergo ex dictis quod si ratio 
+      compositi<lb ed="#V" n="85" break="no"/>repugnaret primo motori hoc est per eius primam proprietatem scilicet 
+      <lb ed="#V" n="86"/>includere aliquam imperfectionem vel per eius proprietatem scilicet 
+      in<lb ed="#V" n="87" break="no"/>cludere quandam dependentiam. ergo si ille due proprietates 
+      prim<lb ed="#V" n="88" break="no"/>motori repugnant de eis inqueramus. fertur autem a philosophis 
+      <lb ed="#V" n="89"/>antiqus et modernis: quod prima proprietas omnino sibi 
+      repu<lb ed="#V" n="90" break="no"/>gnat: quoniam in primo motore nulla iperfectio reperitur. et per consequens 
+      <lb ed="#V" n="91"/>nec ratio partis: nec potentiaiuenitur in eo. Ratio autem eorum fuit 
+      ta<lb ed="#V" n="92" break="no"/>lis: quoniam nihil finitum est in primo motore: vel omnia sunt in 
+      eo<lb ed="#V" n="93" break="no"/>vel saltem: nec finita: nec infinita: infinito autem repugnincat 
+      <lb ed="#V" n="94"/>ratio partis cum nihil maius sit infinito. parti autem semper aliquid 
+      <lb ed="#V" n="95"/>est maius.
+    </p>
+            <p xml:id="nbnt23-n04398-d1e482">
+      ¶ Et si arguas quod in per motore est aliquid 
+      <lb ed="#V" n="96"/>contrahibile et aliquid contraens et aliquid per se constitutum ex illis. 
+      <lb ed="#V" n="97"/>ergo illud 3m per se constitutum videtur esse compositum. Tum etiam quia 
+      <lb ed="#V" n="98"/>quiditas entis et quiditas substantiae habent rationem partis in 
+      crea<lb ed="#V" n="99" break="no"/>turis: et componuntur cum differuntis contrahentibus: et per se vnum 
+      fa<lb ed="#V" n="100" break="no"/>ciunt ex illis constitutum. ergo vbicumque reperiat quiditas 
+      en<lb ed="#V" n="101" break="no"/>tis substantia et omnino transcendentium hebebunt ratione partis et 
+      por<lb ed="#V" n="102" break="no"/>tentie: reperiuntur autem in primo motore supposita 
+      vniuoca<lb ed="#V" n="103" break="no"/>tione de qua satis est dictum in nostra metaphysica. ergo habebunt 
+      <lb ed="#V" n="104"/>rationem partis et potentiae.
+    </p>
+            <p xml:id="nbnt23-n04398-d1e504">
+      ¶ Respondeo tibi non est necessarium quod 
+      <lb ed="#V" n="105"/>omne per se constitutum ex contrahaibili et contrahente sit compositum 
+      <lb ed="#V" n="106"/>proprie: nisi tantum de illo per se vno: cuius componentia 
+      <lb ed="#V" n="107"/>sunt finita: et consequitur illa aliqua magnitudo finita: 
+      <lb ed="#V" n="108"/>quiditas autem entis et cuiuslibet contrahaibilis in primo 
+      mo<lb ed="#V" n="109" break="no"/>tore ex se nullam habent magnitudinem: nec finitam: nec 
+      in<lb ed="#V" n="110" break="no"/>finitam sibi et aliis communem. Ratio autem hus dicti est ista: quoniam 
+      <lb ed="#V" n="111"/>si magnitudo aliqua per se consequitur illa. tunc illa 
+      ma<lb ed="#V" n="112" break="no"/>gnitudo vel esset finita vel infinita. si finita vbicumque 
+      <lb ed="#V" n="113"/>reperiretur esset finita. siliter si infinita magnitudo illam 
+      <lb ed="#V" n="114"/>quiditatem vniuocauam consequitur vbicumque reperiretur illa 
+      quidi<lb ed="#V" n="115" break="no"/>tas in eo semper reperiretur infinita: quodlibet istorum est 
+      <lb ed="#V" n="116"/>impossibile. ergo etc.
+    </p>
+            <p xml:id="nbnt23-n04398-d1e534">
+      ¶ 2m dubium sic soluitur. quod argumentatuo: 
+      <lb ed="#V" n="117"/>tua supposuit vnum quod quiditates vniuoce in primo 
+      mo<lb ed="#V" n="118" break="no"/>tore et aliis componant cum istis differuntiis inferioribus et quod 
+      <lb ed="#V" n="119"/>habeant rationem partis: quod non est verum Cum prima radium 
+      <lb ed="#V" n="120"/>compositi et partis sit finitas. iste autem quiditates non 
+      <lb ed="#V" n="121"/>sunt finite: nec infinite: sed sunt omnino indserentes ad 
+      <lb ed="#V" n="122"/>vtrumque.
+    </p>
+            <p xml:id="nbnt23-n04398-d1e550">
+      ¶ Et si arguas: quod aliqua magnitudo 
+      fini<lb ed="#V" n="123" break="no"/>ta vel infinita non consequitur praedicata vniuoca vt sunt 
+      quidi<lb ed="#V" n="124" break="no"/>tates. x. generum praedicamentorum et generum subalterno 
+      <lb ed="#V" n="125"/>rum.
+    </p>
+            <p xml:id="nbnt23-n04398-d1e559">
+      ¶ Respondeo tibi quod hoc est hoc: nec est alia causa 
+      <lb ed="#V" n="126"/>quarenda. nam si praedicata vniuoca ex se haberent aliquam 
+      ma<lb ed="#V" n="127" break="no"/>gnitudinem: que consequitur rationem eorum formaliter vel 
+      il<lb ed="#V" n="128" break="no"/>la maginito esset sil finita et infinita: quod est impossibile vel 
+      finita<lb ed="#V" n="129" break="no"/>tantum: et tunc in primo moitioesset aliquid finitum vivela infinitum tantum: et in 
+      <lb ed="#V" n="130"/>aliis a primo motoe esset aliquid infinitum: quod non est verum. relinatur
+      <pb ed="#V" n="98-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>ergo quod nullam ex se habebant magnitudinem: neque 
+      fi<lb ed="#V" n="2" break="no"/>nitam: neque infinitam: et per consequens non habent rationem partis. 
+      pri<lb ed="#V" n="3" break="no"/>mus ergo motor non est compositus compositione ex his 
+      <lb ed="#V" n="4"/>proprie. si tamen compositio accipiatur large et 
+      equiuoce<lb ed="#V" n="5" break="no"/>et dicatur compositio plurium quiditatum: tunc 
+      concedi<lb ed="#V" n="6" break="no"/>mus in primo motore compositionem: quoniam vere est 
+      plu<lb ed="#V" n="7" break="no"/>rium quiditatum positio. quarum vna est contrahibilis 
+      <lb ed="#V" n="8"/>et determinabilis: et alia determinans et contrahens: ex 
+      <lb ed="#V" n="9"/>quibus constituitur primus motor. et in quas tamquam in 
+      prin<lb ed="#V" n="10" break="no"/>cipia intrinseca resoluitur. Paet ergo quomo primus motor non 
+      <lb ed="#V" n="11"/>est compositus compositione ex his: et quomodo potest concedi quod 
+      <lb ed="#V" n="12"/>sit compositus: licet improprie sit dictum. 
+    </p>
+            <p xml:id="nbnt23-n04398-d1e603">
+               <lb ed="#V" n="13"/>Amplius autem de compositione primi moto 
+      <lb ed="#V" n="14"/>ris: compositione tamen cum his 
+      <lb ed="#V" n="15"/>perscrutemur. Sit ergo primum dictum negatiuum. quod primus 
+      <lb ed="#V" n="16"/>motor est simplex et incompossibiltis compone cum his: quoniam 
+      il<lb ed="#V" n="17" break="no"/>lud cui nihil deest: et quod est simpliciter perfectum est 
+      incom<lb ed="#V" n="18" break="no"/>ponibile: talis est primus motor. Tum 2o: quia illud quod 
+      <lb ed="#V" n="19"/>est simpliciter infinitum includit et claudit in se omnem 
+      gra<lb ed="#V" n="20" break="no"/>dum entitatis positiuum possibilis reperiri in aliquo 
+      <lb ed="#V" n="21"/>vno: quoniam non est possibile quod omnes gradus entitatis 
+      forma<lb ed="#V" n="22" break="no"/>liter reperiantur in aliquo vno: ergo non compossibilis cum 
+      <lb ed="#V" n="23"/>aliquo: cum iam habeat illud: talis est primus moitia cum sit 
+      <lb ed="#V" n="24"/>infinitus simpliciter in entitate.
+    </p>
+            <p xml:id="nbnt23-n04398-d1e632">
+      ¶ Ex hoc autem infertur quod 
+      <lb ed="#V" n="25"/>omnis creatura est componilis cum alia: quia aliquid sibi deest. 
+      <lb ed="#V" n="26"/>Tum quia non est simpliciter perfecta. Tum quia non est simpiter 
+      infinita<lb ed="#V" n="27" break="no"/>claudens infra se omnes gdus possibiles reperiri in eadem. alias. 
+      <lb ed="#V" n="28"/>esset equalis primo motori: quod est impossibile.
+    </p>
+            <p xml:id="nbnt23-n04398-d1e643">
+      ¶ Habet autem 
+      dubi<lb ed="#V" n="29" break="no"/>tationem sic dicendo: quoniam videtur quod primo motori aliquid 
+      <lb ed="#V" n="30"/>deest: et quod infra se non continet omnem entitatem possibilem: sed 
+      <lb ed="#V" n="31"/>plures possunt sibi addi: quod sic ostenditur: quoniam obiecta 
+      <lb ed="#V" n="32"/>posita in esse cognito: et in esse volito: saltem 
+      multa<lb ed="#V" n="33" break="no"/>possunt sibi inesse: et multa sibi insunt: que possent non 
+      <lb ed="#V" n="34"/>inesem: quia contingenter sibi insunt: et contingenter non insunt 
+      <lb ed="#V" n="35"/>vt infra dicetur in tractatum de cognitione primi 
+      moto<lb ed="#V" n="36" break="no"/>ris ad extra. Similiter respectus rationis contigenter sibi insunt: 
+      ali<lb ed="#V" n="37" break="no"/>qui saltem possunt sibi inesse et non inesse. ergo intellectus 
+      pri<lb ed="#V" n="38" break="no"/>mi motoris est componibilis cum talibus.
+    </p>
+            <p xml:id="nbnt23-n04398-d1e668">
+      ¶ Adhuc 
+      <lb ed="#V" n="39"/>autem primus motor potest vniri cum aliquibus cum 
+      qui<lb ed="#V" n="40" break="no"/>bus non est vnitus: et non vniri cum aliquibus cum 
+      qui<lb ed="#V" n="41" break="no"/>bus est vnitus. ergo componibilis est cum illis.
+    </p>
+            <p xml:id="nbnt23-n04398-d1e677">
+      ¶ 
+      Dis<lb ed="#V" n="42" break="no"/>solutio autem istarum difficultatum possibilis est. nam cum primo 
+      <lb ed="#V" n="43"/>dicitur quod productio obiecti in esse cognito et volito potest 
+      <lb ed="#V" n="44"/>sibi inesse et non inesse. Respondeo tibi. quero primo an 
+      produ<lb ed="#V" n="45" break="no"/>ctio obiecti sit possibilis: et sit aliquid praeter actu 
+      intelli<lb ed="#V" n="46" break="no"/>gendi et volendi primi motoris: quoniam si non nihil 
+      conctu<lb ed="#V" n="47" break="no"/>dis: et de hoc dicetur infra in sequeti tractatum. At vero 
+      <lb ed="#V" n="48"/>concesso quod sit aliquid positiuum distinctum ab actu 
+      in<lb ed="#V" n="49" break="no"/>telligendi et volendi in primo motore: dicitur quod non sunt 
+      for<lb ed="#V" n="50" break="no"/>me subiectiue in primo motore: sed in obiecto cognito et 
+      <lb ed="#V" n="51"/>in obiecto volito: sed illud omnino stare non potest: quoniam 
+      <lb ed="#V" n="52"/>obiectum quod est omnino non ens potest esse cognitum et volitum 
+      <lb ed="#V" n="53"/>Tum etiam quoniam primus motor est obiectum cognitum a 2o 
+      mo<lb ed="#V" n="54" break="no"/>tore. ergo esset subiectum illius in esse volito: et per consequens 
+      compo<lb ed="#V" n="55" break="no"/>neret cum illo: sicut subiectum cum accidente: quod tu credis 
+      vi<lb ed="#V" n="56" break="no"/>tare.
+    </p>
+            <p xml:id="nbnt23-n04398-d1e712">
+      ¶ Quid ergo est subiectum illius esse cogniti in primo 
+      mo<lb ed="#V" n="57" break="no"/>tore:
+    </p>
+            <p xml:id="nbnt23-n04398-d1e717">
+      ¶ Dico tibi quod in primo motore nihil est subiectum 
+      <lb ed="#V" n="58"/>informabile et perfectibile ab illo. quare tunc aliquid in 
+      pri<lb ed="#V" n="59" break="no"/>mo motore esset componibile cum alio. Est tamen in primo 
+      <lb ed="#V" n="60"/>motore aliquid scilicet intellectus autem intellectio quod dependem 
+      <lb ed="#V" n="61"/>tiam illius esse cogniti terminat: et cui innititur: sicut 
+      dapen<lb ed="#V" n="62" break="no"/>dens innititur sue dependentie absque omni perfectione et informa 
+      <lb ed="#V" n="63"/>tione: sed tantum intellectus primi motoris sub actu intellectendi 
+      de<lb ed="#V" n="64" break="no"/>pendentiam istius productionis in esse cognito terminat 
+      mul<lb ed="#V" n="65" break="no"/>tas dependentias aliquorum plurum absque omni composi¬
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>tione et componibilitate cum illis. terminus enim dependentis 
+      <lb ed="#V" n="67"/>alicuius non componitur. nec vnitur cum illo: cuius 
+      de<lb ed="#V" n="68" break="no"/>pendentiam terminat. Palam autem quod conformiter dicendum 
+      <lb ed="#V" n="69"/>est de respectibus rationis quod eorum dependentiam termi 
+      <lb ed="#V" n="70"/>nat praecise absque omni composicte cum illis: per id autem 3 
+      <lb ed="#V" n="71"/>quoniam licet primus motor possit vniri pluribus quibus non 
+      <lb ed="#V" n="72"/>est vnitus: non propter hoc componit cum illis: sed tantum 
+      de<lb ed="#V" n="73" break="no"/>pendentiam eorum terminabit: et erit tantum praecise terminus 
+      <lb ed="#V" n="74"/>dependentie eorum non subiectum: concludamus ergo quod primus 
+      <lb ed="#V" n="75"/>motor est simpliciter incompositus et incomponibilis cum 
+      <lb ed="#V" n="76"/>quocumque et sic terminatur 3a passio negatiua. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

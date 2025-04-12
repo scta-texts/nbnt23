@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="97-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n04112"><!--ntheol-l2c2-->
+            <head xml:id="nbnt23-n04112-Hd1e97">Caput 2</head>
+            <head xml:id="nbnt23-n04112-Hd1e99" type="question-title">De impartibilitate primi motoris</head>
+            <p xml:id="nbnt23-n04112-d1e102">
+               <lb ed="#V" n="101"/>¶ De impartibilitate primi motoris. Cap. II.
+    </p>
+            <p xml:id="nbnt23-n04112-d1e107">
+               <lb ed="#V" n="102"/>QUoniam autem primus motor dicitur
+      <lb ed="#V" n="103"/>impartibilis et indiuisibilis 
+      <lb ed="#V" n="104"/>ab antiquis philosophis et modernis. ergo de illa per 
+      <lb ed="#V" n="105"/>se passione negativa primi motoris perscrutandum 
+      <lb ed="#V" n="106"/>est: sit ergo prima propositio talis. Primus motor est 
+      <lb ed="#V" n="107"/>omnino impartiliua extensiue.
+    </p>
+            <p xml:id="nbnt23-n04112-d1e123">
+      ¶ Ratio huius positionis est ista. Quoniam 
+      <lb ed="#V" n="108"/>nullam habet extensiuam magnitudinem: cum non sit corus: nec 
+      <lb ed="#V" n="109"/>virtus in corpore.
+    </p>
+            <p xml:id="nbnt23-n04112-d1e131">
+      ¶ 2a propositio sit ista: quod primus motor non 
+      <lb ed="#V" n="110"/>est diuitis in mam et formam: cum sit omnino immaterialis non est 
+      <lb ed="#V" n="111"/>diuiltio: sicut perfectio diuiditur secundum diuisionem sui subiecti: cum 
+      <lb ed="#V" n="112"/>nullius corporis sit perfectio. ipse enim est motor primus qui 
+      <lb ed="#V" n="113"/>nulli mobili seu corpori est appropriatus.
+    </p>
+            <p xml:id="nbnt23-n04112-d1e142">
+      ¶ 3a 
+      propositio<lb ed="#V" n="114" break="no"/>sit inua. primus motor est omnino impartibilis et indiuius in 
+      <lb ed="#V" n="115"/>plicles gradus perfectionis eiusdem rationis. Et intelligo sic 
+      <lb ed="#V" n="116"/>istam proportionem: quod essentia primi motoris est omnino impartibi 
+      <lb ed="#V" n="117"/>lis et indisilis in plures gradus essentie eiusdem rationis: sic 
+      <lb ed="#V" n="118"/>quod habeat magnitudinem perfectionis resolubilem in plures 
+      <lb ed="#V" n="119"/>gradus essentie eiusdem rationis: sed ipsa essentia primi 
+      mo<lb ed="#V" n="120" break="no"/>toris est omnino indiuisilitis.
+    </p>
+            <p xml:id="nbnt23-n04112-d1e160">
+      ¶ Similiter intellectus primi motoris est 
+      <lb ed="#V" n="121"/>simpliciter indiuisibilis in plures gradus eiusdem rationis. Et 
+      idenm<lb ed="#V" n="122" break="no"/>dicendum est conformiter de qualibet perfectione 
+      existen<lb ed="#V" n="123" break="no"/>te formaliter in primo motore: quod quelibet est 
+      sim<lb ed="#V" n="124" break="no"/>pliciter impartibilis et indiuisibilis in plures 
+      gra<lb ed="#V" n="125" break="no"/>dus eiusdem rationis. Unde non est imaginandum: quod 
+      <lb ed="#V" n="126"/>si calor intensus continet in se plures gradus calo 
+      <lb ed="#V" n="127"/>ris distinctos ex natura rei inter se in quos est 
+      di<lb ed="#V" n="128" break="no"/>uisibilis et resolubilis: sic essentia primi motoris et 
+      <lb ed="#V" n="129"/>quolibet alia perfectio sit simpliciter perfectibilis et diuisibilis 
+      <lb ed="#V" n="130"/>in plures tales gradus eiusdem rationis.
+    </p>
+            <p xml:id="nbnt23-n04112-d1e184">
+      ¶ Et si arguas
+      <pb ed="#V" n="97-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>quod albedo quanto perfectior est tanto plures gradus infra se 
+      conti<lb ed="#V" n="2" break="no"/>net. Similiter substantia plures gradus entitatis continere 
+      vi<lb ed="#V" n="3" break="no"/>detur quam accidens. Et substantia spiritualis plures gradus continet quam 
+      <lb ed="#V" n="4"/>substantia corporalis: et semper ascendendo vsque ad prius moto 
+      <lb ed="#V" n="5"/>rem videtur quod eius essentia ples gradus entitatis contineat quam 
+      <lb ed="#V" n="6"/>quacumque alia essentia: immo gradus entitatis infinitos 
+      in<lb ed="#V" n="7" break="no"/>tra se continet: cum sit forma infinita infinitate propria naturae 
+      <lb ed="#V" n="8"/>et speciei: cui nullus gradus deest: nec vltra est aliquos 
+      <lb ed="#V" n="9"/>gradus eiusdem rationis accipiendus. ergo videtur quod ipsa sit 
+      di<lb ed="#V" n="10" break="no"/>uisibilis et partibilis in illos gradus quos intra se 
+      clau<lb ed="#V" n="11" break="no"/>dit: et cum sint infiniti erit diuisibilis et partibilis in 
+      infi<lb ed="#V" n="12" break="no"/>nitum.
+    </p>
+            <p xml:id="nbnt23-n04112-d1e217">
+      ¶ Responstio tibi dimissa albedine: que forte est 
+      di<lb ed="#V" n="13" break="no"/>uisibilis in plures gradus cum sit intensibilis et 
+      remissi<lb ed="#V" n="14" break="no"/>bilis. dicamus de aliis que non recipiunt intensionem 
+      <lb ed="#V" n="15"/>et remissionem. nam concedimus quod substantia entitatiue 
+      exce<lb ed="#V" n="16" break="no"/>dit accidens non excessu mathechysicto: sic quod constet ex 
+      en<lb ed="#V" n="17" break="no"/>titate accidentis et aliquo alio addito: quia tunc sicut 
+      tu<lb ed="#V" n="18" break="no"/>arguebas substantia est resolubilis: sed excedit eum 
+      entita<lb ed="#V" n="19" break="no"/>tiuo excessu perfectionali equipollenter: sic quod substantia 
+      conti<lb ed="#V" n="20" break="no"/>net equipollenter omnem gradum accidentis: licet in se sit esqd 
+      <lb ed="#V" n="21"/>simplex vel simplicior quam accidens: sicut est ordo 
+      perfe<lb ed="#V" n="22" break="no"/>ctionis in speciebus.
+    </p>
+            <p xml:id="nbnt23-n04112-d1e241">
+      ¶ Species tamen perfectior non est 
+      compo<lb ed="#V" n="23" break="no"/>sitior: immo est simplicior specie imperfectiori. vnde anima 
+      ratio<lb ed="#V" n="24" break="no"/>nalis simplicior est vel equo simplex sicut actus 
+      intel<lb ed="#V" n="25" break="no"/>ligendi: et excedit istum entitatiue equipollenter. ergo 
+      semp<lb ed="#V" n="26" break="no"/>alcendendo vsque ad essentiam primi motoris: ita excedit 
+      <lb ed="#V" n="27"/>omnem aliam entitatem in infinitum excessu entitatiuo. et 
+      <lb ed="#V" n="28"/>tamen simplicissima est et indiuisibilis in plures gradus 
+      <lb ed="#V" n="29"/>eiusdem rationis.
+    </p>
+            <p xml:id="nbnt23-n04112-d1e260">
+      ¶ Est ergo ymaginandum quod essentia primi 
+      <lb ed="#V" n="30"/>motoris est quodam positiuum omnino simplex: et indiui. 
+      <lb ed="#V" n="31"/>sibile in qua essentia stando princise infra essentiam nulla est 
+      <lb ed="#V" n="32"/>omnino indiuisibilitas: nec distinctio in ipsa: nec aliqua idenlitas 
+      <lb ed="#V" n="33"/>in natura eius: sed est simpliciter impartibilis et indiuisibilis. 
+      <lb ed="#V" n="34"/>vnde qui posset eam videre intuitiue quantum visibilis est 
+      vi<lb ed="#V" n="35" break="no"/>deret quod ipsa est simpliciter indiuisibilis in plures 
+      gra<lb ed="#V" n="36" break="no"/>dus eiusdem rationis.
+    </p>
+            <p xml:id="nbnt23-n04112-d1e278">
+      ¶ 4a propositio sit talis. Primus 
+      mo<lb ed="#V" n="37" break="no"/>tor non est simpliciter indiuisibilis in plura alterius rationis 
+      <lb ed="#V" n="38"/>hoc probatur: quoniam in primo motore sunt plures perfectio 
+      <lb ed="#V" n="39"/>nes et proprietates alterius rationis distincte inter se et 
+      ab<lb ed="#V" n="40" break="no"/>essentia primi motoris: sicut intellectus eius et voluntas et 
+      <lb ed="#V" n="41"/>intellectio et volitio: sicut de pluribus aliis: quae in primo 
+      <lb ed="#V" n="42"/>motore ex materia rei distinguuntur. Et licet quolibet proprietas 
+      <lb ed="#V" n="43"/>primi motoris sit formaliter infinita et non idensitete sibi 
+      <lb ed="#V" n="44"/>identitate absoluta: que excludit omnem non identitatem et 
+      <lb ed="#V" n="45"/>identitaret sibi omnes gradus possibiles sue naturae et speciei: et qui 
+      <lb ed="#V" n="46"/>sunt eiusdem speciei: no tamen quelibet proprietas identipgsicam 
+      <lb ed="#V" n="47"/>sibi aliam propter eius infinitatem identitate absoluta: sed tantum in 
+      iden<lb ed="#V" n="48" break="no"/>titate relatiua: quae non excludit omnem non identitatem ex 
+      <lb ed="#V" n="49"/>natura rei: proprietates ergo in primo motore sunt precise ex 
+      <lb ed="#V" n="50"/>natura rei vna ab alia. ergo primus motor non est simplitus 
+      <lb ed="#V" n="51"/>indiuisibilis et impartibilis. ideo diuisibilis et praecisibi 
+      <lb ed="#V" n="52"/>lis et partibilis ex natura rei in plures gradus alterius 
+      <lb ed="#V" n="53"/>rationis.
+    </p>
+            <p xml:id="nbnt23-n04112-d1e317">
+      ¶ 5a propositio sit talis: essentia primi motoris non 
+      <lb ed="#V" n="54"/>est indiuisibilis: nec impartibilis in plures gradus 
+      al<lb ed="#V" n="55" break="no"/>terius rationis: hoc probatur: quoniam essentia primi motoris est 
+      <lb ed="#V" n="56"/>constituta ex quiditate contrahibili et quodam alio contrahente: quae 
+      <lb ed="#V" n="57"/>non sunt idem ex natura rei: quia nihil seipsum contrait. essentia 
+      prim<lb ed="#V" n="58" break="no"/>mi motoris est constituta ex talibus primcipiis intrinse 
+      <lb ed="#V" n="59"/>cis: sicut magis expresse fuit dictum in nostra metaphysica in 
+      <lb ed="#V" n="60"/>tractatum de diuisione entis. Palam est ex superioribus 
+      di<lb ed="#V" n="61" break="no"/>ctis: quoniam essentia primi motoris proprie est diuisibi 
+      <lb ed="#V" n="62"/>lis. et per consequens resolubilis in plures gradus alterius 
+      ra<lb ed="#V" n="63" break="no"/>tionis. Nam plures conceptus contrahibiles quiditatiuos et 
+      <lb ed="#V" n="64"/>contrahentes qualificatiuos per se includit. Includit namque per 
+      <lb ed="#V" n="65"/>se perseitate primi modi. spiritum. substantiam ens illimitatum
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>et vltimate quiditatem entis: in quo est status: cum omnino 
+      <lb ed="#V" n="67"/>sit indiuisibilis in partibus et simitus simplex.
+    </p>
+            <p xml:id="nbnt23-n04112-d1e352">
+      ¶ Et 
+      <lb ed="#V" n="68"/>si arguitur. tunc sequitur quod quiditas entis simplicior est quam 
+      <lb ed="#V" n="69"/>essentia primi motoris.
+    </p>
+            <p xml:id="nbnt23-n04112-d1e359">
+      ¶ Responsio tibi quod simplicior est 
+      <lb ed="#V" n="70"/>simplicitate opposita indiuisibitutm in plures gradus 
+      <lb ed="#V" n="71"/>eiusdem rationis. Manifestum est autem quod formaliter est 
+      di<lb ed="#V" n="72" break="no"/>cendum de proprietatibus primi motoris: quoniam non 
+      simp<lb ed="#V" n="73" break="no"/>sunt impartibiles et indiuisibiles: sed magis sunt diuisi 
+      <lb ed="#V" n="74"/>biles in plures gradus alterius rationis. Cum sint constitute 
+      <lb ed="#V" n="75"/>ex quidicate contraibili et quidicate contrahente: sicut essentia primi 
+      moto<lb ed="#V" n="76" break="no"/>ris. omnes ergo includunt ens inquantum ens et aliquid aliud hoc 
+      <lb ed="#V" n="77"/>ergo dicta sint de impartibilitate primi motoris. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

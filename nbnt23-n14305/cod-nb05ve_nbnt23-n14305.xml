@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="113-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n14305"><!--ntheol-l4c1-->
+            <head xml:id="nbnt23-n14305-Hd1e97">Caput 1</head>
+            <head xml:id="nbnt23-n14305-Hd1e99" type="question-title">De quattuor modis principiandi distinctis</head>
+            <p xml:id="nbnt23-n14305-d1e102">
+               <lb ed="#V" n="60"/>¶ De quattuor modis principiandi distinctis. Cap. I. 
+    </p>
+            <p xml:id="nbnt23-n14305-d1e107">
+               <lb ed="#V" n="61"/>DE voluntate autem et 
+      voli<lb ed="#V" n="62" break="no"/>tione et 
+      mo<lb ed="#V" n="63" break="no"/>do volendi primi motoris 
+      perscrute<lb ed="#V" n="64" break="no"/>mur. ordine enim naturali intellectus 
+      <lb ed="#V" n="65"/>primi motoris prior est eius voluntate
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>intellectio volitione. Et ideo de intellectum et 
+      intel<lb ed="#V" n="67" break="no"/>lectione prior debuit esse speculatio: quoniam sicut 
+      <lb ed="#V" n="68"/>res se habet ad esse sic ad intelligi.
+    </p>
+            <p xml:id="nbnt23-n14305-d1e129">
+      ¶ Perscrutatio 
+      <lb ed="#V" n="69"/>autem prima sit: an in primo motore sit voluntas. Et 
+      an<lb ed="#V" n="70" break="no"/>sit actualiter volens. Deinde an velit aliquid extra 
+      <lb ed="#V" n="71"/>se: et an producat obiecta in esse volito.
+    </p>
+            <p xml:id="nbnt23-n14305-d1e139">
+      ¶ Amplius autem 
+      <lb ed="#V" n="72"/>an voluntas primi motoris sit respectum contingentium. 
+      <lb ed="#V" n="73"/>Et si futura contingentia prius determinentur a 
+      volun<lb ed="#V" n="74" break="no"/>tate quam intellectus intelligat illa.
+    </p>
+            <p xml:id="nbnt23-n14305-d1e148">
+      ¶ Adhuc autem de 
+      <lb ed="#V" n="75"/>comparatione voluntatis et intellectus: et actus 
+      volen<lb ed="#V" n="76" break="no"/>di et intelligendi: nec non et comparatione voluntatis 
+      <lb ed="#V" n="77"/>primi motoris et aliorum motorum inferiorum et de multis 
+      <lb ed="#V" n="78"/>annexis eiusdem.
+    </p>
+            <p xml:id="nbnt23-n14305-d1e159">
+      ¶ Prima igitur conclusio sit talis. primus 
+      mo<lb ed="#V" n="79" break="no"/>tor est formaliter volens. hoc probatur: quoniam voluntas 
+      <lb ed="#V" n="80"/>est perfectio simpliciter. In ipso autem est omnis perfectio 
+      sim<lb ed="#V" n="81" break="no"/>pliciter. ergo etc. A priori autem sic demonstratur: omnis 
+      substan<lb ed="#V" n="82" break="no"/>tia immaterialis actu formaliter infinita est formaliter 
+      vo<lb ed="#V" n="83" break="no"/>lens. primus motor est substantia immaterialis formaliter 
+      <lb ed="#V" n="84"/>infinita: quoniam hec est diffinitio eius etc.
+    </p>
+            <p xml:id="nbnt23-n14305-d1e175">
+      ¶ 2a conclusio sit 
+      <lb ed="#V" n="85"/>talis. primus motor est semper actu volens essentiam 
+      <lb ed="#V" n="86"/>suam. hoc probatur: quoniam sicut per intelligere 
+      honora<lb ed="#V" n="87" break="no"/>bile inest ei sic per velle se. aliter esset sicut dormiens: nec 
+      <lb ed="#V" n="88"/>esset summe felix: cum non esset vltima delectatione 
+      <lb ed="#V" n="89"/>quietatus: nec etiam totus voluptuosus: semper autem 
+      <lb ed="#V" n="90"/>se habet sic. Palam ex dictis de intellectione primi 
+      mo<lb ed="#V" n="91" break="no"/>toris: quod primus motor est sua delectatio: sicut suum 
+      <lb ed="#V" n="92"/>intelligere.
+    </p>
+            <p xml:id="nbnt23-n14305-d1e195">
+      ¶ Tertia conclusio sit talis: quod primus 
+      mo<lb ed="#V" n="93" break="no"/>tor diligit essentiam suam necessario. hoc probatur: 
+      quo<lb ed="#V" n="94" break="no"/>niam diligens et dilectum et dilectio sunt idem realiter: 
+      <lb ed="#V" n="95"/>licet forte sit aliqua non identitas: sicut alias fuit dictum. 
+      <lb ed="#V" n="96"/>igitur ea necessitate qua vnum est et aliud.
+    </p>
+            <p xml:id="nbnt23-n14305-d1e206">
+      ¶ Et si 
+      ar<lb ed="#V" n="97" break="no"/>guas: quod primus motor necessario amat. ergo et 
+      natu<lb ed="#V" n="98" break="no"/>raliter amat. ergo non libere: quoniam libertas et 
+      natu<lb ed="#V" n="99" break="no"/>ralitas mutuo se excludunt cum sint oppositi modi 
+      <lb ed="#V" n="100"/>principiandi.
+    </p>
+            <p xml:id="nbnt23-n14305-d1e218">
+      ¶ Respondeo tibi: quod vtraque consequentia 
+      <lb ed="#V" n="101"/>est neganda. prima cum dicis amat se necessario. ergo 
+      <lb ed="#V" n="102"/>naturaliter: dicitur quod non sequitur: quia libertas et 
+      necessi<lb ed="#V" n="103" break="no"/>tas simul stant: et eidem actu possunt inesse: quia sicut 
+      <lb ed="#V" n="104"/>infra dicetur de ratione libertatis vt libertas est non 
+      <lb ed="#V" n="105"/>est contingentia. ergo stat quod primus motor amat se 
+      ne<lb ed="#V" n="106" break="no"/>cessario et libere: sicut progenitores nostri concedunt: 
+      <lb ed="#V" n="107"/>quod secundi motores naturaliter amant primum 
+      moto<lb ed="#V" n="108" break="no"/>rem: et cum hoc libere. Primus enim motor. 
+      simili<lb ed="#V" n="109" break="no"/>ter immobilis mouet alios in ratione intellecti et 
+      ama<lb ed="#V" n="110" break="no"/>ti: et talis motio secundum eos est necessaria non contingens. 
+    </p>
+            <p xml:id="nbnt23-n14305-d1e242">
+               <lb ed="#V" n="111"/>¶ 2a consequentia fuit ista. primus motor amat se 
+      naturali<lb ed="#V" n="112" break="no"/>ter. ergo non libere: quod quicquid sit de consequentia antecedens non 
+      <lb ed="#V" n="113"/>est verum: sicut statim fuit dictum: quia non sequitur. 
+      neces<lb ed="#V" n="114" break="no"/>sario. ergo naturaliter.
+    </p>
+            <p xml:id="nbnt23-n14305-d1e253">
+      ¶ Sed de consequentia quid dicendum 
+      <lb ed="#V" n="115"/>numquid sequatur. naturaliter. ergo non libere.
+    </p>
+            <p xml:id="nbnt23-n14305-d1e258">
+      ¶ 
+      Re<lb ed="#V" n="116" break="no"/>spondetur quod quattuor sunt modi principiandi naturaliter 
+      ne<lb ed="#V" n="117" break="no"/>cessario libere contingenter. Et fertur quod sic 
+      comparan<lb ed="#V" n="118" break="no"/>tur adinuicem quod quodlibet istorum stat cum duobus et 
+      <lb ed="#V" n="119"/>repugnat 3o natura naturaliter. stat cum necessario et 
+      contin<lb ed="#V" n="120" break="no"/>gente: quoniam est aliquod agens naturale quod agit simpliciter 
+      <lb ed="#V" n="121"/>necessario: ita quod impossibile est non agere: sicut 
+      mo<lb ed="#V" n="122" break="no"/>tores orbium non possint non mouere secundum philosophos. Et est 
+      <lb ed="#V" n="123"/>aliquod agens naturale quod agit contingenter: et potest 
+      im<lb ed="#V" n="124" break="no"/>pediri ex concursum alicuius cause: vt quod non sit calor 
+      <lb ed="#V" n="125"/>sub igne. Sed et naturaliter repugnat libero. 
+      Ne<lb ed="#V" n="126" break="no"/>cessarium autem stat cum naturali et libero: sed 
+      repu<lb ed="#V" n="127" break="no"/>gnat contingenti. Liberum autem stat cum necessario et 
+      <lb ed="#V" n="128"/>contingenti: sed repugnat naturali: contingens autem 
+      <lb ed="#V" n="129"/>stat cum naturali et libero: sed repugnat necessario. 
+    </p>
+            <p xml:id="nbnt23-n14305-d1e291">
+               <lb ed="#V" n="130"/>¶ Et si adhuc queras: an isti quattuor modi simul
+      <pb ed="#V" n="113-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>possint competere eidem agenti onino idem ydentitate 
+      <lb ed="#V" n="2"/>absoluta ex natura rei et eidem princtio productiuo: vel an necessario 
+      <lb ed="#V" n="3"/>reducantur in diuersa prinus.
+    </p>
+            <p xml:id="nbnt23-n14305-d1e307">
+      ¶ Respondeo tibi. Palam quod 
+      <lb ed="#V" n="4"/>modi quie simul stant non inferunt diuersa prinuitua 
+      producti<lb ed="#V" n="5" break="no"/>ua: sed de illis modis oppositis est maior difficultas. 
+      <lb ed="#V" n="6"/>vt si agere necessario et continius infert diuersa prinitua 
+      producti<lb ed="#V" n="7" break="no"/>ua.
+    </p>
+            <p xml:id="nbnt23-n14305-d1e319">
+      ¶ Et ad hoc tibi raspeno. quod isti 4oe modi 
+      absoluti<lb ed="#V" n="8" break="no"/>principii: sed magis respectiui scilicet retligtia termini et actionis. 
+      <lb ed="#V" n="9"/>ideo dicitur quod isti modi oppositi vt agere necessario et 
+      contingen<lb ed="#V" n="10" break="no"/>ter non insunt eidem prinus productiuo relietia eiusdem termini 
+      <lb ed="#V" n="11"/>quoniam quod aliquod prindicitum principiet aliquem terminum necessario et 
+      <lb ed="#V" n="12"/>immutabiliter: et illum eundem terminum principiet 
+      contingen<lb ed="#V" n="13" break="no"/>ter et mutabiliter non videtur possibile.
+    </p>
+            <p xml:id="nbnt23-n14305-d1e335">
+      ¶ Sed quod vnum pringuitum 
+      pro<lb ed="#V" n="14" break="no"/>ductiuum hebeat vnum modum prinuienti necessario et immutabilter 
+      <lb ed="#V" n="15"/>respectu eiusdem termini: et alium modum principiandi 
+      mu<lb ed="#V" n="16" break="no"/>tabiliter et contingenter respectu alterius termini non 
+      vi<lb ed="#V" n="17" break="no"/>aliquod inconueniens: sicut primus motor amat se 
+      necessario<lb ed="#V" n="18" break="no"/>Et alia continguitur: de quo inferius erit secundo.
+    </p>
+            <p xml:id="nbnt23-n14305-d1e348">
+      ¶ Amplius autem 
+      <lb ed="#V" n="19"/>conformiter dicimus quod impossibile est quod idem sit prinditum 
+      pro<lb ed="#V" n="20" break="no"/>ductiuum agendi naturaliter et libere retligentia eiusdem 
+      termini<lb ed="#V" n="21" break="no"/>cum sint oppositi modi prinendti: sed quod vnum principium habeat 
+      <lb ed="#V" n="22"/>istos 2 modos principiandi vnum naturaliter. alium liberum 
+      <lb ed="#V" n="23"/>respectum diuersorum terminorum non videtur inconueniens. Et 
+      po<lb ed="#V" n="24" break="no"/>no tibi exemplum de voluntate nostra: quae vna manens est 
+      prin<lb ed="#V" n="25" break="no"/>cipium liberum respectu actus volendi: et prindictum natuale respectum 
+      <lb ed="#V" n="26"/>actus immudi intellectum ad noitua sui: sicut rosa naturaliter immutat 
+      in<lb ed="#V" n="27" break="no"/>tellectum sui sic et voluntas: nec est in ptante sua: quod ipsa 
+      <lb ed="#V" n="28"/>praesentata intellectui potenti eam recipare quod causet notae suri 
+      <lb ed="#V" n="29"/>vel non causet in intellectu: immo necessario et naturaliter caustem in ratione 
+      <lb ed="#V" n="30"/>obiecti sui nom vel determinat intelligentia ad nom sui: sicut 
+      <lb ed="#V" n="31"/>et alia obiecta naturalia. Modi ergo disperati et oppositi 
+      prin<lb ed="#V" n="32" break="no"/>cipiandi respectu diuersorum terminorum possunt inesse eidem 
+      <lb ed="#V" n="33"/>principio productiuo: licet non respectu eiusdem termini.
+    </p>
+            <p xml:id="nbnt23-n14305-d1e383">
+               <lb ed="#V" n="34"/>habet autem dubitationem er dictis 
+      tra<lb ed="#V" n="35" break="no"/>hentem originem. dictum est enim quod 
+      <lb ed="#V" n="36"/>isti modi: agere naturaliter et agere libere possunt eidem 
+      <lb ed="#V" n="37"/>principio productiuo inesse respectu diuersorum terminorum 
+      <lb ed="#V" n="38"/>licet non respectu eiusdem termini.
+    </p>
+            <p xml:id="nbnt23-n14305-d1e396">
+      ¶ Sed ex hoc oritur 
+      gra<lb ed="#V" n="39" break="no"/>uis dubitatio: quoniam quando aliquod superius dinditur per 2s differentias 
+      <lb ed="#V" n="40"/>oppositas: nihil quod cadit sub vno membro diuisionis 
+      <lb ed="#V" n="41"/>cadit sub altero: nec recipit praedicationem illius. Et 
+      po<lb ed="#V" n="42" break="no"/>no tibi exemplum. substantia enim diuiditur per corporeum et incorpo 
+      <lb ed="#V" n="43"/>reum. Et nihil quod cadit sub corpore recipit praedicationem 
+      in<lb ed="#V" n="44" break="no"/>corporei: quoniam diuersorum generum non subalternatim 
+      po<lb ed="#V" n="45" break="no"/>sitorum diuerse sunt species et differentiae: sed prindictum productuum diditur 
+      <lb ed="#V" n="46"/>per illos 2s modos agendi scilicet agere libstatia: et agere naturaliter. 
+      <lb ed="#V" n="47"/>quoniam omne agens vel est agens liberum vel est agens nale. ergo nil quod 
+      <lb ed="#V" n="48"/>per se cadit sub agente naturali pot cadere sub agete libiecto: 
+      <lb ed="#V" n="49"/>nec esonclsa. Et vltra seita quod isti 2o modi non potert 
+      conueni<lb ed="#V" n="50" break="no"/>re princtio productiuo.
+    </p>
+            <p xml:id="nbnt23-n14305-d1e425">
+      ¶ Dissolutio autem hus dubitationis stat 
+      <lb ed="#V" n="51"/>in hoc: quoniam idem potest argui de modo agendi necessario et libe 
+      <lb ed="#V" n="52"/>re: quoniam non poterunt cadere sub eodem menbro: nec 
+      con<lb ed="#V" n="53" break="no"/>uenire eidem printuo.
+    </p>
+            <p xml:id="nbnt23-n14305-d1e435">
+      ¶ Sed forte dices: quod modi 
+      agendi<lb ed="#V" n="54" break="no"/>necessario et libere non diuidunt prinduitum productiuum in communi: sicut 
+      <lb ed="#V" n="55"/>faciunt modi agendi naturaliter et libstatiae.
+    </p>
+            <p xml:id="nbnt23-n14305-d1e442">
+      ¶ Respondstio tibi quod nec 
+      <lb ed="#V" n="56"/>modus agendi natualiter et libstatie: nec modus agendi necessario 
+      <lb ed="#V" n="57"/>et libere diuidunt prindictum productiuum: quoniam tunc sicut arguis 
+      <lb ed="#V" n="58"/>et bene non possent conuenire eidem prinicteo productiuo: sed 
+      age<lb ed="#V" n="59" break="no"/>re naturaliter et libere sunt differentiae disiue modi agendi: non 
+      prin<lb ed="#V" n="60" break="no"/>cipii productiui. et ideo non paestent conuenire eidem modo 
+      agedi<lb ed="#V" n="61" break="no"/>respectum eiusdem termini scilicet agere naturaliter et libere: sed paesenst 
+      <lb ed="#V" n="62"/>conuenire eidem princto productiuo natualiter. ergo et libere 
+      diui<lb ed="#V" n="63" break="no"/>dunt moitum prinndi et non ipsum pringsitum productiuum. ideo eidem 
+      <lb ed="#V" n="64"/>modo conuenire non paesent. siliciter autem modus agendi necessario et 
+      <lb ed="#V" n="65"/>cotintus sunt modi opsictia: nec conueniunt eidem princtem et
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>sit talis. primus motorm immobiectilis amat aliquid extra se. 
+      <lb ed="#V" n="67"/>hoc probatur: quia intelligit aliquid extra se. ergo et potest aliquid 
+      dili<lb ed="#V" n="68" break="no"/>gere extra se: quia quicquid potest actu intellectendi appraehensiue potest 
+      <lb ed="#V" n="69"/>aliquo actu volutatis prosequi vel attingi. Equalis enim am 
+      <lb ed="#V" n="70"/>bitus est obiectum intellectus et voluntatis: quoniam omne contentum 
+      sub<lb ed="#V" n="71" break="no"/>ente fertur esse obiectum vtriusque.
+    </p>
+            <p xml:id="nbnt23-n14305-d1e481">
+      ¶ Et si dicas: quoniam primum 
+      <lb ed="#V" n="72"/>mouens bene amat aliquid extra se eminenter: quia amat 
+      suan<lb ed="#V" n="73" break="no"/>essentiam: quae est omnia esminenter: nec tantum amat extra se formite: 
+      si<lb ed="#V" n="74" break="no"/>cut intelligit se formite: quia formaliter intelligit non esse asinum. ergo 
+      for<lb ed="#V" n="75" break="no"/>maliter vult se non esse asinum. Amplius autem manitum 
+      <lb ed="#V" n="76"/>est quod primummouens immobile amatur ab alio amante extra 
+      se<lb ed="#V" n="77" break="no"/>formalite: quoniam ab amatore intrinseco primi motus amatur 
+      ne<lb ed="#V" n="78" break="no"/>cessario. motor enim coniunctus amat formaliter motorem 
+      se<lb ed="#V" n="79" break="no"/>paratum intensius quam potest et in eius dilectione tantum 
+      delecta<lb ed="#V" n="80" break="no"/>tur quod ipse est totus voluptuosus. Et fertur quod amat 
+      <lb ed="#V" n="81"/>ipset plusquam se. ergo et econclusi: motor separatus reamat motorem 
+      <lb ed="#V" n="82"/>coniunctum quie sic voluptuose amat eum. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

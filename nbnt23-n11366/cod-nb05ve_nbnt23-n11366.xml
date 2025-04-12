@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="108-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n11366"><!--ntheol-l3c3-->
+            <head xml:id="nbnt23-n11366-Hd1e97">Caput 3</head>
+            <head xml:id="nbnt23-n11366-Hd1e99" type="question-title">
+      Explanat cum infallibilitate scientiae diuine contingentiam in rebus posse reperiri
+    </head>
+            <p xml:id="nbnt23-n11366-d1e102">
+               <lb ed="#V" n="28"/>¶ Explanat cum infallibilitate scientie diuine 
+      contin<lb ed="#V" n="29" break="no"/>gentiam in rebus posse reperiri. Caput. III. 
+    </p>
+            <p xml:id="nbnt23-n11366-d1e109">
+               <lb ed="#V" n="30"/>PErscrutemur an primus 
+      mo<lb ed="#V" n="31" break="no"/>tor habeat scientiam 
+      <lb ed="#V" n="32"/>immumbleum de rebus extra. Nec non et cum 
+      <lb ed="#V" n="33"/>linfallibilitate scientie eius possit 
+      scire<lb ed="#V" n="34" break="no"/>otinuitua vel non. Dicamus ergo in primis 
+      <lb ed="#V" n="35"/>quod res que extra primum motorem esse dicunr sunt in 3i 
+      ge<lb ed="#V" n="36" break="no"/>nere: sicut namque sunt quidam termini simplices: vt 
+      ro<lb ed="#V" n="37" break="no"/>sa et lapis: ita sunt quedam complexiones necessarie: vt rosa 
+      <lb ed="#V" n="38"/>est flos: et sunt quedam complexiones contingentes: vt 
+      ro<lb ed="#V" n="39" break="no"/>sa existit.
+    </p>
+            <p xml:id="nbnt23-n11366-d1e133">
+      ¶ Adhuc autem scientia potest summi proprie secundum quod 
+      <lb ed="#V" n="40"/>est habitus conius demonstrate ex primis veris et necessa 
+      <lb ed="#V" n="41"/>ruis imposibus aliter se habere: vel potest summi magis large 
+      pro<lb ed="#V" n="42" break="no"/>notitia certa et euidenti: et necessario vera necessitate 
+      ob<lb ed="#V" n="43" break="no"/>posita falsitati: non accipimus autem hic notitiam 
+      <lb ed="#V" n="44"/>primo modo dictam. Quoniam palam quod de simlus terminis 
+      <lb ed="#V" n="45"/>nec de complexionibus necessaruis immediatis. cuiut 
+      <lb ed="#V" n="46"/>modi sunt prinua: non habetur scientia sic accepta. Capiam 
+      <lb ed="#V" n="47"/>ergo scientiam secundo modo acceptam et perscrutemur: an 
+      <lb ed="#V" n="48"/>primus motor habeat euidentem et infallibilem nom de 
+      <lb ed="#V" n="49"/>omnibus quae sunt extra se.
+    </p>
+            <p xml:id="nbnt23-n11366-d1e158">
+      ¶ Sit ergo primua propositio talis. Primus 
+      <lb ed="#V" n="50"/>motor habet notitiam euidentem et infallibilem de terminis 
+      <lb ed="#V" n="51"/>simlerus que sunt extra se. Hoc probatur: quoniam ibi sunt representati 
+      <lb ed="#V" n="52"/>in eius essentia: ergo et infallibiliter cogniti.
+    </p>
+            <p xml:id="nbnt23-n11366-d1e167">
+      ¶ Secunda propositio sit 
+      <lb ed="#V" n="53"/>talis: primus motor habet notitiam de omni complexione 
+      necel<lb ed="#V" n="54" break="no"/>saria: siue primo siue secundo hoc probatur sicut prima: quoniam omnes 
+      con<lb ed="#V" n="55" break="no"/>plexiones necessarie cuiuscumque sint in eius essentia 
+      repraesentan<lb ed="#V" n="56" break="no"/>tur.
+    </p>
+            <p xml:id="nbnt23-n11366-d1e178">
+      ¶ Propositio 3 est de contingularbus: quoniam de illis est tota 
+      diffi<lb ed="#V" n="57" break="no"/>cultas: primus motor habet notitiam infallibilem de 
+      complexi<lb ed="#V" n="58" break="no"/>onibus contingularitus praedicatis hoc probatur: quoniam intellectus finitus habet 
+      <lb ed="#V" n="59"/>de illis nom infallibilem quod ista sunt praedicata: ergo et intelle 
+      <lb ed="#V" n="60"/>ctus infinitus.
+    </p>
+            <p xml:id="nbnt23-n11366-d1e189">
+      ¶ Propositio 4o sit talis. primus metor habet 
+      <lb ed="#V" n="61"/>notitiam infallibilem de complexionibus contingentibus praesentibus 
+      <lb ed="#V" n="62"/>hoc probatur sicut 3o: adhuc autem: quoniam omnis notitia intuitiua 
+      <lb ed="#V" n="63"/>de re praesente: et actualiter existente eo modo quoe per nom 
+      repre<lb ed="#V" n="64" break="no"/>sentatur. videtur omnino esse vera et infallibilis: et specialiter in primo 
+      moto<lb ed="#V" n="65" break="no"/>re quicquid sit de intellectu finito.
+    </p>
+            <p xml:id="nbnt23-n11366-d1e202">
+      ¶ Tota difficultas
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>est de noia futurorum contingentium an sit infalilibilis. perte 
+      <lb ed="#V" n="67"/>hoc enim introductum est hoc casniua.
+    </p>
+            <p xml:id="nbnt23-n11366-d1e211">
+      ¶ Propositio ergo 3a sit talis: 
+      <lb ed="#V" n="68"/>primus motor non habet noum omnino et simpliciter infallibilem. propter 
+      <lb ed="#V" n="69"/>hoc enim dicitur habitus conclusionois demonstrate simpliciter infallibilis et 
+      ne<lb ed="#V" n="70" break="no"/>cessarius necessitate opieta falsitati: quia non potest esse 
+      fal<lb ed="#V" n="71" break="no"/>sus: Ex hoc quod est ex necessaria complexione: et impossilim 
+      <lb ed="#V" n="72"/>aliter se habere: nec habitus erit simpliciter infallibilis. 
+      Am<lb ed="#V" n="73" break="no"/>plius autem manitum est: quod si notitia perimi motoris de 
+      futu<lb ed="#V" n="74" break="no"/>ro contingenti est infallibiliter vera sic quod noen possit esse falsa: 
+      <lb ed="#V" n="75"/>necessario infert futurum in esse: quoniam si non inferret futurum in esse 
+      <lb ed="#V" n="76"/>sequitur quod esset falsa et non vera: et sic illud quod ponebam 
+      <lb ed="#V" n="77"/>contingens erit necessarium.
+    </p>
+            <p xml:id="nbnt23-n11366-d1e236">
+      ¶ Et si dicas quod non erit 
+      ne<lb ed="#V" n="78" break="no"/>cessarium necessitate consequentis: sed necessitate consequentie: istud 
+      <lb ed="#V" n="79"/>non valet: quoniam si consequentia est necessaria et antedens est necessarium. 
+      sequi<lb ed="#V" n="80" break="no"/>tur quod consequens est necessarium: sic autem est hic: quoniam tu dicis quod 
+      <lb ed="#V" n="81"/>notitia est infallibiliter vera: et per consequens necessario vera: et est ian 
+      <lb ed="#V" n="82"/>posita: et consequentia formali: quia infert suum obiectum in esse: ergo sequitur quod 
+      <lb ed="#V" n="83"/>conseques erit necessarium.
+    </p>
+            <p xml:id="nbnt23-n11366-d1e252">
+      ¶ Propositio 6a sit talis: primus 
+      mo<lb ed="#V" n="84" break="no"/>tor habet scientiam certam de futuris contingentibus et infallibi 
+      <lb ed="#V" n="85"/>lem noen simpliciter: sed sub conditione scilicet supposito quod ad partem 
+      <lb ed="#V" n="86"/>aliam determinet se: et quia illud ad quod determinauit se 
+      <lb ed="#V" n="87"/>semel quasi semper determinationem non mutat: sed in 
+      ea<lb ed="#V" n="88" break="no"/>semper stat: et eam posset mutare: et ad pertem oppositam 
+      se<lb ed="#V" n="89" break="no"/>determinare: sicut dicitur de sapiente et vero homine cum 
+      ali<lb ed="#V" n="90" break="no"/>quid promittit se facturum reputatur pro vero et certo et 
+      <lb ed="#V" n="91"/>immutabili non simiciter: sed vix autem nunquam est inuentum 
+      oppo<lb ed="#V" n="92" break="no"/>situm scilicet quod deficeret in promisso: licet simpliciter deficere 
+      pos<lb ed="#V" n="93" break="no"/>se et absolute si vellet: sic dicitur sub conditione primum 
+      moto<lb ed="#V" n="94" break="no"/>rem habere scientiam infallibilem ex futuris contingentibus. 
+      Pa<lb ed="#V" n="95" break="no"/>lam autem cuilibet intelligenti quod apud quencumque intelletum alia 
+      <lb ed="#V" n="96"/>est certitudo necessariorum quae necessario eueniunt: et quae 
+      impos<lb ed="#V" n="97" break="no"/>sibile est non euenire. Et alia est certitudo 
+      contingenti<lb ed="#V" n="98" break="no"/>tium quae possibiliter eueniunt: et quae possibile est non euenire: quoniam 
+      <lb ed="#V" n="99"/>certitudo necessariorum sic est vera et necessaria: quod impossibile 
+      <lb ed="#V" n="100"/>simpliciter est quod sit falsa. Certitudo autem contingentium sic est 
+      <lb ed="#V" n="101"/>certa quod potest esse falsa et duntia. Palam autem ad secundum quaesitum 
+      <lb ed="#V" n="102"/>quid dicendum: nam cum queritur: an cum infallicate scientia primi 
+      mo<lb ed="#V" n="103" break="no"/>toris possit stare contintua vel non. Dicimus quod cum infallitm 
+      <lb ed="#V" n="104"/>scientiae primo modo accepte impossibile est stare continentam: cum 
+      <lb ed="#V" n="105"/>talis infallibilitas scientiae sit de impossibilibus aliter se 
+      ha<lb ed="#V" n="106" break="no"/>bere: vt dictum est. Infallintas autem secundum quid et secundo modo 
+      <lb ed="#V" n="107"/>accepta bene stat cum continnis.
+    </p>
+            <p xml:id="nbnt23-n11366-d1e307">
+      ¶ Adhuc autem fertur ex 
+      di<lb ed="#V" n="108" break="no"/>ctis: quod nulla propositio vera de futuro stat cum continienta: et sibiter 
+      <lb ed="#V" n="109"/>nulla propositio falsa de futuro stat cum continus. Has 
+      tamen<lb ed="#V" n="110" break="no"/>pportiones plures non acceptant: ideo illas sub dubio 
+      ti<lb ed="#V" n="111" break="no"/>bi trado: quia nonnulli existimant quod illa sil stant. primum quod 
+      al<lb ed="#V" n="112" break="no"/>tera pars continguiter eueniet: et quod possibile esset euenire. 
+      <lb ed="#V" n="113"/>2m quod illius partis continguetur que eueniet potest haberi notitia qua 
+      <lb ed="#V" n="114"/>representat intellientium quod talis pars futura eueniet. 3m 
+      <lb ed="#V" n="115"/>quod talis notitia de parte futuri contingentis que eueniet est 
+      <lb ed="#V" n="116"/>vera: ita erit sicut per proportionem enunciatur: ergo a primo 
+      <lb ed="#V" n="117"/>ad vltimum propositio vera et necessaria de futuro 
+      <lb ed="#V" n="118"/>contingenti pot stare cum continentia. Et illud vltimum est 
+      mul<lb ed="#V" n="119" break="no"/>tum dissonum dictis superius in hoc caplectio: ergo hic 
+      <lb ed="#V" n="120"/>nullam conclusionem assero plus vellem audire propter magnam 
+      <lb ed="#V" n="121"/>difficultatem quam aliquid dicere. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

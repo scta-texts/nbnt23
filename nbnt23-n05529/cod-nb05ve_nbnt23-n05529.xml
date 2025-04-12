@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="99-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n05529"><!--ntheol-l2c5-->
+            <head xml:id="nbnt23-n05529-Hd1e97">Caput 5</head>
+            <head xml:id="nbnt23-n05529-Hd1e99" type="question-title">De immortalitate primi motoris</head>
+            <p xml:id="nbnt23-n05529-d1e102">
+               <pb ed="#V" n="99-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>¶ De immortalitate primi motoris. Caput V. 
+    </p>
+            <p xml:id="nbnt23-n05529-d1e111">
+               <lb ed="#V" n="2"/>AD immortalitate autem 
+      <lb ed="#V" n="3"/>primi 
+      <lb ed="#V" n="4"/>motoris accedamus: et an primus 
+      motor<lb ed="#V" n="5" break="no"/>sit simpliciter immormalis perscrutemur. 
+      dica<lb ed="#V" n="6" break="no"/>Aimus autem in primis quod aliquos dicitur esse viuens 
+      <lb ed="#V" n="7"/>tripliciter. vno modo denominatiue. sicut corpus dicitur esse 
+      <lb ed="#V" n="8"/>uiuum denominatiue ab ipsa anima informante. Alio 
+      <lb ed="#V" n="9"/>modo aliquos dicitur esse viuens inclusiue: quia includit vitam 
+      tan<lb ed="#V" n="10" break="no"/>quam partem sui scilicet animam. Tertio modo aliquid dicitur esse viuum 
+      <lb ed="#V" n="11"/>essentialiter et quiditatiue: sicut ipsa anima dicitur viuere: et quaedam 
+      <lb ed="#V" n="12"/>vita: non quia includat vitam tanquam partem sui: sed quia 
+      ipsa<lb ed="#V" n="13" break="no"/>anima est ipsamet vita essentialiter.
+    </p>
+            <p xml:id="nbnt23-n05529-d1e140">
+      ¶ Adhuc autem ipsa 
+      <lb ed="#V" n="14"/>anima dicitur vita scilicet formaliter vel fundamentaliter. Et per 
+      vi<lb ed="#V" n="15" break="no"/>tam formalem autem viuere formaliter ego intelligo ipset 
+      <lb ed="#V" n="16"/>intelligere in actu: cum anima est in acie intelligentie: 
+      quo<lb ed="#V" n="17" break="no"/>niam sic viuere non est aliud nisi experiri actualiter. 
+      <lb ed="#V" n="18"/>et esse in vigore: et esse in actu 2o. vnde viuere non est 
+      ali<lb ed="#V" n="19" break="no"/>ud nisi apprehendere: non experitur autem anima nisi dum 
+      <lb ed="#V" n="20"/>est in actu 2o et ideo proprie dicitur viuere in tali actu 2o 
+      <lb ed="#V" n="21"/>vno ergo modo dicitur vita in anima actualis experientia: et ipset 
+      <lb ed="#V" n="22"/>intelligere in actu. alio modo dicitur anima viuere vita 
+      fun<lb ed="#V" n="23" break="no"/>damet ali: et actu primo et per istam vitan fundamentalem 
+      intell<lb ed="#V" n="24" break="no"/>go ipsam animam essentialiter: vt prescindit ab omni 
+      intelli<lb ed="#V" n="25" break="no"/>gere: quod est eius actus secundus et vita formaliter: vt 
+      supra<lb ed="#V" n="26" break="no"/>dictum est: quoniam autem cum quot modis dicitur vnum oppositorum 
+      <lb ed="#V" n="27"/>tot modis dicitur: et reliquum. mors autem et vita opponunt 
+      <lb ed="#V" n="28"/>et multis modis potest aliquos dici vita carere vel 
+      mori<lb ed="#V" n="29" break="no"/>vel desinere viuere: vel quia amittit vitam a qua dicebatur 
+      <lb ed="#V" n="30"/>viuere denominatiue: vel quia amittit vitam partem sui: 
+      <lb ed="#V" n="31"/>vel quia ipsamet vita desinit esse: vel quia ipsamet 
+      vita<lb ed="#V" n="32" break="no"/>vt anima desinit intelligere: et desinit esse in acie 
+      intelligen<lb ed="#V" n="33" break="no"/>tie. Ad nostrum propositum reuertentes dicamus prius 
+      <lb ed="#V" n="34"/>motorem esse immortalem: et sit ista prima propositio: primus 
+      <lb ed="#V" n="35"/>motor non est mortalis denominatiue: quia non habet 
+      <lb ed="#V" n="36"/>vitam a qua denominetur viuens denominatiue: 
+      vi<lb ed="#V" n="37" break="no"/>ta autem et mors se habent circa idem: ergo primus motor 
+      <lb ed="#V" n="38"/>non dicitur mortalis nec immortalis denominatiue.
+    </p>
+            <p xml:id="nbnt23-n05529-d1e198">
+      ¶ Et 
+      <lb ed="#V" n="39"/>si arguas quod primus motor potest dici viuens 
+      denomina<lb ed="#V" n="40" break="no"/>tiue ab anima viuente. Nam si primus motor per possibi 
+      <lb ed="#V" n="41"/>le autem impossibile posset terminare dependentiam seu 
+      <lb ed="#V" n="42"/>vnionem relatiuam anime ad ipsum: demmonstretur formaliter 
+      <lb ed="#V" n="43"/>animatus et viuens denominatiue: et si hec vnio anime 
+      <lb ed="#V" n="44"/>ad ipsum esset soluarius primus motor diceretur esse 
+      mor<lb ed="#V" n="45" break="no"/>talis. Et si de inesse solueretur diceretur esse mortuus: et 
+      <lb ed="#V" n="46"/>si talis vnio diceretur simpliciter insolubilis primus 
+      mo<lb ed="#V" n="47" break="no"/>tor diceretur immormalrlis. Respondeo tibi. si suppositum 
+      <lb ed="#V" n="48"/>tuum quod primus motor posset terminare dependentiam 
+      <lb ed="#V" n="49"/>seu vnionem anime ad ipsum et hominis: et cuiuscumque nature 
+      <lb ed="#V" n="50"/>viuentis a quibus diceretur esse viuens denominatiue: 
+      ti<lb ed="#V" n="51" break="no"/>bi concederem quod arguis: quoniam tunc primus motor 
+      pos<lb ed="#V" n="52" break="no"/>set dici mortalis vel immortalis: sed de veritate 
+      sup<lb ed="#V" n="53" break="no"/>positi tui inquerere non est praesentis speculationis. Sed 
+      <lb ed="#V" n="54"/>de hoc inferius fiet sermo cum inqueremus: an primus 
+      mo<lb ed="#V" n="55" break="no"/>tor possit supplere vices cuiuscumque causae secunde: et specialiter 
+      <lb ed="#V" n="56"/>vite anime 2e subiectiue et nalis: ideo vsque ad locum illum 
+      diffe<lb ed="#V" n="57" break="no"/>ratur.
+    </p>
+            <p xml:id="nbnt23-n05529-d1e242">
+      ¶ Habet autem dubitatione: an aliquid aliud a 
+      <lb ed="#V" n="58"/>primo motore viuens sit immorle. At vero philosophi antiqui 
+      di<lb ed="#V" n="59" break="no"/>cerent quod sic: quoniam celum et astra: et corpora celestia sunt sic 
+      <lb ed="#V" n="60"/>animata denominatiue. sunt tamen immortalia: quoniam secundum eos 
+      <lb ed="#V" n="61"/>impossibile est corpora celestia a suis motoribus 
+      se<lb ed="#V" n="62" break="no"/>parari: et ab animambus: quia omnia superiora sunt necessaria 
+      <lb ed="#V" n="63"/>et per petua. Concedunt tamen de omni animali composito ex 
+      <lb ed="#V" n="64"/>corpore mixto: et anima: quecumque sit illa: quod nihil talium 
+      <lb ed="#V" n="65"/>simpliciter est immortale. in hoc autem philosophi moderni consen¬
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>tiunt cum antiquis scilicet quod nullum corpus mixtum est 
+      <lb ed="#V" n="67"/>simpliciter immortale: sed in primo dicto non conueniunt. 
+      di<lb ed="#V" n="68" break="no"/>cunt enim quod alia: vt virtute primi motoris possunt 
+      cor<lb ed="#V" n="69" break="no"/>pora celestia a suis motoribus et animabus 
+      separa<lb ed="#V" n="70" break="no"/>ri: et per consequens mori: quoniam contingenter adinuicem sunt 
+      <lb ed="#V" n="71"/>vnita: et in tali vnione conseruantur: sicut in tractatum 
+      <lb ed="#V" n="72"/>de potentia actiua primi motoris perscrutatur.
+    </p>
+            <p xml:id="nbnt23-n05529-d1e279">
+      ¶ 
+      Se<lb ed="#V" n="73" break="no"/>cunda propositio sit talis. primus motor non est immortalis 
+      <lb ed="#V" n="74"/>simpliciter nec necessario viuens inclusiue scilicet inclusione per 
+      <lb ed="#V" n="75"/>tis viuentis. hec probatur conformier sicut prima. si suppositu 
+      <lb ed="#V" n="76"/>supponit verum scilicet si ex primo motore et aliquo 
+      viuen<lb ed="#V" n="77" break="no"/>te possit fieri vnum includens ista duo: Palam quod illud 
+      <lb ed="#V" n="78"/>vnum sic resultans non esset simpliciter immortale: quia 
+      include<lb ed="#V" n="79" break="no"/>ret duas partes contingenter vnitas: ergo per 
+      separa<lb ed="#V" n="80" break="no"/>tionem ipsarum moueretur: ideo sic primus motor non est 
+      <lb ed="#V" n="81"/>immortalis: sed magis mortalis. Omnia autem 
+      viuen<lb ed="#V" n="82" break="no"/>tia tali vita alia a primo motore suint mortalia: sed 
+      <lb ed="#V" n="83"/>de ista vita inclusiue et denominatiue quantum 
+      parti<lb ed="#V" n="84" break="no"/>net ad primum motorem non est nostra principalis 
+      <lb ed="#V" n="85"/>intentio querere. Sed de vita essentiali que est in 
+      <lb ed="#V" n="86"/>actu primo: et in actum secundo scilicet in acie intelligentie est 
+      <lb ed="#V" n="87"/>principalis perscrutatio: ergo de ista inquiramus: 
+      <lb ed="#V" n="88"/>et primo de vita fundamentali: que consistit in actu pri¬. 
+      <lb ed="#V" n="89"/>Deinde de vita experimentali que consistit in 
+      actu<lb ed="#V" n="90" break="no"/>secundo fiet sermo.
+    </p>
+            <p xml:id="nbnt23-n05529-d1e321">
+      ¶ Amplius autem de vita 
+      funda<lb ed="#V" n="91" break="no"/>mentali que in actu primo consistit sit prima propositio talis. primus 
+      <lb ed="#V" n="92"/>motor vita fundamentali est simpliciter immortalis. 
+      hec<lb ed="#V" n="93" break="no"/>probatur: quoniam talis vita est ipsamet eius essentia: 
+      <lb ed="#V" n="94"/>eius autem essentia non potest desinere esse: cum sit sum 
+      <lb ed="#V" n="95"/>me necesse esse. tum etiam cum sit primus motor actus 
+      <lb ed="#V" n="96"/>primus: et eius essentia est omnino immortalis 
+      obie<lb ed="#V" n="97" break="no"/>ctiue: sic quod non potest desinere esse: nec recipere eit 
+      <lb ed="#V" n="98"/>se: vt superius fuit dictum.
+    </p>
+            <p xml:id="nbnt23-n05529-d1e341">
+      ¶ Et si queras an aliquid 
+      <lb ed="#V" n="99"/>aliud sit viuens vita fundamentali: cum primus 
+      mo<lb ed="#V" n="100" break="no"/>tor sit simpliciter immortalis. Respondeo tibi quod non: quia 
+      <lb ed="#V" n="101"/>sicut frequenter dictum est. omne aliud a primo 
+      mo<lb ed="#V" n="102" break="no"/>tore: siue viuens: siue non viuens est mutabile obiectiue: 
+      <lb ed="#V" n="103"/>cum possit capere esse. et desinere esse.
+    </p>
+            <p xml:id="nbnt23-n05529-d1e354">
+      ¶ Adhuc autem 
+      <lb ed="#V" n="104"/>de vita formali que consistit in actu 2o naturae viuentis 
+      <lb ed="#V" n="105"/>est perscrutatio. Actus autem secundus nature viuentis: 
+      <lb ed="#V" n="106"/>que est vita est ipsum intelligere. Intelligere 
+      autem<lb ed="#V" n="107" break="no"/>potestir sumi dupliciter vel quantum ad absolutum quod importat: 
+      <lb ed="#V" n="108"/>vel quantum ad apparentiam obiectiualem et 
+      produ<lb ed="#V" n="109" break="no"/>ctionem passiuam. videlicet obiecti in esse cognito¬. 
+      <lb ed="#V" n="110"/>vtrumque enim istorum duorum est quedam vita: 
+      si<lb ed="#V" n="111" break="no"/>cut similitudo obiecti cogniti: sicut etiam quidam 
+      vi<lb ed="#V" n="112" break="no"/>gor et quedam comprehensio experimentalis: et 
+      ma<lb ed="#V" n="113" break="no"/>gis proprie videtur de vita et de apparentia obiectiuali quam 
+      <lb ed="#V" n="114"/>de intellectione formali: quoniam per apparentiam 
+      <lb ed="#V" n="115"/>obiecti constituitur vita in acie intelligentie: et in 
+      con<lb ed="#V" n="116" break="no"/>plexione experimentali: non sic autem per ipsum 
+      intel<lb ed="#V" n="117" break="no"/>ligere. Palam autem quod ille terminus vite 
+      reperi<lb ed="#V" n="118" break="no"/>tur in primo motore scilicet vita fundamentalis que est 
+      <lb ed="#V" n="119"/>esse ipsius primi motoris intelligere absolutum: et 
+      <lb ed="#V" n="120"/>productio obiecti in esse cognito: Ex hoc infertur 
+      <lb ed="#V" n="121"/>quod lapis in primo motore viuit triplici vita: et non 
+      <lb ed="#V" n="122"/>tantum lapis: immo omne aliud a primo motore hac 
+      tri<lb ed="#V" n="123" break="no"/>plici vita viuit. Nec tamen terminus vite sunt alterius: 
+      <lb ed="#V" n="124"/>et alterius rationis. Ad propositum ergo reuertentes: 
+      <lb ed="#V" n="125"/>ponamus propositionem affirmatiuam de 
+      immorta<lb ed="#V" n="126" break="no"/>litate primi motoris que sit talis: primus motor 
+      sim<lb ed="#V" n="127" break="no"/>pliciter est immortalis vita formali absoluta. hoc 
+      pro<lb ed="#V" n="128" break="no"/>batur: quoniam vita formalis: et vita 
+      fundamenta<lb ed="#V" n="129" break="no"/>lis sunt idem realiter: et per consequens equaliter 
+      <lb ed="#V" n="130"/>necesse esse: si ergo vita fundamentalis est imiuor¬
+      <pb ed="#V" n="100-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>talis obiiectiue: ergo et vita formalias bsoluta. scilibe 
+      <lb ed="#V" n="2"/>ipsum intelligere. Est autem vita fundamentalis 
+      <lb ed="#V" n="3"/>immutabilis obiectiue: ergo et formalis.
+    </p>
+            <p xml:id="nbnt23-n05529-d1e427">
+      ¶ Et si 
+      <lb ed="#V" n="4"/>quaras an vita formalis absoluta cuiuscumque nature 
+      <lb ed="#V" n="5"/>viuentis limitate et artate sit simpliciter 
+      immorta<lb ed="#V" n="6" break="no"/>lis. Respondeo tibi quod non: quia vita eius 
+      funda<lb ed="#V" n="7" break="no"/>mentalis est mortalis: ergo et formalis vita: cum 
+      om<lb ed="#V" n="8" break="no"/>ne aliud a primo motore sit mutabile obiectiue. 
+    </p>
+            <p xml:id="nbnt23-n05529-d1e440">
+               <lb ed="#V" n="9"/>¶ De vita obiectiuali que est in primo motore: 
+      An<lb ed="#V" n="10" break="no"/>primus motor secundum talem vitam sit immortalis an 
+      <lb ed="#V" n="11"/>non nunc dicamus. Uita autem obiectiualis in primo 
+      <lb ed="#V" n="12"/>motore que non est aliud nisi productio obiecti in 
+      <lb ed="#V" n="13"/>esse cognito potest summi dupliciter vel pro productione 
+      <lb ed="#V" n="14"/>obiecti respectu sui autem respectum diut. sit ergo hec 
+      pro<lb ed="#V" n="15" break="no"/>positio. primus motor est simpliciter immortalis vita 
+      obie<lb ed="#V" n="16" break="no"/>ctiuali respectum sui. hoc probatur: quia productio es 
+      <lb ed="#V" n="17"/>sentie sue in esse cognito est idem cum sua essentia sicut 
+      <lb ed="#V" n="18"/>fertur: quia de hoc inferius erit sermo. ergo talis 
+      vi<lb ed="#V" n="19" break="no"/>ta est indesistilius et inextinguibilis obiectiue. Tum 
+      <lb ed="#V" n="20"/>secundo: quoniam productio essentie primi motoris 
+      <lb ed="#V" n="21"/>in esse cognito est simpliciter necessaria: quia primus 
+      <lb ed="#V" n="22"/>motor necessario se comprehendit: et necessario est 
+      <lb ed="#V" n="23"/>in acie intelligentie respectu sui.
+    </p>
+            <p xml:id="nbnt23-n05529-d1e475">
+      ¶ Habet autem 
+      dubi<lb ed="#V" n="24" break="no"/>tationem an alii motores a primo motore sint 
+      simpli<lb ed="#V" n="25" break="no"/>citer immortales tali vita. Respondeo tibi. Dicunt 
+      <lb ed="#V" n="26"/>antiqui phylosophi: vt Arist. et eius sequaces quod sic: 
+      <lb ed="#V" n="27"/>quoniam posuit Arist. quod secundi motores erant eterni: et 
+      immu<lb ed="#V" n="28" break="no"/>tabiles obiectiue: et quod semper et necessario erant in 
+      <lb ed="#V" n="29"/>acie intelligentie respectum sui. Palam autem quod 
+      noui<lb ed="#V" n="30" break="no"/>phylosophi: quia non ponunt duos motores esse 
+      immor<lb ed="#V" n="31" break="no"/>tales vita fundamentali: habent consequenter dicere quod 
+      <lb ed="#V" n="32"/>non sint immortales vita formali: nec comprehensio 
+      <lb ed="#V" n="33"/>ne experimentali: et secundum talem vitam sunt 
+      mutabi<lb ed="#V" n="34" break="no"/>les obiectiue.
+    </p>
+            <p xml:id="nbnt23-n05529-d1e501">
+      ¶ Et si queras an 2 motores 
+      stan<lb ed="#V" n="35" break="no"/>ete vita eorum fundabi sint mortales vita formali 
+      <lb ed="#V" n="36"/>etam absoluta quam diminuta et obiectiuali: et hoc respectum 
+      <lb ed="#V" n="37"/>sui. Respondeo tibi quero primo: an intellectio 
+      duo<lb ed="#V" n="38" break="no"/>um motorum sit ide: quod sua substantia: sicut 
+      viden<lb ed="#V" n="39" break="no"/>tur dicere peripatetici: et si sic patet quod non. Si 
+      intelle<lb ed="#V" n="40" break="no"/>ctio absoluta respectu sui non sit idem cum 
+      substan<lb ed="#V" n="41" break="no"/>tia secundi motoris: patet quod sic.
+    </p>
+            <p xml:id="nbnt23-n05529-d1e519">
+      ¶ Et si vlterius 
+      que<lb ed="#V" n="42" break="no"/>ras supposito quod 2m motores viuerent vita 
+      forma<lb ed="#V" n="43" break="no"/>li et fundali absoluta respectu fui: nunquid 
+      necessa<lb ed="#V" n="44" break="no"/>rio viuant vita obiectiuali respectu sui et 
+      comprehensio<lb ed="#V" n="45" break="no"/>ne experimentali: hoc tamen sub dubio tibi relinquo: 
+      <lb ed="#V" n="46"/>quoniam de hoc inferius erit sermo in tractatum de 
+      <lb ed="#V" n="47"/>cognitione primi motoris.
+    </p>
+            <p xml:id="nbnt23-n05529-d1e535">
+      ¶ De immortalitate 
+      au<lb ed="#V" n="48" break="no"/>tem obiectiua primi motoris respectum obiecti 
+      distin<lb ed="#V" n="49" break="no"/>cti: an tali vita obiectiuali sit simpliciter 
+      immorta<lb ed="#V" n="50" break="no"/>lis vel non perscrutemur: sit ergo prima 
+      proposi<lb ed="#V" n="51" break="no"/>tio talis: primus motor est simpliciter immortalis 
+      vita<lb ed="#V" n="52" break="no"/>obiectiuali respectu terminorum simplicium. hoc probatur: 
+      <lb ed="#V" n="53"/>quoniam omnes termini simplices distincti a primo 
+      <lb ed="#V" n="54"/>motore sunt in eius esse necessario exemplati: 
+      er<lb ed="#V" n="55" break="no"/>go et necessario cogniti et positi in esse obiectiuali: ex 
+      <lb ed="#V" n="56"/>go est immortalis tali vita.
+    </p>
+            <p xml:id="nbnt23-n05529-d1e558">
+      ¶ Et si queras an 2 
+      mo<lb ed="#V" n="57" break="no"/>tores respectum alicuius obiecti distincti vita 
+      obie<lb ed="#V" n="58" break="no"/>ctiuali sint simpliciter immortales. Respondeo 
+      ti<lb ed="#V" n="59" break="no"/>bi: peripatetici dicunt quod sic: quoniam dicunt quod et 
+      <lb ed="#V" n="60"/>motores semper sunt in acie intelligentie 
+      respectu<lb ed="#V" n="61" break="no"/>primi motoris: et semper ipsum conteplantur cum ipsos 
+      <lb ed="#V" n="62"/>moueat in ratione intellecti et dilecti. Sed quid secundum 
+      <lb ed="#V" n="63"/>modernos phylosophos. dico quod secundi motores 
+      vi<lb ed="#V" n="64" break="no"/>uunt vita fundamentali et formali absoluta: et nunquam 
+      ne<lb ed="#V" n="65" break="no"/>cessario viuunt vita obiectiuali: et semper sunt in
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>acie intelligentie respectu primi motoris. Dicitur 
+      <lb ed="#V" n="67"/>quod suppositua predictis talis vita obiectiualis est in eis 
+      <lb ed="#V" n="68"/>inextinguibilis. hoc tamen sub dubio tibi relinquo: quoniam 
+      <lb ed="#V" n="69"/>de hoc inferius fiet sermo.
+    </p>
+            <p xml:id="nbnt23-n05529-d1e591">
+      ¶ Secunda propositio 
+      <lb ed="#V" n="70"/>sit talis. primus motor simpliciter est immortalis 
+      <lb ed="#V" n="71"/>vita experimentali respectu complexionum necessa 
+      <lb ed="#V" n="72"/>riarum. hoc probatur sic. primo: quoniam complexio 
+      <lb ed="#V" n="73"/>nes necessarie in esse primi motoris necessario sunt 
+      <lb ed="#V" n="74"/>extracte. ergo necessario sunt posite in acie 
+      intelligen<lb ed="#V" n="75" break="no"/>tie primi motoris. talis igitur vita in primo 
+      moto<lb ed="#V" n="76" break="no"/>re est inextinguibilis.
+    </p>
+            <p xml:id="nbnt23-n05529-d1e609">
+      ¶ Et si queras: an ista 3a 
+      vi<lb ed="#V" n="77" break="no"/>ta sit realiter distincta a prima et a secunda vel non. 
+      <lb ed="#V" n="78"/>Respondeo quod prima vita et secunda sunt idem realiter 
+      <lb ed="#V" n="79"/>licet distincte sint quiditatiue. Et ex natura rei: sed 
+      vi<lb ed="#V" n="80" break="no"/>ta 3a: nec cum prima: nec cum secunda est idem 
+      rea<lb ed="#V" n="81" break="no"/>liter: quoniam ens diminutum non videtur esse idem 
+      <lb ed="#V" n="82"/>realiter cum tali ente reali 3a autem vita respectu 
+      distin<lb ed="#V" n="83" break="no"/>cti obiecti est quodam ens diminutum in primo 
+      mo<lb ed="#V" n="84" break="no"/>tore. prima autem vita et secunda sunt entia realia 
+      absolu<lb ed="#V" n="85" break="no"/>ta formaliter infinita.
+    </p>
+            <p xml:id="nbnt23-n05529-d1e631">
+      ¶ Et si adhuc queras an in 
+      <lb ed="#V" n="86"/>secundis motoribus 3a vita de complexionibus 
+      <lb ed="#V" n="87"/>necessaruis sit in eis inextinguibilis autem non prima 
+      <lb ed="#V" n="88"/>et secunda vita manente in ipsis. Respondeo tibi forte 
+      <lb ed="#V" n="89"/>respectum alicuius complexionis necessarie vita 3 
+      <lb ed="#V" n="90"/>in ipsis est inextinguibilis: et respectum aliquarum est 
+      <lb ed="#V" n="91"/>extinguibilis: quoniam secundi motores forte aliquas 
+      <lb ed="#V" n="92"/>complexiones necessarias: necessario 
+      comprehen<lb ed="#V" n="93" break="no"/>dunt: sed non omnes.
+    </p>
+            <p xml:id="nbnt23-n05529-d1e651">
+      ¶ Tertia propositio sit talis. 
+      <lb ed="#V" n="94"/>primus motor respectu complexionum contingentium 
+      <lb ed="#V" n="95"/>non est simpliciter immortalis vita 3o hoc probatur: quoniam 
+      <lb ed="#V" n="96"/>complexiones contingentes contingenter determinant 
+      <lb ed="#V" n="97"/>se: sicut euenit ad vnam partem vel ad aliam: ideo 
+      <lb ed="#V" n="98"/>vita talium in primo motore multipliciter est 
+      exti<lb ed="#V" n="99" break="no"/>guibilis et mutabilis obiectiue: sicut in tractatum de 
+      vo<lb ed="#V" n="100" break="no"/>lundamente et volitione primi motoris fiet sermo. 
+      Conclu<lb ed="#V" n="101" break="no"/>damus ergo totam causam de immortalitate 
+      pri<lb ed="#V" n="102" break="no"/>mi motoris: quod omnia in primo motore viuunt 
+      tri<lb ed="#V" n="103" break="no"/>plici vita. prima vita est esse primi motoris. 2a est 
+      <lb ed="#V" n="104"/>intellectio absotentia eiusdem. 3a comprehensio 
+      obiecti<lb ed="#V" n="105" break="no"/>ualis. due prime vite sunt simpliciter inextinguibiles: 
+      <lb ed="#V" n="106"/>sed tertia respectu quorundam est inextinguibilis: 
+      <lb ed="#V" n="107"/>non tamen respectu omnium. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

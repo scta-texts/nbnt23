@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="94-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n02419"><!--ntheol-l1c9-->
+            <head xml:id="nbnt23-n02419-Hd1e97">Caput 9</head>
+            <head xml:id="nbnt23-n02419-Hd1e99" type="question-title">Ostendit ordinem huius scientiae ad alias facultates</head>
+            <p xml:id="nbnt23-n02419-d1e102">
+               <cb ed="#V" n="b"/>
+               <lb ed="#V" n="65"/>¶ Ostendit ordinem huius scientie ad alias 
+      facul<lb ed="#V" n="66" break="no"/>tates. Caput. IX
+    </p>
+            <p xml:id="nbnt23-n02419-d1e111">
+               <lb ed="#V" n="67"/>DE ordine autem theologie ad 
+      <lb ed="#V" n="68"/>alias artes restat 
+      per<lb ed="#V" n="69" break="no"/>scrutandum: an theologia aliqua 
+      prio<lb ed="#V" n="70" break="no"/>i ritate sit prior aliis vel non: quoniam trem 
+      <lb ed="#V" n="71"/>sunt prioritates. scilicet ordinis 
+      perfe<lb ed="#V" n="72" break="no"/>ctionis et nature: inquirendum est qua prioritate 
+      <lb ed="#V" n="73"/>sit prior: et hoc in predicto triplici intellectum. 
+      scili<lb ed="#V" n="74" break="no"/>cet primi motoris et secundi et nostri: sit ergo prima 
+      <lb ed="#V" n="75"/>conclusio theologia naturalis origine posterior est 
+      <lb ed="#V" n="76"/>metaphysica. hec probatur: quoniam predicatum 
+      <lb ed="#V" n="77"/>est prius subiecto et inclusum includente. secundum 
+      au<lb ed="#V" n="78" break="no"/>tem ordinem subiectorum est ordo passionum: 
+      er<lb ed="#V" n="79" break="no"/>go scientiarum.
+    </p>
+            <p xml:id="nbnt23-n02419-d1e142">
+      ¶ Secunda propositio. theologia 
+      <lb ed="#V" n="80"/>est posterior phylosophia origine. hoc probatur. 
+      <lb ed="#V" n="81"/>quoniam aliquid posterius subiecto naturalis 
+      phy<lb ed="#V" n="82" break="no"/>losophie est prius origine subiecto theologie: quod euis 
+      <lb ed="#V" n="83"/>denter ostenditur. Quoniam differentia 
+      constituti<lb ed="#V" n="84" break="no"/>ua substantie predicamentalis. posterior est 
+      origi<lb ed="#V" n="85" break="no"/>ne subiecto naturalis phylosophie. scilicet ente 
+      li<lb ed="#V" n="86" break="no"/>mitato vel natura: cum sit eius differentia 
+      contra<lb ed="#V" n="87" break="no"/>ctiua: sicut in vltimo nostre metaphysice fuit 
+      di<lb ed="#V" n="88" break="no"/>ctum: hec autem differentia constitutiua 
+      predica<lb ed="#V" n="89" break="no"/>mentalis substantie est prior subiecto theologie: 
+      si<lb ed="#V" n="90" break="no"/>cut inclusum prius est includente. dictum enim fuit in 
+      <lb ed="#V" n="91"/>vltimo nostre metaphysice: quod primus motor: et 
+      <lb ed="#V" n="92"/>alia vniuocantur in dicta differentia que est 
+      con<lb ed="#V" n="93" break="no"/>stitutiua substantie predicamentalis: et limitate et 
+      il<lb ed="#V" n="94" break="no"/>limitate: que quidem substantia illimitata per se 
+      <lb ed="#V" n="95"/>includitur in primo motore que prior est primo 
+      mo<lb ed="#V" n="96" break="no"/>tore: ergo ista differentia etiam prior est primo 
+      mo<lb ed="#V" n="97" break="no"/>tore prioritate originis: quoniam quicquid est 
+      pri<lb ed="#V" n="98" break="no"/>us priori origine est prius posteriori origine.
+    </p>
+            <p xml:id="nbnt23-n02419-d1e187">
+      ¶ 
+      Ter<lb ed="#V" n="99" break="no"/>tia propositio talis est. Scientia de substantia 
+      predi<lb ed="#V" n="100" break="no"/>ca mentali prior est theologia naturali: hec 
+      proba<lb ed="#V" n="101" break="no"/>tur: sicut secunda: quoniam aliquid posterius 
+      origi<lb ed="#V" n="102" break="no"/>ne substantia predicamentali origine est prius 
+      sub<lb ed="#V" n="103" break="no"/>iecto theologie. scilicet primo motore: quod probatur 
+      <lb ed="#V" n="104"/>quoniam constitutiua differentia spiritus qui est 
+      <lb ed="#V" n="105"/>quoddam genus subalternum contentum sub 
+      sub<lb ed="#V" n="106" break="no"/>stantia predicamentali posterior est origine 
+      substan<lb ed="#V" n="107" break="no"/>tia predicamentali: sicut contrahens 
+      contrahibili<lb ed="#V" n="108" break="no"/>et inferius suo superiori. Differentia autem 
+      consti<lb ed="#V" n="109" break="no"/>tutiua spiritus limitati. contenti sub substantia 
+      pre<lb ed="#V" n="110" break="no"/>dicamentali est etiam constitutiua spitus illimitati 
+      <lb ed="#V" n="111"/>per se inclusi in primo motore: et illa differentia erit 
+      <lb ed="#V" n="112"/>prior primo motore: sicut inclusum prius est 
+      inclu<lb ed="#V" n="113" break="no"/>dente. Concludamus ergo quod sunt tria scibilia et 
+      sub<lb ed="#V" n="114" break="no"/>iecta ordinata priora subiecto theologie. scilicet ens 
+      <lb ed="#V" n="115"/>inquantum ens: quod est subiectum metaphysice. 
+      na<lb ed="#V" n="116" break="no"/>tura que est subiectum naturalis phylosophie. 
+      sub<lb ed="#V" n="117" break="no"/>stantia que est subiectum in primo libro 
+      predica<lb ed="#V" n="118" break="no"/>mentorum: sicut ibi fuit dictum
+    </p>
+            <p xml:id="nbnt23-n02419-d1e233">
+      ¶ Quarta 
+      propo<lb ed="#V" n="119" break="no"/>sitio sit ista. theologia est posterior natura ista 
+      tri<lb ed="#V" n="120" break="no"/>plici scientia predicta: et intelligo hic prius natura: 
+      <lb ed="#V" n="121"/>a quo non conuertitur subsistendi consequentia: 
+      <lb ed="#V" n="122"/>subiecta autem illarum trium scientiarum sunt 
+      <lb ed="#V" n="123"/>priora natura subiecto theologie: quoniam 
+      sequi<lb ed="#V" n="124" break="no"/>tur. scilicet est primus motor: ergo est ens: sed non 
+      <lb ed="#V" n="125"/>conuertitur consequentia. similiter sequitur: est primus 
+      <lb ed="#V" n="126"/>motor: ergo subiectum naturalis phylosophie que 
+      <lb ed="#V" n="127"/>valet ratione differie constitutiue substantia limitate et illibclate. 
+      <lb ed="#V" n="128"/>Adhuc sequitur. primus motor. ergo substantia: que
+      <pb ed="#V" n="95-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>est subiectum primi libri predicamentorum: sed non 
+      <lb ed="#V" n="2"/>conuertitur consequentia. ergo prius natura et origine 
+      <lb ed="#V" n="3"/>sunt ille scientie theologia naturali.
+    </p>
+            <p xml:id="nbnt23-n02419-d1e268">
+      ¶ Et si arguas 
+      <lb ed="#V" n="4"/>quod oppositum scriptum est in secundo metaphy. 
+      no<lb ed="#V" n="5" break="no"/>stre. capite 7o vbi dicitur: quod prima scientia origine est 
+      <lb ed="#V" n="6"/>nostra metaphysica. 2a est de ente infinito. 3a est de 
+      <lb ed="#V" n="7"/>ente finito.
+    </p>
+            <p xml:id="nbnt23-n02419-d1e279">
+      ¶ Respondeo tibi: quod omnis prima 
+      scien<lb ed="#V" n="8" break="no"/>tia ordine doctrine est de ente inquantum ens: que 
+      <lb ed="#V" n="9"/>autem sit prior an que est de ente finito vel de ente 
+      <lb ed="#V" n="10"/>infinito in se dubium est et ex se et apud omnem 
+      intelle<lb ed="#V" n="11" break="no"/>ctum: licet apud intellectum nostrum qui procedit ex 
+      <lb ed="#V" n="12"/>sensibilibus notitia de ente finito sit prior: et per conse 
+      <lb ed="#V" n="13"/>quens scientia eius: tamen finitum et infinitum 
+      vi<lb ed="#V" n="14" break="no"/>dentur substantia disperata: sicut rationale et irrationalem 
+      <lb ed="#V" n="15"/>que non habent essentialem ordinem adinuicem: et per 
+      <lb ed="#V" n="16"/>consequens scientie eorum non habent essentialem ordinem. 
+      <lb ed="#V" n="17"/>Ex hoc tamen non habes: quod hec theologia 
+      natura<lb ed="#V" n="18" break="no"/>lis non habeat essentialem ordinem ad philosophiam naturalem: 
+      <lb ed="#V" n="19"/>sicut ad scientiam priorem. quoniam subiectum huius 
+      <lb ed="#V" n="20"/>theologie non est ens infinitum: sed aliquid per se 
+      con<lb ed="#V" n="21" break="no"/>tentum sub ente infinito scilicet primus motor immobilis 
+      qui<lb ed="#V" n="22" break="no"/>per se includit ens infinitum et illimitatum: qui 
+      qui<lb ed="#V" n="23" break="no"/>dem primus motor habet ordinem essentialem ad 
+      <lb ed="#V" n="24"/>substantiam predicamentalem ratione differentie 
+      contra<lb ed="#V" n="25" break="no"/>hentis: et per consequens ad subiectum naturalis phyloso 
+      <lb ed="#V" n="26"/>phie. ergo scientie prioritas de ente infinito et de ente 
+      <lb ed="#V" n="27"/>finito non est prioritas originis et nature: sed est 
+      priori<lb ed="#V" n="28" break="no"/>tas perfectionis.
+    </p>
+            <p xml:id="nbnt23-n02419-d1e327">
+      ¶ Amplius autem de prioritate 
+      perfe<lb ed="#V" n="29" break="no"/>ctionis. Quid dicendum clarum est omni consideranti: 
+      <lb ed="#V" n="30"/>theologia namque est prior prioritate perfectionis 
+      me<lb ed="#V" n="31" break="no"/>taphysica et philosophia naturali: et quacumque alia scientia. 
+      <lb ed="#V" n="32"/>Ratio autem huius est ista: quoniam sicut se habet 
+      subie<lb ed="#V" n="33" break="no"/>i ctum ad subiectum in perfectione et nobilitate: sic 
+      <lb ed="#V" n="34"/>scientia ad scientiam. subiectum autem theologie est 
+      perfe<lb ed="#V" n="35" break="no"/>ctissimum habens in se formaliter omnem perfectionem 
+      <lb ed="#V" n="36"/>simpliciter. ergo ens perfectissimum. de ordine namque 
+      scien<lb ed="#V" n="37" break="no"/>tiarum: et que sit prior in ordine: et que non in nostra 
+      <lb ed="#V" n="38"/>metaphysica. libro 2o capite 7o satis fuit dictum: 
+      <lb ed="#V" n="39"/>nec hic amplius oprtet morari. Dictum est ergo in hoc 
+      <lb ed="#V" n="40"/>primo libro de subiecto theologie et habitum theoitie 
+      <lb ed="#V" n="41"/>et stabiliuimus subiectum primum motorem immobilem. De 
+      quali<lb ed="#V" n="42" break="no"/>tate habitus theologici diximus: quoniam ad hanc 
+      arten<lb ed="#V" n="43" break="no"/>pertinet. Et in hoc terminatur iste primus liber. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

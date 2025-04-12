@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="103-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n07907"><!--ntheol-l3c1-->
+            <head xml:id="nbnt23-n07907-Hd1e97">Caput 1</head>
+            <head xml:id="nbnt23-n07907-Hd1e99" type="question-title">
+      De perfectione simpliciter et eius proprietatibus abunde determinat
+    </head>
+            <p xml:id="nbnt23-n07907-d1e102">
+               <lb ed="#V" n="75"/>¶ De perfectione simpliciter et eius proprietatibus 
+      <lb ed="#V" n="76"/>abunde determinat. Cap. I. 
+    </p>
+            <p xml:id="nbnt23-n07907-d1e109">
+               <lb ed="#V" n="77"/>QUoniam autem per se 
+      pas<lb ed="#V" n="78" break="no"/>siones 
+      pri<lb ed="#V" n="79" break="no"/>mi motoris querimus in hac 
+      theo<lb ed="#V" n="80" break="no"/>logia naturali: dicto de negatiuis: 
+      <lb ed="#V" n="81"/>nunc de affirmatiuis perscrutemur. 
+      <lb ed="#V" n="82"/>Quoniam autem dictum quod primus 
+      <lb ed="#V" n="83"/>motor est infinitus simpliciter: et 
+      <lb ed="#V" n="84"/>per consequens perfectus simpliciter: cui nihil 
+      de<lb ed="#V" n="85" break="no"/>est. ideo necessario: sequitur quod in eo est omnis 
+      per<lb ed="#V" n="86" break="no"/>fectio simpliciter. Speculandum est ergo de 
+      per<lb ed="#V" n="87" break="no"/>fectionibus simpliciter in generali siue 
+      vniuersa<lb ed="#V" n="88" break="no"/>li: deinde magis in speciali de vnaquaque erit 
+      ser<lb ed="#V" n="89" break="no"/>mo. Dicamus ergo in primis de perfectione 
+      sim<lb ed="#V" n="90" break="no"/>pliciter si sit. secundo quid sit. tertio de eius 
+      proprie<lb ed="#V" n="91" break="no"/>tatibus perscrutemur. Palam autem quod est aliqua 
+      <lb ed="#V" n="92"/>perfectio simpliciter: cum sit aliqua perfectio 
+      secun<lb ed="#V" n="93" break="no"/>dum quid: et secundum quid ad simpliciter habet 
+      <lb ed="#V" n="94"/>reduci. Tum etiam: quia est aliquid simpliciter 
+      per<lb ed="#V" n="95" break="no"/>fectum: scilicet cui nihil deest. ergo et aliqua 
+      perfe<lb ed="#V" n="96" break="no"/>ctio simpliciter. Inuenitur autem sic perfectio 
+      sim<lb ed="#V" n="97" break="no"/>pliciter per viam diffinitionis: quoniam quando 
+      <lb ed="#V" n="98"/>aliquid diffinitur. si ponatur in eius diffinitione 
+      ali<lb ed="#V" n="99" break="no"/>quid: quod non sit perfectio simpliciter: istud 
+      diffini<lb ed="#V" n="100" break="no"/>tum non est perfectio simpliciter. Quoniam per. 
+      <lb ed="#V" n="101"/>fectio simpliciter nunquam in se includit: nisi 
+      perfe<lb ed="#V" n="102" break="no"/>ctionem simpliciter.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e168">
+      ¶ Ac vero etiam per viam 
+      <lb ed="#V" n="103"/>demonstrationis inuenitur perfectio simpliciter: 
+      <lb ed="#V" n="104"/>quoniam istud non dicit perfectionem simpliciter: 
+      <lb ed="#V" n="105"/>quod non demostratur: nec est demonstrabile de 
+      sub<lb ed="#V" n="106" break="no"/>iecto dicente perfectionem simpliciter: quoniam 
+      <lb ed="#V" n="107"/>nunquam propria passio inuenitur sine proprio 
+      subie<lb ed="#V" n="108" break="no"/>cto.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e185">
+      ¶ Et si arguas: quod tunc nulla erit perfectio 
+      sim<lb ed="#V" n="109" break="no"/>pliciter: quoniam non est aliud subiectum: de quo 
+      <lb ed="#V" n="110"/>non possit per se aliqua propria passio 
+      demonstra<lb ed="#V" n="111" break="no"/>ri: que non dicit perfectionem simpliciter: sicut 
+      re<lb ed="#V" n="112" break="no"/>lationem aptitudinalem: nec de producibilitate 
+      <lb ed="#V" n="113"/>quid sit productius: et sic de aliis pluribus. 
+      Iste<lb ed="#V" n="114" break="no"/>autem relationes aptitudinales non dicunt 
+      perfe<lb ed="#V" n="115" break="no"/>ctionem simpliciter: quoniam nulla relatio siue sit 
+      <lb ed="#V" n="116"/>formalis siue aptitudinalis dicit perfectionem 
+      sim<lb ed="#V" n="117" break="no"/>pliciter.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e207">
+      ¶ Respondeo tibi. hec via de 
+      demonstra<lb ed="#V" n="118" break="no"/>tione dubia est: nec sufficienter concludit propositum: 
+      <lb ed="#V" n="119"/>ideo do tibi viam aliam: et sit ista. quecumque habent 
+      ordinen<lb ed="#V" n="120" break="no"/>essentialem in linea praedicamentali secundum superius et 
+      infe<lb ed="#V" n="121" break="no"/>rius. si priora non dicunt perfectionem simpliciter: nec 
+      po<lb ed="#V" n="122" break="no"/>steriora: que per se includunt ista priora.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e220">
+      ¶ Et si ar¬
+      <pb ed="#V" n="103-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>guas cont ra hanc viam: quia sapientia dicitur perfectio 
+      <lb ed="#V" n="2"/>simpliciter et non includit qualitatem plusquam differentia 
+      inclu<lb ed="#V" n="3" break="no"/>dat genus. Nam sapientia que est perfectio simpliciter 
+      <lb ed="#V" n="4"/>non est species qualitatis: sed differentia contrahens aliquod 
+      ge<lb ed="#V" n="5" break="no"/>nus subalternum sub qualitate constitutum.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e238">
+      ¶ 
+      Am<lb ed="#V" n="6" break="no"/>plius autem dicamus quid sit ipsa perfectio 
+      simplici<lb ed="#V" n="7" break="no"/>ter. diffinitur autem a quodam sic. perfectio simpliciter 
+      <lb ed="#V" n="8"/>est perfectio vniuersalis correspondens conceptui 
+      spe<lb ed="#V" n="9" break="no"/>cifico seu generi seum alicui transcendenti vt conceptui 
+      <lb ed="#V" n="10"/>entis. vnde perfectio simpliciter hic accipitur. vt 
+      di<lb ed="#V" n="11" break="no"/>stinguitur contra perfectionem particularem arctatam et 
+      li<lb ed="#V" n="12" break="no"/>mitatam: et isto modo rosa simpliciter correspondens 
+      <lb ed="#V" n="13"/>conceptui specifico. loquendo platonice. dicitur 
+      perfe<lb ed="#V" n="14" break="no"/>ctio simpliciter. vt distinguitur contra hanc rosam 
+      par<lb ed="#V" n="15" break="no"/>ticularem. que non dicit perfectionem rose simpliciter 
+      <lb ed="#V" n="16"/>sed tantum perfectionem huius rose: que est perfectio 
+      se<lb ed="#V" n="17" break="no"/>cundum quid. Uniformiter autem dicitur de homine 
+      simpli<lb ed="#V" n="18" break="no"/>citer et de boue: et sic de aliis: quoniam vniuersalia plato 
+      <lb ed="#V" n="19"/>nica sunt perfectiones simpliciter et singularia dicunt 
+      <lb ed="#V" n="20"/>perfectionem secundum quid. Et si arguas: quod tunc in primo 
+      <lb ed="#V" n="21"/>motore non erit omnis perfectio simpliciter: quoniam 
+      <lb ed="#V" n="22"/>in ipso non sunt vniuersalia platonica. nam in ipso non 
+      <lb ed="#V" n="23"/>est rosa simpliciter. nec homo simpliciter: et sic de aliis 
+      <lb ed="#V" n="24"/>vniuersalibus. Si ergo in eo non est omnis perfectio 
+      <lb ed="#V" n="25"/>simpliciter. ergo non est perfectus simpliciter. 
+      Respon<lb ed="#V" n="26" break="no"/>deo quod ideo in eo est omnis perfectio simpliciter 
+      emi<lb ed="#V" n="27" break="no"/>nenter: quoniam primus motor est totus conceptus 
+      en<lb ed="#V" n="28" break="no"/>tis eminenter subsistens in quo clauditur rosa simpliciter 
+      <lb ed="#V" n="29"/>eminenter: et homo simpliciter et asinus simpliciter. Cum 
+      <lb ed="#V" n="30"/>sit vniuersale simpliciter: quod continet in se eminenter 
+      <lb ed="#V" n="31"/>omnia vniuersalia platonica: sicut conceptus entis 
+      <lb ed="#V" n="32"/>claudit infra se omnes conceptus specificos. Attamen 
+      <lb ed="#V" n="33"/>licet illud sit dictum consequens loquendo platonice: non tamen 
+      <lb ed="#V" n="34"/>potest dici secundum nostra principia metaphysicalia: et 
+      loquen<lb ed="#V" n="35" break="no"/>do peripathetice. Dictum enim ibi fuit: quod omnes 
+      perfe<lb ed="#V" n="36" break="no"/>ctiones simpliciter: in quibus vniuocantur primus 
+      mo<lb ed="#V" n="37" break="no"/>tor et alia entia: sunt in primo motore formaliter et non 
+      <lb ed="#V" n="38"/>eminenter. Dictum etiam fuit supra in primo huius 
+      theo<lb ed="#V" n="39" break="no"/>logie: quod primus motor non est vniuersale eminenter 
+      <lb ed="#V" n="40"/>subsistes. correspondens conceptui entis inquantum 
+      <lb ed="#V" n="41"/>ens. Sed est aliqua natura determinata infinita 
+      sim<lb ed="#V" n="42" break="no"/>pliciter atque perfecta vniuersaliter secundum quod perfectio. 
+      <lb ed="#V" n="43"/>nes possunt reperiri in aliquo vno. Concludimus est 
+      <lb ed="#V" n="44"/>quod perfectiones simpliciter non sunt vniuersalia 
+      pla<lb ed="#V" n="45" break="no"/>tonica: et perfectiones secundum quid singularia 
+      sub<lb ed="#V" n="46" break="no"/>illis contenta: Restat ergo adhuc inquirere quid 
+      <lb ed="#V" n="47"/>sit perfectio simpliciter etc. 
+    </p>
+            <p xml:id="nbnt23-n07907-d1e332">
+               <lb ed="#V" n="48"/>Amplius autem a quibusda dicitur pere 
+      <lb ed="#V" n="49"/>ctio simpliciter est 
+      perfe<lb ed="#V" n="50" break="no"/>ctio infinita infite proprie nature et speciei proprie: et 
+      <lb ed="#V" n="51"/>perfectio secundum quid est perfectio limitata et finita 
+      f<lb ed="#V" n="52" break="no"/>nitate proprie nature et speciei. Ut autem plane intelligas 
+      <lb ed="#V" n="53"/>pono tibi exemplum. calor claudens infra se infinitos 
+      <lb ed="#V" n="54"/>gradus caloris: immo omnes gradus caloris acceptos et 
+      <lb ed="#V" n="55"/>acceptibiles dicitur perfectio simpliciter: cum sit per 
+      <lb ed="#V" n="56"/>fectio infinita infite proprie nature et speciei. Calor 
+      <lb ed="#V" n="57"/>autem finitus claudens infra se formaliter gradus 
+      ca<lb ed="#V" n="58" break="no"/>loris finitos. vt. io. vel. ioo. vel. iooo. gradus calo 
+      <lb ed="#V" n="59"/>ris. Talis cum sit finitus calor non dicitur perfectio 
+      sim<lb ed="#V" n="60" break="no"/>pliciter: nec perfectus simpliciter: sed perfectio 
+      se<lb ed="#V" n="61" break="no"/>cundum quid: cum sit perfectus secundum quid.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e365">
+      ¶ Et si 
+      ar<lb ed="#V" n="62" break="no"/>guas: quod tunc in primo motore simpliciter non erit omnis
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="63"/>perfectio simpliciter: quoniam in ipso nec calor 
+      infi<lb ed="#V" n="64" break="no"/>nitus simpliciter: nec albedo infinita simpliciter esse 
+      <lb ed="#V" n="65"/>potest.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e379">
+      ¶ Respondent isti: quod licet in primo motore non sint 
+      <lb ed="#V" n="66"/>omnes perfectioes formaliter et simpliciter: sunt tamen in 
+      <lb ed="#V" n="67"/>ipso omnes gradus perfectionis simpliciter eminenter 
+      <lb ed="#V" n="68"/>et perfectionaliter et equipollenter: immo plusquam 
+      equi<lb ed="#V" n="69" break="no"/>pollenter. Quoniam indiuiduum sapientie in primo 
+      mo<lb ed="#V" n="70" break="no"/>tore equiualenter equipollet omnibus singularibus 
+      <lb ed="#V" n="71"/>limitatis sapientie. Indiuiduum entis: immo magis 
+      <lb ed="#V" n="72"/>essentia primi motoris perfectionaliter equipollet 
+      <lb ed="#V" n="73"/>omnibus aliis entibus.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e399">
+      ¶ At vero nec ista descriptio 
+      <lb ed="#V" n="74"/>perfectionis simpliciter sufficiens esse videtur: quoniam 
+      <lb ed="#V" n="75"/>sicut dictum fuit supra: omnes perfectiones simpliciter 
+      for<lb ed="#V" n="76" break="no"/>maliter sunt in primo motore non tantum eminenter et 
+      <lb ed="#V" n="77"/>equipollenter. alias. non esset simpliciter perfectius. 
+    </p>
+            <p xml:id="nbnt23-n07907-d1e410">
+               <lb ed="#V" n="78"/>¶ Restat ergo descriptio alia perfectionis 
+      sim<lb ed="#V" n="79" break="no"/>pliciter que est talis. perfectio simpliciter est illa: que 
+      <lb ed="#V" n="80"/>in quolibet supposito absolate sumpto non determinato 
+      <lb ed="#V" n="81"/>ad istam naturam vel ad illam est melius ipsum quam non 
+      <lb ed="#V" n="82"/>ipsum. Nec per ly non ipsum: suum contradictorium 
+      <lb ed="#V" n="83"/>intelligo: quia tunc omnis entitas positiua esset 
+      per<lb ed="#V" n="84" break="no"/>fectio simpliciter: quia omnis affirmatio est melior 
+      <lb ed="#V" n="85"/>quam sua negatio. vt homo quam non homo: albedo quam non 
+      <lb ed="#V" n="86"/>albedo. et sic de aliis. Ac autem per ly non ipsum non 
+      in<lb ed="#V" n="87" break="no"/>telligo omne illud quod potest vere negari ab ipso: et 
+      <lb ed="#V" n="88"/>omne aliud quod non est ipsum: quoniam tunc solus 
+      pri<lb ed="#V" n="89" break="no"/>mus motor est melior quam omne aliud quod potest 
+      nega<lb ed="#V" n="90" break="no"/>ri ab ipso. Intelligunt ergo noui philosophi per ly non ipsum 
+      <lb ed="#V" n="91"/>omne incompossibile sibi in eodem supposito vt 
+      sapien<lb ed="#V" n="92" break="no"/>tia est melior quam albedo: que est sibi incomposilitae: et sic 
+      <lb ed="#V" n="93"/>de aliis.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e447">
+      ¶ Et si arguas: quod ista descriptio multas 
+      <lb ed="#V" n="94"/>patitur instantias. primo autem sequeretur quod nulla 
+      pro<lb ed="#V" n="95" break="no"/>positio negatiua vera erit perfectio simpliciter. vt 
+      <lb ed="#V" n="96"/>hec. albedo non est pallia: vel rosa non est mercurius: 
+      <lb ed="#V" n="97"/>neque venus: quia non est melior quam affirmatiua: que lia 
+      <lb ed="#V" n="98"/>est incompossilis in eodem sibi supposito. Similiter 
+      <lb ed="#V" n="99"/>quod affirmatiua falsa non erit perfectio simpliciter: 
+      <lb ed="#V" n="100"/>quia non est melior quam sua negatiua vera: que est in 
+      <lb ed="#V" n="101"/>composilis. Conformiter est dicendum de habitibus 
+      <lb ed="#V" n="102"/>aggeneratis et talibus propositionibus quod non videtur 
+      <lb ed="#V" n="103"/>verum.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e471">
+      ¶ Ad hoc sic respondetur: quod predicta 
+      descri<lb ed="#V" n="104" break="no"/>ptimo: sic est intelligenda: quod perfectio simpliciter est 
+      <lb ed="#V" n="105"/>in quolibet melius ipsum quam non ipsum id est quam 
+      quodcum<lb ed="#V" n="106" break="no"/>que incomposile sibi simpliciter in eodem supposito: 
+      <lb ed="#V" n="107"/>et simul et successiue: quia subiecto perfectionis 
+      sim<lb ed="#V" n="108" break="no"/>pliciter repugnaret contradictorie. perfectio ergo 
+      <lb ed="#V" n="109"/>simpliciter est ista: que est simpliciter melior quam omne 
+      <lb ed="#V" n="110"/>illud cui contrarie repugnat simul esse in eodem 
+      super<lb ed="#V" n="111" break="no"/>posito: et etiam successiue in eodem supposito 
+      respe<lb ed="#V" n="112" break="no"/>ctum eiusdem simul tamen composius successiue: quia 
+      <lb ed="#V" n="113"/>in eodem subiecto habent esse successiue propositio 
+      <lb ed="#V" n="114"/>affirmatiua et negatiua.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e497">
+      ¶ Et si adhuc arguas 
+      in<lb ed="#V" n="115" break="no"/>primo motore non est compositius affirmatiua et negati 
+      <lb ed="#V" n="116"/>ua: nec simul nec successiue. alias. esset mutabilis: quod 
+      <lb ed="#V" n="117"/>improbatum est supra. libro secundo.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e507">
+      ¶ Respondetur 
+      <lb ed="#V" n="118"/>quod quantum est de se in propositione de 
+      contingenti<lb ed="#V" n="119" break="no"/>vtraque est sibi composius successiue: licet non simul quic 
+      <lb ed="#V" n="120"/>quid sit de propositionibus de necessario: quia 
+      nul<lb ed="#V" n="121" break="no"/>la propositio falsa potest esse in intellectum primi 
+      mo<lb ed="#V" n="122" break="no"/>toris. Idem dicimus de habitibus. sit ergo 
+      descri<lb ed="#V" n="123" break="no"/>ptimo predicta perfectionis simpliciter talis. perfe¬ primo 
+      <lb ed="#V" n="124"/>ctio simpliciter est: que in quolibet est melior ipsa
+      <pb ed="#V" n="104-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>quam non ipsa idest melior quam quodcumque 
+      incompossibile<lb ed="#V" n="2" break="no"/>sibi in eodem: nec simul nec successiue. 
+    </p>
+            <p xml:id="nbnt23-n07907-d1e533">
+               <lb ed="#V" n="3"/>Nunc de proprietatibus perfectionis 
+      sim<lb ed="#V" n="4" break="no"/>pliciter 
+      perscru<lb ed="#V" n="5" break="no"/>temur. Prima autem proprietas sit talis. Nulla 
+      perfe<lb ed="#V" n="6" break="no"/>ctio simpliciter est composita. Hoc probatur: quoniam 
+      com<lb ed="#V" n="7" break="no"/>positio semper dicit aliquam imperfectionem: cum 
+      inclu<lb ed="#V" n="8" break="no"/>dat in se partem et partem. pars autem imperfectior est 
+      <lb ed="#V" n="9"/>suo toto. perfectio autem simpliciter nullam includit 
+      im<lb ed="#V" n="10" break="no"/>perfectionem.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e553">
+      ¶ Et si queras: an perfectio 
+      simplici<lb ed="#V" n="11" break="no"/>ter sit resolubilis vel simpliciter simplex.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e558">
+      ¶ 
+      Respon<lb ed="#V" n="12" break="no"/>deo tibi quod non omnis perfectio est simpliciter 
+      simplex<lb ed="#V" n="13" break="no"/>vt spituns: et substantia: et sic de multis aliis: nulla tamen est 
+      <lb ed="#V" n="14"/>composita: quia principia ipsum constituentia sunt 
+      infinita<lb ed="#V" n="15" break="no"/>et per consequens non habent rationem partis.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e569">
+      ¶ At vero possum 
+      <lb ed="#V" n="16"/>aliter istum consolari et dicere quod nulla perfectio 
+      sim<lb ed="#V" n="17" break="no"/>pliciter communis vniuoca primo motori et aliis est 
+      com<lb ed="#V" n="18" break="no"/>posita: nec resolubilis: nec composita ex aliquibus 
+      <lb ed="#V" n="19"/>pluribus intrinsecis: sed est omnis simpliciter 
+      simplex<lb ed="#V" n="20" break="no"/>Dictum enim fuit supra: quod primus motor et alia vt aliquid 
+      <lb ed="#V" n="21"/>contentum in primis generibus non vniuocantur: nisi 
+      praeci<lb ed="#V" n="22" break="no"/>se in aliqua differuntia contrahente et constituente. non autem in 
+      <lb ed="#V" n="23"/>aliquo constituto. verbi grfastra. primus motor et secundus 
+      <lb ed="#V" n="24"/>non vniuocantur in sapientia: que est per se constituta ex 
+      <lb ed="#V" n="25"/>genere et differuntia scilicet ex qualitate: et quadam differuntia 
+      con<lb ed="#V" n="26" break="no"/>trahente: sed tantum vniuocantur in quadan differentia 
+      con<lb ed="#V" n="27" break="no"/>trahente aliquod genus subalternum contentum sub 
+      quali<lb ed="#V" n="28" break="no"/>tate: hec autem differentia sic diuidens et contrahens est 
+      <lb ed="#V" n="29"/>simpliciter simplex vt in nostra metaphysi. fuit dictum. ergo 
+      <lb ed="#V" n="30"/>nulla perfectio simpliciter est composita.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e604">
+      ¶ Secundo. 
+      <lb ed="#V" n="31"/>quod omnis perfectio simpliciter communis et vniuoca primo 
+      moto<lb ed="#V" n="32" break="no"/>ri: et aliis est omnino simpliciter simplex.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e612">
+      ¶ Amplius autem 
+      <lb ed="#V" n="33"/>nulla perfectio simpliciter simplex est cum alio 
+      componi<lb ed="#V" n="34" break="no"/>bilis: quod probatur sic: quoniam cum ipsa reperiatur in primo 
+      mo<lb ed="#V" n="35" break="no"/>tore. tuc aliquid composie reperiretur in primo motore: 
+      <lb ed="#V" n="36"/>quod est falsum.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e623">
+      ¶ Et si arguas: quod sapientia que est in 
+      <lb ed="#V" n="37"/>secundo motore compossibilis est cum intellectum eius. 
+    </p>
+            <p xml:id="nbnt23-n07907-d1e628">
+               <lb ed="#V" n="38"/>¶ Respondeo quod non est composilitas per se: sed tantum per 
+      ac<lb ed="#V" n="39" break="no"/>cidens scilicet ratione istius possibilis quod contrahit: quod quidem 
+      <lb ed="#V" n="40"/>potentiale contrahibile per se includit qualitatem et 
+      acci<lb ed="#V" n="41" break="no"/>dens. et ideo dependens cum intellectum: sed ista differentia contrahens: 
+      <lb ed="#V" n="42"/>que sapientia dicitur: nec est qualitas: nec est accidens: nec 
+      <lb ed="#V" n="43"/>dependens: nec inherens: nec componens per se: nisi 
+      <lb ed="#V" n="44"/>tantum ratione coniuncti scilicet ratione istius quod contrahit. de 
+      per<lb ed="#V" n="45" break="no"/>fectionibus autem simpliciter: que funt in primo 
+      moto<lb ed="#V" n="46" break="no"/>re: nec reperiuntur in aliis: cuius est eius essentia et substantia 
+      <lb ed="#V" n="47"/>infinita et spritus infinitus: numquam tales perfectiones 
+      sim<lb ed="#V" n="48" break="no"/>pliciter sunt simpliciter simplices. Dicamus quod non. ideo 
+      <lb ed="#V" n="49"/>sunt resolubiles in plures quiditates. quas per se 
+      in<lb ed="#V" n="50" break="no"/>cludunt inclusione primi modi.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e659">
+      ¶ At vero diligenter 
+      <lb ed="#V" n="51"/>aduertendum: quod omnes perfectiones simpliciter simplices 
+      <lb ed="#V" n="52"/>communes primo motori: et aliis sunt primo diuerse inter 
+      se<lb ed="#V" n="53" break="no"/>et ab omni non perfectione simpliciter. Ratio huius 
+      di<lb ed="#V" n="54" break="no"/>cti est ista. nam quia sunt simpliciter simplices. ideo non possunt 
+      <lb ed="#V" n="55"/>in aliquo conuenire et in aliquo differre. ergo sunt primo 
+      <lb ed="#V" n="56"/>diuerse.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e675">
+      ¶ Et si dicas: quod perfectiones simpliciter: que 
+      <lb ed="#V" n="57"/>conueniunt in ente. conueniunt etiam in absoluto: quo 
+      <lb ed="#V" n="58"/>niam sunt absolute. Dicitur quod ens et absolutum praedican 
+      <lb ed="#V" n="59"/>tur de perfectionibus simpliciter denominatiue vel 
+      yden<lb ed="#V" n="60" break="no"/>tice. no autem quiditatiue.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e686">
+      ¶ Et si queras: an 
+      perfe<lb ed="#V" n="61" break="no"/>ctiones simpliciter sint primo diuerse quantum ad 2s 
+      mo<lb ed="#V" n="62" break="no"/>dum: sicut sunt primo diuerse quantum ad primum modum. 
+      Di<lb ed="#V" n="63" break="no"/>citur quod non: quia conueniunt in aliquibus proprietatibus et 
+      pas<lb ed="#V" n="64" break="no"/>sionibus eiusdem rationis.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e698">
+      ¶ Et si arguas: quod nulla 
+      pas<lb ed="#V" n="65" break="no"/>sio est communis pluribus: nisi propter subiectum commne eis quod est
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>subiectum istarum passionum. Tum etiam: quia secundus modus 
+      <lb ed="#V" n="67"/>praesupponit primum: dicitur quod non oprtet: quoniam passiones eiusdem 
+      <lb ed="#V" n="68"/>rationis possunt inesse pluribus per proprias rationes: et non 
+      <lb ed="#V" n="69"/>per rationem communem: sicut in nostra metaphysica fuit 
+      di<lb ed="#V" n="70" break="no"/>ctum.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e716">
+      ¶ Habet autem dubitationem: an omnia que sunt in 
+      <lb ed="#V" n="71"/>primo motore sint perfectiones simpliciter autem non. At vero 
+      di<lb ed="#V" n="72" break="no"/>cimus: quod omnia absolita positiua existentia in primo motore 
+      for<lb ed="#V" n="73" break="no"/>maliter dicunt perfectionem simpliciter: quia sunt in ipso 
+      me<lb ed="#V" n="74" break="no"/>lius quam non ipsa scilicet quam quecumque impossibilis illis in primm 
+      <lb ed="#V" n="75"/>motorei. Sed relatiua formaliter existentia in primo 
+      moto<lb ed="#V" n="76" break="no"/>re: si qua sint: non sunt perfectiones simpliciter: quoniam vnum 
+      op<lb ed="#V" n="77" break="no"/>positum relatiuum non videtur melius quam aliud oppositum: 
+      <lb ed="#V" n="78"/>nec esonli.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e736">
+      ¶ Adhuc autem habet dubitationem de 
+      peruationi<lb ed="#V" n="79" break="no"/>bus et negationibus formaliter existentibus in primo motore: 
+      <lb ed="#V" n="80"/>an dicant perfectionem simpliciter vel non. Dicitur quod priuatio: 
+      <lb ed="#V" n="81"/>nes et negationes in primo motore sunt simpliciter 
+      reso<lb ed="#V" n="82" break="no"/>lubiles in rationes positiuas: sed quia ille sunt nobis 
+      <lb ed="#V" n="83"/>ignote circumloquimur eas per priuationes vt 
+      immor<lb ed="#V" n="84" break="no"/>talitas infinitas: et sic de aliis.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e752">
+      ¶ Amplius autem 
+      du<lb ed="#V" n="85" break="no"/>bitatur: an perfectiones que sunt in creaturis sint 
+      <lb ed="#V" n="86"/>perfectiones secundum quid. dicitur quod non: quoniam 
+      perfe<lb ed="#V" n="87" break="no"/>ctiones simpliciter in creaturis non dicunt perfectio 
+      <lb ed="#V" n="88"/>nem secundum quid secundum suas rationcs formales.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e763">
+      ¶ Et si 
+      <lb ed="#V" n="89"/>arguas: quod humanitas dicit perfectionem secundum 
+      <lb ed="#V" n="90"/>quid: ergo et sapientia que minoris perfectionis est 
+      <lb ed="#V" n="91"/>dicit perfectionem secundum quid.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e772">
+      ¶ Respondeo: quod licet 
+      hu<lb ed="#V" n="92" break="no"/>manitas dicat perfectionem simpliciter in genere 
+      <lb ed="#V" n="93"/>substantia: non tamen dicit perfectionem simpliciter 
+      absolu<lb ed="#V" n="94" break="no"/>te: quia non est in quolibet melius ipsum quam non ipsum. 
+      <lb ed="#V" n="95"/>ideo dicit perfectionem secundum quid. sapientia autem 
+      <lb ed="#V" n="96"/>in quolibet est melius ipsum quam non ipsum. ideo est 
+      <lb ed="#V" n="97"/>perfectio simpliciter.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e789">
+      ¶ Et si arguas quid sit 
+      per<lb ed="#V" n="98" break="no"/>fectius humanitas vel sapientia: que est in homine 
+      <lb ed="#V" n="99"/>dicitur quod sapientia permissiua perfectior est humani 
+      <lb ed="#V" n="100"/>tate: quia potest reperiri in aliquo infinito formaliter 
+      <lb ed="#V" n="101"/>scilicet in primo motore. humanitas autem seper reperitur 
+      <lb ed="#V" n="102"/>finita.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e802">
+      ¶ Perscrutemur autem amplius de 
+      proprie<lb ed="#V" n="103" break="no"/>tatibus perfectionis simpliciter in speciali. quarum 
+      <lb ed="#V" n="104"/>vna est ista: omnis perfectio simpliciter: que est in 
+      <lb ed="#V" n="105"/>primo motore vel est vniuoca sibi: et aliis. et tunc 
+      ma<lb ed="#V" n="106" break="no"/>nifestum est quod est communicabilis: autem est propria sibi: 
+      <lb ed="#V" n="107"/>sicut infinitas eius vel eius propria existentia: et 
+      tunc<lb ed="#V" n="108" break="no"/>videtur communicabilis pluribus suppositis distinctis 
+      <lb ed="#V" n="109"/>suppositaliter tantum et non essentialiter de quo 
+      pro<lb ed="#V" n="110" break="no"/>lixior erit inferius sermo cum de productione ad 
+      <lb ed="#V" n="111"/>intra primi motoris inquiremus.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e824">
+      ¶ Secunda 
+      pro<lb ed="#V" n="112" break="no"/>prietas sit talis: omnis perfectio simpliciter 
+      compos<lb ed="#V" n="113" break="no"/>sibilis est alteri perfectioni simpliciter. ideo omnes 
+      perfe<lb ed="#V" n="114" break="no"/>ctiones simpliciter sunt adinuicem simul in vnico 
+      <lb ed="#V" n="115"/>subiecto compossibiles. hoc probatur. et primo quod 
+      nul<lb ed="#V" n="116" break="no"/>la sit incompossibilis alteri: et per rationem 
+      perfe<lb ed="#V" n="117" break="no"/>ctionis simpliciter superius assignatam. Quoniam 
+      <lb ed="#V" n="118"/>perfectio simpliciter est in quolibet melior ipsa quam 
+      <lb ed="#V" n="119"/>non ipsa scilicet quam quodcumque impossibile sibi. Accipio 
+      <lb ed="#V" n="120"/>ergo duas perfectiones simpliciter scilicet a. et b. ergo a. 
+      <lb ed="#V" n="121"/>si est perfectio simpliciter est in quolibet melius 
+      <lb ed="#V" n="122"/>ipsum quam non ipsum. ergo si b. est sibi impossibile a. erit 
+      <lb ed="#V" n="123"/>melius quam .b. quod ponitur sibi impossibile: et 
+      conuerti<lb ed="#V" n="124" break="no"/>tur consequentia: quoniam pari ratione b. si est perfectio 
+      <lb ed="#V" n="125"/>simpliciter erit melius quam a. quod ponitur sibi 
+      incompossi<lb ed="#V" n="126" break="no"/>bile: et sic a. erit perfectius quam b. et b. perfectius quam a. 
+      <lb ed="#V" n="127"/>talis autem circulatio est impossibilis: quia tunc 
+      iden<lb ed="#V" n="128" break="no"/>esset perfectius seipso: quod contradictionem implicat: l 
+      <lb ed="#V" n="129"/>quelibet ergo perferfectio simpliciter est alteri compossibilis. 
+      <lb ed="#V" n="130"/>At vero scilicet quod omnes perfectiones simpliciter sunt simui compossibiles
+      <pb ed="#V" n="104-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>in eodem. sic probatur. Est dare aliquid simpliciter 
+      <lb ed="#V" n="2"/>perfectum. ergo in eo est omnis perfectio 
+      simplici<lb ed="#V" n="3" break="no"/>ter: quia si deficeret aliqua perfectio simpliciter iam non 
+      <lb ed="#V" n="4"/>esset perfectum simpliciter.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e881">
+      ¶ Et si arguas. quid est illud 
+      perfe<lb ed="#V" n="5" break="no"/>ctum cui non deest aliqua perfectio simpliciter. dicitur quod est 
+      <lb ed="#V" n="6"/>primus motor immobilis simpliciter.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e888">
+      ¶ Tertia proprietas. 
+      <lb ed="#V" n="7"/>omnis perfectio simpliciter nata est esse ide realiter alteri 
+      perfe<lb ed="#V" n="8" break="no"/>ctioni simpliciter. ideo omnes perfectiones simpliciter nate sunt esse 
+      <lb ed="#V" n="9"/>idem realiter in aliquo subiecto. hoc probatur: quoniam in 
+      pri<lb ed="#V" n="10" break="no"/>mo motore sunt omnes perfectiones simpliciter.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e899">
+      ¶ Habet autem 
+      <lb ed="#V" n="11"/>illas per omnimodam ydentitatem realem: cum sit summe 
+      <lb ed="#V" n="12"/>simplex et impartibilis. vt supra dictum est.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e907">
+      ¶ Et si que 
+      <lb ed="#V" n="13"/>ras: an omnes perfectiones simpliciter sint note in aliquo 
+      <lb ed="#V" n="14"/>vno subiecto vt in ipso primo motore esse idem 
+      for<lb ed="#V" n="15" break="no"/>maliter.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e916">
+      ¶ Respondetur quod non: quoniam si vna diffiniretur 
+      <lb ed="#V" n="16"/>alia non poneretur in eius diffinitione: nec econuerso. 
+      <lb ed="#V" n="17"/>de quo supra satis dictum fuit.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e923">
+      ¶ Et si queras. an omnes 
+      <lb ed="#V" n="18"/>perfectiones simpliciter in permo motore sint essen 
+      <lb ed="#V" n="19"/>tialiter ordinate adinuicem.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e930">
+      ¶ Respondeo. in 
+      crea<lb ed="#V" n="20" break="no"/>turis patet manifeste quod habent ordinem adinuicem: sed non 
+      <lb ed="#V" n="21"/>omnes.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e937">
+      ¶ Exemplum primi. entitas substantia intellectus 
+      <lb ed="#V" n="22"/>et voluntas. Exemplum secundi. intellectio lapidis et 
+      li<lb ed="#V" n="23" break="no"/>gni. Exemplum de virtutibus intellectualibus.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e944">
+      ¶ Se 
+      <lb ed="#V" n="24"/>in primo motore quid dicendum:
+    </p>
+            <p xml:id="nbnt23-n07907-d1e950">
+      ¶ Respondetur quod 
+      <lb ed="#V" n="25"/>ordo essentialis est omnium perfectionum simpliciter in 
+      pri<lb ed="#V" n="26" break="no"/>mo motore ad eius essentiam: que est omnino primo 
+      pri<lb ed="#V" n="27" break="no"/>ma perfectio simpliciter a qua omnes alie perfectiones simpliciter 
+      <lb ed="#V" n="28"/>pullulant.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e961">
+      ¶ Et si adhuc queras qualem ordinem 
+      <lb ed="#V" n="29"/>habent an originis vel nature: dicit quod non proprie 
+      <lb ed="#V" n="30"/>originis: quia ibi non est proprie origo vnius ab alia. ideo 
+      <lb ed="#V" n="31"/>omnes sunt inelicite: nec est ibi ordo proprie nature 
+      <lb ed="#V" n="32"/>qui dicitur esse inter naturas: quoniam non est nisi vna 
+      na<lb ed="#V" n="33" break="no"/>tura in primo motore.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e974">
+      ¶ Et tamen ibi est ordo 
+      natu<lb ed="#V" n="34" break="no"/>re id est secundum rationes formales. vnde est ibi ordo ex 
+      natura<lb ed="#V" n="35" break="no"/>rei secundum suas rationes formales vt ratio formalis 
+      intel<lb ed="#V" n="36" break="no"/>lectus prior est ipsa voluntate et intelligere ipso velle. 
+      <lb ed="#V" n="37"/>Forte adhuc queres: an vna perfectio simpliciter in 
+      pri<lb ed="#V" n="38" break="no"/>mo motore et in aliis sit perfectior alia vel non. 
+      Re<lb ed="#V" n="39" break="no"/>spondeo tibi: quod perfectiones simpliciter: nec in primo 
+      mo<lb ed="#V" n="40" break="no"/>tore: nec in aliis non excedunt se secundum suas rationes 
+      for<lb ed="#V" n="41" break="no"/>males: sed tantum ratione modi intrinseci.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e994">
+      ¶ Et si quaras. 
+      si<lb ed="#V" n="42" break="no"/>vnus modus intrinsecus vnius perfectionis sit perfectior 
+      <lb ed="#V" n="43"/>alio vel non. Dicitur quod sic in creaturis. vnde dicitur quod modus 
+      <lb ed="#V" n="44"/>intrinsecus voluntatis perfectior est modo intrinus 
+      <lb ed="#V" n="45"/>seco intellectus: et sic de aliis.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e1005">
+      ¶ Sed in primo 
+      motor<lb ed="#V" n="46" break="no"/>quid est dicendum: Dicitur quod vna perfectio simpliciter in primo 
+      <lb ed="#V" n="47"/>motore non est perfectior alia: nec secundum suam rationem 
+      <lb ed="#V" n="48"/>formalem: nec secundum rationem modi intrinseci: quoniam 
+      <lb ed="#V" n="49"/>vna infinitas est modus intrinsecus omnium.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e1016">
+      ¶ Sed 
+      <lb ed="#V" n="50"/>istud non videtur sufficiens dictum: quoniam sicut fuit 
+      di<lb ed="#V" n="51" break="no"/>ctum in 2o libro. caplectio de infinito: cuilibet perfectioni 
+      <lb ed="#V" n="52"/>simpliciter correspondet propria infinitas. Numquid vna erit 
+      <lb ed="#V" n="53"/>perfectior alia ratione talis modi intrinseci sibi 
+      pro<lb ed="#V" n="54" break="no"/>prii.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e1030">
+      ¶ Respondeo. quero primo si vna infinitas est 
+      <lb ed="#V" n="55"/>perfectior alia. Palam autem quod non: quoniam sicut 
+      infi<lb ed="#V" n="56" break="no"/>nito nihil est maius: sic infinita perfectione non est 
+      <lb ed="#V" n="57"/>maior perfectio.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e1039">
+      ¶ Et si adhuc arguas quod cause 
+      perfe<lb ed="#V" n="58" break="no"/>ctionis simpliciter sint alterius rationis: et quelibet habeat 
+      <lb ed="#V" n="59"/>infinitatem proprie nature et speciei. vetur quod diuersas species 
+      <lb ed="#V" n="60"/>infinitatis non determinent.
+    </p>
+            <p xml:id="nbnt23-n07907-d1e1048">
+      ¶ Respondeo. solutionem quare. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

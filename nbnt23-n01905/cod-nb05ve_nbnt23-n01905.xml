@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="93-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n01905"><!--ntheol-l1c7-->
+            <head xml:id="nbnt23-n01905-Hd1e97">Caput 7</head>
+            <head xml:id="nbnt23-n01905-Hd1e99" type="question-title">Agit de subalternatione theologiae</head>
+            <p xml:id="nbnt23-n01905-d1e102">
+               <lb ed="#V" n="115"/>¶ Agit de subalternatione theologie Caput. VII
+    </p>
+            <p xml:id="nbnt23-n01905-d1e107">
+               <lb ed="#V" n="116"/>DIcamus autem de habitu theolo 
+      <lb ed="#V" n="117"/>gico: an sit sbstaalternans 
+      <lb ed="#V" n="118"/>vel subalternatus. De subalternatione 
+      <lb ed="#V" n="119"/>scientie actiue et passiue dictum fuit in secundo 
+      <lb ed="#V" n="120"/>nostre metaphysice. capite. 6. Palam autem 
+      <lb ed="#V" n="121"/>quod applicando ad propositum euidenter apparet quod 
+      <lb ed="#V" n="122"/>theologia non est subalternata: cum eius subiectum 
+      <lb ed="#V" n="123"/>non sit ens per participationem: et per accidens: sed 
+      <lb ed="#V" n="124"/>magis ens per se vnum perseitate primi modi. Nec et 
+      <lb ed="#V" n="125"/>est scientia subalternans alias cum non ministret nec sub¬ n 
+      <lb ed="#V" n="126"/>iectum: nec partem subiecti aliis scientis.
+    </p>
+            <p xml:id="nbnt23-n01905-d1e133">
+      ¶ Et si 
+      tan<lb ed="#V" n="127" break="no"/>arguas quod subalternatur metaphysicae: cum eius subiectum su 
+      <lb ed="#V" n="128"/>sub subiecto metaphysicae sit contentum. Respondeo iam 
+      <lb ed="#V" n="129"/>fuit ibi dictum quod superioritas et inferioritas 
+      acci<lb ed="#V" n="130" break="no"/>dunt simul subalternate et subalternanti: et breviter
+      <pb ed="#V" n="94-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>nisi scebiectum sit per accidens vnum non erit 
+      sci<lb ed="#V" n="2" break="no"/>entia subalternata. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

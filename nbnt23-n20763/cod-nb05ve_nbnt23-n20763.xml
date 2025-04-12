@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="123-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n20763"><!--ntheol-l6c2-->
+            <head xml:id="nbnt23-n20763-Hd1e97">Caput 2</head>
+            <head xml:id="nbnt23-n20763-Hd1e99" type="question-title">
+      Recitat varios modos quibus persone diuine constituuntur in esse personali
+    </head>
+            <p xml:id="nbnt23-n20763-d1e102">
+               <lb ed="#V" n="19"/>¶ Recitat varios modos quibus persone diuine 
+      consti<lb ed="#V" n="20" break="no"/>tuuntur in esse personali. Caput. II.
+    </p>
+            <p xml:id="nbnt23-n20763-d1e109">
+               <lb ed="#V" n="21"/>REuertamur ero vnde sermo 
+      <lb ed="#V" n="22"/>venit primus: et 
+      di<lb ed="#V" n="23" break="no"/>camus de ratione formali constitutiua 
+      persona<lb ed="#V" n="24" break="no"/>rum in primia intellies quae consistit in tribus suppositis: 
+      <lb ed="#V" n="25"/>sicut superius fuit dictum. Palam autem quod qualibe 
+      <lb ed="#V" n="26"/>illarum trium personarum triplicem habet negationem communicaita: et 
+      <lb ed="#V" n="27"/>negationem triplicis dependentie scilicet actualis 
+      aptili<lb ed="#V" n="28" break="no"/>et passitius seu possibilis dependentie. ibi namque nulla 
+      perso<lb ed="#V" n="29" break="no"/>na est actu communicata. Nec habet actualem dependentiam ad 
+      ali<lb ed="#V" n="30" break="no"/>ud suppscitum extrinsecum nec aptibiaeum nec possibilem. Et in 
+      <lb ed="#V" n="31"/>hoc differt a natura suppositi in entibus limitatis: qua licet super 
+      <lb ed="#V" n="32"/>posita in proprio suptiso actu non dependeant ab aliquo 
+      alio<lb ed="#V" n="33" break="no"/>supposito: nec sit apta nata dependere. Attamen non sic in 
+      <lb ed="#V" n="34"/>primo motore: et hec omnia sunt vera supposito quod natura primi 
+      mo<lb ed="#V" n="35" break="no"/>toris praecise subsisteret in vno supposito: quia tamen ipsa 
+      sub<lb ed="#V" n="36" break="no"/>sistit in tribus suppositis ipsa subsistens in primo supposito noden 
+      <lb ed="#V" n="37"/>habet negationem subsistentie actualis: nec aptilis: nec 
+      <lb ed="#V" n="38"/>possibilis in alio supposito: immo potest in eo subsistere: et 
+      <lb ed="#V" n="39"/>est apta nata et possibilis in alio subsistere. Palam autem 
+      <lb ed="#V" n="40"/>quod in hoc habent supectum limitatum et supectum primi motoris: 
+      <lb ed="#V" n="41"/>quoniam cuilibet contradictorie repugnat communicari hic et ibi: natura erto 
+      <lb ed="#V" n="42"/>singularis primi motoris est communicabilis: et de possia: et de 
+      <lb ed="#V" n="43"/>inesse: et est apta communicari: non sic autem natura 
+      singula<lb ed="#V" n="44" break="no"/>ris limitata. dicamus ergo quod supoilitum et persona in prima 
+      <lb ed="#V" n="45"/>intelligentia est simpliciter incommunicabilis: cum non 
+      includani<lb ed="#V" n="46" break="no"/>nisi naturam et rationem suppositalem: qua formaliter supocitum est in 
+      <lb ed="#V" n="47"/>communicabile. An ista suppositua ratio sit absoluta vel relentua. 
+      <lb ed="#V" n="48"/>Sit igitur primua propositio negatiua secundum prinuitua nobis et philosophis communia 
+      <lb ed="#V" n="49"/>Non potest naliter: nec ex principiis naturalibus demrari quod super 
+      <lb ed="#V" n="50"/>posita prime intelligentie non sint constituta per realitates. 
+      <lb ed="#V" n="51"/>absolctas hoc propositio patet: quoniam omnes rationes probantes opsitum sunt 
+      solubi<lb ed="#V" n="52" break="no"/>les. vt patet discurendo per plures: nam cum dicitur quod omne absolutum 
+      <lb ed="#V" n="53"/>commune tribus suppositis: dicitur quod forte verum est de abicto quod 
+      di<lb ed="#V" n="54" break="no"/>cit perfectionem simpliciter: non autem de vltimis actualitatibus 
+      <lb ed="#V" n="55"/>incommunibus. Cum est dicitur quod absoieatum componit cum alio abslucto dicitur quod nden 
+      <lb ed="#V" n="56"/>est necessarium: immo nec verum vt patet in multis absolieata: sicut 
+      <lb ed="#V" n="57"/>de quiditate entis: et de contraentibus ens sicut in nostra metaphysica 
+      <lb ed="#V" n="58"/>fuit dictum. At vero modus ponendi sit talis: quoniam essentia 
+      <lb ed="#V" n="59"/>primi motoris qua de se est hoc et singularis: et vna numero est 
+      <lb ed="#V" n="60"/>communicabilis tribus suppositis: nec potest habere rationem suplietia: 
+      <lb ed="#V" n="61"/>quoniam supiti: vt suppositum repugnat communicari contradictoretria: cum 
+      <lb ed="#V" n="62"/>omne supctum sit incommunicabile: ergo ipsa essentia singularis non 
+      <lb ed="#V" n="63"/>potest habere rationem singularis suppositi: nec esse supitum: oprtet 
+      <lb ed="#V" n="64"/>ergo quod aliquid addatur sibi ex quo addito cum ipsa essentia 
+      <lb ed="#V" n="65"/>resultat vnam suplitum: quod est incommunicabile: oportet autem: quod illud
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>additum sit omnino incommunicabile: cum sit ratio formalitus 
+      <lb ed="#V" n="67"/>constitutiua alicuius incommunicabilis: et illud est 
+      quedan<lb ed="#V" n="68" break="no"/>realitas et actualitas absolita determinatiua essentie. sunt 
+      <lb ed="#V" n="69"/>differentiae vltime. sunt determinatiue et constitutiue inesse 
+      in<lb ed="#V" n="70" break="no"/>communicabili et indibli: et differentiae specifice constituunt in esse incommunituem 
+      <lb ed="#V" n="71"/>in plures species: et differentiae indiuibles incommunicabiles constituunt in 
+      <lb ed="#V" n="72"/>esse incommunicabili in plura numero: sic tales realitates 
+      <lb ed="#V" n="73"/>absolete constituunt in esse incommunicabili: sicut sunt differentie 
+      indi<lb ed="#V" n="74" break="no"/>uibls cum natura quam contraunt.
+    </p>
+            <p xml:id="nbnt23-n20763-d1e231">
+      ¶ Et si dicas quod tunc erunt ista 
+      <lb ed="#V" n="75"/>supposita absoluta nec erunt relatiua. dicitur quod immo: quoniam non erit 
+      ge<lb ed="#V" n="76" break="no"/>nerans et genitum sicut modo in istis inferioribus vbi funt 
+      <lb ed="#V" n="77"/>supposita absoluta. Adhuc est ibi generatio et origo vnius 
+      <lb ed="#V" n="78"/>ab altero et generans et genitum et producens et productum 
+      si<lb ed="#V" n="79" break="no"/>cut et ibi.
+    </p>
+            <p xml:id="nbnt23-n20763-d1e245">
+      ¶ Et si adhuc dicas quod tunc non erit ibi 
+      di<lb ed="#V" n="80" break="no"/>stinctio per origines. Respondeo quod erit ibi distinctio per 
+      <lb ed="#V" n="81"/>origines causaliter: sed non formaliter. causaliter inquantum 
+      supposi<lb ed="#V" n="82" break="no"/>tum 2m et 3m non habent esse nisi per origines causaliter: ergo nec raditus 
+      <lb ed="#V" n="83"/>habet originem est causaliter nisi per originem et productionem: forma 
+      <lb ed="#V" n="84"/>liter tamen est quid absoliatum: sic est de illis suppositis quae 
+      fori<lb ed="#V" n="85" break="no"/>constituentur per talia constitutiua absoluta. nihilominus 
+      tamen<lb ed="#V" n="86" break="no"/>vnum originatur ab altero. Palam autem quod negatiua isti 
+      <lb ed="#V" n="87"/>us non potest demonstratiue concludi secundum priniua nobis et philosophis 
+      <lb ed="#V" n="88"/>communia: et ex principiis naturalibus.
+    </p>
+            <p xml:id="nbnt23-n20763-d1e267">
+               <lb ed="#V" n="89"/>Dicamus ergo propotionem affirmatiuam ecnum 
+      <lb ed="#V" n="90"/>alios modernos: et sit talis. primum 
+      <lb ed="#V" n="91"/>suppositum est absoleatum et constitutum per hecceitatem absolitaum: et 2o 
+      <lb ed="#V" n="92"/>suplictua producta sunt relatiua et constituta per relationes: et nullo 
+      <lb ed="#V" n="93"/>modo per absoluta: et hoc propositio secundum prinictua nobis et philosophis communia non potest 
+      <lb ed="#V" n="94"/>euidenter impugnari hoc propositio sic probat: quoniam in nobis: et in 
+      <lb ed="#V" n="95"/>secundis intelligentus vbi est verbum productum et amor spiratus 
+      <lb ed="#V" n="96"/>et primum supecitum generans et spirans ibi prium supectum est absolutum et 
+      <lb ed="#V" n="97"/>constitutum per absolratum duo autem producta. sicut verbum et spiritus 
+      <lb ed="#V" n="98"/>amoris sunt relatiua et constitutiua per relationes. 
+      Manifestun<lb ed="#V" n="99" break="no"/>namque est quod intelligeua 2o est quodam suppocitum absoltatum et per 
+      absolu<lb ed="#V" n="100" break="no"/>ta constitutum. suppio quod sit per aliquod positiuum constitutum: et 
+      si<lb ed="#V" n="101" break="no"/>est constitutum per duplicem negatione: sicut superius fuit dictum. 
+    </p>
+            <p xml:id="nbnt23-n20763-d1e298">
+               <lb ed="#V" n="102"/>¶ Adhuc illud supecitum quantum ad esse positiuum quod dicit in 
+      <lb ed="#V" n="103"/>genere suo est absolutum. Intelligua ergo 2o antceo omnem productionem 
+      <lb ed="#V" n="104"/>verbi est quoddam supposcitum absolutum in se subsistens. Palam autem 
+      <lb ed="#V" n="105"/>quod cum intellitesr se producit verbum: quod quadem verbum productum 
+      <lb ed="#V" n="106"/>est formaliter respectiuum includens essentialiter rellientim: vt verbati 
+      <lb ed="#V" n="107"/>tionem passiuam: et est praecise constitutum ex obiecto cognito et ver 
+      <lb ed="#V" n="108"/>bari passiue vel productione passiua: et si tale verbum 
+      es<lb ed="#V" n="109" break="no"/>set suppositum subsistens esset praeciseconstitutum per retlietium in esse 
+      <lb ed="#V" n="110"/>suppositali. Palam autem quod conformiter est dicendum de 3o 
+      supposi<lb ed="#V" n="111" break="no"/>to scilicet de spiritum spirato: quoniam spiratione passiua constituitur 
+      <lb ed="#V" n="112"/>in esse supposi: ergo erunt ibi 3a supponitia vnum absolutum scilicet primum: et 
+      <lb ed="#V" n="113"/>duo respectiua scilicet 2m et 3m quae sunt producta: et hoc 
+      ponen<lb ed="#V" n="114" break="no"/>do productionem suppositorum in quibus subsistit natura 
+      supposi<lb ed="#V" n="115" break="no"/>torum secundum illam triplicem viam positan in lib o et propositio videtur 
+      pro<lb ed="#V" n="116" break="no"/>babil. Nec forte posset ex principiis nataualibus impugnari. 
+    </p>
+            <p xml:id="nbnt23-n20763-d1e333">
+               <lb ed="#V" n="117"/>Amplius autem vm poposio sit talis tria supiter 
+      <lb ed="#V" n="118"/>esse in esse suplili et 
+      incommunicabili<lb ed="#V" n="119" break="no"/>constituta per origines non potest ex principiis naturalibus 
+      eui<lb ed="#V" n="120" break="no"/>denter impugnari secundum pringuictua nobica et philosophis communia: sic quod priaeum 
+      sup<lb ed="#V" n="121" break="no"/>constituat in esse supposi secundum originationem actiuam: et 
+      <lb ed="#V" n="122"/>alia duo per originationes passiuas. hec probatur: quoniam illibed 
+      <lb ed="#V" n="123"/>quod est in se subsistens est simitusr incommunicabile. additum alteri 
+      <lb ed="#V" n="124"/>singulari naturae quae est ex se noen incommunicabilis: sed communicabilis: 
+      <lb ed="#V" n="125"/>ex illo: et tali natura potest resultare aliud per se subsistens 
+      sim<lb ed="#V" n="126" break="no"/>pliciter incommunicabile: et per consequens supposcitum incominicabile: et per consequens 
+      <lb ed="#V" n="127"/>origines tam actiue quam passiue sunt tales specialiter origines 
+      <lb ed="#V" n="128"/>passiue: et vna actiua scilicet generatio actiua: ergo ex ipsis: et 
+      <lb ed="#V" n="129"/>essentia primi motoris paestent resultare supposita 
+      incommuni<lb ed="#V" n="130" break="no"/>cabilia.
+    </p>
+            <p xml:id="nbnt23-n20763-d1e366">
+      ¶ Et si arguas quod generatio actiua nec passi¬
+      <pb ed="#V" n="123-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>ua est non per se lincommlicabilis: quoniam cum sit eiusdem rationis: 
+      <lb ed="#V" n="2"/>in primo motore et in aliis communicabilis erit. Respondeo tibi quod 
+      <lb ed="#V" n="3"/>gnantio actiua quae est in primo motore formaliter potest accipi: vt 
+      <lb ed="#V" n="4"/>est quaedam quiditas vniuoca prime intelligceur et aliis: et vt sic ndn 
+      <lb ed="#V" n="5"/>est incommunicabilis: nec vt sic constituit personam: nec suppites 
+      <lb ed="#V" n="6"/>incommunicabile. vel potest accipi generatio actiua vt signiica 
+      <lb ed="#V" n="7"/>contracta per differentiam vltimam: et per hecceitatem: et vt sic est simplciter 
+      <lb ed="#V" n="8"/>incommunicabilis: et vt sic constituit se.
+    </p>
+            <p xml:id="nbnt23-n20763-d1e390">
+      ¶ Et si dicas quod in 
+      <lb ed="#V" n="9"/>istis inferioribus vbi reperitur gneratio eiusdem rationis. nllata 
+      <lb ed="#V" n="10"/>generatio signo est simpliciter incommunicabilis alteri supposito 
+      <lb ed="#V" n="11"/>nec in esse suppositali est constitutiua: ergo nec ista quae est in primo 
+      mo<lb ed="#V" n="12" break="no"/>tore erit simpliciter incommunicabilis: et per consequens nec erit constitutiua 
+      <lb ed="#V" n="13"/>in esse incommunicabili. Respondeo tibi. concedo antecens: sed 
+      nego<lb ed="#V" n="14" break="no"/>consequentiam: quoniam licet differentiae vltime sint primo diuerse in nullo per 
+      se<lb ed="#V" n="15" break="no"/>conuenientes: licet eandem quiditatem contraant. poterit tamen aliud 
+      per<lb ed="#V" n="16" break="no"/>se conuenire vni quod alteri simpliciter repugnabit. dicamus 
+      <lb ed="#V" n="17"/>ergo quod actualitas vltina contractiua generationis in primo motore est 
+      <lb ed="#V" n="18"/>simpliciter incommunicabilis: et repugnat sibi contradictorie 
+      communi<lb ed="#V" n="19" break="no"/>cari alteri suppis quam illi cuius est quasi pers constitutiua: et pr 
+      <lb ed="#V" n="20"/>consequens potest constituere in esse incommunicabili suppositali 
+      Similiter autem et generatio passiua.
+    </p>
+            <p xml:id="nbnt23-n20763-d1e420">
+      ¶ Et si quaras: vnde habet hoc 
+      rea<lb ed="#V" n="22" break="no"/>litas et actualitas generationis actiue quod simpliciter sit 
+      incommuni<lb ed="#V" n="23" break="no"/>cabilis: et quare magis repugnat sibi communicari quam 
+      spi<lb ed="#V" n="24" break="no"/>rationi actiue quae communicatur duobus suppositis. Respondeo 
+      ti<lb ed="#V" n="25" break="no"/>bi realitas generationis actiue non habet hoc ex se quod sit 
+      incommun<lb ed="#V" n="26" break="no"/>cabilis formaliter sed hoc habet funamentr et causaliter seu originaliter 
+      <lb ed="#V" n="27"/>ab essentia primi motoris. Similiter autem expiraus actiua 
+      pro<lb ed="#V" n="28" break="no"/>se formaliter est communicabilis: sed causaliter ab essentia primi 
+      mo<lb ed="#V" n="29" break="no"/>toris habet hoc. hec enim realitas generantis pullulat et 
+      ori<lb ed="#V" n="30" break="no"/>ginatur ab essentia: vt realitas incommunicabilis simplitere: ergo 
+      <lb ed="#V" n="31"/>nullo modo potest aliter pullulare. siliter expiraus actiua 
+      pullu<lb ed="#V" n="32" break="no"/>lat et originatur ab essentia: vt communicabilis: nec potest aliter 
+      <lb ed="#V" n="33"/>pullulare ab ista: nisi vt communicabilis duobus suplieciua et si 
+      <lb ed="#V" n="34"/>tum quaras rationem non est alia nisi quod hoc est hoc etc. 
+    </p>
+            <p xml:id="nbnt23-n20763-d1e451">
+               <lb ed="#V" n="35"/>Amplius autem 2re proportio sit talis exr 
+      <lb ed="#V" n="36"/>puris naturalibus et 
+      princi<lb ed="#V" n="37" break="no"/>piis nobis et philosophis communibus non potest euidenter probari quod 
+      <lb ed="#V" n="38"/>ista tria supposita non sint constituta per relaties scilicet per 
+      pa<lb ed="#V" n="39" break="no"/>ternitatem et filiationem seu generationem actiuam et 
+      passiuan<lb ed="#V" n="40" break="no"/>hoc probatur sic: quoniam ex essentia primi motoris quae communicabilis 
+      <lb ed="#V" n="41"/>est: et ex respectu relationis incommunicabilis potest resultare 
+      ali<lb ed="#V" n="42" break="no"/>quod per se vnum perseitate terti modi: et per consequens suppositum: 
+      <lb ed="#V" n="43"/>incommunicabile. Palam enim quod sicut generatio actiua est quaedam 
+      <lb ed="#V" n="44"/>realitas quae oritur ex essentia simpliciter incommunicabili: sic et ista 
+      <lb ed="#V" n="45"/>paternitas est quadam realitas que simpliciter incommunicabilis 
+      <lb ed="#V" n="46"/>oritur ab essentia primi motoris. siliter autem: et de aliis relatio 
+      <lb ed="#V" n="47"/>nibus.
+    </p>
+            <p xml:id="nbnt23-n20763-d1e482">
+      ¶ Et si tu quaeras: an paternitas sit constitutiua 
+      pri<lb ed="#V" n="48" break="no"/>mi suppositi sub ratione paternitatis vel sub ratione relationis. 
+      <lb ed="#V" n="49"/>Similiter autem est ducitum de generatione: an sit constitutiua 
+      supposi<lb ed="#V" n="50" break="no"/>ti sub ratione gnortionis: an sub ratione dictionis. Respondeo 
+      ti<lb ed="#V" n="51" break="no"/>bi quod iam dictum est quod paternitas dicit vnam realitatem simpliter 
+      <lb ed="#V" n="52"/>simplicem cum se habeat ad modum differentiae vltime: non autem 
+      <lb ed="#V" n="53"/>admodum speciei: et per consequens nihil includit inclusione primi 
+      <lb ed="#V" n="54"/>modi. dic tamen quod dato quod correlatio sit per se inclusa in 
+      pa<lb ed="#V" n="55" break="no"/>ternitate vel aliquo 3o: et sic relatio et paternitas per se includam 
+      <lb ed="#V" n="56"/>tur in eo quod sit constitutum ex illis: sub ratione tamen relationis non 
+      <lb ed="#V" n="57"/>constituit cum essentia ex se non sit incommunicabilis: et si 
+      consti<lb ed="#V" n="58" break="no"/>tueret in esse relatiuo: non tantum in esse pastris: ergo sub ratione 
+      patrni<lb ed="#V" n="59" break="no"/>tatis quae est omnino incommunicabilis. Conformies autem dicitur de 
+      di<lb ed="#V" n="60" break="no"/>ctione et generatione quae sub ratione gnortionis constituit 
+      geni<lb ed="#V" n="61" break="no"/>tum: ibi namque est indiuiduum gnortionis et indiuiduum dictionis 
+      <lb ed="#V" n="62"/>vltimata verbi differentia ipsius indiuidui productionis constituit 
+      <lb ed="#V" n="63"/>productum et differentia generationis constituit genitum: et differentia 
+      di<lb ed="#V" n="64" break="no"/>ctionis constituit verbum.
+    </p>
+            <p xml:id="nbnt23-n20763-d1e521">
+      ¶ Et si quaeras de ordine 
+      consti<lb ed="#V" n="65" break="no"/>tuendi dicas quod secundum ordinem essentialem constituentium est or¬
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>do constitutorum productio est prior ordine essentiali ipsa 
+      <lb ed="#V" n="67"/>gnantione: et ipsa gneratio dictione: ergo productum prius est 
+      ge<lb ed="#V" n="68" break="no"/>nito: et genitum prius verbo prioritate a quae non conuertitur consequentia.
+    </p>
+            <p xml:id="nbnt23-n20763-d1e534">
+               <lb ed="#V" n="69"/>Propositio 5a sit talis quod per principia nobis et philosophis 
+      <lb ed="#V" n="70"/>communia: non potest ex principiis 
+      naturali<lb ed="#V" n="71" break="no"/>bus euidenter impugnari quin ista 3a supposita sint 
+      consti<lb ed="#V" n="72" break="no"/>tuta per tres res siue per tres realitates quibus supponantur 
+      <lb ed="#V" n="73"/>et dicantur res: hoc probatur: quoniam in quolibet supposito est vna res 
+      <lb ed="#V" n="74"/>simpliciter incommunicabilis: a qua omnia quae sunt in isto supposito sunt 
+      <lb ed="#V" n="75"/>res. Palam autem quod hec propositio differt a priori: quoniam res sic 
+      <lb ed="#V" n="76"/>concepta quasi pro quodam substrato: a qua omnia quae sunt in vna 
+      <lb ed="#V" n="77"/>persona dicuntur res et reantur: et quidam modus 
+      intrin<lb ed="#V" n="78" break="no"/>secus omnium istorum quae sunt in isto supposito: et distinguitur 
+      <lb ed="#V" n="79"/>ista realitas ex natura rei a generatione: et ab omnibus aliis 
+      <lb ed="#V" n="80"/>differeuis vltimis: cum ergo in quo licet supposito sit vna talis 
+      reali<lb ed="#V" n="81" break="no"/>tas: quae est simpliciter incommunicabilis: poterit constituere 
+      suppi<lb ed="#V" n="82" break="no"/>in esse incommunicabili. Palam autem quod in tribus suppositis suni 
+      <lb ed="#V" n="83"/>tales 3a incommunicabiles simpliciter simplices quibus realiter distinguuntur.
+    </p>
+            <p xml:id="nbnt23-n20763-d1e569">
+               <lb ed="#V" n="84"/>Propositio  sit talis secn prisum nobis et 
+      <lb ed="#V" n="85"/>philosophis communia. ex principiis naualibus 
+      <lb ed="#V" n="86"/>non potest euidenter impugnari: an supposita insint 
+      formi<lb ed="#V" n="87" break="no"/>constituta per tres subsistentias non incommunicabiles seu per tres 
+      <lb ed="#V" n="88"/>existentias seu per 3a esse prout hic esse est 2m adiacens. debes 
+      <lb ed="#V" n="89"/>tamen intelligere quod in quolibet supposito est vna propria existentia 
+      <lb ed="#V" n="90"/>seu subsistentia simpliciter incommunicabilis: et hoc maxime 
+      <lb ed="#V" n="91"/>appaeret in duobus suppositis productis: quoniam omnis productio 
+      <lb ed="#V" n="92"/>terminatur ad esse seu ad actualem existentiam quae quidem existentia est 
+      <lb ed="#V" n="93"/>quidam modus intrinsecus illius cuius est. productio ergo verbi 
+      <lb ed="#V" n="94"/>non terminatur ad essentiam tanquam ad terminum formalem 
+      <lb ed="#V" n="95"/>nec ad productionem passiuam: sed terminatur ad existentiam 
+      <lb ed="#V" n="96"/>seu ad esse verbi ipsius: nam ad productionem verbi infertur 
+      <lb ed="#V" n="97"/>productio passiua verbi primo et secundo realitas verbcti. 
+      vlti<lb ed="#V" n="98" break="no"/>mate et tanquam vltimus terminus infertur existentia verbi 
+      <lb ed="#V" n="99"/>et cum sit ipsa simpliciter incommunicabil. sequitur quod potest constituere 
+      supt<lb ed="#V" n="100" break="no"/>incommunicabile. Similiter autem in 3 suppnitia existentia incommunicabilis quae est 
+      <lb ed="#V" n="101"/>per se vltimus terminus formalir productionis eius quae forie 
+      con<lb ed="#V" n="102" break="no"/>stituitur in esse suppositi incommunicabilis.
+    </p>
+            <p xml:id="nbnt23-n20763-d1e614">
+               <lb ed="#V" n="103"/>Propositio 7a sit talis euidenter potest 
+      proba<lb ed="#V" n="104" break="no"/>ri quod supponitua in quibum consistit natura 
+      pri<lb ed="#V" n="105" break="no"/>mi motoris constituuntur negatione 3 i in genere scilicet negatione 
+      <lb ed="#V" n="106"/>actualis dependentie. aptilis dependentie. et positio depenaente 
+      <lb ed="#V" n="107"/>supitum namque primi motoris nec actu dependet depenitus ad 
+      <lb ed="#V" n="108"/>supcitum extrinsecum: net natum est depecscte: nec est possibile ipset depentite. 
+    </p>
+            <p xml:id="nbnt23-n20763-d1e630">
+               <lb ed="#V" n="109"/>¶ Et si quaeras quae istarum proportionum sint veriores seu 
+      proba<lb ed="#V" n="110" break="no"/>biliores. Respondeo tibi quod quolibet est difficilis ad impugnan 
+      <lb ed="#V" n="111"/>ri possent sequendo prinua nobiecis et 
+      <lb ed="#V" n="112"/>dum: et omnes rationes quae 
+      <lb ed="#V" n="113"/>philosophis communia sunt dissolubiles. quae ergo tibi platuerit hanc eium 
+      <lb ed="#V" n="114"/>gas. ille tamen 2ae proportiones quae ponunt quod constituuntur 
+      suppoti<lb ed="#V" n="115" break="no"/>per origines actiuas et passiuas: et per relationes scilicet patrnitatem 
+      <lb ed="#V" n="116"/>et filiatiem sunt communiores: et a pelclibus acceptantur hoc ergo sunt dica 
+      <lb ed="#V" n="117"/>de constitutiuis suppotentia in quibus consistit naura primi motoris. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

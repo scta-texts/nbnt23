@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="94-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n01964"><!--ntheol-l2c8-->
+            <head xml:id="nbnt23-n01964-Hd1e97">Caput 8</head>
+            <head xml:id="nbnt23-n01964-Hd1e99" type="question-title">De unitate habitus theologici</head>
+            <p xml:id="nbnt23-n01964-d1e102">
+               <lb ed="#V" n="3"/>¶ De vnitate habitus theologici. Caput.  VIII 
+    </p>
+            <p xml:id="nbnt23-n01964-d1e107">
+               <lb ed="#V" n="4"/>REstat ergo perscrutatio 
+      habi<lb ed="#V" n="5" break="no"/>tus theologici: an 
+      <lb ed="#V" n="6"/>isit vnus et qua vnitate sit vnus. De 
+      vni<lb ed="#V" n="7" break="no"/>i tate habitus in vniversali fuit dictum in metaphysica. 
+      li<lb ed="#V" n="8" break="no"/>bro. 2. capite 3. secundum quod ars ista requirit. sit 
+      <lb ed="#V" n="9"/>ergo intellectus tuus applicatiuus hanc artem: et 
+      pla<lb ed="#V" n="10" break="no"/>ne inuenies quod habitus theologicus est vnus vnita 
+      <lb ed="#V" n="11"/>te subiecti totam notitiam huius theologie continentis. 
+      <lb ed="#V" n="12"/>Nam primus motor virtualiter continet notitiam sui 
+      <lb ed="#V" n="13"/>notitiam primi praedicati: et notitiam omnium passionum 
+      <lb ed="#V" n="14"/>et per consequens notitiam omnium conclusionum totius habit 
+      <lb ed="#V" n="15"/>theologici: ergo ab vnitate substanti dicitur habitus theolo 
+      <lb ed="#V" n="16"/>gicus esse vnus.
+    </p>
+            <p xml:id="nbnt23-n01964-d1e138">
+      ¶ Adhuc autem ab vnitate medii 
+      di<lb ed="#V" n="17" break="no"/>esse vnus. in tota namque theologia nostra non cst nisi 
+      vni<lb ed="#V" n="18" break="no"/>cum medium: scilicet definitio primi motoris que 
+      <lb ed="#V" n="19"/>vnica est: quia vnius per se definiti: est tantum vna 
+      <lb ed="#V" n="20"/>definitio per se: quod quidem medium est vnum 
+      re<lb ed="#V" n="21" break="no"/>spectu omnium conclusionum: quoniam per definitionem 
+      <lb ed="#V" n="22"/>primi motoris omnes quiditates de ipso scibiles 
+      demon<lb ed="#V" n="23" break="no"/>strantur: augentur enim omnes demostrationes scientie in 
+      <lb ed="#V" n="24"/>eadem scientia non per media: sed in post assumendo: et in 
+      <lb ed="#V" n="25"/>latus: vt in metaphysica fuit dictum. Habitus ergo 
+      <lb ed="#V" n="26"/>thelogie est vnus: et ab ista vnitate dicitur habitus 
+      theo<lb ed="#V" n="27" break="no"/>logie esse vnus.
+    </p>
+            <p xml:id="nbnt23-n01964-d1e165">
+      ¶ Amplius autem de habitum conclusionum obiectum 
+      <lb ed="#V" n="28"/>etheologie qua vnitate sit vnus perscrutandum est: et sit 
+      <lb ed="#V" n="29"/>prima propositio talis: habitus theologicus in intellectum 
+      su<lb ed="#V" n="30" break="no"/>obiecti scilicet in intellectu primi motoris est vnus vnitate nume 
+      <lb ed="#V" n="31"/>rali. hoc probatur: quia est idem cum primo motore qui est 
+      tamen<lb ed="#V" n="32" break="no"/>vnus numero: vt nunc supponitur.
+    </p>
+            <p xml:id="nbnt23-n01964-d1e178">
+      ¶ Secunda propositio 
+      <lb ed="#V" n="33"/>sit talis: habitus theologicus in intellectu primi 
+      moto<lb ed="#V" n="34" break="no"/>ris respectu omnium concleationum est vnus formaliter sic in 
+      <lb ed="#V" n="35"/>telligendo quod habitus huius conclusionois. primus motor est in 
+      <lb ed="#V" n="36"/>corruptibilis: et istius. primus motor est impartibilis 
+      <lb ed="#V" n="37"/>et incomponibilis: et sic de aliis conclusionoibus est vnus forma 
+      <lb ed="#V" n="38"/>liter. hoc probatur: quoniam actus habitus istius respectu om 
+      <lb ed="#V" n="39"/>nium conclusionum: est vnus numero: et realiter et formaliter: ergo et 
+      <lb ed="#V" n="40"/>habitus erit vnus: et realiter et formaliter: quia non est maior vt 
+      <lb ed="#V" n="41"/>rietas in habitum quam in actu.
+    </p>
+            <p xml:id="nbnt23-n01964-d1e200">
+      ¶ Et si arguas quod in nobis 
+      <lb ed="#V" n="42"/>habitus praedictarum concleationum distinguutur formaliter et 
+      <lb ed="#V" n="43"/>quiditatiue: ergo vbicumque reperiantur semper distinguuntum 
+      <lb ed="#V" n="44"/>formaliter: ex quo remanent rationes formales eorum. 
+      Respon<lb ed="#V" n="45" break="no"/>deo. in nobis habitus conclusionum seorsum 
+      accepta<lb ed="#V" n="46" break="no"/>rum bene distinguitur quiditatiue et formaliter: vt habitus 
+      <lb ed="#V" n="47"/>huius conclusionis. ens est vnum. distinguitur formaliter ab 
+      ha<lb ed="#V" n="48" break="no"/>bitu huius: ens est bonum vel verum sed habitus 
+      con<lb ed="#V" n="49" break="no"/>clusionum omnium metaliaum vel physicalium vel 
+      natu<lb ed="#V" n="50" break="no"/>ralium simul causatarum vnum actum formando 
+      pro<lb ed="#V" n="51" break="no"/>potiones de predicato copulato et subiecto simplici et 
+      me<lb ed="#V" n="52" break="no"/>dio simplici non distinguitur: nec realiter: nec formaliter 
+      <lb ed="#V" n="53"/>sed tantum est vnus habitus numero omnium 
+      conclu<lb ed="#V" n="54" break="no"/>sionum essentialis omnibus habitibus partialibus 
+      con<lb ed="#V" n="55" break="no"/>clusionum istius scientiae. Palam autem quod in primo 
+      moto<lb ed="#V" n="56" break="no"/>re non sunt habitus conclusionum seorsum 
+      accepta<lb ed="#V" n="57" break="no"/>rum: ergo in primo motore habitus omnium conclusio 
+      <lb ed="#V" n="58"/>num est vnus numero: et realiter et formaliter.
+    </p>
+            <p xml:id="nbnt23-n01964-d1e239">
+      ¶ 
+      Te<lb ed="#V" n="59" break="no"/>tia propositio talis est habitus omnium conclusionum 
+      <lb ed="#V" n="60"/>eheologie naturalis quae est in intellectum secundi motoris 
+      pe<lb ed="#V" n="61" break="no"/>test esse vnus vnitate numerali: hoc probatur: quo 
+      <lb ed="#V" n="62"/>niam actus ex quo generatur habitus est vnus 
+      vni<lb ed="#V" n="63" break="no"/>tate numerali respectu omnium conclusionum 
+      thee<lb ed="#V" n="64" break="no"/>logie: vt antiqui et aliqui moderni phylosophi asse
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="65"/>runt. Dicentes quod eodem actu numero se intelligit: 
+      <lb ed="#V" n="66"/>et primum motorem: et omnia que formaliter sunt 
+      <lb ed="#V" n="67"/>in isto: et hoc pro nunc supponitur: quia de hoc 
+      inferi<lb ed="#V" n="68" break="no"/>us tertio libro fiet sermo. Habitus theologicus 
+      in<lb ed="#V" n="69" break="no"/>intellectum nostro coniuncto corpori corruptibili 
+      de<lb ed="#V" n="70" break="no"/>inesse non est vnus vnitate numerali. Ratio huius 
+      <lb ed="#V" n="71"/>est ista: quoniam actus ex quibus generatur 
+      distin<lb ed="#V" n="72" break="no"/>guitur numero et specie in nobis. intellectus namque 
+      <lb ed="#V" n="73"/>noster cum sit alligatus organo non potest formare 
+      <lb ed="#V" n="74"/>demonstrationem vnam de primo motore: tanquam 
+      <lb ed="#V" n="75"/>de subiecto simplici: et de definitione eius tanquam de 
+      <lb ed="#V" n="76"/>medio simplici: et de omnibus passionibus tanquam de 
+      <lb ed="#V" n="77"/>predicato copulato: sed potius quodlibet 
+      predica<lb ed="#V" n="78" break="no"/>tum seorsum per se accipit: hinc est quod generantur 
+      in<lb ed="#V" n="79" break="no"/>intellectum nostro distincti habitus theologie 
+      conclusio<lb ed="#V" n="80" break="no"/>num: et ideo sunt in intellectum nostro plures theolo 
+      <lb ed="#V" n="81"/>gie partiales: et talis habitus theologicus in nobis de 
+      <lb ed="#V" n="82"/>omnibus conclusionibus theologie non est vnus 
+      nu<lb ed="#V" n="83" break="no"/>mero vnitate forme simplicis: sed tantum est vnus 
+      <lb ed="#V" n="84"/>vnitate cuiusdam totalitatis siue integritatis. At 
+      <lb ed="#V" n="85"/>tamen non intelligo negare quod si esset aliquos intelle 
+      <lb ed="#V" n="86"/>ctus coniunctus corpori corruptibili ita subtilis et 
+      <lb ed="#V" n="87"/>eleuatus qui posset formare vnam 
+      demonstratio<lb ed="#V" n="88" break="no"/>nem de subiecto theologie simplici: et medio 
+      sim<lb ed="#V" n="89" break="no"/>plici: et de omnibus passionibus subiecti theologis 
+      <lb ed="#V" n="90"/>simul acceptis: quin talis actus demonstrandi si 
+      es<lb ed="#V" n="91" break="no"/>set frequenter elicitus posset aggenerare in tali intelle 
+      <lb ed="#V" n="92"/>ctu habitum theologie vnum vnitate numerali: sed hoc 
+      <lb ed="#V" n="93"/>est valde difficile: licet forte no sit impossibile 
+      forma<lb ed="#V" n="94" break="no"/>re talem demonstrationem de predicato copulato 
+      <lb ed="#V" n="95"/>omnium passionum subiecti theologie. Fertur 
+      au<lb ed="#V" n="96" break="no"/>tem a quodam quod si intellectus separatus posset 
+      lo<lb ed="#V" n="97" break="no"/>qui intellectualiter intellectui coniuncto. de 
+      con<lb ed="#V" n="98" break="no"/>clusionibus theologie causando in eo actum 
+      intel<lb ed="#V" n="99" break="no"/>ligendi: quod sicut intellectus predictus separatus 
+      po<lb ed="#V" n="100" break="no"/>test elicere in se demonstrationem de subiecto 
+      sim<lb ed="#V" n="101" break="no"/>plici theologie et medio simplici et predicato 
+      copu<lb ed="#V" n="102" break="no"/>lato omnium passionum subiecti theologie: per quem 
+      <lb ed="#V" n="103"/>actum demonstrandi frequenter elicitum 
+      aggene<lb ed="#V" n="104" break="no"/>rat in se vnum habitum theologie vnitate 
+      nume<lb ed="#V" n="105" break="no"/>rali respectu omnium conclusionum theologie. sic 
+      <lb ed="#V" n="106"/>conformiter esset dicendum quod intellectus 
+      separa<lb ed="#V" n="107" break="no"/>tus intellectualiter loquens intellectui nostro 
+      con<lb ed="#V" n="108" break="no"/>iuncto poterit in eo causare demonstrationem vnam 
+      <lb ed="#V" n="109"/>de subiecto simplici theologie: et medio simplici et 
+      <lb ed="#V" n="110"/>predicato copulato omnium passionum subiecti 
+      <lb ed="#V" n="111"/>theologie: et per talem demonstrationem 
+      formatan<lb ed="#V" n="112" break="no"/>vel causatam ab ipso intellectum separato 
+      habebi<lb ed="#V" n="113" break="no"/>mus in intellectum nostro vel habere possumus vnum 
+      <lb ed="#V" n="114"/>habitum theologie: vnum dico vnitate numerali 
+      <lb ed="#V" n="115"/>respectu omnium conclusionum theologie. de 
+      ha<lb ed="#V" n="116" break="no"/>locutione intellectuali intellectus separati et 
+      con<lb ed="#V" n="117" break="no"/>iuncti inferius prolixior erit sermo. in tractatum 
+      ter<lb ed="#V" n="118" break="no"/>tio de cognitione et locutione primi motoris: et alio 
+      <lb ed="#V" n="119"/>rum motorum adinuicem: ideo differatur.
+    </p>
+            <p xml:id="nbnt23-n01964-d1e376">
+               <lb ed="#V" n="120"/>habet autem dubitationem ex dictis 
+      <lb ed="#V" n="121"/>trahentem originem. sic 
+      <lb ed="#V" n="122"/>enim dictum est quod habitus theologicus potest 
+      ei<lb ed="#V" n="123" break="no"/>se vnus vnitate numerali in triplici intellectu: 
+      pri<lb ed="#V" n="124" break="no"/>mi scilicet motoris et secundi et nostro intellectum si 
+      agge<lb ed="#V" n="125" break="no"/>neraretur per actum frequenter elicitum. De 
+      sub<lb ed="#V" n="126" break="no"/>iecto simplici et medio simplici et predicato 
+      copula<lb ed="#V" n="127" break="no"/>to omnium passionum subiecti theologie. ergo 
+      con<lb ed="#V" n="128" break="no"/>formiter intellectus separatus eliciens vnam 
+      con<pb ed="#V" n="94-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>clusionem 
+      per demonstrationem de subiecto 
+      copu<lb ed="#V" n="2" break="no"/>lato omnium subiectorum scibilium: et medio 
+      co<lb ed="#V" n="3" break="no"/>pulato et predicato copulato omnium passionum 
+      <lb ed="#V" n="4"/>scibilium de quibuscunque subiectis: si talis 
+      demon<lb ed="#V" n="5" break="no"/>stratio sit frequenter elicita aggenerabit in intelle 
+      <lb ed="#V" n="6"/>ctu vnumi habitum vnitate numerali de omnibus 
+      <lb ed="#V" n="7"/>scibilibus sic quod talis habitus erit omnis scientia: 
+      <lb ed="#V" n="8"/>et tunc inclinabit formaliter intellectum ad prom 
+      <lb ed="#V" n="9"/>pte: et faciliter eliciendum demonstrationes de 
+      om<lb ed="#V" n="10" break="no"/>ni conclusione scibili: quod videtur impossibile et ab 
+      <lb ed="#V" n="11"/>surdum: tum quia ille habitus simpliciter erit 
+      pra<lb ed="#V" n="12" break="no"/>cticus et speculatiuus. tum quia esset subalternans 
+      <lb ed="#V" n="13"/>et subalternatus: tum etiam quia talis habitus 
+      ha<lb ed="#V" n="14" break="no"/>beret seipsum pro obiecto: quoniam de ipso 
+      habi<lb ed="#V" n="15" break="no"/>tu sunt plures passiones demonstrabiles. 
+      Respon<lb ed="#V" n="16" break="no"/>deo tibi quod non oportet illum habitum cum sit 
+      pra<lb ed="#V" n="17" break="no"/>cticus et speculatiuus esse vnum vnitate numera 
+      <lb ed="#V" n="18"/>li cum habitum practico et speculatiuo in nobis. bene 
+      <lb ed="#V" n="19"/>tamen concedimus tibi quod equiualenter et 
+      virtua<lb ed="#V" n="20" break="no"/>liter est simul practicus et speculatiuus: quoniam 
+      <lb ed="#V" n="21"/>talis habitus habet pro obiecto aliquod obiectum 
+      <lb ed="#V" n="22"/>speculatiuum: et aliquod obiectum practicum. 
+      Exem<lb ed="#V" n="23" break="no"/>plum actus intelligendi quo intelligo rosam 
+      ha<lb ed="#V" n="24" break="no"/>bet obiectum speculatiuum: et actus intelligendi 
+      <lb ed="#V" n="25"/>quo intelligo productionem rose vel edificationem 
+      <lb ed="#V" n="26"/>domus habet obiectum practicum: quoniam 
+      ha<lb ed="#V" n="27" break="no"/>bet ipsam praxim pro obiecto. si ergo per vnum et 
+      eum<lb ed="#V" n="28" break="no"/>dem actum simul numero intelligerem rosam et 
+      <lb ed="#V" n="29"/>productionem rose: ille actus esset equiualenter 
+      <lb ed="#V" n="30"/>practicus et speculatiuus. Manifestum est ergo ex 
+      <lb ed="#V" n="31"/>prioribus dictis de vydea: et forma exemplari: quo 
+      <lb ed="#V" n="32"/>niam sicut prius fuit dictum: primus motor est vnum 
+      <lb ed="#V" n="33"/>exemplar equiuocum vnitate numerali: et vna idea 
+      <lb ed="#V" n="34"/>et similitudo respectu omnium terminorum 
+      sim<lb ed="#V" n="35" break="no"/>plicium et rose et productionis rose et bouis et 
+      asini<lb ed="#V" n="36" break="no"/>et breviter omnium: et per consequens exemplar 
+      <lb ed="#V" n="37"/>obiecti practici et obiecti speculatiui: ergo et actus 
+      <lb ed="#V" n="38"/>vnus numero equiualenter est practicus et specula 
+      <lb ed="#V" n="39"/>tiuus: et ita necessario oportet dicere de actu et 
+      ha<lb ed="#V" n="40" break="no"/>bitum in primo motore: et etiam in secundis motoribus 
+      <lb ed="#V" n="41"/>sicut fertur.
+    </p>
+            <p xml:id="nbnt23-n01964-d1e491">
+      ¶ Ad dubitationem secundam 
+      facili<lb ed="#V" n="42" break="no"/>ter respondetur. Concedimus enim quod idem 
+      habi<lb ed="#V" n="43" break="no"/>tus numero potest esse subalternans et subalterna. 
+      <lb ed="#V" n="44"/>tus equiualenter: sicut et actus ex quibus 
+      generan<lb ed="#V" n="45" break="no"/>tur: quoniam potest elici vna demonstratio de 
+      con<lb ed="#V" n="46" break="no"/>clusionibus subalternantis: et de conclusionibus 
+      <lb ed="#V" n="47"/>scientie subalternate: et sic ex omnibus 
+      demonstra<lb ed="#V" n="48" break="no"/>tionibus frequenter elicitis poterit assignari vnum 
+      <lb ed="#V" n="49"/>habitus vnitate numerali qui erit subalternans et 
+      <lb ed="#V" n="50"/>subalternatus
+    </p>
+            <p xml:id="nbnt23-n01964-d1e514">
+      ¶ Dubitatio autem 3a faciliter 
+      sol<lb ed="#V" n="51" break="no"/>uitur. Concedimus quod iste habitus idem numero 
+      <lb ed="#V" n="52"/>poterit inclinare intellectum ad prompte et 
+      facili<lb ed="#V" n="53" break="no"/>ter per se passiones proprias ad formandum demodo 
+      <lb ed="#V" n="54"/>strationes de illis: si habebit seipsum pro obiecto: 
+      <lb ed="#V" n="55"/>quod probatur: sicut actus intelligendi potest habere 
+      <lb ed="#V" n="56"/>seipsum pro obiecto: sic actus intelligendi in 
+      pri<lb ed="#V" n="57" break="no"/>mo motore: qui tantum vnus est quo intelligit: et 
+      <lb ed="#V" n="58"/>seipsum: et omnia alia: sic conformiter est dicendum 
+      <lb ed="#V" n="59"/>de habitu.
+    </p>
+            <p xml:id="nbnt23-n01964-d1e536">
+      ¶ Et si arguas actus rectus et reflexus 
+      <lb ed="#V" n="60"/>non possunt esse idem actus. Respondetur quod 
+      nul<lb ed="#V" n="61" break="no"/>lum sequitur inconueniens: si ponatur quod idem actus 
+      <lb ed="#V" n="62"/>sit rectus et reflexus: quoniam hoc est necessarium 
+      <lb ed="#V" n="63"/>ponere in primo motore. quid autem de hoc sit tertio 
+      <lb ed="#V" n="64"/>libro erit sermo.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

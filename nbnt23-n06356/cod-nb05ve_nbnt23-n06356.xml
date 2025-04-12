@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="100-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n06356"><!--ntheol-l2c7-->
+            <head xml:id="nbnt23-n06356-Hd1e97">Caput 7</head>
+            <head xml:id="nbnt23-n06356-Hd1e99" type="question-title">Ostendit deum esse incircumscriptibilem et inlocabilem</head>
+            <p xml:id="nbnt23-n06356-d1e102">
+               <lb ed="#V" n="67"/>¶ Ostendit deum esse incircumscriptibilem et 
+      inlo<lb ed="#V" n="68" break="no"/>cabilem. Caput. VII. 
+    </p>
+            <p xml:id="nbnt23-n06356-d1e109">
+               <lb ed="#V" n="69"/>AMplius autem primus motor 
+      <lb ed="#V" n="70"/>est 
+      incircumscri<lb ed="#V" n="71" break="no"/>ptibilis et illocabilis: quid autem veritatis hoc 
+      di<lb ed="#V" n="72" break="no"/>ctum contineat videamus. Dicamus autem in 
+      <lb ed="#V" n="73"/>primis quod esse alicubii: vel nusquam habere 
+      <lb ed="#V" n="74"/>potest triplicem sensum siue intellectum scilicet 
+      priuati<lb ed="#V" n="75" break="no"/>ue: negatiue vel positiue. Esse autem vbique 
+      priuati<lb ed="#V" n="76" break="no"/>ue dicitur per priuationem distantie vel per indistantiam 
+      <lb ed="#V" n="77"/>equipollentem presentie et indiuisioni et 
+      incontiguita<lb ed="#V" n="78" break="no"/>ti. sic quod ista sint indistantia: sicut indistincta et contigua 
+      <lb ed="#V" n="79"/>equipollenter: eo quod nihil sit medium nec positiuum 
+      <lb ed="#V" n="80"/>nec priuatiuum: sicut inter locum et locatum nihil est 
+      me<lb ed="#V" n="81" break="no"/>dium nec positiuum nec priuatiuum. Esse etiam 
+      vbi<lb ed="#V" n="82" break="no"/>que negatiue datur per negationem cuiuslibet loci 
+      de<lb ed="#V" n="83" break="no"/>terminati: et sic illud quod nusquam est determinate: siue 
+      <lb ed="#V" n="84"/>sit ens siue non ens. potest dici vbique negatiue esse. 
+      <lb ed="#V" n="85"/>Esse autem vbique positiue est esse per presentiam 
+      positi<lb ed="#V" n="86" break="no"/>uam foris in eo existentem. Dimisso 2o intellectum de esse 
+      <lb ed="#V" n="87"/>vbique negatiue: de aliis duobus inquiramus: et sit 
+      <lb ed="#V" n="88"/>talis propositio prima. Primus motor est vbique per 
+      <lb ed="#V" n="89"/>indistantiam equipollentem presentie et indiuisioni: 
+      <lb ed="#V" n="90"/>quoniam nihil est medium inter primum motorem: et 
+      <lb ed="#V" n="91"/>quodcumque aliud positiuum: et sic est indistans ab omni 
+      <lb ed="#V" n="92"/>positiuo: quod probatur tali consequentia. anima celi est in 
+      <lb ed="#V" n="93"/>qualibet parte celi: ergo anima mundi est in 
+      quali<lb ed="#V" n="94" break="no"/>bet parte mundi: ergo est vbique. probatur 
+      consequen<lb ed="#V" n="95" break="no"/>tia: quoniam primus motor cum infinitus sit: est 
+      per<lb ed="#V" n="96" break="no"/>fectior quam anima celi: ergo infinitus erit et magis 
+      illi<lb ed="#V" n="97" break="no"/>mitatus quo ad locum quam anima celi.
+    </p>
+            <p xml:id="nbnt23-n06356-d1e174">
+      ¶ Et si 
+      argu<lb ed="#V" n="98" break="no"/>as: non videtur simile esse de anima celi et anima 
+      <lb ed="#V" n="99"/>mundi: quoniam anima celi informat quamlibet partem 
+      <lb ed="#V" n="100"/>celi secundum se totam: ergo habet esse in qualibet 
+      <lb ed="#V" n="101"/>parte celi: sed primus motor qui ab aliquibus 
+      dici<lb ed="#V" n="102" break="no"/>tur anima mundi: non informat quamlibet partem 
+      <lb ed="#V" n="103"/>mundi: immo nullam. ergo. Respondeo tibi. 
+      infor<lb ed="#V" n="104" break="no"/>matio nihil facit ad hoc quod anima celi sit in 
+      quali<lb ed="#V" n="105" break="no"/>bet parte celi: quoniam si anima celi esset separata 
+      <lb ed="#V" n="106"/>adhuc esset in qualibet parte celi sicut tunc: hoc 
+      pa<lb ed="#V" n="107" break="no"/>tet per illam propositionem. forma cuicunque parti 
+      <lb ed="#V" n="108"/>materie potest esse prima qua actio informat actu. 
+      ita<lb ed="#V" n="109" break="no"/>que actum est separata: ergo et eodem modo anima 
+      mun<lb ed="#V" n="110" break="no"/>di: licet non informet partem mundi est indistans a 
+      <lb ed="#V" n="111"/>qualibet parte mundi.
+    </p>
+            <p xml:id="nbnt23-n06356-d1e208">
+      ¶ Et si queras: an sit 
+      demon<lb ed="#V" n="112" break="no"/>strabile primum motorem esse vbique per talem 
+      in<lb ed="#V" n="113" break="no"/>distantiam. ita quod nihil eorum sit medium. 
+      Respon<lb ed="#V" n="114" break="no"/>deo tibi quod non: quoniam predicatum inest 
+      contingen<lb ed="#V" n="115" break="no"/>ter subiecto. hoc tamen bene est intuibile ab aliquo 
+      <lb ed="#V" n="116"/>intellectu: dicitur tamen et bene quod aptitudo et 
+      poten<lb ed="#V" n="117" break="no"/>tia ad sic essendum vbique est demonstrabilis de 
+      pri<lb ed="#V" n="118" break="no"/>mo motore.
+    </p>
+            <p xml:id="nbnt23-n06356-d1e226">
+      ¶ Secunda propositio sit talis. 
+      pri<lb ed="#V" n="119" break="no"/>mus motor non est vbique per presentiam in eo 
+      for<lb ed="#V" n="120" break="no"/>maliter et subiectiue existentem: hoc probatur: 
+      quoni<lb ed="#V" n="121" break="no"/>am primus motor est omnino immutabilis: et etiam 
+      om<lb ed="#V" n="122" break="no"/>nino simpliciter incomponibilis a quocumque.
+    </p>
+            <p xml:id="nbnt23-n06356-d1e237">
+      ¶ 
+      Ter<lb ed="#V" n="123" break="no"/>tia propositio sit talis: primus motor potest esse 
+      vbi<lb ed="#V" n="124" break="no"/>que presens presentia positiua in ipso formaliter 
+      existen<lb ed="#V" n="125" break="no"/>ste: nonem tam informante: sed tantum quod primus 
+      mo<lb ed="#V" n="126" break="no"/>tor illius presentie dependentiam terminet absque 
+      <lb ed="#V" n="127"/>omni inherentia et informatione. hoc probatur: 
+      quo<lb ed="#V" n="128" break="no"/>niam ex tali presentia sic in ipso formaliter existente non 
+      se<lb ed="#V" n="129" break="no"/>quitur quod primus motor sit mutabilis vel 
+      compo<lb ed="#V" n="130" break="no"/>nibilis cum illa: sicut nec terminus dependentie mu¬
+      <pb ed="#V" n="101-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>tatur si de nouo terminetur dependentia as: sicut 
+      <lb ed="#V" n="2"/>fuit superius declaratum. Et de hoc inferius de 
+      po<lb ed="#V" n="3" break="no"/>tentia primi motoris fiet sermo.
+    </p>
+            <p xml:id="nbnt23-n06356-d1e268">
+      ¶ Et si queras an 
+      <lb ed="#V" n="4"/>primus motor possit esse presens presentia 
+      diffini<lb ed="#V" n="5" break="no"/>tiua tantum vel etiam habere esse alicubi 
+      circumscri<lb ed="#V" n="6" break="no"/>ptiue. Respondeo tibi quod vtraquem presentia potest esse 
+      <lb ed="#V" n="7"/>presens: quia vtriusque potest dependentiam 
+      determi<lb ed="#V" n="8" break="no"/>nare equaliter. Ex his concluditur quod primus motor 
+      <lb ed="#V" n="9"/>de nouo potest acquirere vbi in loco: absque tamen 
+      <lb ed="#V" n="10"/>informatione. Sequitur etiam per eandem 
+      ratio<lb ed="#V" n="11" break="no"/>nem: quod primus motor potest referri ad creaturam 
+      <lb ed="#V" n="12"/>relatione reali in ipso formaliter existente: cuius 
+      de<lb ed="#V" n="13" break="no"/>pendentiam terminet ipsum tamen non informet. 
+      <lb ed="#V" n="14"/>Palam ex dictis quod primus motor non est simpliciter in 
+      <lb ed="#V" n="15"/>locabilis etiam positiue. Est tamen in locabilis 
+      sub<lb ed="#V" n="16" break="no"/>iectiue et informatiue: quoniam tunc esset 
+      mutabi<lb ed="#V" n="17" break="no"/>lis et componibilis.
+    </p>
+            <p xml:id="nbnt23-n06356-d1e301">
+      ¶ Et si queras an sit aliquid 
+      ali<lb ed="#V" n="18" break="no"/>ud a primo motore quod sit vbique positiue per 
+      indistan<lb ed="#V" n="19" break="no"/>tiam: fertur quod non: quoniam omne aliud a primo 
+      mo<lb ed="#V" n="20" break="no"/>tore sicut est ens limitatum in entitate sit ens limi 
+      <lb ed="#V" n="21"/>tatum inlocabilitate secundum principia nature: licet per virtum 
+      <lb ed="#V" n="22"/>tem primi motoris posset esse priuatiue vbique per 
+      <lb ed="#V" n="23"/>indistantiam sicut fertur.
+    </p>
+            <p xml:id="nbnt23-n06356-d1e317">
+      ¶ Et si arguas quod etiam 
+      na<lb ed="#V" n="24" break="no"/>turaliter videtur quod anima celi possit esse vbique. 
+      di<lb ed="#V" n="25" break="no"/>ctum enim fuit in aliis supra quod omnes celi sunt vnum 
+      <lb ed="#V" n="26"/>magnum animal precise habens vnam animam: sicut 
+      <lb ed="#V" n="27"/>primum mobile et firmamentum: et omnes 
+      planete<lb ed="#V" n="28" break="no"/>non habent nisi vnum motorem intrinsecum: et vnam 
+      <lb ed="#V" n="29"/>animam que est tota in qualibet parte primi mobi 
+      <lb ed="#V" n="30"/>lis et firmamenti et cuiuslibet orbis inferioris: et hoc 
+      <lb ed="#V" n="31"/>naualiter: ergo non est inconueniens quod possit esse 
+      indi<lb ed="#V" n="32" break="no"/>stans ab omnibus elementis et contentis sub ipsis: cum 
+      <lb ed="#V" n="33"/>illa sint quasi nihil respectu orbium celestium: sic erit 
+      <lb ed="#V" n="34"/>vbique per indistantiam. Respondeo tibi. supposito quod 
+      <lb ed="#V" n="35"/>omnes orbes sint vnum magnum animal in quo non 
+      <lb ed="#V" n="36"/>sint nisi vna anima numero que sit indistans a 
+      quali<lb ed="#V" n="37" break="no"/>bet parte totius orbis celestis: quod suppositum 
+      mul<lb ed="#V" n="38" break="no"/>tum est dubium: quoniam secundum antiquos 
+      phy<lb ed="#V" n="39" break="no"/>losophos quilibet planeta habet proprium 
+      moto<lb ed="#V" n="40" break="no"/>rem: attamen et si suppositum conceditur: adhuc non 
+      con<lb ed="#V" n="41" break="no"/>cludit propositum: quia anima totius orbis celestis 
+      <lb ed="#V" n="42"/>sic determinatur ad suum subiectum quod informat: quod 
+      <lb ed="#V" n="43"/>maius corpus informare non posset nec mouere 
+      iu<lb ed="#V" n="44" break="no"/>xta dictum antiquorum phylosophorum: quod si vna 
+      <lb ed="#V" n="45"/>stella adderetur celo motor orbis non posset 
+      moue<lb ed="#V" n="46" break="no"/>re nisi cum fatigatione et labore in primo celi et 
+      mun<lb ed="#V" n="47" break="no"/>di. iiso. Palam autem ex his quod motor intrinsecus 
+      or<lb ed="#V" n="48" break="no"/>bis non potest esse naturaliter indistans nisi a 
+      qua<lb ed="#V" n="49" break="no"/>libet parte orbis: Non autem ab aliis nec 
+      elemen<lb ed="#V" n="50" break="no"/>tis nec contentis in ipsis: ergo motor intrinsecus 
+      or<lb ed="#V" n="51" break="no"/>bis non potest esse naturaliter vbique per indistantiam 
+      <lb ed="#V" n="52"/>priuatiuam: nec per presentiam positiuam: sic 
+      autenm<lb ed="#V" n="53" break="no"/>esse vbique primo motori et immobili extrinseco. 
+    </p>
+            <p xml:id="nbnt23-n06356-d1e386">
+               <lb ed="#V" n="54"/>¶ Et si apeictas quod sic dicendo contradicis primcipiis philosophicis. 
+      <lb ed="#V" n="55"/>Dictum enim est ibi quod locabilitas passiua adequa 
+      <lb ed="#V" n="56"/>ta subiecto phylosophie naturalis scilicet nature: vt 
+      na<lb ed="#V" n="57" break="no"/>tura est sub quo subiecto non continetur primus 
+      mo<lb ed="#V" n="58" break="no"/>tor immobilis: nec per consequens per se passio substanti 
+      <lb ed="#V" n="59"/>naturalis phylosophie scilicet esse in loco primo 
+      motori<lb ed="#V" n="60" break="no"/>poterit inesse. Respondeo tibi. subiectum phyloso 
+      <lb ed="#V" n="61"/>phie naturalis est subiectum adequatum 
+      locabili<lb ed="#V" n="62" break="no"/>tati passiue formaliter et inherenter. sic quod vbi recipit in 
+      <lb ed="#V" n="63"/>se subiectiue et informatiue et inherenter: et 
+      simili<lb ed="#V" n="64" break="no"/>ter omnia contenta sub subiecto phylosophie 
+      natu<lb ed="#V" n="65" break="no"/>ralis: sic se habet ad vbi subiectiue: et informatiue:
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>sed tantum terminatiue: quoniam eius 
+      dependen<lb ed="#V" n="67" break="no"/>tia terminat absque omni inherentia et informatione: 
+      <lb ed="#V" n="68"/>et in hoc terminatur caplictum de in locabilitate 
+      pri<lb ed="#V" n="69" break="no"/>mi motoris. attamen de natura loci et de eius 
+      quidi<lb ed="#V" n="70" break="no"/>tate et multiplici proprietate et speciali immosite satis 
+      <lb ed="#V" n="71"/>dictum est in philosophicis: et hoc in vniuersali secundum quod ars 
+      <lb ed="#V" n="72"/>ista requirit. quere ergo ibi: et ad tuum propositum 
+      <lb ed="#V" n="73"/>applica. si fuerit tibi necessarium. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="113-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n14718"><!--ntheol-l4c2-->
+            <head xml:id="nbnt23-n14718-Hd1e97">Caput 2</head>
+            <head xml:id="nbnt23-n14718-Hd1e99" type="question-title">De productione obiecti in esse volito</head>
+            <p xml:id="nbnt23-n14718-d1e102">
+               <lb ed="#V" n="83"/>¶ De productione obiecti in esse volito. Cap. II.
+    </p>
+            <p xml:id="nbnt23-n14718-d1e107">
+               <lb ed="#V" n="84"/>PErscrutandum ergo restat de 
+      <lb ed="#V" n="85"/>productione obiecti 
+      <lb ed="#V" n="86"/>inesse volito: an scilicet primum moues simpliciter 
+      immo<lb ed="#V" n="87" break="no"/>bile producat obiecta alia a se extra se: in esse 
+      vo<lb ed="#V" n="88" break="no"/>lito: quod quadem esse volitum sit quid distinctum 
+      <lb ed="#V" n="89"/>ab ipa volitione quod est aliquid absolutum. Dicamus g 
+      <lb ed="#V" n="90"/>in primis quod sic: et sit ista prima conclusio Uoluntas primi motoris 
+      <lb ed="#V" n="91"/>producit complictones contingentes in esse volito. hoc probatur. 
+      <lb ed="#V" n="92"/>Ad cuius proboationem primitto duas proportiones. quarum prima sit 
+      <lb ed="#V" n="93"/>talis. omne obiectum quod de nouo transit de non esse volito ad 
+      <lb ed="#V" n="94"/>esse volitum pro aliquo instanti: necessario infert aliquod nouum ad 
+      <lb ed="#V" n="95"/>ditum vel adiectum ex parte obiecti vel ex parte volentis seu 
+      <lb ed="#V" n="96"/>volitionis. hec propositio tet in virtute primi principii: quoniam non 
+      <lb ed="#V" n="97"/>est transitus de affirmatione ad negationem: nec econlisi: 
+      ni<lb ed="#V" n="98" break="no"/>si eius aliquid adueniat vel abiiciatur. si enim omnia se habent 
+      <lb ed="#V" n="99"/>vniformiter sicut prius: non apparet causa aliqua 
+      qua<lb ed="#V" n="100" break="no"/>re non verificetur affirmatiua sicut prius. vox enim 
+      affir<lb ed="#V" n="101" break="no"/>matiua nunc fit falsa et prius erat vera non potest esse: 
+      si<lb ed="#V" n="102" break="no"/>omnia se habeant nunc vniformiter sicut tunc.
+    </p>
+            <p xml:id="nbnt23-n14718-d1e151">
+      ¶ 
+      Se<lb ed="#V" n="103" break="no"/>cunda propositio sit talis. retenta vnitate et tota entitate 
+      <lb ed="#V" n="104"/>actus absoluti voluntatis primi motoris immobilis 
+      <lb ed="#V" n="105"/>potest eius voluntas transire de nouo supra obiectum 
+      su<lb ed="#V" n="106" break="no"/>pra quod prius non transibat: ita quod obiectum transit de 
+      no<lb ed="#V" n="107" break="no"/>uo de non esse volito ad esse volitum. hoc patet in omni 
+      <lb ed="#V" n="108"/>complexione contingenti nulla omnino facta 
+      noui<lb ed="#V" n="109" break="no"/>tate ex parte obiecti in esse reali. Premissis autem his 
+      dua<lb ed="#V" n="110" break="no"/>bus proportionibus formetur sic ratio. omnis voluntas de 
+      no<lb ed="#V" n="111" break="no"/>uo attingens aliquod obiectum quod prius non attingebat 
+      ne<lb ed="#V" n="112" break="no"/>cessario habet aliquem actum nouum absolutum vel 
+      rela<lb ed="#V" n="113" break="no"/>tiuum: per quem de nouo attingit ipsum. hoc patet per 
+      pri<lb ed="#V" n="114" break="no"/>mam propositionem: sed voluntas de nouo potest 
+      attinge<lb ed="#V" n="115" break="no"/>re aliquod obiectum sine aliquo absoluto nouo: nec in 
+      ob<lb ed="#V" n="116" break="no"/>iecto: nec in voluntate seu volitione quantum ad 
+      ali<lb ed="#V" n="117" break="no"/>quid absolutum. hoc patet per 2m propositionem. ergo 
+      volun<lb ed="#V" n="118" break="no"/>tate apprehendente sic de nouo esse aliquem actum 
+      no<lb ed="#V" n="119" break="no"/>uum alium ab illo absoluto actu: etiam habent nouum 
+      <lb ed="#V" n="120"/>actum respectiuum. Uoco productionem obiecti in esse 
+      vo<lb ed="#V" n="121" break="no"/>lito. Concludamus ergo quod voluntas primi motoris 
+      ne<lb ed="#V" n="122" break="no"/>cessario producit complexiones contingentes in esse 
+      <lb ed="#V" n="123"/>volito. si actum et de nouo velit eas.
+    </p>
+            <p xml:id="nbnt23-n14718-d1e200">
+      ¶ 2a conclusio sit talis: 
+      <lb ed="#V" n="124"/>quod voluntas primi motoris producit complctiones necessarias 
+      <lb ed="#V" n="125"/>in tali esse volito: et licet hoc conclusio non possit probari per illam 
+      <lb ed="#V" n="126"/>viam: sicut et prima: quia ibi non est transitus de 
+      affirma<lb ed="#V" n="127" break="no"/>tione ad negationem. et esoni. sicut in complexione 
+      contin<lb ed="#V" n="128" break="no"/>genti. Conformiter tamen est dicendum: quod est ibi productio: 
+      si<lb ed="#V" n="129" break="no"/>cut hic.
+    </p>
+            <p xml:id="nbnt23-n14718-d1e216">
+      ¶ 3aconclusio sit talis: quod voluntas primi motoris 
+      <lb ed="#V" n="130"/>producit termios simplices et quiditates simplicecteo in esse
+      <pb ed="#V" n="114-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>volito eadem ratione: sicut et alia scilicet sicut complexiones 
+      <lb ed="#V" n="2"/>necessarias et contingentes.
+    </p>
+            <p xml:id="nbnt23-n14718-d1e229">
+      ¶ Et si queras. qualis 
+      en<lb ed="#V" n="3" break="no"/>titas sit haomeoli productio obiecti in esse volito: et an sit 
+      <lb ed="#V" n="4"/>illud esse volitum. Dicitur quod est quedam productio passiua 
+      <lb ed="#V" n="5"/>pertinens ad genus passionis: sicut esse cognitum. Istud 
+      <lb ed="#V" n="6"/>esse volitum etiam est quodam esse 2m adiacens: et quedam 
+      exi<lb ed="#V" n="7" break="no"/>stentia diminuta quae aliquid de nouo formaliter existit 
+      <lb ed="#V" n="8"/>in voluntate in qua prius non existebat: et hoc speciale verum 
+      <lb ed="#V" n="9"/>est de esse volito compliectionis contingentis quod de nouo 
+      produ<lb ed="#V" n="10" break="no"/>citur.
+    </p>
+            <p xml:id="nbnt23-n14718-d1e249">
+      ¶ Habet autem dubitationem magnam: cum dicitur quod esse 
+      vo<lb ed="#V" n="11" break="no"/>litum est quidam existentia et quedam productio passiua. si 
+      produ<lb ed="#V" n="12" break="no"/>ctio et existentia obiecti voliti vel spiritus voluntatis: quod 
+      spi<lb ed="#V" n="13" break="no"/>ret se versus amatum.
+    </p>
+            <p xml:id="nbnt23-n14718-d1e258">
+      ¶ Palam autem de hoc sunt varum 
+      <lb ed="#V" n="14"/>modi dicendi. Unus quadem modus sit talis: quod amans 
+      <lb ed="#V" n="15"/>vi amoris intentionaliter egreditur et fertur in amatum: 
+      <lb ed="#V" n="16"/>vt sic amans capiat esse spitum et egressum versus amatum: 
+    </p>
+            <p xml:id="nbnt23-n14718-d1e267">
+               <lb ed="#V" n="17"/>¶ Rationem autem assignant a signo: quoniam transmutationes 
+      <lb ed="#V" n="18"/>consequentes motus anime tales sunt realiter quales motus anime 
+      <lb ed="#V" n="19"/>intentionaliter. Unde quia tunc est quedam fuga anime spiritualis 
+      <lb ed="#V" n="20"/>concomitatur ipsum realis fuga sanguins ad cor: sed 
+      motum<lb ed="#V" n="21" break="no"/>amoris existentis in mente concomitatur effusio humoris 
+      <lb ed="#V" n="22"/>sanguinei extra cor. liquescit enim et liquorem emittit. 
+      <lb ed="#V" n="23"/>cor amantis in ordine ad amatum: et cocomitatur emit 
+      <lb ed="#V" n="24"/>sio suspirii. ergo nihil aliud est intentionaliter amor quam 
+      <lb ed="#V" n="25"/>quedam spiritualis latio anime in amatum: et ita amans 
+      ca<lb ed="#V" n="26" break="no"/>pit extra se esse intentionaliter.
+    </p>
+            <p xml:id="nbnt23-n14718-d1e292">
+      ¶ Adhuc autem est 
+      <lb ed="#V" n="27"/>communis animi conceptio quod amans transfertur in 
+      ama<lb ed="#V" n="28" break="no"/>tum. ex voto enim dilitaius amans ydentificat se 
+      ama<lb ed="#V" n="29" break="no"/>to et optat fieri vnus specie cum eo: et sic amans 
+      semp<lb ed="#V" n="30" break="no"/>extra se procedit.
+    </p>
+            <p xml:id="nbnt23-n14718-d1e303">
+      ¶ At vero modus alius disperatus 
+      <lb ed="#V" n="31"/>ab isto asseritur tamquam verus ponens quod amans non 
+      produ<lb ed="#V" n="32" break="no"/>cit se medphysitae amore in esse egresso lato vel spirato: sed 
+      <lb ed="#V" n="33"/>magis adopitum quod diligit et appetit in esse volito: et hoc 
+      <lb ed="#V" n="34"/>conformiter: sicut in esse cognito: quoniam sicut 
+      intelli<lb ed="#V" n="35" break="no"/>gens prducit obiectum in esse cognito quod esse 
+      cogni<lb ed="#V" n="36" break="no"/>tum est quedam spiritualis existentia et diminuta qua 
+      ob<lb ed="#V" n="37" break="no"/>iectum existit in intellectum. Sic vniformites amans producit 
+      <lb ed="#V" n="38"/>obiectum amatum in esse diminuto: quod dicitur esse volitum 
+      <lb ed="#V" n="39"/>vel esse amatum: quod quidem esse volitum est quoddam 
+      <lb ed="#V" n="40"/>esse 2m adiacens ipsius obiecti voliti: et quedam 
+      existen<lb ed="#V" n="41" break="no"/>tia spiritualis illius in anima. Palam autem quod sic ponendo 
+      <lb ed="#V" n="42"/>omnia que dicta sunt pro modo alio saluari praesent: quoniam ex 
+      <lb ed="#V" n="43"/>productione talis obiecti in esse volito et amato vi amo 
+      <lb ed="#V" n="44"/>ris et talis expressionis obiecti in tali esse amato 
+      con<lb ed="#V" n="45" break="no"/>comitatur quedam corporalis effusio humoris 
+      sangui<lb ed="#V" n="46" break="no"/>nei versus amatum et visibilis emissio suspirii: et 
+      ydenti<lb ed="#V" n="47" break="no"/>ficabit se amans cum tali amato in tali esse posito: vt 
+      <lb ed="#V" n="48"/>verius sit amans vbi amat quam vbi animat. Nec opte quod 
+      <lb ed="#V" n="49"/>spitus amantis ponat se in tali esse amato vel 
+      egres<lb ed="#V" n="50" break="no"/>sio: sed sufficit quod obiectum amatum in tali esse ponatur. 
+    </p>
+            <p xml:id="nbnt23-n14718-d1e349">
+               <lb ed="#V" n="51"/>¶ Amplius autem habet dubitationem de tali esse volito 
+      <lb ed="#V" n="52"/>in quo subiectiue ponatur an in primo subiecto volito vel in 
+      <lb ed="#V" n="53"/>ipso volente vel in eius voluntate autem volitione. 
+      Dica<lb ed="#V" n="54" break="no"/>mus autem pro dissolutione talis dubitationis quod tale esse 
+      <lb ed="#V" n="55"/>volitum: licet sit vere accidens et pertinens ad genus 
+      pas<lb ed="#V" n="56" break="no"/>sionis: numquam est tamen substantiue inherenter et informatiue: 
+      <lb ed="#V" n="57"/>sed bene est in subiecto terminatiue scilicet in ipsa volitione 
+      <lb ed="#V" n="58"/>absoluta primi motoris cui innititur: que terminat eius 
+      <lb ed="#V" n="59"/>dependentiam: absque tamen omni inherentia et 
+      infor<lb ed="#V" n="60" break="no"/>matione quacumque. duas enim habitudines habet 
+      subie<lb ed="#V" n="61" break="no"/>ctum ad formam quam recipit. vnam que eius 
+      dependen<lb ed="#V" n="62" break="no"/>tiam terminat: et ista est perfectionis. Aliam quae informites ab 
+      <lb ed="#V" n="63"/>actualitate. prima autem habet voluntas primi motoris ad 
+      <lb ed="#V" n="64"/>esse volitum: quod est in ipsa tamquam in subiecto terminati 
+      <lb ed="#V" n="65"/>uem: non autem informatiue.
+      
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

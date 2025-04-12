@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="124-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n21491"><!--ntheol-l6c4-->
+            <head xml:id="nbnt23-n21491-Hd1e97">Caput 4</head>
+            <head xml:id="nbnt23-n21491-Hd1e99" type="question-title">Aequalitatem trium personarum diuinarum apertissime declarat</head>
+            <p xml:id="nbnt23-n21491-d1e102">
+               <lb ed="#V" n="56"/>¶ Equalitatem trium personarum diuinarum apertissime 
+      de<lb ed="#V" n="57" break="no"/>clarat. Caput. IIII
+    </p>
+            <p xml:id="nbnt23-n21491-d1e109">
+               <lb ed="#V" n="58"/>Aequalitatem trium personarum 
+      <lb ed="#V" n="59"/>vel supponitur in quibus
+      <lb ed="#V" n="60"/>subsistit natura primi motoris accedamus. 
+      <lb ed="#V" n="61"/>At vero: quia equalitas ista potest attendi vel secundum 
+      <lb ed="#V" n="62"/>durationem vel secundum perfectionem vel 3o secundum 
+      <lb ed="#V" n="63"/>virtutem vel postum de istis tribus per ordinem perscrutemur: 
+      <lb ed="#V" n="64"/>et primo de equalitate durationis. 2o de equalitate perfectionis: et 
+      <lb ed="#V" n="65"/>3o de equalitate potentia et virtutis fiet secundo. Quoniam autem omnis 
+      dura<lb ed="#V" n="66" break="no"/>tio sen mensura duratiua suidc mensura triplici continetur
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>scilicet tperis eternitatis et eui. Palam quod non inquerimus an vnum 
+      <lb ed="#V" n="68"/>supecitum sit prius vel posterius altero tempore vel euo: quoniam ista 
+      <lb ed="#V" n="69"/>3a supectua non cadunt sub tempore: nec tempore mensurantur: cum teapoens sit 
+      <lb ed="#V" n="70"/>mensura succeitur et motuum. non autem permanentium: sicut in 
+      philosophi<lb ed="#V" n="71" break="no"/>cis fuit dictum: cum tempons non sit nisi coexistentia partium motus ad 
+      <lb ed="#V" n="72"/>primum motorem quae quidem coexistentia est in contius fluxu: vt dato quod eius 
+      <lb ed="#V" n="73"/>subiectum maneret: adhuc tempons flueret: quoniam eius natura est talis: 
+      <lb ed="#V" n="74"/>vt fertur quod aduehgsite parte posteriori alia necessario cedit sibi: 
+      <lb ed="#V" n="75"/>et affirutuiao vnius partis: necessario infert negatiem alterius partis: licet 
+      <lb ed="#V" n="76"/>quidam noui philosophi asserant quod sicut non est repugnantia quano omnes 
+      <lb ed="#V" n="77"/>reabictaes possint sil esse: nec est necessarium quod affitus vnius 
+      infe<lb ed="#V" n="78" break="no"/>rat neganiteum alterius. primum namque dictum est magis de intentione 
+      <lb ed="#V" n="79"/>progenitorum nostrorum specialiter de tempore: quoniam partes eius sil esse non 
+      <lb ed="#V" n="80"/>paesent: sed pertes motus paesenst simul exister: et fieri in instanti: vt 
+      <lb ed="#V" n="81"/>fuit dictum in philosophicis. Amplius tunc inqurimus: an ista supliter 
+      <lb ed="#V" n="82"/>3a sint silita duratiue eui: quoniam non cadunt sub euo nec mensu 
+      <lb ed="#V" n="83"/>rantur euo: cum euum sit mensura entium permanenti um limitaus 
+      <lb ed="#V" n="84"/>et finitur. cuiusmodi non sunt praedicta suplenta. Palam autem quod 
+      <lb ed="#V" n="85"/>inquerimus de mensura eternitats: an in ista mensura 3a super 
+      <lb ed="#V" n="86"/>sint equalia. Attamen dicamus primo quid sit eternitas: et deinde 
+      <lb ed="#V" n="87"/>an mensucenita sint equalia. Unus autem de magistris etersieam sic 
+      <lb ed="#V" n="88"/>diffit. Eternitas est quaedam vis quae aliquid ex se ptest 
+      coexiste<lb ed="#V" n="89" break="no"/>re: immo praesidere omni tempore facto et factibili: et imagnio: et 
+      <lb ed="#V" n="90"/>imaginabili: et omni durationi facte et factibili. imagina 
+      <lb ed="#V" n="91"/>te et imaginabili: et talis via coexistendi est in primo motore: quam 
+      <lb ed="#V" n="92"/>quidem vis es tota silite: ideo primus motor dicitur eternus: et solus 
+      <lb ed="#V" n="93"/>eternus: quoniam solus habet talem vim ex se: et nihil aliud ab 
+      eo<lb ed="#V" n="94" break="no"/>habet istam ex se.
+    </p>
+            <p xml:id="nbnt23-n21491-d1e194">
+      ¶ Et si arguas quod quiditabites quae sunt in esse 
+      quidi<lb ed="#V" n="95" break="no"/>tatiuo sint est sic eterne cum simpliciter sint in tali esse: sic est 
+      <lb ed="#V" n="96"/>negatiue et omnino improducte. Dicitur quod non sunt proprie eterne: cum 
+      <lb ed="#V" n="97"/>non existant ex se. eternitas autem non est nisi inquantum existens. 
+      <lb ed="#V" n="98"/>Alii dicunent eternitatem esse quae caret prins et fine: et de facto 
+      <lb ed="#V" n="99"/>et de posili et est tota sil hoc autem descrius nulli alteri menduaente 
+      <lb ed="#V" n="100"/>competit: nec tempori: nec euo. Aliter autem definiunt noui 
+      philosophi<lb ed="#V" n="101" break="no"/>eternitatem: et hoc sic. Eternitas est coexistentia simius necessaria 
+      <lb ed="#V" n="102"/>tota silia primi motoris ad seipset. in hoc quod dicitur co existentia 
+      ha<lb ed="#V" n="103" break="no"/>betur quod est quidam relectiua in hoc quod dicitur necessaria differt ab ipsa coexistentia 
+      <lb ed="#V" n="104"/>qua dicitur terames et euum. Similiter autem per hoc quod dicitur tota siliea differt ab 
+      il<lb ed="#V" n="105" break="no"/>lis: quoniam in philosophicis dictum fuit quod iste coexistene non sunt tote 
+      <lb ed="#V" n="106"/>silit indiuibiles: immo vna pers fluit et alia aduenit hoc quod ad 
+      <lb ed="#V" n="107"/>ditur quod est coexistentia primi motoris ad seipsum. patet: quia habet idem 
+      <lb ed="#V" n="108"/>pro fundamento et pro termino: nisi dicas quod habet pro fundamento 
+      coexi<lb ed="#V" n="109" break="no"/>stentiam primi motoris: et pro tersitiao singularem naturam primi 
+      mo<lb ed="#V" n="110" break="no"/>toris.
+    </p>
+            <p xml:id="nbnt23-n21491-d1e232">
+      ¶ Et si arguas quod tunc sequitur quod erunt tres 
+      eterni<lb ed="#V" n="111" break="no"/>tates et plures eterni ibi: quoniam in illis tribus suppositis 
+      <lb ed="#V" n="112"/>sunt tres existenie et tres subsistentie: et per consequens tres coexistene: 
+      <lb ed="#V" n="113"/>quoniam ad nuerationem fundamentore sequitur numerus respectuum. 
+      <lb ed="#V" n="114"/>Respondetur quod non conceditur communiter quod sint ibi tres existente: sed 
+      <lb ed="#V" n="115"/>tantum vna: licet bene concedatur quod sint ibi tres subsistenuente. 
+    </p>
+            <p xml:id="nbnt23-n21491-d1e245">
+               <lb ed="#V" n="116"/>¶ Adhuc autem dato quod essent ibi tres existente 
+      incommunicabi<lb ed="#V" n="117" break="no"/>les 3m personarum proprietatum. est tamen existentia naturae 
+      singula<lb ed="#V" n="118" break="no"/>ris quae communicabilis est tribus suppositis. Eternitas autem est 
+      <lb ed="#V" n="119"/>coexistentia illius existene communilis: et communis tribus: et non comexistentia 
+      <lb ed="#V" n="120"/>illarum existentiarum incommunicabilium: ideo non sequitur quod sint ibi tres 
+      <lb ed="#V" n="121"/>eternitates: sed tantum vna nec plura eterna: sed tantum vnum 
+      <lb ed="#V" n="122"/>eternum: quoniam pro tanto vnum supectum dicitur eternum: quia includit 
+      <lb ed="#V" n="123"/>naturam singularem primi motoris: et eius existentiam: et per consequens 
+      <lb ed="#V" n="124"/>coexistentiam existene communicabilis ad istam naturam. Similiter 2m sup 
+      <lb ed="#V" n="125"/>et 3m: et tamen includunt istam eandem: sequitur quod quodlibet eorum est 
+      eter<lb ed="#V" n="126" break="no"/>num per eternitatem existente formaliter in essentia: et quia vna eternitas 
+      <lb ed="#V" n="127"/>sola est in tribus: sequit quod non sunt 3a eterna: sed vnum eternum. 
+    </p>
+            <p xml:id="nbnt23-n21491-d1e274">
+               <lb ed="#V" n="128"/>¶ Si autem arguas. quod sic dicendo ponimus in primo motore qui 
+      <lb ed="#V" n="129"/>existentias. vnam eentie primi motoris quae communicabilis est tribus 
+      <lb ed="#V" n="130"/>suppositis. et tres existentias trium per sonarum quae sunt simpliciter 
+      <lb ed="#V" n="131"/>incommunicabiles: quod omnino videtur absurdum et fium. Respondeo 
+      ti<lb ed="#V" n="132" break="no"/>bi existentia essentie primi motoris non est quarta existentia diuisa
+      <pb ed="#V" n="124-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>contra alias tres existentias: nec ponit in numero cum illis: cum 
+      <lb ed="#V" n="2"/>sit idem illis: et simpliciter indistincta et indinsa ab illis indictue relatiua: 
+      <lb ed="#V" n="3"/>licet non sit idem illis indiuisionem vel vnitate abluta. Iste autem 3 
+      <lb ed="#V" n="4"/>existentie incommuniltaus ponunt in numero contra seinuicem: nec sunt idem vnite 
+      <lb ed="#V" n="5"/>absoluta: nec indiuisione relatiua: et isto modo potest euadi diffitus 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

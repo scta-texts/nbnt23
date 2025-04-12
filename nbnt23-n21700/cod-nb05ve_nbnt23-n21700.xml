@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#per-nbd2d8">Nicolaus Bonetus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor; TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2025-04-12">April 12, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-nb05ve">Venice 1505</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-03-17" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="124-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbnt23-n21700"><!--ntheol-l6c5-->
+            <head xml:id="nbnt23-n21700-Hd1e97">Caput 5</head>
+            <head xml:id="nbnt23-n21700-Hd1e99" type="question-title">Agit subtiliter de prioritate et posterioritate repertis inter diuinas personas</head>
+            <p xml:id="nbnt23-n21700-d1e102">
+               <lb ed="#V" n="6"/>¶ Agit subtiliter de prioritate et posterioritate 
+      reper<lb ed="#V" n="7" break="no"/>tis inter diuinas personas. Caput. V.
+    </p>
+            <p xml:id="nbnt23-n21700-d1e109">
+               <lb ed="#V" n="8"/>HAbet autem dubitationem ex iam dictis 
+      trahe<lb ed="#V" n="9" break="no"/>tem originem: nam cum dictum sit quod 
+      <lb ed="#V" n="10"/>omnes persone in quibus subsistit naura primi motoris 
+      <lb ed="#V" n="11"/>sunt eterne vnica eternitate: et sunt silitet et 
+      equa<lb ed="#V" n="12" break="no"/>les in eternitate restat dubitio: an inter ista 
+      <lb ed="#V" n="13"/>supientia possit esse alia priosititaus autem posteyeitas quacumque sit illa. 
+      Di<lb ed="#V" n="14" break="no"/>camus autem in primis quod ibi est alia prioritas originis quae vnum 
+      <lb ed="#V" n="15"/>suplictum prius est origine alio. Palam autem in nostra metaphysica quod 2e sunt 
+      <lb ed="#V" n="16"/>priosites inter alia quie habent locum ndene primo namque modo dicitur aliud prius 
+      <lb ed="#V" n="17"/>origine alio: quoniam illud est a se: et aliud est ab illo. Patet autem 
+      <lb ed="#V" n="18"/>manite: quod primum supcitum est a se et a nllutio alio est productum. 2m autem 
+      <lb ed="#V" n="19"/>est a primo et ideo primum prius est origine 2o 2m autem posterius est origine 
+      <lb ed="#V" n="20"/>primo suptio. primum est prius est origie 3o supenti: quoniam prium est a se et a 
+      nllatao<lb ed="#V" n="21" break="no"/>productum 3m autem est a primo et 2o.
+    </p>
+            <p xml:id="nbnt23-n21700-d1e142">
+      ¶ Et si tu quaeras: an 2m sit 
+      <lb ed="#V" n="22"/>prius origie 3o: rapenr quod illo modo accianus prius origine illibed 
+      se<lb ed="#V" n="23" break="no"/>quod est a se: et posterius illud quod est ab alio: 2m cum non sit a 
+      <lb ed="#V" n="24"/>se non potest dici prius origine 3o. Modus secunds prioritatis 
+      <lb ed="#V" n="25"/>originis dicitur quo aliquid prius est origine priori: in quo non est prior 
+      <lb ed="#V" n="26"/>a qua. Debes namque imaginari de prioritate istorum supritur sic 
+      <lb ed="#V" n="27"/>suo modo tibi ostendi de prioritate originis luis in partibus 
+      <lb ed="#V" n="28"/>aeris. in illuctiue enim aeris sunt diuerse illuctiues adinuicem 
+      ordi<lb ed="#V" n="29" break="no"/>nate. sicut et partes aeris habent ordinem prioritatis et possite 
+      <lb ed="#V" n="30"/>adinuicem: nam oriente sole: licet omnes partes aeris illuminentur 
+      <lb ed="#V" n="31"/>in instanti tamen pers prius origine illuminatur quam alia: vt prima quam 2o: et 
+      <lb ed="#V" n="32"/>2a quam a: et sic de aliis: hoc sic intelligo quod primua illuminatio 
+      pri<lb ed="#V" n="33" break="no"/>partis aeris habet coexistentiam ad instans temperis: quod est in motu primi 
+      <lb ed="#V" n="34"/>mobilis. Similiter autem et 2a illumius habet coexistentiam ad illied 
+      <lb ed="#V" n="35"/>idem instans: et sic 3a et 4o: et sic de aliis. prima coexistentia quae 
+      fun<lb ed="#V" n="36" break="no"/>in prima illuctiue habet relectum prioritatis ad coexistentiam 2e partis et e3 
+      <lb ed="#V" n="37"/>coexistentia fundat rellietua postetitur ad primam: et ideo coexistentia primio 
+      per<lb ed="#V" n="38" break="no"/>tis est prior: et coexistentia 2e pertis est posterior: et ab illa 
+      coexi<lb ed="#V" n="39" break="no"/>et prioritate quae funinis in prima coexistentia dicitur pers pria prius origine 
+      <lb ed="#V" n="40"/>illucita quam 2o et 2a quam ca priori in quo: quoniam ista coexistentia quae 
+      fun<lb ed="#V" n="41" break="no"/>dat: vt dictum est relietia priositius ad aliam: et ista coexistentia est propria 
+      <lb ed="#V" n="42"/>mensura productiua primae partis et primae illuctio: et 2a est posterior: et 
+      <lb ed="#V" n="43"/>de aliis per ordinem ad propoitum applicando conformaliter dicamus quod 
+      <lb ed="#V" n="44"/>gno actiua constitiua primi supieti fundat coexistentiam ad instans. 
+      <lb ed="#V" n="45"/>eteriento. Similiter autem gnodo pasiua fundat coexistentiam ad idem instans 
+      <lb ed="#V" n="46"/>coexistentia quae fundatur in gnotione actiua fundat rellietim prioititas: et 
+      <lb ed="#V" n="47"/>terminat ad gnotionem passiuam: et gnodo passiua: immo coexistentia 
+      <lb ed="#V" n="48"/>quae fundatur in passiua gnotione fundat relietum postetitue et termi 
+      <lb ed="#V" n="49"/>natur ad gnortionem actiuam: et ex hoc sequitur quod gnodo actiua prior em 
+      <lb ed="#V" n="50"/>priori in quo: quia in priori coexistentia: et gnoto passiua posterior est: quia in 
+      <lb ed="#V" n="51"/>coexistentia posteriori: et per consequens primum supectum dicitur prius origine et 
+      <lb ed="#V" n="52"/>et 3o: et primum et 2m 3o prius dico origine: et prius in quo: quia in ista 
+      <lb ed="#V" n="53"/>coexistentia prima. licet enim iste tres producties habeant vnam mensuram 
+      <lb ed="#V" n="54"/>communem scilicet instans eterpitiuas hebent tamen mensuras proprias vel 
+      coexi<lb ed="#V" n="55" break="no"/>stentias proprias ordine prioritatis et postetititue originis 
+      habe<lb ed="#V" n="56" break="no"/>tes. Nec mireris. si dico prius in quo et in propria mensura: quoniam 
+      <lb ed="#V" n="57"/>si ita esset impossibile quod iste tres producties non paesenst esse in eodem 
+      <lb ed="#V" n="58"/>instanti eternitatis vel temporis: sed non in diuersis. per necessaritate 
+      <lb ed="#V" n="59"/>oprtet dicere quod gnodo actiua esset prior gnortione passiua 
+      tempore<lb ed="#V" n="60" break="no"/>quoniam gnodo actiua fundaret coexistentiam ad instans teperis: et 
+      pas<lb ed="#V" n="61" break="no"/>siua fundaret coexistentiam ad instans 2m temperis. prima autem 
+      coexi<lb ed="#V" n="62" break="no"/>fundaret rellietuma prioritatis tepris ad passiuam: et passiua 
+      po<lb ed="#V" n="63" break="no"/>sterioritatis temporis ad actiuam. Palam ergo quod isto modo 
+      fun<lb ed="#V" n="64" break="no"/>dabunt iste coexistente aliquem ordinem prioritatis adinuicen¬. 
+      <lb ed="#V" n="65"/>non temporis: cum sint in eodem instanti teporis: immo eteriata: ergo fundant 
+      <lb ed="#V" n="66"/>necessario retlientia prioritatis et posterioritatis originis. Con¬
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="67"/>cludamus ergo quod vnum supecitum est prius alio originem 
+      priori<lb ed="#V" n="68" break="no"/>in quo: et aliud est posterius alio.
+    </p>
+            <p xml:id="nbnt23-n21700-d1e250">
+      ¶ Et si apelris quod in ista 
+      trinita<lb ed="#V" n="69" break="no"/>te supenitur in quibus subsistit natura primi motoris nihil prius autem 
+      <lb ed="#V" n="70"/>posterius nihil maius autem minus. Si ibi nihil prius autem 
+      <lb ed="#V" n="71"/>posterius: ergo nullum prius autem posterius origine: sicut neque temporem 
+      <lb ed="#V" n="72"/>ista namque vnder equipollere nihil prius: ergo nullum prius. 
+      Re<lb ed="#V" n="73" break="no"/>spondeo tibi quod eo modo quoe conces ibi siltas durationis 
+      eo<lb ed="#V" n="74" break="no"/>modo negatur prioritas autem postelitas durationis. affiritusr autem 
+      <lb ed="#V" n="75"/>ibi simultas durationis eterne: et in eternitate quod omnes 
+      <lb ed="#V" n="76"/>tres persone sunt silia eterne et sil etersiente: et cum hoc coequales: er 
+      <lb ed="#V" n="77"/>illa nulla prioritas durationis eterne id est eternitate 
+      ex<lb ed="#V" n="78" break="no"/>cludens simultatem istorum suppotentiua exclutis simultatem id est 
+      <lb ed="#V" n="79"/>eternitatem: sed quomodo sit ibi aliqua alia prioritas non 
+      exclu<lb ed="#V" n="80" break="no"/>dens istam simultatem sicut originis tu noen habes. quoniam ordo 
+      <lb ed="#V" n="81"/>originis stat cum simultate eteritiua et durationis. Dubilitue 
+      <lb ed="#V" n="82"/>vero praedicte additur 2oa scilicet an inter ista suptisa sit aliqua priosituam 
+      <lb ed="#V" n="83"/>nature vel non. Dissotus autem huius dubitationis stat in hoc: quoniam 
+      <lb ed="#V" n="84"/>prius natura est in duplici genere. vno quidem modo dicitur prius natura alio 
+      <lb ed="#V" n="85"/>virtute vel perfectione: sicut dicimus quod vna species vniuersi est 
+      <lb ed="#V" n="86"/>nobilior alia. de isto autem modo prioritatis naturae quod est alio 
+      <lb ed="#V" n="87"/>perfectius inferius in sequnti caprima fiet secundo. Dicamus primo quod in 
+      <lb ed="#V" n="88"/>suppositis primi motoris sunt aliqua per se inclusa quo sunt 
+      pri<lb ed="#V" n="89" break="no"/>us natura aliis prioritate a qua non conuertitur subsitdi consequentia. hoc 
+      <lb ed="#V" n="90"/>probatur: quoniam entitas est ibi per se inclusa quae est consequens ad per se 
+      in<lb ed="#V" n="91" break="no"/>cludentia. ipsam includentia sunt antedta: et non conuertitur consequentia: 
+      <lb ed="#V" n="92"/>sicut sequitur. animal: eg ens: et non conuertitur: sic sequitur. ipset suppoitum: 
+      <lb ed="#V" n="93"/>immo 3a supintia eg ens. Palam autem quod non tamuem est ens sic prius 
+      <lb ed="#V" n="94"/>natura suppositis illis: immo omnia transcenentua: immo communitaiua omnia 
+      <lb ed="#V" n="95"/>sunt priora incommunibus omnibus cum non sint adinuicem conuertibi 
+      <lb ed="#V" n="96"/>lia: sicut sunt essentia et proprietates. At vero cum petis de illis 
+      <lb ed="#V" n="97"/>suppositis: an sit poritas naturae a qua non conuertitur consequentia. 
+      <lb ed="#V" n="98"/>Palam quoniam cum talia supentia sunt relatiua: et relatiua dicuntur ad 
+      con<lb ed="#V" n="99" break="no"/>uertentiam: et sunt silite natura: sequitur necessario quod non erit ibi 
+      <lb ed="#V" n="100"/>prioritas nature inter talia supposita.
+    </p>
+            <p xml:id="nbnt23-n21700-d1e322">
+               <lb ed="#V" n="101"/>Dicamus est in speciali de proritate naturae 2o modo 
+      di<lb ed="#V" n="102" break="no"/>cte quae aliquid dicitur prius altero: quod est eo 
+      <lb ed="#V" n="103"/>perfectius et nobilius: an vnum supecitum sit prius altero vel non. 
+      <lb ed="#V" n="104"/>attamen oportet necessario prius videre: an productiones tam actiue quam 
+      <lb ed="#V" n="105"/>passiue: quae sunt in primo motore ad intra dicant perfectionem simlite 
+      <lb ed="#V" n="106"/>vel saltem aliquem ergodum perfectionis. Prima ergo propositio sit talis 
+      <lb ed="#V" n="107"/>proprietates seu productiones prodicte no habent propriam 
+      en<lb ed="#V" n="108" break="no"/>titatem. hoc probatu: quoniam conceptuus simitur simplices: et per consequens ir 
+      <lb ed="#V" n="109"/>resolubiles: et per consequens nihil est formiter et quiditatiue inclusum 
+      in<lb ed="#V" n="110" break="no"/>eis. gnodo namque actiua seu praternitas viela differentia est quaedam reanitas 
+      <lb ed="#V" n="111"/>simitusr simplex. Similiter et quolibet produio: tam actiua quam passiua: 
+    </p>
+            <p xml:id="nbnt23-n21700-d1e348">
+               <lb ed="#V" n="112"/>¶ Et si arguas quod hoc nen possit stare cum principiis 
+      sta<lb ed="#V" n="113" break="no"/>tutis in metaphysica: ibi enim dictum est quod gnotio actiua: vt paternitas est 
+      <lb ed="#V" n="114"/>communis vniuoce dicaua de primo motore: et de istis infecltibus: et per 
+      <lb ed="#V" n="115"/>conseques ista quae in nobis est: et ista quae in primo motore: conueniunt lin 
+      <lb ed="#V" n="116"/>gnonne in communi: quam quiditatiue includunt: ergo non sunt simiter 
+      sim<lb ed="#V" n="117" break="no"/>plices. Confirus: quia gnotio actiua in nobis vere est in praedicamen 
+      <lb ed="#V" n="118"/>to: ergo vere incluctur quiditatem praedicamentalem: ergo ens inquantum ens 
+      <lb ed="#V" n="119"/>cum ens sit inclusum per se in. x. praedicamentis: et quicquid inclutus in 
+      <lb ed="#V" n="120"/>praedicamento per se necessario inclucitir in omni eo: quod per se est in praedicam 
+      <lb ed="#V" n="121"/>to. Responsio tibi. sicut in nostra metaphysica dictum fuit. substantia vel sapina 
+      <lb ed="#V" n="122"/>vel gnodo actiua quae per se communis est primo motori et aliis: sunt 
+      <lb ed="#V" n="123"/>quedam differentiae contraentes aliquod contrahibile vel transcendens vel 
+      <lb ed="#V" n="124"/>aliquid in genere primo vel subalterno: sicut sapientia quae communis est 
+      primo<lb ed="#V" n="125" break="no"/>motori et aliis: quae est simtus simplex: quae quidem contractiua est 
+      <lb ed="#V" n="126"/>duorum contrahibilium. vnum in genere qualitatis: et aliud est 
+      transcen<lb ed="#V" n="127" break="no"/>dens quod est prima intellius. Similiter autem est substantia quae est communis primo 
+      <lb ed="#V" n="128"/>motori et aliis: non est substantia praedicam talis: sed est differentia 
+      con<lb ed="#V" n="129" break="no"/>stitutiua substantia praedicamentalis et contractiua alicuius contraibi 
+      <lb ed="#V" n="130"/>lis in prima intellius: et de ista mara dictum fuit satis in nostra metaphysica 
+      <lb ed="#V" n="131"/>in materia de vniuocatione entis et aliorum 
+      transcenden<lb ed="#V" n="132" break="no"/>tium et in mama: an primus motor sit per se in genere vel non sit in¬
+      <pb ed="#V" n="125-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>tellectus tuus applicatiuus ad propositum tuum ista prinitur communia. Dica 
+      <lb ed="#V" n="2"/>mus ergo quod gnodo actiua est quaedam quiditas omnino simplex: nec habet 
+      pro<lb ed="#V" n="3" break="no"/>pria entitatem: sic quod quidictiue includat istam: sed est primo diuersa ab illa 
+      <lb ed="#V" n="4"/>quantum ad primum moitum.
+    </p>
+            <p xml:id="nbnt23-n21700-d1e409">
+      ¶ Et si adhuc dicas quod sit verum quod dicitur: 
+      se<lb ed="#V" n="5" break="no"/>quitur quod gnodo actiua et entitas sint simlicitur et omnino idem: et quod 
+      inter<lb ed="#V" n="6" break="no"/>illa nulla est distinitus penitus ex natura rei. Similiter autem nec inter 
+      essen<lb ed="#V" n="7" break="no"/>tiam et proprietatem. hoc probatur sic. simitus simplex comparatum in ratione 
+      <lb ed="#V" n="8"/>alteri in ratione vnitus sic quod sunt vnum simitus simplex excluctus omnem 
+      <lb ed="#V" n="9"/>distinctionem et non identitatem ex natura rei hoc propositio est clara et ratione 
+      <lb ed="#V" n="10"/>et exo. ratione patet: quoniam quodlibet istorum est simus simplex et omnino indiuisibilite: 
+      <lb ed="#V" n="11"/>et comparatur vnum alteri in ratione vnitatis. sic quod sunt vnum. oportet ergo quod totaliter 
+      <lb ed="#V" n="12"/>et secundum se tota sint vnum: quoniam ex quo sunt simliciter simsciecicua in eis non est aliquid 
+      <lb ed="#V" n="13"/>quo conueniunt: et per consequens ex que sunt vnum totaliter sunt vnum: et sic 
+      exclu<lb ed="#V" n="14" break="no"/>ditur omnis distinuo et omnis non identitas. Exmo quoque probatur. ponantur 
+      <lb ed="#V" n="15"/>2o puncta. cum sint simitus simplicia si coprentur adiuicem secundum 
+      rationen<lb ed="#V" n="16" break="no"/>attingenuaetr patet quod totaliter se attingunt: quoniam non est aliud quae se attin 
+      <lb ed="#V" n="17"/>gant: et aliud quaoe se non attingant: quoniam iam essent diuiliua: ergo siliter in 
+      propo<lb ed="#V" n="18" break="no"/>sito si indiuisibiliua et simciter simplicia adinuicem comperentur in 
+      ratio<lb ed="#V" n="19" break="no"/>ne vnitatis: sic quod sint vnum necessario erunt vnum exclusa omni 
+      di<lb ed="#V" n="20" break="no"/>stinctione et non identitate ex natura rei. Prima ergo propositio fuit vera 
+      <lb ed="#V" n="21"/>quod simitus simplex comparatum alteri simus simplici in ratione 
+      vni<lb ed="#V" n="22" break="no"/>tatis excludit omnem distinctionem et non identitatem ex natura 
+      rei<lb ed="#V" n="23" break="no"/>Idem arguitur de essentia primi motoris et de proprietatibus: vt 
+      <lb ed="#V" n="24"/>de gnotione actiua et gnortione passiua: quoniam tam proprietates 
+      acti<lb ed="#V" n="25" break="no"/>ue quam passine sunt simitur simplices: et si comperentur adinuicem etc. 
+    </p>
+            <p xml:id="nbnt23-n21700-d1e457">
+               <lb ed="#V" n="26"/>¶ Dissolus autem huius artti stat in hoc: quoniam duplex est genus 
+      vni<lb ed="#V" n="27" break="no"/>tatis: sicut superius: et in aliis fuit dictum frequenter. quadam enim est 
+      <lb ed="#V" n="28"/>vnitas simplex: et quaedam secundum quid: vel quadam est vnitas absoluta: et quae 
+      <lb ed="#V" n="29"/>dam vnitas seu indiuisio relatiua: vel vnitas vnionis: et vnitas 
+      <lb ed="#V" n="30"/>identitatis simius. Nunc ad formam: ad maiorem: simitues simplicite 
+      etc<lb ed="#V" n="31" break="no"/>concedo maiorem secundum illud geners vnitatis secundum quod coprantur: 
+      <lb ed="#V" n="32"/>quia si comparantur secundum genus indiuisionis absolite et vnitatis simlitur 
+      ex<lb ed="#V" n="33" break="no"/>cluditur omnis distintuo et non identitas ex natura rei simlituer et totaliter. 
+      Si<lb ed="#V" n="34" break="no"/>autem comparantur secundum genus indiuisionis respecitiue vel vnitatis secundum 
+      <lb ed="#V" n="35"/>quid excluditur omnis distinus actualis oppotentia illi vnitati et indiui 
+      <lb ed="#V" n="36"/>sioni relatiue. Concedo ergo quod simitus simplex comparatum alteri simlciter 
+      <lb ed="#V" n="37"/>simplici in ratione vnitatis simlicitere et vnitatis absolute quod excludit 
+      <lb ed="#V" n="38"/>penitus omnem distinteum et non identitatem ex natura rei et simlicituer et totaliter 
+      <lb ed="#V" n="39"/>realem et formalem. si autem comprentur secundum vnitatem vnionis vel 
+      indi<lb ed="#V" n="40" break="no"/>uisionis: sicut punctus puncto: concedo quod excludit distinenteum opiter 
+      <lb ed="#V" n="41"/>vnioni et indiuisioni actuali: quoniam enim ex quo sunt actu vnita non 
+      <lb ed="#V" n="42"/>paesenst esse actu non vnita et diuisa: sed talis attintua non excludit 
+      <lb ed="#V" n="43"/>omnem distinctieum et non identitatem: quia non istam quae oppotentia vnitati absoliate: 
+      <lb ed="#V" n="44"/>et vnitati simpliciter: quia ista quae sic comparantur in rone attinguetr sunt non 
+      <lb ed="#V" n="45"/>idem: immo distincta ex natura rei distinctione oppnitua vnitati absoluate: et 
+      <lb ed="#V" n="46"/>simlicituer: quia iste punctus non est ille essentialiter: licet totaliter attingantur 
+      <lb ed="#V" n="47"/>inter se: et sint indiuisa et totaliter vnita. Palam autem quod minor est vera 
+      <lb ed="#V" n="48"/>secundum quid vel de indiuisione relatiua: quoniam essentia comparatur ad 
+      proprie<lb ed="#V" n="49" break="no"/>tatem in ratione vnitatis relatiue. non autem absoliete. Similiter autem est de 
+      entita<lb ed="#V" n="50" break="no"/>te et proprietatibus. Concludamus ergo quod istis non obstantibus 
+      proprieta<lb ed="#V" n="51" break="no"/>tes non habent propriam entitatem: sed sunt simpliciter simplices.
+    </p>
+            <p xml:id="nbnt23-n21700-d1e516">
+               <lb ed="#V" n="52"/>Perscruntemur e 2e an proprietates deat 
+      pr<lb ed="#V" n="53" break="no"/>priam magnitudinem: et primo 
+      an<lb ed="#V" n="54" break="no"/>sint perfectiones simpliciter vela non dicunt omnem perfectionem vniversaliter primi 
+      <lb ed="#V" n="55"/>motoris: quoniam formiter dictum est paternitas non est sapia: et ideo si 
+      paterni<lb ed="#V" n="56" break="no"/>tas diceret perfectionem vniuersaliter. Iam sapientia: vt distinguitur formaliter ab 
+      <lb ed="#V" n="57"/>illa nullam diceret perfectionem: et sic accianditio perfectionem simpliter 
+      <lb ed="#V" n="58"/>nullum attributum dicit perfectionem simpliciter: immo nec ipsamet 
+      <lb ed="#V" n="59"/>essentia: sic diceret perfectionem simpliciter prout formaliter distinguitet 
+      <lb ed="#V" n="60"/>alias quiditates: nisi dicas quod essentia primi motoris cum 
+      inclu<lb ed="#V" n="61" break="no"/>dat omnes perfectiones in eo existentes: cum sit sapie pelagus infinitum 
+      <lb ed="#V" n="62"/>claudens in se. supple omnia quae sunt in quolibet suppnitia: et sic bene est perfectio 
+      <lb ed="#V" n="63"/>simpliciter id est vniversaliter et vt sic non significat praecise vnam quiditatem: sed omnia quae sunt 
+      <lb ed="#V" n="64"/>ibi perfectio simpliciter. Modo 2o dicitur perfectio summa: et perfectio 
+      <lb ed="#V" n="65"/>omnino primo prima et isto modo sola essentia est perfectio simpliciter et non aliqua
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>attribualium perfectio. perfectio simpliciter. Tertio modo est quae in quolibet 
+      supte<lb ed="#V" n="67" break="no"/>absote sumpto est melius ipsum quam non ipsum id est quam quodcumque conuersile 
+      si<lb ed="#V" n="68" break="no"/>bi in eodem. Quarto modo dicitur perfectio simpliciter perfectio sine 
+      imper<lb ed="#V" n="69" break="no"/>fectione: et perfecitio absoluita: et non secundum quid sui. Ergo. quia quae sine addito 
+      <lb ed="#V" n="70"/>dico simpliciter dico. Palam autem quod gnodo actiua non est perfectio simlcte 
+      <lb ed="#V" n="71"/>primo modo id est vniversaliter. Nec 2o modo: quia non est perfectio prima nec summa: nec 3m 
+      <lb ed="#V" n="72"/>modo: quoniam non est in quolibet melior quam quodlibet incomposile sibi: quia tunc 
+      ge<lb ed="#V" n="73" break="no"/>neratio actiua esset perfectior passiua: et sic primum supcitum esset 
+      perfe<lb ed="#V" n="74" break="no"/>ctius 2o: quia haberet in se formaliter aliquam perfectionem quam non 
+      <lb ed="#V" n="75"/>haberet 2m supecitum nec 3m: quod non videtur concedendum. Palam ergo si est 
+      <lb ed="#V" n="76"/>perfectio simpliciter: quod hoc erit 4o modo: quia erit perfectio sine omni 
+      in<lb ed="#V" n="77" break="no"/>perfectione. Inquramus ergo de isto 4o modo perfectionis simitur an 
+      <lb ed="#V" n="78"/>repugnet gnortioni actiue: et aliis proprietatibus autem non. fertur quod 
+      <lb ed="#V" n="79"/>necessario dicunet aliquam perfectionem absoite absque omni imperfectione: et 
+      ratio<lb ed="#V" n="80" break="no"/>huius sit talis: quoniam negtso non repugnat alicui nisi ratione affipitis 
+      <lb ed="#V" n="81"/>sibi oppotentiae proprietatibus autem repugnat imperfectio: ergo hoc non est 
+      ni<lb ed="#V" n="82" break="no"/>si ratione perfectionis. Amplius autem dicitur quod ista maxima arum hoc 
+      de<lb ed="#V" n="83" break="no"/>mostrat. cui gnodo bona est ipsum quom bositum est: et cuius gnrordo optima. 
+      <lb ed="#V" n="84"/>ipset optimum: et conuertitur consequentia. istud quod est bonum eius gnodo est 
+      bo<lb ed="#V" n="85" break="no"/>na: et quod optintum est eius gnrordo optiua est. Tepmenitas autem supicti gnotionis 
+      <lb ed="#V" n="86"/>primi motoris est bonus: immo optimus: ergo gnodo ista optinus.
+    </p>
+            <p xml:id="nbnt23-n21700-d1e598">
+      ¶ 
+      Dis<lb ed="#V" n="87" break="no"/>solutio autem istorum dubiorum facilis est. primum namque cum dicitur quod nega 
+      <lb ed="#V" n="88"/>non repugnat alicui nisi ratione affirmationis opbie hoc quidem con¬ 
+      i<lb ed="#V" n="89" break="no"/>ceditur de negatione extra genus quae praedicatur tam de ente quam non ente: e 
+      <lb ed="#V" n="90"/>et quae non requirit nec terminat sibi proprium subiectum et 
+      determina<lb ed="#V" n="91" break="no"/>tum: sicut non lapis non homo. non autem est verum de negatione in genere. 
+      cu<lb ed="#V" n="92" break="no"/>iusmodi est priuatio. ista namque possunt repugnare alicui non ratione 
+      <lb ed="#V" n="93"/>affiptisis sibi opsecte: sicut cecitas repugnat lapidi non ratione habi 
+      <lb ed="#V" n="94"/>tus sibi obit scilicet ratione visus: sed quia priuatio determinat sibi 
+      pro<lb ed="#V" n="95" break="no"/>prium subiectum aptum natum recipare habitum et priuationem talem 
+      suc<lb ed="#V" n="96" break="no"/>cessiue: et sic immetaphysicae imperfectio autem opponitur perfectioni priuatiue 
+      <lb ed="#V" n="97"/>ideo non optet quod illi cui non inest perfecitio quod illi insit imperfecitio nisi 
+      <lb ed="#V" n="98"/>circa subiectum determinatum: et aptum natum recipre vtrumque. relatio autem 
+      <lb ed="#V" n="99"/>non est tale subiectum: ideo dato quod sibi non insit perfectio non sequitur quod si 
+      <lb ed="#V" n="100"/>bi non insit inperfectio: sed carebit vtroque: sicut lapis caret 
+      vi<lb ed="#V" n="101" break="no"/>sum et cecitate.
+    </p>
+            <p xml:id="nbnt23-n21700-d1e633">
+      ¶ Dissolutio autem e2t stat in hoc quod maxima ista 
+      <lb ed="#V" n="102"/>Ari. vera est quod boni gnordo bona et optimi optima priuatiue vel 
+      <lb ed="#V" n="103"/>terminatiue et denominatiue a termino optimo: sed in se sit in 
+      <lb ed="#V" n="104"/>bona: et quod dicet non habens. Dicamus ergo quod productio et relatio in primo 
+      mo<lb ed="#V" n="105" break="no"/>tore quaecumque sit illa nullam dicit perfectionem simpliciter et quod non habet 
+      ie<lb ed="#V" n="106" break="no"/>proprium gradum perfectionis: et per consequens non est ibi ordo nae secundum per 
+      <lb ed="#V" n="107"/>fectionem et nobilignaeum et ex hoc concluditur quod dato quod in vna per 
+      <lb ed="#V" n="108"/>sona sit vna proprietas quae non sit in alia: propter hoc non tollitur quin 
+      <lb ed="#V" n="109"/>ita perfecta sit sicut alia.
+    </p>
+            <p xml:id="nbnt23-n21700-d1e653">
+      ¶ Adhuc autem fertur. quod si gnodo 
+      acti<lb ed="#V" n="110" break="no"/>ua esset infinita formite: siliter autem et passiua: ex hoc non sequitur quod 
+      <lb ed="#V" n="111"/>vna esset perfectior alia: quia eadem infinitate essent infinite: et per 
+      <lb ed="#V" n="112"/>conseques cum omnes persone habeant eandem infinitatem: adhuc essent 
+      <lb ed="#V" n="113"/>equales in perfectione: sed hoc non assero propter illa que dicta 
+      <lb ed="#V" n="114"/>sunt in capitulo de infitue primi motoris.
+    </p>
+            <p xml:id="nbnt23-n21700-d1e666">
+               <lb ed="#V" n="115"/>Habet autem dubitationem de ipsis proprietatibus: 
+      <lb ed="#V" n="116"/>an repugnat eis quod sint infinite formis. 
+      <lb ed="#V" n="117"/>fertur autem ab vno de magistris quod non: immo secundum eum quelibet earum 
+      <lb ed="#V" n="118"/>est foris infinita infite proprii generis: et hoc sic nititur demonstrare. 
+      <lb ed="#V" n="119"/>infinitum sic ab eo diffinitur. Infinitum est illud quod excedit omne 
+      <lb ed="#V" n="120"/>finitum aliud secundum omnem determinatam proportionem. ex hac 
+      <lb ed="#V" n="121"/>diffinitione sic arguit. proprietas primi motoris excedit omne 
+      <lb ed="#V" n="122"/>finitum secundum omnem determinatam proportionem: ergo est infinita 
+      for<lb ed="#V" n="123" break="no"/>maliter et secundum propriam rationem: consequentia est manifesta ex descriptione 
+      <lb ed="#V" n="124"/>infiniti assumpta: consequentia est patet: quia excedit finitum secundum omnem 
+      de<lb ed="#V" n="125" break="no"/>terminatam proportionem: quoniam vbi est talis excessus secundum 
+      deter<lb ed="#V" n="126" break="no"/>minatam proportionem. ibi est proportio finiti ad finitum: et sic 
+      <lb ed="#V" n="127"/>proprietas esset finita. Confirmatur: quoniam proprietas primi 
+      mo<lb ed="#V" n="128" break="no"/>toris excedit aliquod infinitum secundum determinatam proportione 
+      <lb ed="#V" n="129"/>vbi est talis excessus qui est.
+    </p>
+            <p xml:id="nbnt23-n21700-d1e701">
+      ¶ Adhuc autem 2o arguit sic. 
+      <lb ed="#V" n="130"/>quando aliquod commune diuiditur per aliqua 2e diuisilita si vnum istorum diuidenm¬
+      <pb ed="#V" n="125-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>tium est conuertibile adequate cum vno diuisorum et reliquum 
+      <lb ed="#V" n="2"/>cum reliquo: sed ens diuiditur per finitum et infinitum: creatum et increatum. 
+      fi<lb ed="#V" n="3" break="no"/>nitum autem conuertibile est adequate cum ente creato: ergo et infinitum cum 
+      <lb ed="#V" n="4"/>ente increato: et per consequens nihil reperitur in ente increato: quod non sit 
+      <lb ed="#V" n="5"/>formaliter infinitum. At vero non demonstrant proprietates esse formaliter 
+      infini<lb ed="#V" n="6" break="no"/>tas posus: sed posset concedi quod essent infinite negatiue seu priuatiue 
+      <lb ed="#V" n="7"/>per negationem seu priuationem finitatis. Causa autem huius dicti 
+      <lb ed="#V" n="8"/>assignatur ab vno de magistris: quoniam finitum et infinitum sunt modi 
+      <lb ed="#V" n="9"/>intrinseci quantitatis molis et virtutis: ergo in nullo insunt. nec in 
+      <lb ed="#V" n="10"/>quanto quantitate molis vel virtutis. proprietates autem non sunt quante 
+      <lb ed="#V" n="11"/>nec quantitate molis: vt patet: nec quantitate virtutis: immo contradictorie 
+      <lb ed="#V" n="12"/>eis repugnat quod sint quante vtraque quantitate nec altera.
+    </p>
+            <p xml:id="nbnt23-n21700-d1e736">
+      ¶ Et 
+      <lb ed="#V" n="13"/>si queras cum quare hoc eis repugnat et non aliis. fertur quod hoc 
+      <lb ed="#V" n="14"/>est hoc: nec est alia causa querenda.
+    </p>
+            <p xml:id="nbnt23-n21700-d1e744">
+      ¶ Et si dicas quod illud non 
+      <lb ed="#V" n="15"/>videtur verum quoniam non est entitas in vniuerso quae non teneat talem 
+      gra<lb ed="#V" n="16" break="no"/>dum positiuum in genere suo: et per consequens finitum vel infinitum: et dato 
+      <lb ed="#V" n="17"/>quod ista entitas non sit quanta alia quantitate: adhuc habet positiuum 
+      <lb ed="#V" n="18"/>sue entitatis in suo genere. Exemplum pono tibi. accipiamus lignum 
+      <lb ed="#V" n="19"/>habens quantitatem vnius palmi. Certum est quod illa quantitas habet 
+      <lb ed="#V" n="20"/>certos gradus intrinsecos finitos vel infinitos et positiuos: 
+      <lb ed="#V" n="21"/>et si esset infinita ista quantitas ligni haberet infinitos gradus 
+      in<lb ed="#V" n="22" break="no"/>trinsecos: et si finita finitos gradus intrinsecos: qui gradus 
+      in<lb ed="#V" n="23" break="no"/>trinseci non distinguitur ex natura rei ab illa quantitate cuius sunt: sub 
+      <lb ed="#V" n="24"/>illa ergo quantitate ligni vnius palmi est substantia ligni quae extenditur 
+      <lb ed="#V" n="25"/>ad extensionem quantitatis: et hoc sic: quod sub vna parte et sub vno 
+      <lb ed="#V" n="26"/>gradum illis quantitatis est vna pars et vnus gradus substantie ligni: 
+      <lb ed="#V" n="27"/>et sub alio alius gradus: et sic sub quolibet gradum illius 
+      quanti<lb ed="#V" n="28" break="no"/>tatis est aliquos gradus substantia: et per consequens sequitur quot sunt ibi 
+      <lb ed="#V" n="29"/>gradus quantitatis tot sunt ibi substantia ligni: et sic illi gradus 
+      quanti<lb ed="#V" n="30" break="no"/>tatis sunt modi intrinseci quantitatis et necessario sunt finiti vel 
+      <lb ed="#V" n="31"/>infiniti: sic quod illi gradus substantia positiui sunt eius modus 
+      intrin<lb ed="#V" n="32" break="no"/>secus sui generis et sunt finiti: et sunt isti gradus intrinseci substantiae 
+      <lb ed="#V" n="33"/>finiti vel infiniti: et sic vt quod substantia ligni habeat proprios 
+      gra<lb ed="#V" n="34" break="no"/>dus intrinsecos et proprium modum intrinsecum finitum vel 
+      infini<lb ed="#V" n="35" break="no"/>tum alium a modo intrinseco quantitatis. supponatur ergo per possibile 
+      <lb ed="#V" n="36"/>vel impossibile quod substantia ligni quantum ad esse positiuum sui proprii 
+      ge<lb ed="#V" n="37" break="no"/>neris remaneret quantitate non remanente: sed corrupta: numquid 
+      <lb ed="#V" n="38"/>ista substantia ligni haberet eosdem gradus positiuos sibi intrinsecos 
+      <lb ed="#V" n="39"/>quos prius habuerit: et patet quod sic: et per consequens dato quod non sit quanta 
+      <lb ed="#V" n="40"/>quantitate molis: adhuc tenet certos gradus entitatis in 
+      <lb ed="#V" n="41"/>vniuerso: et illi gradus vel sunt finiti vel infiniti. Palam autem 
+      <lb ed="#V" n="42"/>quod ista fuit intentio arist. et aliorum philosophorum cum dicunt quod in quolibet 
+      gene<lb ed="#V" n="43" break="no"/>re est inuenire vnum quod est metrum et mensura omnium aliorum isti 
+      <lb ed="#V" n="44"/>generis: quia quodlibet quod est in alio genere habet certum et determinatum 
+      gra<lb ed="#V" n="45" break="no"/>dum entitatis. Dicamus ergo ad propositum reuertentes correlario 
+      <lb ed="#V" n="46"/>et quacumque proprietas relatiua licet non habeat graduum intrinsecum 
+      finita<lb ed="#V" n="47" break="no"/>tis vel infinitatis: istum scilicet qui pertinet ad quantitatem molis vel ad 
+      <lb ed="#V" n="48"/>quantitatem virtutis: quia ex sua ratione formali nullam determinat sibi 
+      <lb ed="#V" n="49"/>magnitudinem: ex hoc non tamen sequitur quin habeat modum intrinsecum 
+      <lb ed="#V" n="50"/>scilicet graduum intrinsecum entitatis finitum vel infinitum.
+    </p>
+            <p xml:id="nbnt23-n21700-d1e825">
+      ¶ Et si 
+      di<lb ed="#V" n="51" break="no"/>cas. ex quo habet modum intrinsecum finitatis vel infinitatis. sequitur 
+      <lb ed="#V" n="52"/>quod dicit aliquam perfectionem finitam vel infinitam. respondetur quod 
+      <lb ed="#V" n="53"/>non: quoniam perfectio est modus intrinsecus magnitudinis virtutis: et 
+      <lb ed="#V" n="54"/>non modus intrinsecus proprie entitatis. nullum autem modum 
+      <lb ed="#V" n="55"/>intrinsecum habet que sequuntur magnitudinem virtutis: quoniam 
+      proprie<lb ed="#V" n="56" break="no"/>tas ex se nullam determinat magnitudinem. Dissolutio autem 
+      alio<lb ed="#V" n="57" break="no"/>rum vel illarum dubitationum quae probant quod proprietas dicit 
+      perfe<lb ed="#V" n="58" break="no"/>ctionem simus stat in hoc: quoniam cum primo dicitur quod excludens finitum secundum 
+      <lb ed="#V" n="59"/>omnem determinatam proportionem est infinitum. dicitur quod verum est si 
+      ex<lb ed="#V" n="60" break="no"/>cedens et excessum sint eiusdem rationis. Si autem alterius non oportet 
+      <lb ed="#V" n="61"/>sicut patet in puncto et libera: quoniam indiuisibilitas puncti excedit indiuisibilitatem 
+      <lb ed="#V" n="62"/>linee secundum omnem determinatam proportionem. non tamen oportet quod indiuisibilitas 
+      <lb ed="#V" n="63"/>puncti sit finita. patet hoc: quia sunt alterius rationis. Patet autem quod 
+      in<lb ed="#V" n="64" break="no"/>diuisibilitas linee in infinitum exceditur ab indiuisibilitate puncti: quoniam si linea 
+      <lb ed="#V" n="65"/>diuideretur in infinitum nunquam minima para linee posset veni¬
+      <cb ed="#V" n="b"/>
+               <lb ed="#V" n="66"/>re ad indiuisionem puncti. At vero nec 2m concludit: quoniam ens 
+      <lb ed="#V" n="67"/>diuisum per finitum et infinitum condiuisum contra finitum est commune ad 
+      <lb ed="#V" n="68"/>infinitum positiue et negatiue. Et cum dicitur quod finitum consequitur adequate 
+      crea<lb ed="#V" n="69" break="no"/>turam concedatur quod creatura est imperfecta: et finitum dicit aliquam 
+      <lb ed="#V" n="70"/>imperfectionem: ideo sequitur eam vniuersaliter. ideo concedo quod quicquid est in primo 
+      <lb ed="#V" n="71"/>motore: neceessario est infinitum positiue vel priuatiue vel negatiue: quoniam non 
+      <lb ed="#V" n="72"/>finitum: sed ex hoc non habes quod sit proprietas infinita 
+      for<lb ed="#V" n="73" break="no"/>maliter et posse: sed tantum negatiue: quod conceditur. Et in 
+      <lb ed="#V" n="74"/>hoc terminatur liber sextus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>
