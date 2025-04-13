@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -30,8 +29,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -52,13 +50,13 @@
          </div>
       </front>
       <body>
-         <div xmlns="" xml:id="nbnt23-n06696" alias="ntheol-l2c8">
-            <head>Caput 8</head>
-            <head type="question-title">De implurificabilitate primi motoris</head>
-            <p>
+        <div xml:id="nbnt23-n06696"><!-- ntheol-l2c8 -->
+            <head xml:id="nbnt23-n06696-Hd1e97">Caput 8</head>
+            <head xml:id="nbnt23-n06696-Hd1e99" type="question-title">De implurificabilitate primi motoris</head>
+            <p xml:id="nbnt23-n06696-d1e102">
                <lb ed="#V" n="74"/>¶ De implurificabilitate primi motoris. Caput. VIII.
     </p>
-            <p>
+            <p xml:id="nbnt23-n06696-d1e107">
                <lb ed="#V" n="75"/>PErscrutemur ergo an primus 
       <lb ed="#V" n="76"/>motor sit 
       sim<lb ed="#V" n="77" break="no"/>pliciter implurificabilis: et vnus numero 
@@ -132,7 +130,7 @@
       po<lb ed="#V" n="13" break="no"/>nere tantum in esse: et istud conseruare velit nolit alius et 
       <lb ed="#V" n="14"/>econuerso: et sic vnus non faceret alium nullipotentem. 
     </p>
-            <p>
+            <p xml:id="nbnt23-n06696-d1e266">
                <lb ed="#V" n="15"/>¶ Et si arguas quod sint duo agentia equalis virtutis 
       <lb ed="#V" n="16"/>approximata aque: que nec sit calida nec 
       frigida<lb ed="#V" n="17" break="no"/>vnum vult aquam calefacere: aliud aquam frigefacere. quid 
@@ -147,7 +145,7 @@
       <lb ed="#V" n="26"/>destruere. quid fiet: dicitur quod aqua remanebit in sua 
       ca<lb ed="#V" n="27" break="no"/>liditate.
     </p>
-            <p>
+            <p xml:id="nbnt23-n06696-d1e298">
       ¶ Et si dicas: ergo sequitur quod vnum vinus 
       <lb ed="#V" n="28"/>cet aliud scilicet illud quod voluit aquam manere in sua 
       cali<lb ed="#V" n="29" break="no"/>ditate. Respondeo tibi non est ibi propria victoria 
@@ -155,7 +153,7 @@
       conserua<lb ed="#V" n="31" break="no"/>re caliditatem in aqua omnino non autem de nouo producit 
       <lb ed="#V" n="32"/>eam.
     </p>
-            <p>
+            <p xml:id="nbnt23-n06696-d1e311">
       ¶ Et si adhuc queras si sint duo motores eiust 
       <lb ed="#V" n="33"/>dem vigoris: quorum vnus voluit ponere caliditatem 
       <lb ed="#V" n="34"/>in aquam. alius voluit aquam non esse calidam quid 
@@ -175,7 +173,7 @@
       <lb ed="#V" n="48"/>let eam conseruare inferret eam in esse post esse: nec alius 
       <lb ed="#V" n="49"/>posset inferre eam in esse post esse.
     </p>
-            <p>
+            <p xml:id="nbnt23-n06696-d1e350">
       ¶ Et si arguas quod 
       <lb ed="#V" n="50"/>semper remanet difficultas: cum sint equalis vigoris 
       <lb ed="#V" n="51"/>isti motores: vnde hoc quod vnus complet voluntatem 
@@ -186,7 +184,7 @@
       vide<lb ed="#V" n="56" break="no"/>tur quod affirmatiua ponatur quam negatiua. Aliter 
       respon<lb ed="#V" n="57" break="no"/>deo. solutionem quere. 
     </p>
-            <p>
+            <p xml:id="nbnt23-n06696-d1e370">
                <lb ed="#V" n="58"/>Amplius autem per viam eminentie 
       <lb ed="#V" n="59"/>est perscrutandum an 
       <lb ed="#V" n="60"/>primus motor sit omnino implurificabilis: et vnus 
@@ -201,7 +199,7 @@
       <lb ed="#V" n="68"/>habitus: alia habet rationem priuationis: ergo nen 
       <lb ed="#V" n="69"/>potest esse nisi vna species eminentissima.
     </p>
-            <p>
+            <p xml:id="nbnt23-n06696-d1e401">
       ¶ Ad 
       <lb ed="#V" n="70"/>huc autem manifestum est quod in vnoquoque genere 
       <lb ed="#V" n="71"/>est dare vnum primum: quod est mensura aliorum itn 
@@ -209,7 +207,7 @@
       <lb ed="#V" n="73"/>cum ergo primus motor sit mensura omnium aliorum 
       <lb ed="#V" n="74"/>non potest nisi esse vnitate specifica vnus.
     </p>
-            <p>
+            <p xml:id="nbnt23-n06696-d1e414">
       ¶ 
       Se<lb ed="#V" n="75" break="no"/>cunda propositio eorum est talis. substantia nobilissima 
       <lb ed="#V" n="76"/>necessario est vna vnitate numerali: cuius ratio 
@@ -219,7 +217,7 @@
       <lb ed="#V" n="80"/>tus ab omni materia: ergo est vnus vnitate 
       nume<lb ed="#V" n="81" break="no"/>rali.
     </p>
-            <p>
+            <p xml:id="nbnt23-n06696-d1e433">
       ¶ Nunc de veritate istarum rationum 
       videa<lb ed="#V" n="82" break="no"/>mus atque necessitate quicquid sit de conclusione. non 
       <lb ed="#V" n="83"/>enim oportet quod via eminentie concludat 
@@ -234,7 +232,7 @@
       <lb ed="#V" n="92"/>fectionem: nec imperfectionem: nec habeat 
       propri<lb ed="#V" n="93" break="no"/>am magnitudinem: non est ergo propositio vniversaliter vera. 
     </p>
-            <p>
+            <p xml:id="nbnt23-n06696-d1e462">
                <lb ed="#V" n="94"/>¶ Sed quid dicendum in aliis generibus et 
       speciali<lb ed="#V" n="95" break="no"/>ter in genere substantie nunquid est ibi diuisio per differentias 
       <lb ed="#V" n="96"/>equales in perfectione: licet commentator dicat quod sic. 
@@ -263,7 +261,7 @@
       perfe<lb ed="#V" n="119" break="no"/>ctione non est vniuersalis: sed multas patitur 
       ca<lb ed="#V" n="120" break="no"/>lumnias et instantias.
     </p>
-            <p>
+            <p xml:id="nbnt23-n06696-d1e523">
       ¶ Et si queras saltem genus 
       <lb ed="#V" n="121"/>quod diuiditur per differentias oppositas: quarum 
       <lb ed="#V" n="122"/>quelibet dicit perfectionem aliquam nunquid 
@@ -271,14 +269,14 @@
       commu<lb ed="#V" n="124" break="no"/>niter quod sic: sed non video necessitatem: nec habeo 
       <lb ed="#V" n="125"/>adhuc rationem euidentem nec concludentem 
     </p>
-            <p>
+            <p xml:id="nbnt23-n06696-d1e536">
                <lb ed="#V" n="126"/>¶ Et si dicas immo est semper ordo essentialis in 
       <lb ed="#V" n="127"/>speciebus vniuersi in perfectione. Iam ostendi 
       ti<lb ed="#V" n="128" break="no"/>bi quod non est verum de speciebus relationis: nec 
       de<lb ed="#V" n="129" break="no"/>speciebus absolutis transcendentibus vniuoce 
       di<lb ed="#V" n="130" break="no"/>ctis de primo motore et aliis.
     </p>
-            <p>
+            <p xml:id="nbnt23-n06696-d1e549">
       ¶ Adhuc autem fer¬
       <pb ed="#V" n="102-r"/>
                <cb ed="#V" n="a"/>
@@ -298,7 +296,7 @@
       perfectio<lb ed="#V" n="14" break="no"/>nem: vt superius fuit dictum. Idem dicitur de 
       tran<lb ed="#V" n="15" break="no"/>scenqueribus.
     </p>
-            <p>
+            <p xml:id="nbnt23-n06696-d1e588">
       ¶ Adhuc secundum dictum est magis dubium. 
       <lb ed="#V" n="16"/>quando dicitur quod illud vnum est vnum precise 
       vni<lb ed="#V" n="17" break="no"/>tate specifica et non numerali. Quoniam sicut. alias. 
@@ -334,7 +332,7 @@
       ni<lb ed="#V" n="47" break="no"/>si vnus vnitate numerali que sit mensura 
       perfe<lb ed="#V" n="48" break="no"/>ctionis omnium aliorum etc.
     </p>
-            <p>
+            <p xml:id="nbnt23-n06696-d1e663">
                <lb ed="#V" n="49"/>Perscruntandum est: an ratio finis 
       vl<lb ed="#V" n="50" break="no"/>timi necessario 
       con<lb ed="#V" n="51" break="no"/>cludat primum motorem implurificabilem: et vnum 
@@ -368,7 +366,7 @@
       plu<lb ed="#V" n="78" break="no"/>res mundi: cuius oppositum probabilius 
       videre<lb ed="#V" n="79" break="no"/>tur.
     </p>
-            <p>
+            <p xml:id="nbnt23-n06696-d1e735">
       ¶ Et si arguas quod Aristo. primo celi et 
       mundi<lb ed="#V" n="80" break="no"/>demonstrat quod non possunt esse plures mundi: sicut 
       <lb ed="#V" n="81"/>nec nisi vna terra: nec nisi vnus ignis: et sic de aliis 
@@ -376,7 +374,7 @@
       <lb ed="#V" n="83"/>tantum probabiles et non demonstratiue. de 
       qui<lb ed="#V" n="84" break="no"/>bus pro nunc discutere non est praesentis speculationis.
     </p>
-            <p>
+            <p xml:id="nbnt23-n06696-d1e748">
                <lb ed="#V" n="85"/>Restat nunc perscrutandum: an vnitas 
       <lb ed="#V" n="86"/>primi motoris possit demon 
       <lb ed="#V" n="87"/>strari sub ratione cuiusdam forme exemplaris 
@@ -399,7 +397,7 @@
       <lb ed="#V" n="104"/>quoddam exemplar et idea eminenter subsistens: 
       <lb ed="#V" n="105"/>videtur esse omnino implurificabilis.
     </p>
-            <p>
+            <p xml:id="nbnt23-n06696-d1e796">
       ¶ Adhuc 
       <lb ed="#V" n="106"/>autem primus motor est cognoscens et intelligens 
       <lb ed="#V" n="107"/>omnia distincte: ergo si essent plures motores et 
@@ -424,7 +422,7 @@
                <cb ed="#V" n="a"/>
                <lb ed="#V" n="1"/>cto adequato.
     </p>
-            <p>
+            <p xml:id="nbnt23-n06696-d1e846">
       ¶ Adhuc autem tertio ex parte 
       vo<lb ed="#V" n="2" break="no"/>luntatis demonstratur quod primus motor est 
       omni<lb ed="#V" n="3" break="no"/>no implurificabilis: et hoc sic. voluntas primi 
@@ -450,7 +448,7 @@
       po<lb ed="#V" n="23" break="no"/>test simpliciter plurificari: et possunt esse plures 
       ho<lb ed="#V" n="24" break="no"/>mines simpliciter.
     </p>
-            <p>
+            <p xml:id="nbnt23-n06696-d1e898">
       ¶ Et quum arguis quod conceptus 
       spe<lb ed="#V" n="25" break="no"/>cificus obiectiuus est implurificabilis: ergo et 
       ho<lb ed="#V" n="26" break="no"/>mo simpliciter: quia sibi correspondet. 
@@ -473,7 +471,7 @@
       con<lb ed="#V" n="43" break="no"/>ceptus obiectiuus specificus est implurificabilis: 
       <lb ed="#V" n="44"/>quod ille homo platonicus sit implurificabilis.
     </p>
-            <p>
+            <p xml:id="nbnt23-n06696-d1e945">
       ¶ Et 
       <lb ed="#V" n="45"/>si arguas quod sint plures homines simpliciter: ab 
       il<lb ed="#V" n="46" break="no"/>lis potest abstrahi conceptus communis: et tunc in 
@@ -492,7 +490,7 @@
       tan<lb ed="#V" n="59" break="no"/>tum predicabilis de illis duobus platonicis homi 
       <lb ed="#V" n="60"/>nibus: et de omnibus aliis hominibus simpliciter. 
     </p>
-            <p>
+            <p xml:id="nbnt23-n06696-d1e982">
                <lb ed="#V" n="61"/>¶ Dicamus ergo quod ratio ista non concludit: 
       quo<lb ed="#V" n="62" break="no"/>niam dato quod primus motor esset omne ens emi¬
       <cb ed="#V" n="b"/>
@@ -511,7 +509,7 @@
       econ<lb ed="#V" n="74" break="no"/>uerso: nec tamen nobilior vel ignobilior: sed eque 
       <lb ed="#V" n="75"/>nobilis: nisi addas quod sint alterius rationis.
     </p>
-            <p>
+            <p xml:id="nbnt23-n06696-d1e1021">
       ¶ Ad 
       <lb ed="#V" n="76"/>tertium cum tu dicis: quod quilibet eorum haberent 
       duo<lb ed="#V" n="77" break="no"/>obiecta adequata: negatur: quoniam quilibet erit 
@@ -521,7 +519,7 @@
       <lb ed="#V" n="81"/>demonstrat primum motorem esse 
       implurificabi<lb ed="#V" n="82" break="no"/>lem: sed sic equaliter probabilem.
     </p>
-            <p>
+            <p xml:id="nbnt23-n06696-d1e1039">
                <lb ed="#V" n="83"/>Amplius autem restat inquirere de 
       <lb ed="#V" n="84"/>via necessitatis et 
       in<lb ed="#V" n="85" break="no"/>finitatis: an necessario concludat primum 
@@ -544,7 +542,7 @@
       nu<lb ed="#V" n="102" break="no"/>merum indiuiduorum: sicut fertur a quibusdan 
       dicem<lb ed="#V" n="103" break="no"/>tibus quod non est nisi vnum nunc in toto tempore. 
     </p>
-            <p>
+            <p xml:id="nbnt23-n06696-d1e1087">
                <lb ed="#V" n="104"/>¶ Adhuc autem dicitur quod sicut quiditas entium et x 
       <lb ed="#V" n="105"/>se determinatur ad certum numerum 
       predicamen<lb ed="#V" n="106" break="no"/>torum: et genus ad certum numerum specierum 
